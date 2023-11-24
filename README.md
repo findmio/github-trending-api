@@ -1,6 +1,6 @@
 <h1 align="center">github-trending-api</h1>
 
-<p align="center">使用 github actions 定时爬取 [github trending](https://github.com/trending) 生成备份文件。提供可调用的地址</p>
+<p align="center">使用 github actions 定时爬取 <a src="https://github.com/trending/">github trending</a> 生成备份文件。提供可调用的地址</p>
 
 <details>
 <summary>
@@ -57,6 +57,7 @@ https://raw.githubusercontent.com/findmio/github-trending-api/main/raw/week.json
 
 https://raw.githubusercontent.com/findmio/github-trending-api/main/raw/month.json
 
+
 ```python
 import requests
 
@@ -66,19 +67,20 @@ requests.get('https://raw.githubusercontent.com/findmio/github-trending-api/main
 **Python 榜单**
 
 本日数据
-```txt
+
 https://raw.githubusercontent.com/findmio/github-trending-api/main/raw/Python.day.json
-```
+
 
 本周数据
-```txt
+
 https://raw.githubusercontent.com/findmio/github-trending-api/main/raw/Python.week.json
-```
+
 
 本月数据
-```txt
+
 https://raw.githubusercontent.com/findmio/github-trending-api/main/raw/Python.month.json
-```
+
+示例
 
 ```python
 import requests
@@ -100,19 +102,19 @@ requests.get('https://raw.githubusercontent.com/findmio/github-trending-api/main
 **总榜单**
 
 获取 2023-11-25 日的数据
-```txt
+
 https://raw.githubusercontent.com/findmio/github-trending-api/main/raw/archives/2023-11-25/day.json
-```
+
 
 获取 2023-11-25 所在周的数据
-```txt
+
 https://raw.githubusercontent.com/findmio/github-trending-api/main/raw/archives/2023-11-25/week.json
-```
+
 
 获取 2023-11-25 所在月的数据
-```txt
+
 https://raw.githubusercontent.com/findmio/github-trending-api/main/raw/archives/2023-11-25/month.json
-```
+
 
 ```python
 import requests
