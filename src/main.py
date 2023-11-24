@@ -38,10 +38,10 @@ async def get_language_data(
 
     # back up today's data at midnight every day
     if get_current_hour() == 0:
-        filepath = f"{archives_path}/{get_current_day()}/{filename}.json"
+        filepath = f"{archives_path}/{get_current_day()}/{filename}"
         await write_json(filepath, repositories)
 
-    filepath = f"{raw_path}/{filename}.json"
+    filepath = f"{raw_path}/{filename}"
     await write_json(filepath, repositories)
 
 
