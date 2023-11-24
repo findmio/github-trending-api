@@ -1,6 +1,6 @@
 <h1 align="center">github-trending-api</h1>
 
-<p align="center">使用 github actions 定时爬取 <a src="https://github.com/trending/">github trending</a> 生成备份文件。提供可调用的地址</p>
+<p align="center">使用 github actions 定时爬取 <a href="https://github.com/trending/">github trending</a> 生成备份文件。提供可调用的地址</p>
 
 <details>
 <summary>
