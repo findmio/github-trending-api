@@ -8,11 +8,11 @@ from parse import parse_html
 from fetch import DateRange, get_trending_html
 from utils import get_current_day, get_current_hour, read_json, write_json
 
-src_path = path.dirname(__file__)
+src_path = path.dirname(path.abspath(__file__))
 project_path = path.dirname(src_path)
 
-raw_path = path.join(project_path, "./raw")
-archives_path = path.join(raw_path, "./archives")
+raw_path = path.join(project_path, "raw")
+archives_path = path.join(raw_path, "archives")
 
 
 class Language(TypedDict):
@@ -38,10 +38,10 @@ async def get_language_data(
 
     # back up today's data at midnight every day
     if get_current_hour() == 0:
-        filepath = f"{archives_path}/{get_current_day()}/{filename}"
+        filepath = path.join(archives_path, get_current_day(), filename)
         await write_json(filepath, repositories)
 
-    filepath = f"{raw_path}/{filename}"
+    filepath = path.join(raw_path, filename)
     await write_json(filepath, repositories)
 
 
