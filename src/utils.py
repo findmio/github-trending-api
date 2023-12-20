@@ -32,10 +32,10 @@ async def read_json(filepath):
 
 async def write_json(filepath: str, data: dict):
     dir_name = os.path.dirname(filepath)
-    path_exists = await aiofiles.os.path.exists(dir_name)
+    path_exists = os.path.exists(dir_name)
 
     if not path_exists:
-        await aiofiles.os.makedirs(dir_name)
+        os.makedirs(dir_name)
 
     async with aiofiles.open(filepath, "w") as f:
         await f.write(json.dumps(data, ensure_ascii=False, indent=4))
