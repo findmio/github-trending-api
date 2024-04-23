@@ -10,7 +10,7 @@
         "languageColor": "#438eff",
         "stars": 1980,
         "fork": 421,
-        "currentPeriodStars": 2,
+        "currentPeriodStars": 4,
         "builtBy": [
             {
                 "href": "https://github.com/khanhduytran0",
@@ -48,9 +48,9 @@
         "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
         "language": "Objective-C",
         "languageColor": "#438eff",
-        "stars": 16078,
+        "stars": 16080,
         "fork": 980,
-        "currentPeriodStars": 10,
+        "currentPeriodStars": 14,
         "builtBy": [
             {
                 "href": "https://github.com/opa334",
@@ -90,7 +90,7 @@
         "languageColor": "#438eff",
         "stars": 7133,
         "fork": 1038,
-        "currentPeriodStars": 1,
+        "currentPeriodStars": 0,
         "builtBy": [
             {
                 "href": "https://github.com/zorgiepoo",
@@ -128,9 +128,9 @@
         "description": "Snapshot view unit tests for iOS",
         "language": "Objective-C",
         "languageColor": "#438eff",
-        "stars": 1769,
+        "stars": 1770,
         "fork": 211,
-        "currentPeriodStars": 0,
+        "currentPeriodStars": 3,
         "builtBy": [
             {
                 "href": "https://github.com/alanzeino",
@@ -210,7 +210,7 @@
         "languageColor": "#438eff",
         "stars": 6317,
         "fork": 330,
-        "currentPeriodStars": 4,
+        "currentPeriodStars": 2,
         "builtBy": [
             {
                 "href": "https://github.com/julienXX",
@@ -471,26 +471,21 @@
     },
     {
         "author": "PromiseKit",
-        "name": "Social",
+        "name": "QuartzCore",
         "avatar": "https://github.com/PromiseKit.png",
         "sponsor": null,
-        "url": "https://github.com/PromiseKit/Social",
-        "description": "Promises for Swift & ObjC",
+        "url": "https://github.com/PromiseKit/QuartzCore",
+        "description": null,
         "language": "Objective-C",
         "languageColor": "#438eff",
-        "stars": 5,
-        "fork": 1,
+        "stars": 7,
+        "fork": null,
         "currentPeriodStars": 0,
         "builtBy": [
             {
                 "href": "https://github.com/mxcl",
                 "avatar": "https://avatars.githubusercontent.com/u/58962?s=40&v=4",
                 "username": "mxcl"
-            },
-            {
-                "href": "https://github.com/ricsantos",
-                "avatar": "https://avatars.githubusercontent.com/u/989890?s=40&v=4",
-                "username": "ricsantos"
             }
         ]
     },
@@ -511,36 +506,6 @@
                 "href": "https://github.com/mxcl",
                 "avatar": "https://avatars.githubusercontent.com/u/58962?s=40&v=4",
                 "username": "mxcl"
-            }
-        ]
-    },
-    {
-        "author": "PromiseKit",
-        "name": "UIKit",
-        "avatar": "https://github.com/PromiseKit.png",
-        "sponsor": null,
-        "url": "https://github.com/PromiseKit/UIKit",
-        "description": "Promises for Swift & ObjC",
-        "language": "Objective-C",
-        "languageColor": "#438eff",
-        "stars": 29,
-        "fork": 22,
-        "currentPeriodStars": 0,
-        "builtBy": [
-            {
-                "href": "https://github.com/mxcl",
-                "avatar": "https://avatars.githubusercontent.com/u/58962?s=40&v=4",
-                "username": "mxcl"
-            },
-            {
-                "href": "https://github.com/ricsantos",
-                "avatar": "https://avatars.githubusercontent.com/u/989890?s=40&v=4",
-                "username": "ricsantos"
-            },
-            {
-                "href": "https://github.com/igor-makarov",
-                "avatar": "https://avatars.githubusercontent.com/u/16595309?s=40&v=4",
-                "username": "igor-makarov"
             }
         ]
     },
@@ -576,6 +541,36 @@
     },
     {
         "author": "PromiseKit",
+        "name": "UIKit",
+        "avatar": "https://github.com/PromiseKit.png",
+        "sponsor": null,
+        "url": "https://github.com/PromiseKit/UIKit",
+        "description": "Promises for Swift & ObjC",
+        "language": "Objective-C",
+        "languageColor": "#438eff",
+        "stars": 29,
+        "fork": 22,
+        "currentPeriodStars": 0,
+        "builtBy": [
+            {
+                "href": "https://github.com/mxcl",
+                "avatar": "https://avatars.githubusercontent.com/u/58962?s=40&v=4",
+                "username": "mxcl"
+            },
+            {
+                "href": "https://github.com/ricsantos",
+                "avatar": "https://avatars.githubusercontent.com/u/989890?s=40&v=4",
+                "username": "ricsantos"
+            },
+            {
+                "href": "https://github.com/igor-makarov",
+                "avatar": "https://avatars.githubusercontent.com/u/16595309?s=40&v=4",
+                "username": "igor-makarov"
+            }
+        ]
+    },
+    {
+        "author": "PromiseKit",
         "name": "SystemConfiguration",
         "avatar": "https://github.com/PromiseKit.png",
         "sponsor": null,
@@ -596,21 +591,26 @@
     },
     {
         "author": "PromiseKit",
-        "name": "QuartzCore",
+        "name": "Social",
         "avatar": "https://github.com/PromiseKit.png",
         "sponsor": null,
-        "url": "https://github.com/PromiseKit/QuartzCore",
-        "description": null,
+        "url": "https://github.com/PromiseKit/Social",
+        "description": "Promises for Swift & ObjC",
         "language": "Objective-C",
         "languageColor": "#438eff",
-        "stars": 7,
-        "fork": null,
+        "stars": 5,
+        "fork": 1,
         "currentPeriodStars": 0,
         "builtBy": [
             {
                 "href": "https://github.com/mxcl",
                 "avatar": "https://avatars.githubusercontent.com/u/58962?s=40&v=4",
                 "username": "mxcl"
+            },
+            {
+                "href": "https://github.com/ricsantos",
+                "avatar": "https://avatars.githubusercontent.com/u/989890?s=40&v=4",
+                "username": "ricsantos"
             }
         ]
     },
@@ -758,6 +758,11 @@
                 "username": "benlachman"
             },
             {
+                "href": "https://github.com/msmollin",
+                "avatar": "https://avatars.githubusercontent.com/u/1163880?s=40&v=4",
+                "username": "msmollin"
+            },
+            {
                 "href": "https://github.com/Adrian2112",
                 "avatar": "https://avatars.githubusercontent.com/u/221702?s=40&v=4",
                 "username": "Adrian2112"
@@ -766,11 +771,6 @@
                 "href": "https://github.com/junjie",
                 "avatar": "https://avatars.githubusercontent.com/u/524420?s=40&v=4",
                 "username": "junjie"
-            },
-            {
-                "href": "https://github.com/ahalls",
-                "avatar": "https://avatars.githubusercontent.com/u/751181?s=40&v=4",
-                "username": "ahalls"
             }
         ]
     },
