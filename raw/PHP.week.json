@@ -1,5 +1,45 @@
 [
     {
+        "author": "danielmiessler",
+        "name": "SecLists",
+        "avatar": "https://github.com/danielmiessler.png",
+        "sponsor": "https://github.com/sponsors/danielmiessler",
+        "url": "https://github.com/danielmiessler/SecLists",
+        "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+        "language": "PHP",
+        "languageColor": "#4F5D95",
+        "stars": 55539,
+        "fork": 23552,
+        "currentPeriodStars": 411,
+        "builtBy": [
+            {
+                "href": "https://github.com/g0tmi1k",
+                "avatar": "https://avatars.githubusercontent.com/u/535942?s=40&v=4",
+                "username": "g0tmi1k"
+            },
+            {
+                "href": "https://github.com/apps/github-actions",
+                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+                "username": "apps/github-actions"
+            },
+            {
+                "href": "https://github.com/throwaway-people",
+                "avatar": "https://avatars.githubusercontent.com/u/12743076?s=40&v=4",
+                "username": "throwaway-people"
+            },
+            {
+                "href": "https://github.com/danielmiessler",
+                "avatar": "https://avatars.githubusercontent.com/u/50654?s=40&v=4",
+                "username": "danielmiessler"
+            },
+            {
+                "href": "https://github.com/molangning",
+                "avatar": "https://avatars.githubusercontent.com/u/133737702?s=40&v=4",
+                "username": "molangning"
+            }
+        ]
+    },
+    {
         "author": "laravel",
         "name": "laravel",
         "avatar": "https://github.com/laravel.png",
@@ -36,46 +76,6 @@
                 "href": "https://github.com/franzliedke",
                 "avatar": "https://avatars.githubusercontent.com/u/249125?s=40&v=4",
                 "username": "franzliedke"
-            }
-        ]
-    },
-    {
-        "author": "danielmiessler",
-        "name": "SecLists",
-        "avatar": "https://github.com/danielmiessler.png",
-        "sponsor": "https://github.com/sponsors/danielmiessler",
-        "url": "https://github.com/danielmiessler/SecLists",
-        "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
-        "language": "PHP",
-        "languageColor": "#4F5D95",
-        "stars": 55537,
-        "fork": 23552,
-        "currentPeriodStars": 411,
-        "builtBy": [
-            {
-                "href": "https://github.com/g0tmi1k",
-                "avatar": "https://avatars.githubusercontent.com/u/535942?s=40&v=4",
-                "username": "g0tmi1k"
-            },
-            {
-                "href": "https://github.com/apps/github-actions",
-                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-                "username": "apps/github-actions"
-            },
-            {
-                "href": "https://github.com/throwaway-people",
-                "avatar": "https://avatars.githubusercontent.com/u/12743076?s=40&v=4",
-                "username": "throwaway-people"
-            },
-            {
-                "href": "https://github.com/danielmiessler",
-                "avatar": "https://avatars.githubusercontent.com/u/50654?s=40&v=4",
-                "username": "danielmiessler"
-            },
-            {
-                "href": "https://github.com/molangning",
-                "avatar": "https://avatars.githubusercontent.com/u/133737702?s=40&v=4",
-                "username": "molangning"
             }
         ]
     },
@@ -160,46 +160,6 @@
         ]
     },
     {
-        "author": "symfony",
-        "name": "symfony",
-        "avatar": "https://github.com/symfony.png",
-        "sponsor": null,
-        "url": "https://github.com/symfony/symfony",
-        "description": "The Symfony PHP framework",
-        "language": "PHP",
-        "languageColor": "#4F5D95",
-        "stars": 29489,
-        "fork": 9415,
-        "currentPeriodStars": 37,
-        "builtBy": [
-            {
-                "href": "https://github.com/fabpot",
-                "avatar": "https://avatars.githubusercontent.com/u/47313?s=40&v=4",
-                "username": "fabpot"
-            },
-            {
-                "href": "https://github.com/nicolas-grekas",
-                "avatar": "https://avatars.githubusercontent.com/u/243674?s=40&v=4",
-                "username": "nicolas-grekas"
-            },
-            {
-                "href": "https://github.com/xabbuh",
-                "avatar": "https://avatars.githubusercontent.com/u/1957048?s=40&v=4",
-                "username": "xabbuh"
-            },
-            {
-                "href": "https://github.com/derrabus",
-                "avatar": "https://avatars.githubusercontent.com/u/1506493?s=40&v=4",
-                "username": "derrabus"
-            },
-            {
-                "href": "https://github.com/chalasr",
-                "avatar": "https://avatars.githubusercontent.com/u/7502063?s=40&v=4",
-                "username": "chalasr"
-            }
-        ]
-    },
-    {
         "author": "MlgmXyysd",
         "name": "Xiaomi-HyperOS-BootLoader-Bypass",
         "avatar": "https://github.com/MlgmXyysd.png",
@@ -208,7 +168,7 @@
         "description": "A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.",
         "language": "PHP",
         "languageColor": "#4F5D95",
-        "stars": 2207,
+        "stars": 2208,
         "fork": 278,
         "currentPeriodStars": 76,
         "builtBy": [
@@ -270,122 +230,162 @@
         ]
     },
     {
-        "author": "glpi-project",
-        "name": "glpi",
-        "avatar": "https://github.com/glpi-project.png",
+        "author": "symfony",
+        "name": "symfony",
+        "avatar": "https://github.com/symfony.png",
         "sponsor": null,
-        "url": "https://github.com/glpi-project/glpi",
-        "description": "GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",
+        "url": "https://github.com/symfony/symfony",
+        "description": "The Symfony PHP framework",
         "language": "PHP",
         "languageColor": "#4F5D95",
-        "stars": 3999,
-        "fork": 1253,
-        "currentPeriodStars": 17,
+        "stars": 29489,
+        "fork": 9415,
+        "currentPeriodStars": 37,
         "builtBy": [
             {
-                "href": "https://github.com/moyooo",
-                "avatar": "https://avatars.githubusercontent.com/u/4816762?s=40&v=4",
-                "username": "moyooo"
+                "href": "https://github.com/fabpot",
+                "avatar": "https://avatars.githubusercontent.com/u/47313?s=40&v=4",
+                "username": "fabpot"
             },
             {
-                "href": "https://github.com/trasher",
-                "avatar": "https://avatars.githubusercontent.com/u/224733?s=40&v=4",
-                "username": "trasher"
+                "href": "https://github.com/nicolas-grekas",
+                "avatar": "https://avatars.githubusercontent.com/u/243674?s=40&v=4",
+                "username": "nicolas-grekas"
             },
             {
-                "href": "https://github.com/cedric-anne",
-                "avatar": "https://avatars.githubusercontent.com/u/33253653?s=40&v=4",
-                "username": "cedric-anne"
+                "href": "https://github.com/xabbuh",
+                "avatar": "https://avatars.githubusercontent.com/u/1957048?s=40&v=4",
+                "username": "xabbuh"
             },
             {
-                "href": "https://github.com/orthagh",
-                "avatar": "https://avatars.githubusercontent.com/u/418844?s=40&v=4",
-                "username": "orthagh"
+                "href": "https://github.com/derrabus",
+                "avatar": "https://avatars.githubusercontent.com/u/1506493?s=40&v=4",
+                "username": "derrabus"
             },
             {
-                "href": "https://github.com/cconard96",
-                "avatar": "https://avatars.githubusercontent.com/u/17678637?s=40&v=4",
-                "username": "cconard96"
+                "href": "https://github.com/chalasr",
+                "avatar": "https://avatars.githubusercontent.com/u/7502063?s=40&v=4",
+                "username": "chalasr"
             }
         ]
     },
     {
-        "author": "magento",
-        "name": "magento2",
-        "avatar": "https://github.com/magento.png",
+        "author": "koel",
+        "name": "koel",
+        "avatar": "https://github.com/koel.png",
         "sponsor": null,
-        "url": "https://github.com/magento/magento2",
-        "description": "Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at:https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.",
+        "url": "https://github.com/koel/koel",
+        "description": "🐦 A personal music streaming server that works.",
         "language": "PHP",
         "languageColor": "#4F5D95",
-        "stars": 11376,
-        "fork": 9283,
-        "currentPeriodStars": 17,
+        "stars": 15567,
+        "fork": 1918,
+        "currentPeriodStars": 32,
         "builtBy": [
             {
-                "href": "https://github.com/magento-engcom-team",
-                "avatar": "https://avatars.githubusercontent.com/u/31669971?s=40&v=4",
-                "username": "magento-engcom-team"
+                "href": "https://github.com/phanan",
+                "avatar": "https://avatars.githubusercontent.com/u/8056274?s=40&v=4",
+                "username": "phanan"
             },
             {
-                "href": "https://github.com/slavvka",
-                "avatar": "https://avatars.githubusercontent.com/u/9741905?s=40&v=4",
-                "username": "slavvka"
+                "href": "https://github.com/apps/dependabot-preview",
+                "avatar": "https://avatars.githubusercontent.com/in/2141?s=40&v=4",
+                "username": "apps/dependabot-preview"
             },
             {
-                "href": "https://github.com/zakdma",
-                "avatar": "https://avatars.githubusercontent.com/u/12795788?s=40&v=4",
-                "username": "zakdma"
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
             },
             {
-                "href": "https://github.com/okorshenko",
-                "avatar": "https://avatars.githubusercontent.com/u/7325075?s=40&v=4",
-                "username": "okorshenko"
+                "href": "https://github.com/BernardGoldberger",
+                "avatar": "https://avatars.githubusercontent.com/u/10334679?s=40&v=4",
+                "username": "BernardGoldberger"
             },
             {
-                "href": "https://github.com/rganin",
-                "avatar": "https://avatars.githubusercontent.com/u/1119622?s=40&v=4",
-                "username": "rganin"
+                "href": "https://github.com/alex-phillips",
+                "avatar": "https://avatars.githubusercontent.com/u/3135216?s=40&v=4",
+                "username": "alex-phillips"
             }
         ]
     },
     {
-        "author": "dr5hn",
-        "name": "countries-states-cities-database",
-        "avatar": "https://github.com/dr5hn.png",
-        "sponsor": "https://github.com/sponsors/dr5hn",
-        "url": "https://github.com/dr5hn/countries-states-cities-database",
-        "description": "🌍 Discover our global repository of countries, states, and cities! 🏙️ Get comprehensive data in JSON, SQL, PSQL, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native language, timezones (for countries), and more. #countries #states #cities",
+        "author": "nextcloud",
+        "name": "server",
+        "avatar": "https://github.com/nextcloud.png",
+        "sponsor": null,
+        "url": "https://github.com/nextcloud/server",
+        "description": "☁️ Nextcloud server, a safe home for all your data",
         "language": "PHP",
         "languageColor": "#4F5D95",
-        "stars": 6840,
-        "fork": 2453,
-        "currentPeriodStars": 34,
+        "stars": 26172,
+        "fork": 3947,
+        "currentPeriodStars": 67,
         "builtBy": [
             {
-                "href": "https://github.com/dr5hn",
-                "avatar": "https://avatars.githubusercontent.com/u/6929121?s=40&v=4",
-                "username": "dr5hn"
+                "href": "https://github.com/rullzer",
+                "avatar": "https://avatars.githubusercontent.com/u/45821?s=40&v=4",
+                "username": "rullzer"
             },
             {
-                "href": "https://github.com/cesariverit",
-                "avatar": "https://avatars.githubusercontent.com/u/5888753?s=40&v=4",
-                "username": "cesariverit"
+                "href": "https://github.com/MorrisJobke",
+                "avatar": "https://avatars.githubusercontent.com/u/245432?s=40&v=4",
+                "username": "MorrisJobke"
             },
             {
-                "href": "https://github.com/apps/github-actions",
-                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-                "username": "apps/github-actions"
+                "href": "https://github.com/DeepDiver1975",
+                "avatar": "https://avatars.githubusercontent.com/u/1005065?s=40&v=4",
+                "username": "DeepDiver1975"
             },
             {
-                "href": "https://github.com/tudoranghelina91",
-                "avatar": "https://avatars.githubusercontent.com/u/16164903?s=40&v=4",
-                "username": "tudoranghelina91"
+                "href": "https://github.com/icewind1991",
+                "avatar": "https://avatars.githubusercontent.com/u/1283854?s=40&v=4",
+                "username": "icewind1991"
             },
             {
-                "href": "https://github.com/neutrino-dgada",
-                "avatar": "https://avatars.githubusercontent.com/u/48116460?s=40&v=4",
-                "username": "neutrino-dgada"
+                "href": "https://github.com/nickvergessen",
+                "avatar": "https://avatars.githubusercontent.com/u/213943?s=40&v=4",
+                "username": "nickvergessen"
+            }
+        ]
+    },
+    {
+        "author": "monicahq",
+        "name": "monica",
+        "avatar": "https://github.com/monicahq.png",
+        "sponsor": null,
+        "url": "https://github.com/monicahq/monica",
+        "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
+        "language": "PHP",
+        "languageColor": "#4F5D95",
+        "stars": 21073,
+        "fork": 2096,
+        "currentPeriodStars": 43,
+        "builtBy": [
+            {
+                "href": "https://github.com/djaiss",
+                "avatar": "https://avatars.githubusercontent.com/u/61099?s=40&v=4",
+                "username": "djaiss"
+            },
+            {
+                "href": "https://github.com/asbiin",
+                "avatar": "https://avatars.githubusercontent.com/u/25419741?s=40&v=4",
+                "username": "asbiin"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/apps/depfu",
+                "avatar": "https://avatars.githubusercontent.com/in/715?s=40&v=4",
+                "username": "apps/depfu"
+            },
+            {
+                "href": "https://github.com/szepeviktor",
+                "avatar": "https://avatars.githubusercontent.com/u/952007?s=40&v=4",
+                "username": "szepeviktor"
             }
         ]
     },
@@ -430,6 +430,86 @@
         ]
     },
     {
+        "author": "dr5hn",
+        "name": "countries-states-cities-database",
+        "avatar": "https://github.com/dr5hn.png",
+        "sponsor": "https://github.com/sponsors/dr5hn",
+        "url": "https://github.com/dr5hn/countries-states-cities-database",
+        "description": "🌍 Discover our global repository of countries, states, and cities! 🏙️ Get comprehensive data in JSON, SQL, PSQL, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native language, timezones (for countries), and more. #countries #states #cities",
+        "language": "PHP",
+        "languageColor": "#4F5D95",
+        "stars": 6840,
+        "fork": 2453,
+        "currentPeriodStars": 34,
+        "builtBy": [
+            {
+                "href": "https://github.com/dr5hn",
+                "avatar": "https://avatars.githubusercontent.com/u/6929121?s=40&v=4",
+                "username": "dr5hn"
+            },
+            {
+                "href": "https://github.com/cesariverit",
+                "avatar": "https://avatars.githubusercontent.com/u/5888753?s=40&v=4",
+                "username": "cesariverit"
+            },
+            {
+                "href": "https://github.com/apps/github-actions",
+                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+                "username": "apps/github-actions"
+            },
+            {
+                "href": "https://github.com/tudoranghelina91",
+                "avatar": "https://avatars.githubusercontent.com/u/16164903?s=40&v=4",
+                "username": "tudoranghelina91"
+            },
+            {
+                "href": "https://github.com/neutrino-dgada",
+                "avatar": "https://avatars.githubusercontent.com/u/48116460?s=40&v=4",
+                "username": "neutrino-dgada"
+            }
+        ]
+    },
+    {
+        "author": "alextselegidis",
+        "name": "easyappointments",
+        "avatar": "https://github.com/alextselegidis.png",
+        "sponsor": null,
+        "url": "https://github.com/alextselegidis/easyappointments",
+        "description": "📅 Easy!Appointments - Self Hosted Appointment Scheduler",
+        "language": "PHP",
+        "languageColor": "#4F5D95",
+        "stars": 3163,
+        "fork": 1218,
+        "currentPeriodStars": 16,
+        "builtBy": [
+            {
+                "href": "https://github.com/alextselegidis",
+                "avatar": "https://avatars.githubusercontent.com/u/4527441?s=40&v=4",
+                "username": "alextselegidis"
+            },
+            {
+                "href": "https://github.com/popod",
+                "avatar": "https://avatars.githubusercontent.com/u/3807312?s=40&v=4",
+                "username": "popod"
+            },
+            {
+                "href": "https://github.com/sudwebdesign",
+                "avatar": "https://avatars.githubusercontent.com/u/1390644?s=40&v=4",
+                "username": "sudwebdesign"
+            },
+            {
+                "href": "https://github.com/oxteam",
+                "avatar": "https://avatars.githubusercontent.com/u/38721222?s=40&v=4",
+                "username": "oxteam"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            }
+        ]
+    },
+    {
         "author": "RamonSilva20",
         "name": "mapos",
         "avatar": "https://github.com/RamonSilva20.png",
@@ -470,202 +550,42 @@
         ]
     },
     {
-        "author": "assimon",
-        "name": "dujiaoka",
-        "avatar": "https://github.com/assimon.png",
+        "author": "librenms",
+        "name": "librenms",
+        "avatar": "https://github.com/librenms.png",
         "sponsor": null,
-        "url": "https://github.com/assimon/dujiaoka",
-        "description": "🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉",
+        "url": "https://github.com/librenms/librenms",
+        "description": "Community-based GPL-licensed network monitoring system",
         "language": "PHP",
         "languageColor": "#4F5D95",
-        "stars": 8828,
-        "fork": 2142,
-        "currentPeriodStars": 56,
+        "stars": 3633,
+        "fork": 2231,
+        "currentPeriodStars": 12,
         "builtBy": [
             {
-                "href": "https://github.com/assimon",
-                "avatar": "https://avatars.githubusercontent.com/u/35057561?s=40&v=4",
-                "username": "assimon"
+                "href": "https://github.com/laf",
+                "avatar": "https://avatars.githubusercontent.com/u/3941142?s=40&v=4",
+                "username": "laf"
             },
             {
-                "href": "https://github.com/ilay1678",
-                "avatar": "https://avatars.githubusercontent.com/u/7021399?s=40&v=4",
-                "username": "ilay1678"
+                "href": "https://github.com/murrant",
+                "avatar": "https://avatars.githubusercontent.com/u/39462?s=40&v=4",
+                "username": "murrant"
             },
             {
-                "href": "https://github.com/bimoe",
-                "avatar": "https://avatars.githubusercontent.com/u/33471066?s=40&v=4",
-                "username": "bimoe"
+                "href": "https://github.com/f0o",
+                "avatar": "https://avatars.githubusercontent.com/u/1656377?s=40&v=4",
+                "username": "f0o"
             },
             {
-                "href": "https://github.com/Julyssn",
-                "avatar": "https://avatars.githubusercontent.com/u/46492039?s=40&v=4",
-                "username": "Julyssn"
+                "href": "https://github.com/paulgear",
+                "avatar": "https://avatars.githubusercontent.com/u/107222?s=40&v=4",
+                "username": "paulgear"
             },
             {
-                "href": "https://github.com/ZhangYiQiu",
-                "avatar": "https://avatars.githubusercontent.com/u/22910338?s=40&v=4",
-                "username": "ZhangYiQiu"
-            }
-        ]
-    },
-    {
-        "author": "nikic",
-        "name": "PHP-Parser",
-        "avatar": "https://github.com/nikic.png",
-        "sponsor": null,
-        "url": "https://github.com/nikic/PHP-Parser",
-        "description": "A PHP parser written in PHP",
-        "language": "PHP",
-        "languageColor": "#4F5D95",
-        "stars": 16877,
-        "fork": 1084,
-        "currentPeriodStars": 8,
-        "builtBy": [
-            {
-                "href": "https://github.com/nikic",
-                "avatar": "https://avatars.githubusercontent.com/u/216080?s=40&v=4",
-                "username": "nikic"
-            },
-            {
-                "href": "https://github.com/TomasVotruba",
-                "avatar": "https://avatars.githubusercontent.com/u/924196?s=40&v=4",
-                "username": "TomasVotruba"
-            },
-            {
-                "href": "https://github.com/carusogabriel",
-                "avatar": "https://avatars.githubusercontent.com/u/16328050?s=40&v=4",
-                "username": "carusogabriel"
-            },
-            {
-                "href": "https://github.com/GrahamCampbell",
-                "avatar": "https://avatars.githubusercontent.com/u/2829600?s=40&v=4",
-                "username": "GrahamCampbell"
-            },
-            {
-                "href": "https://github.com/ProgMiner",
-                "avatar": "https://avatars.githubusercontent.com/u/6567920?s=40&v=4",
-                "username": "ProgMiner"
-            }
-        ]
-    },
-    {
-        "author": "nextcloud",
-        "name": "server",
-        "avatar": "https://github.com/nextcloud.png",
-        "sponsor": null,
-        "url": "https://github.com/nextcloud/server",
-        "description": "☁️ Nextcloud server, a safe home for all your data",
-        "language": "PHP",
-        "languageColor": "#4F5D95",
-        "stars": 26171,
-        "fork": 3947,
-        "currentPeriodStars": 67,
-        "builtBy": [
-            {
-                "href": "https://github.com/rullzer",
-                "avatar": "https://avatars.githubusercontent.com/u/45821?s=40&v=4",
-                "username": "rullzer"
-            },
-            {
-                "href": "https://github.com/MorrisJobke",
-                "avatar": "https://avatars.githubusercontent.com/u/245432?s=40&v=4",
-                "username": "MorrisJobke"
-            },
-            {
-                "href": "https://github.com/DeepDiver1975",
-                "avatar": "https://avatars.githubusercontent.com/u/1005065?s=40&v=4",
-                "username": "DeepDiver1975"
-            },
-            {
-                "href": "https://github.com/icewind1991",
-                "avatar": "https://avatars.githubusercontent.com/u/1283854?s=40&v=4",
-                "username": "icewind1991"
-            },
-            {
-                "href": "https://github.com/nickvergessen",
-                "avatar": "https://avatars.githubusercontent.com/u/213943?s=40&v=4",
-                "username": "nickvergessen"
-            }
-        ]
-    },
-    {
-        "author": "shopware",
-        "name": "shopware",
-        "avatar": "https://github.com/shopware.png",
-        "sponsor": null,
-        "url": "https://github.com/shopware/shopware",
-        "description": "Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions",
-        "language": "PHP",
-        "languageColor": "#4F5D95",
-        "stars": 2698,
-        "fork": 986,
-        "currentPeriodStars": 10,
-        "builtBy": [
-            {
-                "href": "https://github.com/OliverSkroblin",
-                "avatar": "https://avatars.githubusercontent.com/u/1035358?s=40&v=4",
-                "username": "OliverSkroblin"
-            },
-            {
-                "href": "https://github.com/pweyck",
-                "avatar": "https://avatars.githubusercontent.com/u/7515344?s=40&v=4",
-                "username": "pweyck"
-            },
-            {
-                "href": "https://github.com/shyim",
-                "avatar": "https://avatars.githubusercontent.com/u/6224096?s=40&v=4",
-                "username": "shyim"
-            },
-            {
-                "href": "https://github.com/jleifeld",
-                "avatar": "https://avatars.githubusercontent.com/u/14929254?s=40&v=4",
-                "username": "jleifeld"
-            },
-            {
-                "href": "https://github.com/keulinho",
-                "avatar": "https://avatars.githubusercontent.com/u/15930605?s=40&v=4",
-                "username": "keulinho"
-            }
-        ]
-    },
-    {
-        "author": "mongodb",
-        "name": "laravel-mongodb",
-        "avatar": "https://github.com/mongodb.png",
-        "sponsor": null,
-        "url": "https://github.com/mongodb/laravel-mongodb",
-        "description": "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)",
-        "language": "PHP",
-        "languageColor": "#4F5D95",
-        "stars": 6960,
-        "fork": 1418,
-        "currentPeriodStars": 3,
-        "builtBy": [
-            {
-                "href": "https://github.com/jenssegers",
-                "avatar": "https://avatars.githubusercontent.com/u/194377?s=40&v=4",
-                "username": "jenssegers"
-            },
-            {
-                "href": "https://github.com/GromNaN",
-                "avatar": "https://avatars.githubusercontent.com/u/400034?s=40&v=4",
-                "username": "GromNaN"
-            },
-            {
-                "href": "https://github.com/Smolevich",
-                "avatar": "https://avatars.githubusercontent.com/u/7188867?s=40&v=4",
-                "username": "Smolevich"
-            },
-            {
-                "href": "https://github.com/divine",
-                "avatar": "https://avatars.githubusercontent.com/u/48183131?s=40&v=4",
-                "username": "divine"
-            },
-            {
-                "href": "https://github.com/mongodb-php-bot",
-                "avatar": "https://avatars.githubusercontent.com/u/162451593?s=40&v=4",
-                "username": "mongodb-php-bot"
+                "href": "https://github.com/danzel",
+                "avatar": "https://avatars.githubusercontent.com/u/393086?s=40&v=4",
+                "username": "danzel"
             }
         ]
     },
@@ -710,42 +630,122 @@
         ]
     },
     {
-        "author": "facebookarchive",
-        "name": "php-graph-sdk",
-        "avatar": "https://github.com/facebookarchive.png",
-        "sponsor": null,
-        "url": "https://github.com/facebookarchive/php-graph-sdk",
-        "description": "The Facebook SDK for PHP provides a native interface to the Graph API and Facebook Login.https://developers.facebook.com/docs/php",
+        "author": "livewire",
+        "name": "livewire",
+        "avatar": "https://github.com/livewire.png",
+        "sponsor": "https://github.com/sponsors/livewire",
+        "url": "https://github.com/livewire/livewire",
+        "description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
         "language": "PHP",
         "languageColor": "#4F5D95",
-        "stars": 3172,
-        "fork": 1952,
-        "currentPeriodStars": 2,
+        "stars": 21952,
+        "fork": 1495,
+        "currentPeriodStars": 29,
         "builtBy": [
             {
-                "href": "https://github.com/gfosco",
-                "avatar": "https://avatars.githubusercontent.com/u/406732?s=40&v=4",
-                "username": "gfosco"
+                "href": "https://github.com/calebporzio",
+                "avatar": "https://avatars.githubusercontent.com/u/3670578?s=40&v=4",
+                "username": "calebporzio"
             },
             {
-                "href": "https://github.com/SammyK",
-                "avatar": "https://avatars.githubusercontent.com/u/578780?s=40&v=4",
-                "username": "SammyK"
+                "href": "https://github.com/joshhanley",
+                "avatar": "https://avatars.githubusercontent.com/u/882837?s=40&v=4",
+                "username": "joshhanley"
             },
             {
-                "href": "https://github.com/yguedidi",
-                "avatar": "https://avatars.githubusercontent.com/u/1480128?s=40&v=4",
-                "username": "yguedidi"
+                "href": "https://github.com/apps/allcontributors",
+                "avatar": "https://avatars.githubusercontent.com/in/23186?s=40&v=4",
+                "username": "apps/allcontributors"
             },
             {
-                "href": "https://github.com/nayafia",
-                "avatar": "https://avatars.githubusercontent.com/u/1840802?s=40&v=4",
-                "username": "nayafia"
+                "href": "https://github.com/nuernbergerA",
+                "avatar": "https://avatars.githubusercontent.com/u/13331388?s=40&v=4",
+                "username": "nuernbergerA"
             },
             {
-                "href": "https://github.com/EmanueleMinotto",
-                "avatar": "https://avatars.githubusercontent.com/u/417201?s=40&v=4",
-                "username": "EmanueleMinotto"
+                "href": "https://github.com/danharrin",
+                "avatar": "https://avatars.githubusercontent.com/u/41773797?s=40&v=4",
+                "username": "danharrin"
+            }
+        ]
+    },
+    {
+        "author": "espocrm",
+        "name": "espocrm",
+        "avatar": "https://github.com/espocrm.png",
+        "sponsor": null,
+        "url": "https://github.com/espocrm/espocrm",
+        "description": "EspoCRM – Open Source CRM Application",
+        "language": "PHP",
+        "languageColor": "#4F5D95",
+        "stars": 1617,
+        "fork": 546,
+        "currentPeriodStars": 16,
+        "builtBy": [
+            {
+                "href": "https://github.com/yurikuzn",
+                "avatar": "https://avatars.githubusercontent.com/u/1006792?s=40&v=4",
+                "username": "yurikuzn"
+            },
+            {
+                "href": "https://github.com/tmachyshyn",
+                "avatar": "https://avatars.githubusercontent.com/u/8969132?s=40&v=4",
+                "username": "tmachyshyn"
+            },
+            {
+                "href": "https://github.com/eymen-elkum",
+                "avatar": "https://avatars.githubusercontent.com/u/2862528?s=40&v=4",
+                "username": "eymen-elkum"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/arkadiyasuratov",
+                "avatar": "https://avatars.githubusercontent.com/u/17282224?s=40&v=4",
+                "username": "arkadiyasuratov"
+            }
+        ]
+    },
+    {
+        "author": "mongodb",
+        "name": "laravel-mongodb",
+        "avatar": "https://github.com/mongodb.png",
+        "sponsor": null,
+        "url": "https://github.com/mongodb/laravel-mongodb",
+        "description": "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)",
+        "language": "PHP",
+        "languageColor": "#4F5D95",
+        "stars": 6960,
+        "fork": 1418,
+        "currentPeriodStars": 3,
+        "builtBy": [
+            {
+                "href": "https://github.com/jenssegers",
+                "avatar": "https://avatars.githubusercontent.com/u/194377?s=40&v=4",
+                "username": "jenssegers"
+            },
+            {
+                "href": "https://github.com/GromNaN",
+                "avatar": "https://avatars.githubusercontent.com/u/400034?s=40&v=4",
+                "username": "GromNaN"
+            },
+            {
+                "href": "https://github.com/Smolevich",
+                "avatar": "https://avatars.githubusercontent.com/u/7188867?s=40&v=4",
+                "username": "Smolevich"
+            },
+            {
+                "href": "https://github.com/divine",
+                "avatar": "https://avatars.githubusercontent.com/u/48183131?s=40&v=4",
+                "username": "divine"
+            },
+            {
+                "href": "https://github.com/mongodb-php-bot",
+                "avatar": "https://avatars.githubusercontent.com/u/162451593?s=40&v=4",
+                "username": "mongodb-php-bot"
             }
         ]
     }
