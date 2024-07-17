@@ -1,16 +1,96 @@
 [
     {
-        "author": "Homebrew",
-        "name": "homebrew-cask",
-        "avatar": "https://github.com/Homebrew.png",
-        "sponsor": "https://github.com/sponsors/Homebrew",
-        "url": "https://github.com/Homebrew/homebrew-cask",
-        "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
+        "author": "fastlane",
+        "name": "fastlane",
+        "avatar": "https://github.com/fastlane.png",
+        "sponsor": null,
+        "url": "https://github.com/fastlane/fastlane",
+        "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
         "language": "Ruby",
         "languageColor": "#701516",
-        "stars": 20700,
-        "fork": 10597,
-        "currentPeriodStars": 0,
+        "stars": 38873,
+        "fork": 5643,
+        "currentPeriodStars": 7,
+        "builtBy": [
+            {
+                "href": "https://github.com/KrauseFx",
+                "avatar": "https://avatars.githubusercontent.com/u/869950?s=40&v=4",
+                "username": "KrauseFx"
+            },
+            {
+                "href": "https://github.com/mfurtak",
+                "avatar": "https://avatars.githubusercontent.com/u/343134?s=40&v=4",
+                "username": "mfurtak"
+            },
+            {
+                "href": "https://github.com/asfalcone",
+                "avatar": "https://avatars.githubusercontent.com/u/1848683?s=40&v=4",
+                "username": "asfalcone"
+            },
+            {
+                "href": "https://github.com/ohayon",
+                "avatar": "https://avatars.githubusercontent.com/u/2587018?s=40&v=4",
+                "username": "ohayon"
+            },
+            {
+                "href": "https://github.com/lacostej",
+                "avatar": "https://avatars.githubusercontent.com/u/24282?s=40&v=4",
+                "username": "lacostej"
+            }
+        ]
+    },
+    {
+        "author": "Homebrew",
+        "name": "brew",
+        "avatar": "https://github.com/Homebrew.png",
+        "sponsor": "https://github.com/sponsors/Homebrew",
+        "url": "https://github.com/Homebrew/brew",
+        "description": "🍺 The missing package manager for macOS (or Linux)",
+        "language": "Ruby",
+        "languageColor": "#701516",
+        "stars": 40224,
+        "fork": 9439,
+        "currentPeriodStars": 17,
+        "builtBy": [
+            {
+                "href": "https://github.com/MikeMcQuaid",
+                "avatar": "https://avatars.githubusercontent.com/u/125011?s=40&v=4",
+                "username": "MikeMcQuaid"
+            },
+            {
+                "href": "https://github.com/reitermarkus",
+                "avatar": "https://avatars.githubusercontent.com/u/1309829?s=40&v=4",
+                "username": "reitermarkus"
+            },
+            {
+                "href": "https://github.com/jacknagel",
+                "avatar": "https://avatars.githubusercontent.com/u/568243?s=40&v=4",
+                "username": "jacknagel"
+            },
+            {
+                "href": "https://github.com/BrewTestBot",
+                "avatar": "https://avatars.githubusercontent.com/u/1589480?s=40&v=4",
+                "username": "BrewTestBot"
+            },
+            {
+                "href": "https://github.com/Bo98",
+                "avatar": "https://avatars.githubusercontent.com/u/1190754?s=40&v=4",
+                "username": "Bo98"
+            }
+        ]
+    },
+    {
+        "author": "Homebrew",
+        "name": "homebrew-core",
+        "avatar": "https://github.com/Homebrew.png",
+        "sponsor": "https://github.com/sponsors/Homebrew",
+        "url": "https://github.com/Homebrew/homebrew-core",
+        "description": "🍻 Default formulae for the missing package manager for macOS (or Linux)",
+        "language": "Ruby",
+        "languageColor": "#701516",
+        "stars": 13418,
+        "fork": 12196,
+        "currentPeriodStars": 6,
         "builtBy": [
             {
                 "href": "https://github.com/BrewTestBot",
@@ -18,24 +98,259 @@
                 "username": "BrewTestBot"
             },
             {
-                "href": "https://github.com/vitorgalvao",
-                "avatar": "https://avatars.githubusercontent.com/u/1699443?s=40&v=4",
-                "username": "vitorgalvao"
+                "href": "https://github.com/chenrui333",
+                "avatar": "https://avatars.githubusercontent.com/u/1580956?s=40&v=4",
+                "username": "chenrui333"
             },
             {
-                "href": "https://github.com/ran-dall",
-                "avatar": "https://avatars.githubusercontent.com/u/17261190?s=40&v=4",
-                "username": "ran-dall"
+                "href": "https://github.com/fxcoudert",
+                "avatar": "https://avatars.githubusercontent.com/u/1980544?s=40&v=4",
+                "username": "fxcoudert"
             },
             {
-                "href": "https://github.com/rolandwalker",
-                "avatar": "https://avatars.githubusercontent.com/u/727482?s=40&v=4",
-                "username": "rolandwalker"
+                "href": "https://github.com/ilovezfs",
+                "avatar": "https://avatars.githubusercontent.com/u/5268928?s=40&v=4",
+                "username": "ilovezfs"
             },
             {
-                "href": "https://github.com/krehel",
-                "avatar": "https://avatars.githubusercontent.com/u/39449589?s=40&v=4",
-                "username": "krehel"
+                "href": "https://github.com/carlocab",
+                "avatar": "https://avatars.githubusercontent.com/u/30379873?s=40&v=4",
+                "username": "carlocab"
+            }
+        ]
+    },
+    {
+        "author": "Shopify",
+        "name": "liquid",
+        "avatar": "https://github.com/Shopify.png",
+        "sponsor": null,
+        "url": "https://github.com/Shopify/liquid",
+        "description": "Liquid markup language. Safe, customer facing template language for flexible web apps.",
+        "language": "Ruby",
+        "languageColor": "#701516",
+        "stars": 10937,
+        "fork": 1370,
+        "currentPeriodStars": 1,
+        "builtBy": [
+            {
+                "href": "https://github.com/dylanahsmith",
+                "avatar": "https://avatars.githubusercontent.com/u/954402?s=40&v=4",
+                "username": "dylanahsmith"
+            },
+            {
+                "href": "https://github.com/pushrax",
+                "avatar": "https://avatars.githubusercontent.com/u/984857?s=40&v=4",
+                "username": "pushrax"
+            },
+            {
+                "href": "https://github.com/fw42",
+                "avatar": "https://avatars.githubusercontent.com/u/2072686?s=40&v=4",
+                "username": "fw42"
+            },
+            {
+                "href": "https://github.com/ggmichaelgo",
+                "avatar": "https://avatars.githubusercontent.com/u/2475611?s=40&v=4",
+                "username": "ggmichaelgo"
+            },
+            {
+                "href": "https://github.com/adamhollett",
+                "avatar": "https://avatars.githubusercontent.com/u/6955296?s=40&v=4",
+                "username": "adamhollett"
+            }
+        ]
+    },
+    {
+        "author": "jekyll",
+        "name": "jekyll",
+        "avatar": "https://github.com/jekyll.png",
+        "sponsor": null,
+        "url": "https://github.com/jekyll/jekyll",
+        "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
+        "language": "Ruby",
+        "languageColor": "#701516",
+        "stars": 48661,
+        "fork": 9921,
+        "currentPeriodStars": 8,
+        "builtBy": [
+            {
+                "href": "https://github.com/parkr",
+                "avatar": "https://avatars.githubusercontent.com/u/237985?s=40&v=4",
+                "username": "parkr"
+            },
+            {
+                "href": "https://github.com/jekyllbot",
+                "avatar": "https://avatars.githubusercontent.com/u/6166343?s=40&v=4",
+                "username": "jekyllbot"
+            },
+            {
+                "href": "https://github.com/ashmaroli",
+                "avatar": "https://avatars.githubusercontent.com/u/12479464?s=40&v=4",
+                "username": "ashmaroli"
+            },
+            {
+                "href": "https://github.com/mattr-",
+                "avatar": "https://avatars.githubusercontent.com/u/77174?s=40&v=4",
+                "username": "mattr-"
+            },
+            {
+                "href": "https://github.com/mojombo",
+                "avatar": "https://avatars.githubusercontent.com/u/1?s=40&v=4",
+                "username": "mojombo"
+            }
+        ]
+    },
+    {
+        "author": "Shopify",
+        "name": "ruby-lsp",
+        "avatar": "https://github.com/Shopify.png",
+        "sponsor": null,
+        "url": "https://github.com/Shopify/ruby-lsp",
+        "description": "An opinionated language server for Ruby",
+        "language": "Ruby",
+        "languageColor": "#701516",
+        "stars": 1422,
+        "fork": 128,
+        "currentPeriodStars": 4,
+        "builtBy": [
+            {
+                "href": "https://github.com/vinistock",
+                "avatar": "https://avatars.githubusercontent.com/u/18742907?s=40&v=4",
+                "username": "vinistock"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/apps/github-actions",
+                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+                "username": "apps/github-actions"
+            },
+            {
+                "href": "https://github.com/andyw8",
+                "avatar": "https://avatars.githubusercontent.com/u/13400?s=40&v=4",
+                "username": "andyw8"
+            }
+        ]
+    },
+    {
+        "author": "teamcapybara",
+        "name": "capybara",
+        "avatar": "https://github.com/teamcapybara.png",
+        "sponsor": null,
+        "url": "https://github.com/teamcapybara/capybara",
+        "description": "Acceptance test framework for web applications",
+        "language": "Ruby",
+        "languageColor": "#701516",
+        "stars": 9993,
+        "fork": 1445,
+        "currentPeriodStars": 2,
+        "builtBy": [
+            {
+                "href": "https://github.com/twalpole",
+                "avatar": "https://avatars.githubusercontent.com/u/16556?s=40&v=4",
+                "username": "twalpole"
+            },
+            {
+                "href": "https://github.com/jnicklas",
+                "avatar": "https://avatars.githubusercontent.com/u/134?s=40&v=4",
+                "username": "jnicklas"
+            },
+            {
+                "href": "https://github.com/joliss",
+                "avatar": "https://avatars.githubusercontent.com/u/524783?s=40&v=4",
+                "username": "joliss"
+            },
+            {
+                "href": "https://github.com/abotalov",
+                "avatar": "https://avatars.githubusercontent.com/u/1497867?s=40&v=4",
+                "username": "abotalov"
+            },
+            {
+                "href": "https://github.com/ybiquitous",
+                "avatar": "https://avatars.githubusercontent.com/u/473530?s=40&v=4",
+                "username": "ybiquitous"
+            }
+        ]
+    },
+    {
+        "author": "CocoaPods",
+        "name": "CocoaPods",
+        "avatar": "https://github.com/CocoaPods.png",
+        "sponsor": null,
+        "url": "https://github.com/CocoaPods/CocoaPods",
+        "description": "The Cocoa Dependency Manager.",
+        "language": "Ruby",
+        "languageColor": "#701516",
+        "stars": 14496,
+        "fork": 2620,
+        "currentPeriodStars": 0,
+        "builtBy": [
+            {
+                "href": "https://github.com/segiddins",
+                "avatar": "https://avatars.githubusercontent.com/u/1946610?s=40&v=4",
+                "username": "segiddins"
+            },
+            {
+                "href": "https://github.com/fabiopelosin",
+                "avatar": "https://avatars.githubusercontent.com/u/1048705?s=40&v=4",
+                "username": "fabiopelosin"
+            },
+            {
+                "href": "https://github.com/dnkoutso",
+                "avatar": "https://avatars.githubusercontent.com/u/310370?s=40&v=4",
+                "username": "dnkoutso"
+            },
+            {
+                "href": "https://github.com/alloy",
+                "avatar": "https://avatars.githubusercontent.com/u/2320?s=40&v=4",
+                "username": "alloy"
+            },
+            {
+                "href": "https://github.com/mrackwitz",
+                "avatar": "https://avatars.githubusercontent.com/u/1389011?s=40&v=4",
+                "username": "mrackwitz"
+            }
+        ]
+    },
+    {
+        "author": "hotwired",
+        "name": "turbo-rails",
+        "avatar": "https://github.com/hotwired.png",
+        "sponsor": null,
+        "url": "https://github.com/hotwired/turbo-rails",
+        "description": "Use Turbo in your Ruby on Rails app",
+        "language": "Ruby",
+        "languageColor": "#701516",
+        "stars": 2037,
+        "fork": 307,
+        "currentPeriodStars": 0,
+        "builtBy": [
+            {
+                "href": "https://github.com/dhh",
+                "avatar": "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
+                "username": "dhh"
+            },
+            {
+                "href": "https://github.com/afcapel",
+                "avatar": "https://avatars.githubusercontent.com/u/150107?s=40&v=4",
+                "username": "afcapel"
+            },
+            {
+                "href": "https://github.com/seanpdoyle",
+                "avatar": "https://avatars.githubusercontent.com/u/2575027?s=40&v=4",
+                "username": "seanpdoyle"
+            },
+            {
+                "href": "https://github.com/kaspth",
+                "avatar": "https://avatars.githubusercontent.com/u/350807?s=40&v=4",
+                "username": "kaspth"
+            },
+            {
+                "href": "https://github.com/javan",
+                "avatar": "https://avatars.githubusercontent.com/u/5355?s=40&v=4",
+                "username": "javan"
             }
         ]
     },
@@ -48,7 +363,7 @@
         "description": "Next generation web scanner",
         "language": "Ruby",
         "languageColor": "#701516",
-        "stars": 5325,
+        "stars": 5326,
         "fork": 887,
         "currentPeriodStars": 22,
         "builtBy": [
@@ -76,86 +391,6 @@
                 "href": "https://github.com/andrericardo",
                 "avatar": "https://avatars.githubusercontent.com/u/171730?s=40&v=4",
                 "username": "andrericardo"
-            }
-        ]
-    },
-    {
-        "author": "lewagon",
-        "name": "setup",
-        "avatar": "https://github.com/lewagon.png",
-        "sponsor": null,
-        "url": "https://github.com/lewagon/setup",
-        "description": "Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp",
-        "language": "Ruby",
-        "languageColor": "#701516",
-        "stars": 18223,
-        "fork": 1603,
-        "currentPeriodStars": 2,
-        "builtBy": [
-            {
-                "href": "https://github.com/ssaunier",
-                "avatar": "https://avatars.githubusercontent.com/u/414418?s=40&v=4",
-                "username": "ssaunier"
-            },
-            {
-                "href": "https://github.com/dmilon",
-                "avatar": "https://avatars.githubusercontent.com/u/37899667?s=40&v=4",
-                "username": "dmilon"
-            },
-            {
-                "href": "https://github.com/barangerbenjamin",
-                "avatar": "https://avatars.githubusercontent.com/u/26072651?s=40&v=4",
-                "username": "barangerbenjamin"
-            },
-            {
-                "href": "https://github.com/armandoteran",
-                "avatar": "https://avatars.githubusercontent.com/u/61909748?s=40&v=4",
-                "username": "armandoteran"
-            },
-            {
-                "href": "https://github.com/krokrob",
-                "avatar": "https://avatars.githubusercontent.com/u/9978111?s=40&v=4",
-                "username": "krokrob"
-            }
-        ]
-    },
-    {
-        "author": "railsadminteam",
-        "name": "rails_admin",
-        "avatar": "https://github.com/railsadminteam.png",
-        "sponsor": null,
-        "url": "https://github.com/railsadminteam/rails_admin",
-        "description": "RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data",
-        "language": "Ruby",
-        "languageColor": "#701516",
-        "stars": 7870,
-        "fork": 2252,
-        "currentPeriodStars": 0,
-        "builtBy": [
-            {
-                "href": "https://github.com/bbenezech",
-                "avatar": "https://avatars.githubusercontent.com/u/26794?s=40&v=4",
-                "username": "bbenezech"
-            },
-            {
-                "href": "https://github.com/mshibuya",
-                "avatar": "https://avatars.githubusercontent.com/u/486678?s=40&v=4",
-                "username": "mshibuya"
-            },
-            {
-                "href": "https://github.com/sferik",
-                "avatar": "https://avatars.githubusercontent.com/u/10308?s=40&v=4",
-                "username": "sferik"
-            },
-            {
-                "href": "https://github.com/kaapa",
-                "avatar": "https://avatars.githubusercontent.com/u/215071?s=40&v=4",
-                "username": "kaapa"
-            },
-            {
-                "href": "https://github.com/gunn",
-                "avatar": "https://avatars.githubusercontent.com/u/42500?s=40&v=4",
-                "username": "gunn"
             }
         ]
     },
@@ -200,126 +435,6 @@
         ]
     },
     {
-        "author": "citation-style-language",
-        "name": "styles",
-        "avatar": "https://github.com/citation-style-language.png",
-        "sponsor": null,
-        "url": "https://github.com/citation-style-language/styles",
-        "description": "Official repository for Citation Style Language (CSL) citation styles.",
-        "language": "Ruby",
-        "languageColor": "#701516",
-        "stars": 3227,
-        "fork": 3723,
-        "currentPeriodStars": 1,
-        "builtBy": [
-            {
-                "href": "https://github.com/adam3smith",
-                "avatar": "https://avatars.githubusercontent.com/u/128986?s=40&v=4",
-                "username": "adam3smith"
-            },
-            {
-                "href": "https://github.com/rmzelle",
-                "avatar": "https://avatars.githubusercontent.com/u/77951?s=40&v=4",
-                "username": "rmzelle"
-            },
-            {
-                "href": "https://github.com/POBrien333",
-                "avatar": "https://avatars.githubusercontent.com/u/954979?s=40&v=4",
-                "username": "POBrien333"
-            },
-            {
-                "href": "https://github.com/cparnot",
-                "avatar": "https://avatars.githubusercontent.com/u/4797?s=40&v=4",
-                "username": "cparnot"
-            },
-            {
-                "href": "https://github.com/zuphilip",
-                "avatar": "https://avatars.githubusercontent.com/u/5199995?s=40&v=4",
-                "username": "zuphilip"
-            }
-        ]
-    },
-    {
-        "author": "basecamp",
-        "name": "kamal",
-        "avatar": "https://github.com/basecamp.png",
-        "sponsor": null,
-        "url": "https://github.com/basecamp/kamal",
-        "description": "Deploy web apps anywhere.",
-        "language": "Ruby",
-        "languageColor": "#701516",
-        "stars": 9405,
-        "fork": 361,
-        "currentPeriodStars": 2,
-        "builtBy": [
-            {
-                "href": "https://github.com/dhh",
-                "avatar": "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
-                "username": "dhh"
-            },
-            {
-                "href": "https://github.com/djmb",
-                "avatar": "https://avatars.githubusercontent.com/u/1734607?s=40&v=4",
-                "username": "djmb"
-            },
-            {
-                "href": "https://github.com/calmyournerves",
-                "avatar": "https://avatars.githubusercontent.com/u/480921?s=40&v=4",
-                "username": "calmyournerves"
-            },
-            {
-                "href": "https://github.com/igor-alexandrov",
-                "avatar": "https://avatars.githubusercontent.com/u/100725?s=40&v=4",
-                "username": "igor-alexandrov"
-            },
-            {
-                "href": "https://github.com/intrip",
-                "avatar": "https://avatars.githubusercontent.com/u/1753245?s=40&v=4",
-                "username": "intrip"
-            }
-        ]
-    },
-    {
-        "author": "rubyforgood",
-        "name": "casa",
-        "avatar": "https://github.com/rubyforgood.png",
-        "sponsor": "https://github.com/sponsors/rubyforgood",
-        "url": "https://github.com/rubyforgood/casa",
-        "description": "Volunteer management system for nonprofit CASA, which serves foster youth in counties across America.",
-        "language": "Ruby",
-        "languageColor": "#701516",
-        "stars": 289,
-        "fork": 463,
-        "currentPeriodStars": 0,
-        "builtBy": [
-            {
-                "href": "https://github.com/compwron",
-                "avatar": "https://avatars.githubusercontent.com/u/578159?s=40&v=4",
-                "username": "compwron"
-            },
-            {
-                "href": "https://github.com/FireLemons",
-                "avatar": "https://avatars.githubusercontent.com/u/8918762?s=40&v=4",
-                "username": "FireLemons"
-            },
-            {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
-            },
-            {
-                "href": "https://github.com/littleforest",
-                "avatar": "https://avatars.githubusercontent.com/u/1938665?s=40&v=4",
-                "username": "littleforest"
-            },
-            {
-                "href": "https://github.com/xihai01",
-                "avatar": "https://avatars.githubusercontent.com/u/86758440?s=40&v=4",
-                "username": "xihai01"
-            }
-        ]
-    },
-    {
         "author": "sidekiq",
         "name": "sidekiq",
         "avatar": "https://github.com/sidekiq.png",
@@ -356,6 +471,46 @@
                 "href": "https://github.com/fatkodima",
                 "avatar": "https://avatars.githubusercontent.com/u/5657035?s=40&v=4",
                 "username": "fatkodima"
+            }
+        ]
+    },
+    {
+        "author": "paper-trail-gem",
+        "name": "paper_trail",
+        "avatar": "https://github.com/paper-trail-gem.png",
+        "sponsor": null,
+        "url": "https://github.com/paper-trail-gem/paper_trail",
+        "description": "Track changes to your rails models",
+        "language": "Ruby",
+        "languageColor": "#701516",
+        "stars": 6739,
+        "fork": 884,
+        "currentPeriodStars": 1,
+        "builtBy": [
+            {
+                "href": "https://github.com/jaredbeck",
+                "avatar": "https://avatars.githubusercontent.com/u/380809?s=40&v=4",
+                "username": "jaredbeck"
+            },
+            {
+                "href": "https://github.com/airblade",
+                "avatar": "https://avatars.githubusercontent.com/u/7265?s=40&v=4",
+                "username": "airblade"
+            },
+            {
+                "href": "https://github.com/batter",
+                "avatar": "https://avatars.githubusercontent.com/u/951821?s=40&v=4",
+                "username": "batter"
+            },
+            {
+                "href": "https://github.com/aried3r",
+                "avatar": "https://avatars.githubusercontent.com/u/1301152?s=40&v=4",
+                "username": "aried3r"
+            },
+            {
+                "href": "https://github.com/bli",
+                "avatar": "https://avatars.githubusercontent.com/u/417086?s=40&v=4",
+                "username": "bli"
             }
         ]
     },
@@ -400,122 +555,322 @@
         ]
     },
     {
-        "author": "rubocop",
-        "name": "rubocop",
-        "avatar": "https://github.com/rubocop.png",
+        "author": "rapid7",
+        "name": "metasploit-framework",
+        "avatar": "https://github.com/rapid7.png",
         "sponsor": null,
-        "url": "https://github.com/rubocop/rubocop",
-        "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
+        "url": "https://github.com/rapid7/metasploit-framework",
+        "description": "Metasploit Framework",
         "language": "Ruby",
         "languageColor": "#701516",
-        "stars": 12547,
-        "fork": 3046,
-        "currentPeriodStars": 0,
+        "stars": 33342,
+        "fork": 13813,
+        "currentPeriodStars": 7,
         "builtBy": [
             {
-                "href": "https://github.com/koic",
-                "avatar": "https://avatars.githubusercontent.com/u/13203?s=40&v=4",
-                "username": "koic"
+                "href": "https://github.com/wchen-r7",
+                "avatar": "https://avatars.githubusercontent.com/u/1170914?s=40&v=4",
+                "username": "wchen-r7"
             },
             {
-                "href": "https://github.com/bbatsov",
-                "avatar": "https://avatars.githubusercontent.com/u/103882?s=40&v=4",
-                "username": "bbatsov"
+                "href": "https://github.com/wvu",
+                "avatar": "https://avatars.githubusercontent.com/u/4551878?s=40&v=4",
+                "username": "wvu"
             },
             {
-                "href": "https://github.com/jonas054",
-                "avatar": "https://avatars.githubusercontent.com/u/336720?s=40&v=4",
-                "username": "jonas054"
+                "href": "https://github.com/msjenkins-r7",
+                "avatar": "https://avatars.githubusercontent.com/u/5332090?s=40&v=4",
+                "username": "msjenkins-r7"
             },
             {
-                "href": "https://github.com/Drenmi",
-                "avatar": "https://avatars.githubusercontent.com/u/5259935?s=40&v=4",
-                "username": "Drenmi"
+                "href": "https://github.com/jvazquez-r7",
+                "avatar": "https://avatars.githubusercontent.com/u/1742838?s=40&v=4",
+                "username": "jvazquez-r7"
             },
             {
-                "href": "https://github.com/alexdowad",
-                "avatar": "https://avatars.githubusercontent.com/u/1067359?s=40&v=4",
-                "username": "alexdowad"
+                "href": "https://github.com/sinn3r",
+                "avatar": "https://avatars.githubusercontent.com/u/1015218?s=40&v=4",
+                "username": "sinn3r"
             }
         ]
     },
     {
-        "author": "department-of-veterans-affairs",
-        "name": "vets-api",
-        "avatar": "https://github.com/department-of-veterans-affairs.png",
+        "author": "fluent",
+        "name": "fluentd",
+        "avatar": "https://github.com/fluent.png",
         "sponsor": null,
-        "url": "https://github.com/department-of-veterans-affairs/vets-api",
-        "description": "API powering VA.gov",
+        "url": "https://github.com/fluent/fluentd",
+        "description": "Fluentd: Unified Logging Layer (project under CNCF)",
         "language": "Ruby",
         "languageColor": "#701516",
-        "stars": 195,
-        "fork": 60,
+        "stars": 12710,
+        "fork": 1329,
+        "currentPeriodStars": 2,
+        "builtBy": [
+            {
+                "href": "https://github.com/repeatedly",
+                "avatar": "https://avatars.githubusercontent.com/u/16928?s=40&v=4",
+                "username": "repeatedly"
+            },
+            {
+                "href": "https://github.com/tagomoris",
+                "avatar": "https://avatars.githubusercontent.com/u/230654?s=40&v=4",
+                "username": "tagomoris"
+            },
+            {
+                "href": "https://github.com/ganmacs",
+                "avatar": "https://avatars.githubusercontent.com/u/5616899?s=40&v=4",
+                "username": "ganmacs"
+            },
+            {
+                "href": "https://github.com/ashie",
+                "avatar": "https://avatars.githubusercontent.com/u/135104?s=40&v=4",
+                "username": "ashie"
+            },
+            {
+                "href": "https://github.com/cosmo0920",
+                "avatar": "https://avatars.githubusercontent.com/u/700876?s=40&v=4",
+                "username": "cosmo0920"
+            }
+        ]
+    },
+    {
+        "author": "Homebrew",
+        "name": "homebrew-cask",
+        "avatar": "https://github.com/Homebrew.png",
+        "sponsor": "https://github.com/sponsors/Homebrew",
+        "url": "https://github.com/Homebrew/homebrew-cask",
+        "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
+        "language": "Ruby",
+        "languageColor": "#701516",
+        "stars": 20700,
+        "fork": 10597,
         "currentPeriodStars": 0,
         "builtBy": [
+            {
+                "href": "https://github.com/BrewTestBot",
+                "avatar": "https://avatars.githubusercontent.com/u/1589480?s=40&v=4",
+                "username": "BrewTestBot"
+            },
+            {
+                "href": "https://github.com/vitorgalvao",
+                "avatar": "https://avatars.githubusercontent.com/u/1699443?s=40&v=4",
+                "username": "vitorgalvao"
+            },
+            {
+                "href": "https://github.com/ran-dall",
+                "avatar": "https://avatars.githubusercontent.com/u/17261190?s=40&v=4",
+                "username": "ran-dall"
+            },
+            {
+                "href": "https://github.com/rolandwalker",
+                "avatar": "https://avatars.githubusercontent.com/u/727482?s=40&v=4",
+                "username": "rolandwalker"
+            },
+            {
+                "href": "https://github.com/krehel",
+                "avatar": "https://avatars.githubusercontent.com/u/39449589?s=40&v=4",
+                "username": "krehel"
+            }
+        ]
+    },
+    {
+        "author": "doorkeeper-gem",
+        "name": "doorkeeper",
+        "avatar": "https://github.com/doorkeeper-gem.png",
+        "sponsor": null,
+        "url": "https://github.com/doorkeeper-gem/doorkeeper",
+        "description": "Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.",
+        "language": "Ruby",
+        "languageColor": "#701516",
+        "stars": 5279,
+        "fork": 1061,
+        "currentPeriodStars": 3,
+        "builtBy": [
+            {
+                "href": "https://github.com/nbulaj",
+                "avatar": "https://avatars.githubusercontent.com/u/1443426?s=40&v=4",
+                "username": "nbulaj"
+            },
+            {
+                "href": "https://github.com/felipeelias",
+                "avatar": "https://avatars.githubusercontent.com/u/24556?s=40&v=4",
+                "username": "felipeelias"
+            },
+            {
+                "href": "https://github.com/tute",
+                "avatar": "https://avatars.githubusercontent.com/u/54260?s=40&v=4",
+                "username": "tute"
+            },
+            {
+                "href": "https://github.com/piotrj",
+                "avatar": "https://avatars.githubusercontent.com/u/9296?s=40&v=4",
+                "username": "piotrj"
+            },
+            {
+                "href": "https://github.com/jasl",
+                "avatar": "https://avatars.githubusercontent.com/u/1024162?s=40&v=4",
+                "username": "jasl"
+            }
+        ]
+    },
+    {
+        "author": "mercadolibre",
+        "name": "mobile-dependencies_whitelist",
+        "avatar": "https://github.com/mercadolibre.png",
+        "sponsor": null,
+        "url": "https://github.com/mercadolibre/mobile-dependencies_whitelist",
+        "description": "Whitelist dependencies files for mobile teams",
+        "language": "Ruby",
+        "languageColor": "#701516",
+        "stars": 21,
+        "fork": 582,
+        "currentPeriodStars": 0,
+        "builtBy": [
+            {
+                "href": "https://github.com/eduflores72",
+                "avatar": "https://avatars.githubusercontent.com/u/53618683?s=40&v=4",
+                "username": "eduflores72"
+            },
+            {
+                "href": "https://github.com/gussrivero",
+                "avatar": "https://avatars.githubusercontent.com/u/96055139?s=40&v=4",
+                "username": "gussrivero"
+            },
+            {
+                "href": "https://github.com/caiomatosmeli",
+                "avatar": "https://avatars.githubusercontent.com/u/86304959?s=40&v=4",
+                "username": "caiomatosmeli"
+            },
+            {
+                "href": "https://github.com/abruno-",
+                "avatar": "https://avatars.githubusercontent.com/u/6799565?s=40&v=4",
+                "username": "abruno-"
+            },
+            {
+                "href": "https://github.com/matiasmanzanzani",
+                "avatar": "https://avatars.githubusercontent.com/u/97980060?s=40&v=4",
+                "username": "matiasmanzanzani"
+            }
+        ]
+    },
+    {
+        "author": "puppetlabs",
+        "name": "puppet",
+        "avatar": "https://github.com/puppetlabs.png",
+        "sponsor": null,
+        "url": "https://github.com/puppetlabs/puppet",
+        "description": "Server automation framework and application",
+        "language": "Ruby",
+        "languageColor": "#701516",
+        "stars": 7331,
+        "fork": 2184,
+        "currentPeriodStars": 1,
+        "builtBy": [
+            {
+                "href": "https://github.com/joshcooper",
+                "avatar": "https://avatars.githubusercontent.com/u/737664?s=40&v=4",
+                "username": "joshcooper"
+            },
+            {
+                "href": "https://github.com/hlindberg",
+                "avatar": "https://avatars.githubusercontent.com/u/563066?s=40&v=4",
+                "username": "hlindberg"
+            },
+            {
+                "href": "https://github.com/puppetlabs-jenkins",
+                "avatar": "https://avatars.githubusercontent.com/u/1050976?s=40&v=4",
+                "username": "puppetlabs-jenkins"
+            },
+            {
+                "href": "https://github.com/lak",
+                "avatar": "https://avatars.githubusercontent.com/u/4519?s=40&v=4",
+                "username": "lak"
+            },
+            {
+                "href": "https://github.com/thallgren",
+                "avatar": "https://avatars.githubusercontent.com/u/209495?s=40&v=4",
+                "username": "thallgren"
+            }
+        ]
+    },
+    {
+        "author": "ankane",
+        "name": "searchkick",
+        "avatar": "https://github.com/ankane.png",
+        "sponsor": null,
+        "url": "https://github.com/ankane/searchkick",
+        "description": "Intelligent search made easy",
+        "language": "Ruby",
+        "languageColor": "#701516",
+        "stars": 6441,
+        "fork": 748,
+        "currentPeriodStars": 0,
+        "builtBy": [
+            {
+                "href": "https://github.com/ankane",
+                "avatar": "https://avatars.githubusercontent.com/u/220358?s=40&v=4",
+                "username": "ankane"
+            },
+            {
+                "href": "https://github.com/meetrajesh",
+                "avatar": "https://avatars.githubusercontent.com/u/101797?s=40&v=4",
+                "username": "meetrajesh"
+            },
+            {
+                "href": "https://github.com/sharshenov",
+                "avatar": "https://avatars.githubusercontent.com/u/1262244?s=40&v=4",
+                "username": "sharshenov"
+            },
+            {
+                "href": "https://github.com/danielwestendorf",
+                "avatar": "https://avatars.githubusercontent.com/u/44478?s=40&v=4",
+                "username": "danielwestendorf"
+            },
+            {
+                "href": "https://github.com/will-r",
+                "avatar": "https://avatars.githubusercontent.com/u/872859?s=40&v=4",
+                "username": "will-r"
+            }
+        ]
+    },
+    {
+        "author": "endoflife-date",
+        "name": "endoflife.date",
+        "avatar": "https://github.com/endoflife-date.png",
+        "sponsor": "https://github.com/sponsors/endoflife-date",
+        "url": "https://github.com/endoflife-date/endoflife.date",
+        "description": "Informative site with EoL dates of everything",
+        "language": "Ruby",
+        "languageColor": "#701516",
+        "stars": 2320,
+        "fork": 692,
+        "currentPeriodStars": 3,
+        "builtBy": [
+            {
+                "href": "https://github.com/marcwrobel",
+                "avatar": "https://avatars.githubusercontent.com/u/2988912?s=40&v=4",
+                "username": "marcwrobel"
+            },
+            {
+                "href": "https://github.com/captn3m0",
+                "avatar": "https://avatars.githubusercontent.com/u/584253?s=40&v=4",
+                "username": "captn3m0"
+            },
+            {
+                "href": "https://github.com/BiNZGi",
+                "avatar": "https://avatars.githubusercontent.com/u/13657422?s=40&v=4",
+                "username": "BiNZGi"
+            },
             {
                 "href": "https://github.com/apps/dependabot",
                 "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
                 "username": "apps/dependabot"
             },
             {
-                "href": "https://github.com/lihanli",
-                "avatar": "https://avatars.githubusercontent.com/u/830084?s=40&v=4",
-                "username": "lihanli"
-            },
-            {
-                "href": "https://github.com/LindseySaari",
-                "avatar": "https://avatars.githubusercontent.com/u/5834818?s=40&v=4",
-                "username": "LindseySaari"
-            },
-            {
-                "href": "https://github.com/bosawt",
-                "avatar": "https://avatars.githubusercontent.com/u/42326799?s=40&v=4",
-                "username": "bosawt"
-            },
-            {
-                "href": "https://github.com/patrickvinograd",
-                "avatar": "https://avatars.githubusercontent.com/u/20694532?s=40&v=4",
-                "username": "patrickvinograd"
-            }
-        ]
-    },
-    {
-        "author": "jekyll",
-        "name": "jekyll",
-        "avatar": "https://github.com/jekyll.png",
-        "sponsor": null,
-        "url": "https://github.com/jekyll/jekyll",
-        "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
-        "language": "Ruby",
-        "languageColor": "#701516",
-        "stars": 48661,
-        "fork": 9921,
-        "currentPeriodStars": 8,
-        "builtBy": [
-            {
-                "href": "https://github.com/parkr",
-                "avatar": "https://avatars.githubusercontent.com/u/237985?s=40&v=4",
-                "username": "parkr"
-            },
-            {
-                "href": "https://github.com/jekyllbot",
-                "avatar": "https://avatars.githubusercontent.com/u/6166343?s=40&v=4",
-                "username": "jekyllbot"
-            },
-            {
-                "href": "https://github.com/ashmaroli",
-                "avatar": "https://avatars.githubusercontent.com/u/12479464?s=40&v=4",
-                "username": "ashmaroli"
-            },
-            {
-                "href": "https://github.com/mattr-",
-                "avatar": "https://avatars.githubusercontent.com/u/77174?s=40&v=4",
-                "username": "mattr-"
-            },
-            {
-                "href": "https://github.com/mojombo",
-                "avatar": "https://avatars.githubusercontent.com/u/1?s=40&v=4",
-                "username": "mojombo"
+                "href": "https://github.com/apps/github-actions",
+                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+                "username": "apps/github-actions"
             }
         ]
     }
