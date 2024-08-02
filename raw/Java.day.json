@@ -1,5 +1,45 @@
 [
     {
+        "author": "strimzi",
+        "name": "strimzi-kafka-operator",
+        "avatar": "https://github.com/strimzi.png",
+        "sponsor": null,
+        "url": "https://github.com/strimzi/strimzi-kafka-operator",
+        "description": "Apache Kafka® running on Kubernetes",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 4675,
+        "fork": 1265,
+        "currentPeriodStars": 3,
+        "builtBy": [
+            {
+                "href": "https://github.com/scholzj",
+                "avatar": "https://avatars.githubusercontent.com/u/5658439?s=40&v=4",
+                "username": "scholzj"
+            },
+            {
+                "href": "https://github.com/ppatierno",
+                "avatar": "https://avatars.githubusercontent.com/u/5842311?s=40&v=4",
+                "username": "ppatierno"
+            },
+            {
+                "href": "https://github.com/PaulRMellor",
+                "avatar": "https://avatars.githubusercontent.com/u/47596553?s=40&v=4",
+                "username": "PaulRMellor"
+            },
+            {
+                "href": "https://github.com/tombentley",
+                "avatar": "https://avatars.githubusercontent.com/u/879487?s=40&v=4",
+                "username": "tombentley"
+            },
+            {
+                "href": "https://github.com/Frawless",
+                "avatar": "https://avatars.githubusercontent.com/u/9933303?s=40&v=4",
+                "username": "Frawless"
+            }
+        ]
+    },
+    {
         "author": "xuchengsheng",
         "name": "spring-reading",
         "avatar": "https://github.com/xuchengsheng.png",
@@ -8,7 +48,7 @@
         "description": "涵盖了 Spring 框架的核心概念和关键功能，包括控制反转（IOC）容器的使用，面向切面编程（AOP）的原理与实践，事务管理的方式与实现，Spring MVC 的流程与控制器工作机制，以及 Spring 中数据访问、安全、Boot 自动配置等方面的深入研究。此外，它还包含了 Spring 事件机制的应用、高级主题如缓存抽象和响应式编程，以及对 Spring 源码的编程风格与设计模式的深入探讨。",
         "language": "Java",
         "languageColor": "#b07219",
-        "stars": 7461,
+        "stars": 7463,
         "fork": 877,
         "currentPeriodStars": 175,
         "builtBy": [
@@ -25,517 +65,77 @@
         ]
     },
     {
-        "author": "jeecgboot",
-        "name": "JeecgBoot",
-        "avatar": "https://github.com/jeecgboot.png",
+        "author": "redis",
+        "name": "lettuce",
+        "avatar": "https://github.com/redis.png",
         "sponsor": null,
-        "url": "https://github.com/jeecgboot/JeecgBoot",
-        "description": "🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue3，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
+        "url": "https://github.com/redis/lettuce",
+        "description": "Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.",
         "language": "Java",
         "languageColor": "#b07219",
-        "stars": 38950,
-        "fork": 14533,
-        "currentPeriodStars": 24,
-        "builtBy": [
-            {
-                "href": "https://github.com/zhangdaiscott",
-                "avatar": "https://avatars.githubusercontent.com/u/3162115?s=40&v=4",
-                "username": "zhangdaiscott"
-            },
-            {
-                "href": "https://github.com/EightMonth",
-                "avatar": "https://avatars.githubusercontent.com/u/23272421?s=40&v=4",
-                "username": "EightMonth"
-            },
-            {
-                "href": "https://github.com/wang1223440313",
-                "avatar": "https://avatars.githubusercontent.com/u/39980681?s=40&v=4",
-                "username": "wang1223440313"
-            },
-            {
-                "href": "https://github.com/CowSmiles",
-                "avatar": "https://avatars.githubusercontent.com/u/1018698?s=40&v=4",
-                "username": "CowSmiles"
-            },
-            {
-                "href": "https://github.com/Chenzhexian",
-                "avatar": "https://avatars.githubusercontent.com/u/92191856?s=40&v=4",
-                "username": "Chenzhexian"
-            }
-        ]
-    },
-    {
-        "author": "open-telemetry",
-        "name": "opentelemetry-java-instrumentation",
-        "avatar": "https://github.com/open-telemetry.png",
-        "sponsor": null,
-        "url": "https://github.com/open-telemetry/opentelemetry-java-instrumentation",
-        "description": "OpenTelemetry auto-instrumentation and instrumentation libraries for Java",
-        "language": "Java",
-        "languageColor": "#b07219",
-        "stars": 1837,
-        "fork": 808,
-        "currentPeriodStars": 7,
-        "builtBy": [
-            {
-                "href": "https://github.com/trask",
-                "avatar": "https://avatars.githubusercontent.com/u/218610?s=40&v=4",
-                "username": "trask"
-            },
-            {
-                "href": "https://github.com/tylerbenson",
-                "avatar": "https://avatars.githubusercontent.com/u/734411?s=40&v=4",
-                "username": "tylerbenson"
-            },
-            {
-                "href": "https://github.com/laurit",
-                "avatar": "https://avatars.githubusercontent.com/u/1997823?s=40&v=4",
-                "username": "laurit"
-            },
-            {
-                "href": "https://github.com/opentelemetrybot",
-                "avatar": "https://avatars.githubusercontent.com/u/107717825?s=40&v=4",
-                "username": "opentelemetrybot"
-            },
-            {
-                "href": "https://github.com/mar-kolya",
-                "avatar": "https://avatars.githubusercontent.com/u/1003102?s=40&v=4",
-                "username": "mar-kolya"
-            }
-        ]
-    },
-    {
-        "author": "alibaba",
-        "name": "COLA",
-        "avatar": "https://github.com/alibaba.png",
-        "sponsor": null,
-        "url": "https://github.com/alibaba/COLA",
-        "description": "🥤 COLA: Clean Object-oriented & Layered Architecture",
-        "language": "Java",
-        "languageColor": "#b07219",
-        "stars": 11669,
-        "fork": 3034,
+        "stars": 5324,
+        "fork": 956,
         "currentPeriodStars": 2,
         "builtBy": [
             {
-                "href": "https://github.com/oldratlee",
-                "avatar": "https://avatars.githubusercontent.com/u/1063891?s=40&v=4",
-                "username": "oldratlee"
+                "href": "https://github.com/mp911de",
+                "avatar": "https://avatars.githubusercontent.com/u/1035015?s=40&v=4",
+                "username": "mp911de"
             },
             {
-                "href": "https://github.com/significantfrank",
-                "avatar": "https://avatars.githubusercontent.com/u/8212932?s=40&v=4",
-                "username": "significantfrank"
+                "href": "https://github.com/wg",
+                "avatar": "https://avatars.githubusercontent.com/u/94529?s=40&v=4",
+                "username": "wg"
             },
             {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
+                "href": "https://github.com/dengliming",
+                "avatar": "https://avatars.githubusercontent.com/u/7796156?s=40&v=4",
+                "username": "dengliming"
             },
             {
-                "href": "https://github.com/sinopower",
-                "avatar": "https://avatars.githubusercontent.com/u/33787?s=40&v=4",
-                "username": "sinopower"
+                "href": "https://github.com/sokomishalov",
+                "avatar": "https://avatars.githubusercontent.com/u/21218309?s=40&v=4",
+                "username": "sokomishalov"
             },
             {
-                "href": "https://github.com/Ivan97",
-                "avatar": "https://avatars.githubusercontent.com/u/10104255?s=40&v=4",
-                "username": "Ivan97"
-            }
-        ]
-    },
-    {
-        "author": "elastic",
-        "name": "logstash",
-        "avatar": "https://github.com/elastic.png",
-        "sponsor": null,
-        "url": "https://github.com/elastic/logstash",
-        "description": "Logstash - transport and process your logs, events, or other data",
-        "language": "Java",
-        "languageColor": "#b07219",
-        "stars": 14118,
-        "fork": 3484,
-        "currentPeriodStars": 3,
-        "builtBy": [
-            {
-                "href": "https://github.com/jordansissel",
-                "avatar": "https://avatars.githubusercontent.com/u/131818?s=40&v=4",
-                "username": "jordansissel"
-            },
-            {
-                "href": "https://github.com/jsvd",
-                "avatar": "https://avatars.githubusercontent.com/u/31809?s=40&v=4",
-                "username": "jsvd"
-            },
-            {
-                "href": "https://github.com/original-brownbear",
-                "avatar": "https://avatars.githubusercontent.com/u/6490959?s=40&v=4",
-                "username": "original-brownbear"
-            },
-            {
-                "href": "https://github.com/karenzone",
-                "avatar": "https://avatars.githubusercontent.com/u/35154725?s=40&v=4",
-                "username": "karenzone"
-            },
-            {
-                "href": "https://github.com/robbavey",
-                "avatar": "https://avatars.githubusercontent.com/u/4061337?s=40&v=4",
-                "username": "robbavey"
-            }
-        ]
-    },
-    {
-        "author": "iluwatar",
-        "name": "java-design-patterns",
-        "avatar": "https://github.com/iluwatar.png",
-        "sponsor": "https://github.com/sponsors/iluwatar",
-        "url": "https://github.com/iluwatar/java-design-patterns",
-        "description": "Design patterns implemented in Java",
-        "language": "Java",
-        "languageColor": "#b07219",
-        "stars": 88834,
-        "fork": 26308,
-        "currentPeriodStars": 27,
-        "builtBy": [
-            {
-                "href": "https://github.com/iluwatar",
-                "avatar": "https://avatars.githubusercontent.com/u/582346?s=40&v=4",
-                "username": "iluwatar"
-            },
-            {
-                "href": "https://github.com/apps/allcontributors",
-                "avatar": "https://avatars.githubusercontent.com/in/23186?s=40&v=4",
-                "username": "apps/allcontributors"
-            },
-            {
-                "href": "https://github.com/npathai",
-                "avatar": "https://avatars.githubusercontent.com/u/1792515?s=40&v=4",
-                "username": "npathai"
-            },
-            {
-                "href": "https://github.com/ohbus",
-                "avatar": "https://avatars.githubusercontent.com/u/13291222?s=40&v=4",
-                "username": "ohbus"
-            },
-            {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
-            }
-        ]
-    },
-    {
-        "author": "quarkusio",
-        "name": "quarkus",
-        "avatar": "https://github.com/quarkusio.png",
-        "sponsor": null,
-        "url": "https://github.com/quarkusio/quarkus",
-        "description": "Quarkus: Supersonic Subatomic Java.",
-        "language": "Java",
-        "languageColor": "#b07219",
-        "stars": 13437,
-        "fork": 2579,
-        "currentPeriodStars": 5,
-        "builtBy": [
-            {
-                "href": "https://github.com/gsmet",
-                "avatar": "https://avatars.githubusercontent.com/u/1279749?s=40&v=4",
-                "username": "gsmet"
-            },
-            {
-                "href": "https://github.com/geoand",
-                "avatar": "https://avatars.githubusercontent.com/u/4374975?s=40&v=4",
-                "username": "geoand"
-            },
-            {
-                "href": "https://github.com/stuartwdouglas",
-                "avatar": "https://avatars.githubusercontent.com/u/328571?s=40&v=4",
-                "username": "stuartwdouglas"
-            },
-            {
-                "href": "https://github.com/gastaldi",
-                "avatar": "https://avatars.githubusercontent.com/u/54133?s=40&v=4",
-                "username": "gastaldi"
-            },
-            {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
-            }
-        ]
-    },
-    {
-        "author": "doocs",
-        "name": "advanced-java",
-        "avatar": "https://github.com/doocs.png",
-        "sponsor": null,
-        "url": "https://github.com/doocs/advanced-java",
-        "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
-        "language": "Java",
-        "languageColor": "#b07219",
-        "stars": 75339,
-        "fork": 18967,
-        "currentPeriodStars": 14,
-        "builtBy": [
-            {
-                "href": "https://github.com/yanglbme",
-                "avatar": "https://avatars.githubusercontent.com/u/21008209?s=40&v=4",
-                "username": "yanglbme"
-            },
-            {
-                "href": "https://github.com/ImgBotApp",
-                "avatar": "https://avatars.githubusercontent.com/u/31427850?s=40&v=4",
-                "username": "ImgBotApp"
-            },
-            {
-                "href": "https://github.com/huifer",
-                "avatar": "https://avatars.githubusercontent.com/u/26766909?s=40&v=4",
-                "username": "huifer"
-            },
-            {
-                "href": "https://github.com/chenqimiao",
-                "avatar": "https://avatars.githubusercontent.com/u/15151483?s=40&v=4",
-                "username": "chenqimiao"
-            },
-            {
-                "href": "https://github.com/ZhenghaeHo",
-                "avatar": "https://avatars.githubusercontent.com/u/11981281?s=40&v=4",
-                "username": "ZhenghaeHo"
-            }
-        ]
-    },
-    {
-        "author": "Azure",
-        "name": "azure-sdk-for-java",
-        "avatar": "https://github.com/Azure.png",
-        "sponsor": null,
-        "url": "https://github.com/Azure/azure-sdk-for-java",
-        "description": "This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs athttps://docs.microsoft.com/java/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-java.",
-        "language": "Java",
-        "languageColor": "#b07219",
-        "stars": 2264,
-        "fork": 1943,
-        "currentPeriodStars": 1,
-        "builtBy": [
-            {
-                "href": "https://github.com/azure-sdk",
-                "avatar": "https://avatars.githubusercontent.com/u/53356347?s=40&v=4",
-                "username": "azure-sdk"
-            },
-            {
-                "href": "https://github.com/jianghaolu",
-                "avatar": "https://avatars.githubusercontent.com/u/2320445?s=40&v=4",
-                "username": "jianghaolu"
-            },
-            {
-                "href": "https://github.com/alzimmermsft",
-                "avatar": "https://avatars.githubusercontent.com/u/48699787?s=40&v=4",
-                "username": "alzimmermsft"
-            },
-            {
-                "href": "https://github.com/anuchandy",
-                "avatar": "https://avatars.githubusercontent.com/u/1471612?s=40&v=4",
-                "username": "anuchandy"
-            },
-            {
-                "href": "https://github.com/weidongxu-microsoft",
-                "avatar": "https://avatars.githubusercontent.com/u/53292327?s=40&v=4",
-                "username": "weidongxu-microsoft"
-            }
-        ]
-    },
-    {
-        "author": "spring-projects",
-        "name": "spring-boot",
-        "avatar": "https://github.com/spring-projects.png",
-        "sponsor": null,
-        "url": "https://github.com/spring-projects/spring-boot",
-        "description": "Spring Boot",
-        "language": "Java",
-        "languageColor": "#b07219",
-        "stars": 73955,
-        "fork": 40389,
-        "currentPeriodStars": 20,
-        "builtBy": [
-            {
-                "href": "https://github.com/wilkinsona",
-                "avatar": "https://avatars.githubusercontent.com/u/914682?s=40&v=4",
-                "username": "wilkinsona"
-            },
-            {
-                "href": "https://github.com/snicoll",
-                "avatar": "https://avatars.githubusercontent.com/u/490484?s=40&v=4",
-                "username": "snicoll"
-            },
-            {
-                "href": "https://github.com/philwebb",
-                "avatar": "https://avatars.githubusercontent.com/u/519772?s=40&v=4",
-                "username": "philwebb"
-            },
-            {
-                "href": "https://github.com/mbhave",
-                "avatar": "https://avatars.githubusercontent.com/u/1761408?s=40&v=4",
-                "username": "mbhave"
-            },
-            {
-                "href": "https://github.com/mhalbritter",
-                "avatar": "https://avatars.githubusercontent.com/u/98899556?s=40&v=4",
-                "username": "mhalbritter"
-            }
-        ]
-    },
-    {
-        "author": "camunda",
-        "name": "camunda-bpm-platform",
-        "avatar": "https://github.com/camunda.png",
-        "sponsor": null,
-        "url": "https://github.com/camunda/camunda-bpm-platform",
-        "description": "Flexible framework for workflow and decision automation with BPMN and DMN. Integration with Quarkus, Spring, Spring Boot, CDI.",
-        "language": "Java",
-        "languageColor": "#b07219",
-        "stars": 4054,
-        "fork": 1536,
-        "currentPeriodStars": 1,
-        "builtBy": [
-            {
-                "href": "https://github.com/meyerdan",
-                "avatar": "https://avatars.githubusercontent.com/u/488063?s=40&v=4",
-                "username": "meyerdan"
-            },
-            {
-                "href": "https://github.com/romansmirnov",
-                "avatar": "https://avatars.githubusercontent.com/u/2368139?s=40&v=4",
-                "username": "romansmirnov"
-            },
-            {
-                "href": "https://github.com/menski",
-                "avatar": "https://avatars.githubusercontent.com/u/516296?s=40&v=4",
-                "username": "menski"
-            },
-            {
-                "href": "https://github.com/tasso94",
-                "avatar": "https://avatars.githubusercontent.com/u/3015690?s=40&v=4",
-                "username": "tasso94"
-            },
-            {
-                "href": "https://github.com/ThorbenLindhauer",
-                "avatar": "https://avatars.githubusercontent.com/u/586648?s=40&v=4",
-                "username": "ThorbenLindhauer"
-            }
-        ]
-    },
-    {
-        "author": "doocs",
-        "name": "source-code-hunter",
-        "avatar": "https://github.com/doocs.png",
-        "sponsor": null,
-        "url": "https://github.com/doocs/source-code-hunter",
-        "description": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
-        "language": "Java",
-        "languageColor": "#b07219",
-        "stars": 21715,
-        "fork": 4044,
-        "currentPeriodStars": 23,
-        "builtBy": [
-            {
-                "href": "https://github.com/AmyliaY",
-                "avatar": "https://avatars.githubusercontent.com/u/35298395?s=40&v=4",
-                "username": "AmyliaY"
-            },
-            {
-                "href": "https://github.com/huifer",
-                "avatar": "https://avatars.githubusercontent.com/u/26766909?s=40&v=4",
-                "username": "huifer"
-            },
-            {
-                "href": "https://github.com/yanglbme",
-                "avatar": "https://avatars.githubusercontent.com/u/21008209?s=40&v=4",
-                "username": "yanglbme"
-            },
-            {
-                "href": "https://github.com/ImgBotApp",
-                "avatar": "https://avatars.githubusercontent.com/u/31427850?s=40&v=4",
-                "username": "ImgBotApp"
-            },
-            {
-                "href": "https://github.com/tydhot",
-                "avatar": "https://avatars.githubusercontent.com/u/27889201?s=40&v=4",
-                "username": "tydhot"
-            }
-        ]
-    },
-    {
-        "author": "java-native-access",
-        "name": "jna",
-        "avatar": "https://github.com/java-native-access.png",
-        "sponsor": null,
-        "url": "https://github.com/java-native-access/jna",
-        "description": "Java Native Access",
-        "language": "Java",
-        "languageColor": "#b07219",
-        "stars": 8408,
-        "fork": 1668,
-        "currentPeriodStars": 3,
-        "builtBy": [
-            {
-                "href": "https://github.com/twall",
-                "avatar": "https://avatars.githubusercontent.com/u/756909?s=40&v=4",
-                "username": "twall"
-            },
-            {
-                "href": "https://github.com/matthiasblaesing",
-                "avatar": "https://avatars.githubusercontent.com/u/2179736?s=40&v=4",
-                "username": "matthiasblaesing"
-            },
-            {
-                "href": "https://github.com/dblock",
-                "avatar": "https://avatars.githubusercontent.com/u/542335?s=40&v=4",
-                "username": "dblock"
-            },
-            {
-                "href": "https://github.com/atgreen",
-                "avatar": "https://avatars.githubusercontent.com/u/89993?s=40&v=4",
-                "username": "atgreen"
-            },
-            {
-                "href": "https://github.com/bhamail",
-                "avatar": "https://avatars.githubusercontent.com/u/578919?s=40&v=4",
-                "username": "bhamail"
+                "href": "https://github.com/tishun",
+                "avatar": "https://avatars.githubusercontent.com/u/4473473?s=40&v=4",
+                "username": "tishun"
             }
         ]
     },
     {
         "author": "apache",
-        "name": "hive",
+        "name": "calcite",
         "avatar": "https://github.com/apache.png",
         "sponsor": null,
-        "url": "https://github.com/apache/hive",
-        "description": "Apache Hive",
+        "url": "https://github.com/apache/calcite",
+        "description": "Apache Calcite",
         "language": "Java",
         "languageColor": "#b07219",
-        "stars": 5447,
-        "fork": 4643,
+        "stars": 4491,
+        "fork": 2322,
         "currentPeriodStars": 2,
         "builtBy": [
             {
-                "href": "https://github.com/ashutoshc",
-                "avatar": "https://avatars.githubusercontent.com/u/370430?s=40&v=4",
-                "username": "ashutoshc"
+                "href": "https://github.com/julianhyde",
+                "avatar": "https://avatars.githubusercontent.com/u/1130553?s=40&v=4",
+                "username": "julianhyde"
             },
             {
-                "href": "https://github.com/sershe-apache",
-                "avatar": "https://avatars.githubusercontent.com/u/21018151?s=40&v=4",
-                "username": "sershe-apache"
+                "href": "https://github.com/vlsi",
+                "avatar": "https://avatars.githubusercontent.com/u/213894?s=40&v=4",
+                "username": "vlsi"
             },
             {
-                "href": "https://github.com/prasanthj",
-                "avatar": "https://avatars.githubusercontent.com/u/1147442?s=40&v=4",
-                "username": "prasanthj"
+                "href": "https://github.com/danny0405",
+                "avatar": "https://avatars.githubusercontent.com/u/7644508?s=40&v=4",
+                "username": "danny0405"
             },
             {
-                "href": "https://github.com/hagleitn",
-                "avatar": "https://avatars.githubusercontent.com/u/388702?s=40&v=4",
-                "username": "hagleitn"
+                "href": "https://github.com/zabetak",
+                "avatar": "https://avatars.githubusercontent.com/u/15013153?s=40&v=4",
+                "username": "zabetak"
             },
             {
                 "href": "https://github.com/jcamachor",
@@ -545,77 +145,42 @@
         ]
     },
     {
-        "author": "apache",
-        "name": "gravitino",
-        "avatar": "https://github.com/apache.png",
+        "author": "dataease",
+        "name": "dataease",
+        "avatar": "https://github.com/dataease.png",
         "sponsor": null,
-        "url": "https://github.com/apache/gravitino",
-        "description": "World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.",
+        "url": "https://github.com/dataease/dataease",
+        "description": "🔥 人人可用的开源数据可视化分析工具，帆软、Tableau 等商业 BI 工具的开源替代。",
         "language": "Java",
         "languageColor": "#b07219",
-        "stars": 791,
-        "fork": 252,
-        "currentPeriodStars": 9,
+        "stars": 16575,
+        "fork": 3033,
+        "currentPeriodStars": 15,
         "builtBy": [
             {
-                "href": "https://github.com/jerryshao",
-                "avatar": "https://avatars.githubusercontent.com/u/850797?s=40&v=4",
-                "username": "jerryshao"
+                "href": "https://github.com/ziyujiahao",
+                "avatar": "https://avatars.githubusercontent.com/u/42510293?s=40&v=4",
+                "username": "ziyujiahao"
             },
             {
-                "href": "https://github.com/yuqi1129",
-                "avatar": "https://avatars.githubusercontent.com/u/15794564?s=40&v=4",
-                "username": "yuqi1129"
+                "href": "https://github.com/fit2cloud-chenyw",
+                "avatar": "https://avatars.githubusercontent.com/u/67260074?s=40&v=4",
+                "username": "fit2cloud-chenyw"
             },
             {
-                "href": "https://github.com/mchades",
-                "avatar": "https://avatars.githubusercontent.com/u/24897598?s=40&v=4",
-                "username": "mchades"
+                "href": "https://github.com/XiaJunjie2020",
+                "avatar": "https://avatars.githubusercontent.com/u/59437931?s=40&v=4",
+                "username": "XiaJunjie2020"
             },
             {
-                "href": "https://github.com/FANNG1",
-                "avatar": "https://avatars.githubusercontent.com/u/5102100?s=40&v=4",
-                "username": "FANNG1"
+                "href": "https://github.com/jinlong-T",
+                "avatar": "https://avatars.githubusercontent.com/u/41368289?s=40&v=4",
+                "username": "jinlong-T"
             },
             {
-                "href": "https://github.com/justinmclean",
-                "avatar": "https://avatars.githubusercontent.com/u/144504?s=40&v=4",
-                "username": "justinmclean"
-            }
-        ]
-    },
-    {
-        "author": "bazelbuild",
-        "name": "bazel",
-        "avatar": "https://github.com/bazelbuild.png",
-        "sponsor": null,
-        "url": "https://github.com/bazelbuild/bazel",
-        "description": "a fast, scalable, multi-language and extensible build system",
-        "language": "Java",
-        "languageColor": "#b07219",
-        "stars": 22796,
-        "fork": 4005,
-        "currentPeriodStars": 8,
-        "builtBy": [
-            {
-                "href": "https://github.com/lberki",
-                "avatar": "https://avatars.githubusercontent.com/u/3524818?s=40&v=4",
-                "username": "lberki"
-            },
-            {
-                "href": "https://github.com/katre",
-                "avatar": "https://avatars.githubusercontent.com/u/326527?s=40&v=4",
-                "username": "katre"
-            },
-            {
-                "href": "https://github.com/janakdr",
-                "avatar": "https://avatars.githubusercontent.com/u/10134896?s=40&v=4",
-                "username": "janakdr"
-            },
-            {
-                "href": "https://github.com/cushon",
-                "avatar": "https://avatars.githubusercontent.com/u/478458?s=40&v=4",
-                "username": "cushon"
+                "href": "https://github.com/dataeaseShu",
+                "avatar": "https://avatars.githubusercontent.com/u/106045316?s=40&v=4",
+                "username": "dataeaseShu"
             }
         ]
     },
@@ -660,282 +225,717 @@
         ]
     },
     {
-        "author": "openrewrite",
-        "name": "rewrite",
-        "avatar": "https://github.com/openrewrite.png",
-        "sponsor": null,
-        "url": "https://github.com/openrewrite/rewrite",
-        "description": "Automated mass refactoring of source code.",
+        "author": "jagrosh",
+        "name": "MusicBot",
+        "avatar": "https://github.com/jagrosh.png",
+        "sponsor": "https://github.com/sponsors/jagrosh",
+        "url": "https://github.com/jagrosh/MusicBot",
+        "description": "🎶 A Discord music bot that's easy to set up and run yourself!",
         "language": "Java",
         "languageColor": "#b07219",
-        "stars": 2031,
-        "fork": 304,
-        "currentPeriodStars": 3,
-        "builtBy": [
-            {
-                "href": "https://github.com/jkschneider",
-                "avatar": "https://avatars.githubusercontent.com/u/1697736?s=40&v=4",
-                "username": "jkschneider"
-            },
-            {
-                "href": "https://github.com/sambsnyd",
-                "avatar": "https://avatars.githubusercontent.com/u/8549033?s=40&v=4",
-                "username": "sambsnyd"
-            },
-            {
-                "href": "https://github.com/traceyyoshima",
-                "avatar": "https://avatars.githubusercontent.com/u/16889475?s=40&v=4",
-                "username": "traceyyoshima"
-            },
-            {
-                "href": "https://github.com/knutwannheden",
-                "avatar": "https://avatars.githubusercontent.com/u/408765?s=40&v=4",
-                "username": "knutwannheden"
-            },
-            {
-                "href": "https://github.com/tkvangorder",
-                "avatar": "https://avatars.githubusercontent.com/u/1878529?s=40&v=4",
-                "username": "tkvangorder"
-            }
-        ]
-    },
-    {
-        "author": "flyway",
-        "name": "flyway",
-        "avatar": "https://github.com/flyway.png",
-        "sponsor": null,
-        "url": "https://github.com/flyway/flyway",
-        "description": "Flyway by Redgate • Database Migrations Made Easy.",
-        "language": "Java",
-        "languageColor": "#b07219",
-        "stars": 7976,
-        "fork": 1489,
-        "currentPeriodStars": 3,
-        "builtBy": [
-            {
-                "href": "https://github.com/axelfontaine",
-                "avatar": "https://avatars.githubusercontent.com/u/684824?s=40&v=4",
-                "username": "axelfontaine"
-            },
-            {
-                "href": "https://github.com/DoodleBobBuffPants",
-                "avatar": "https://avatars.githubusercontent.com/u/17652619?s=40&v=4",
-                "username": "DoodleBobBuffPants"
-            },
-            {
-                "href": "https://github.com/juliahayward",
-                "avatar": "https://avatars.githubusercontent.com/u/454881?s=40&v=4",
-                "username": "juliahayward"
-            },
-            {
-                "href": "https://github.com/Lyeeedar",
-                "avatar": "https://avatars.githubusercontent.com/u/1607501?s=40&v=4",
-                "username": "Lyeeedar"
-            },
-            {
-                "href": "https://github.com/rg-buildmonkey",
-                "avatar": "https://avatars.githubusercontent.com/u/25437519?s=40&v=4",
-                "username": "rg-buildmonkey"
-            }
-        ]
-    },
-    {
-        "author": "kdn251",
-        "name": "interviews",
-        "avatar": "https://github.com/kdn251.png",
-        "sponsor": null,
-        "url": "https://github.com/kdn251/interviews",
-        "description": "Everything you need to know to get the job.",
-        "language": "Java",
-        "languageColor": "#b07219",
-        "stars": 62956,
-        "fork": 12857,
-        "currentPeriodStars": 19,
-        "builtBy": [
-            {
-                "href": "https://github.com/fatosmorina",
-                "avatar": "https://avatars.githubusercontent.com/u/9070583?s=40&v=4",
-                "username": "fatosmorina"
-            },
-            {
-                "href": "https://github.com/kdn251",
-                "avatar": "https://avatars.githubusercontent.com/u/16903644?s=40&v=4",
-                "username": "kdn251"
-            },
-            {
-                "href": "https://github.com/linhe0x0",
-                "avatar": "https://avatars.githubusercontent.com/u/8622362?s=40&v=4",
-                "username": "linhe0x0"
-            },
-            {
-                "href": "https://github.com/jitendra3109",
-                "avatar": "https://avatars.githubusercontent.com/u/10773353?s=40&v=4",
-                "username": "jitendra3109"
-            },
-            {
-                "href": "https://github.com/leviding",
-                "avatar": "https://avatars.githubusercontent.com/u/26959437?s=40&v=4",
-                "username": "leviding"
-            }
-        ]
-    },
-    {
-        "author": "apache",
-        "name": "flink",
-        "avatar": "https://github.com/apache.png",
-        "sponsor": null,
-        "url": "https://github.com/apache/flink",
-        "description": "Apache Flink",
-        "language": "Java",
-        "languageColor": "#b07219",
-        "stars": 23616,
-        "fork": 13143,
-        "currentPeriodStars": 8,
-        "builtBy": [
-            {
-                "href": "https://github.com/zentol",
-                "avatar": "https://avatars.githubusercontent.com/u/5725237?s=40&v=4",
-                "username": "zentol"
-            },
-            {
-                "href": "https://github.com/tillrohrmann",
-                "avatar": "https://avatars.githubusercontent.com/u/5756858?s=40&v=4",
-                "username": "tillrohrmann"
-            },
-            {
-                "href": "https://github.com/StephanEwen",
-                "avatar": "https://avatars.githubusercontent.com/u/1727146?s=40&v=4",
-                "username": "StephanEwen"
-            },
-            {
-                "href": "https://github.com/aljoscha",
-                "avatar": "https://avatars.githubusercontent.com/u/68551?s=40&v=4",
-                "username": "aljoscha"
-            },
-            {
-                "href": "https://github.com/twalthr",
-                "avatar": "https://avatars.githubusercontent.com/u/5746567?s=40&v=4",
-                "username": "twalthr"
-            }
-        ]
-    },
-    {
-        "author": "xkcoding",
-        "name": "spring-boot-demo",
-        "avatar": "https://github.com/xkcoding.png",
-        "sponsor": null,
-        "url": "https://github.com/xkcoding/spring-boot-demo",
-        "description": "🚀一个用来深入学习并实战 Spring Boot 的项目。",
-        "language": "Java",
-        "languageColor": "#b07219",
-        "stars": 32672,
-        "fork": 10779,
+        "stars": 4943,
+        "fork": 2464,
         "currentPeriodStars": 9,
         "builtBy": [
             {
-                "href": "https://github.com/xkcoding",
-                "avatar": "https://avatars.githubusercontent.com/u/10429917?s=40&v=4",
-                "username": "xkcoding"
+                "href": "https://github.com/jagrosh",
+                "avatar": "https://avatars.githubusercontent.com/u/12754382?s=40&v=4",
+                "username": "jagrosh"
             },
             {
-                "href": "https://github.com/fxbin",
-                "avatar": "https://avatars.githubusercontent.com/u/29231515?s=40&v=4",
-                "username": "fxbin"
+                "href": "https://github.com/MichailiK",
+                "avatar": "https://avatars.githubusercontent.com/u/39029839?s=40&v=4",
+                "username": "MichailiK"
             },
             {
-                "href": "https://github.com/lizhongyue248",
-                "avatar": "https://avatars.githubusercontent.com/u/29678316?s=40&v=4",
-                "username": "lizhongyue248"
+                "href": "https://github.com/Dougley",
+                "avatar": "https://avatars.githubusercontent.com/u/9768134?s=40&v=4",
+                "username": "Dougley"
             },
             {
-                "href": "https://github.com/chenqi146",
-                "avatar": "https://avatars.githubusercontent.com/u/36069431?s=40&v=4",
-                "username": "chenqi146"
+                "href": "https://github.com/lorivaro",
+                "avatar": "https://avatars.githubusercontent.com/u/64579257?s=40&v=4",
+                "username": "lorivaro"
             },
             {
-                "href": "https://github.com/yaodehaung",
-                "avatar": "https://avatars.githubusercontent.com/u/8554998?s=40&v=4",
-                "username": "yaodehaung"
+                "href": "https://github.com/Telluur",
+                "avatar": "https://avatars.githubusercontent.com/u/2377379?s=40&v=4",
+                "username": "Telluur"
             }
         ]
     },
     {
-        "author": "hibernate",
-        "name": "hibernate-orm",
-        "avatar": "https://github.com/hibernate.png",
+        "author": "keycloak",
+        "name": "keycloak",
+        "avatar": "https://github.com/keycloak.png",
         "sponsor": null,
-        "url": "https://github.com/hibernate/hibernate-orm",
-        "description": "Hibernate's core Object/Relational Mapping functionality",
+        "url": "https://github.com/keycloak/keycloak",
+        "description": "Open Source Identity and Access Management For Modern Applications and Services",
         "language": "Java",
         "languageColor": "#b07219",
-        "stars": 5848,
-        "fork": 3498,
-        "currentPeriodStars": 2,
+        "stars": 21426,
+        "fork": 6510,
+        "currentPeriodStars": 21,
         "builtBy": [
             {
-                "href": "https://github.com/sebersole",
-                "avatar": "https://avatars.githubusercontent.com/u/234515?s=40&v=4",
-                "username": "sebersole"
+                "href": "https://github.com/stianst",
+                "avatar": "https://avatars.githubusercontent.com/u/2271511?s=40&v=4",
+                "username": "stianst"
             },
             {
-                "href": "https://github.com/gavinking",
-                "avatar": "https://avatars.githubusercontent.com/u/579974?s=40&v=4",
-                "username": "gavinking"
+                "href": "https://github.com/patriot1burke",
+                "avatar": "https://avatars.githubusercontent.com/u/704239?s=40&v=4",
+                "username": "patriot1burke"
             },
             {
-                "href": "https://github.com/dreab8",
-                "avatar": "https://avatars.githubusercontent.com/u/432649?s=40&v=4",
-                "username": "dreab8"
+                "href": "https://github.com/mposolda",
+                "avatar": "https://avatars.githubusercontent.com/u/1223965?s=40&v=4",
+                "username": "mposolda"
             },
             {
-                "href": "https://github.com/beikov",
-                "avatar": "https://avatars.githubusercontent.com/u/358916?s=40&v=4",
-                "username": "beikov"
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
             },
             {
-                "href": "https://github.com/Sanne",
-                "avatar": "https://avatars.githubusercontent.com/u/42573?s=40&v=4",
-                "username": "Sanne"
+                "href": "https://github.com/pedroigor",
+                "avatar": "https://avatars.githubusercontent.com/u/1143437?s=40&v=4",
+                "username": "pedroigor"
+            }
+        ]
+    },
+    {
+        "author": "elastic",
+        "name": "elasticsearch",
+        "avatar": "https://github.com/elastic.png",
+        "sponsor": null,
+        "url": "https://github.com/elastic/elasticsearch",
+        "description": "Free and Open, Distributed, RESTful Search Engine",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 68790,
+        "fork": 24442,
+        "currentPeriodStars": 13,
+        "builtBy": [
+            {
+                "href": "https://github.com/kimchy",
+                "avatar": "https://avatars.githubusercontent.com/u/41300?s=40&v=4",
+                "username": "kimchy"
+            },
+            {
+                "href": "https://github.com/s1monw",
+                "avatar": "https://avatars.githubusercontent.com/u/973334?s=40&v=4",
+                "username": "s1monw"
+            },
+            {
+                "href": "https://github.com/martijnvg",
+                "avatar": "https://avatars.githubusercontent.com/u/580421?s=40&v=4",
+                "username": "martijnvg"
+            },
+            {
+                "href": "https://github.com/nik9000",
+                "avatar": "https://avatars.githubusercontent.com/u/215970?s=40&v=4",
+                "username": "nik9000"
+            },
+            {
+                "href": "https://github.com/jasontedor",
+                "avatar": "https://avatars.githubusercontent.com/u/4744941?s=40&v=4",
+                "username": "jasontedor"
+            }
+        ]
+    },
+    {
+        "author": "opensearch-project",
+        "name": "OpenSearch",
+        "avatar": "https://github.com/opensearch-project.png",
+        "sponsor": null,
+        "url": "https://github.com/opensearch-project/OpenSearch",
+        "description": "🔎 Open source distributed and RESTful search engine.",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 9178,
+        "fork": 1695,
+        "currentPeriodStars": 8,
+        "builtBy": [
+            {
+                "href": "https://github.com/nknize",
+                "avatar": "https://avatars.githubusercontent.com/u/830187?s=40&v=4",
+                "username": "nknize"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/reta",
+                "avatar": "https://avatars.githubusercontent.com/u/509855?s=40&v=4",
+                "username": "reta"
+            },
+            {
+                "href": "https://github.com/adnapibar",
+                "avatar": "https://avatars.githubusercontent.com/u/2838888?s=40&v=4",
+                "username": "adnapibar"
+            },
+            {
+                "href": "https://github.com/andrross",
+                "avatar": "https://avatars.githubusercontent.com/u/9160839?s=40&v=4",
+                "username": "andrross"
+            }
+        ]
+    },
+    {
+        "author": "mcastillof",
+        "name": "FakeTraveler",
+        "avatar": "https://github.com/mcastillof.png",
+        "sponsor": null,
+        "url": "https://github.com/mcastillof/FakeTraveler",
+        "description": "Fake where your phone is located (Mock location for Android).",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 597,
+        "fork": 82,
+        "currentPeriodStars": 34,
+        "builtBy": [
+            {
+                "href": "https://github.com/mcastillof",
+                "avatar": "https://avatars.githubusercontent.com/u/6936113?s=40&v=4",
+                "username": "mcastillof"
+            },
+            {
+                "href": "https://github.com/hannesa2",
+                "avatar": "https://avatars.githubusercontent.com/u/3314607?s=40&v=4",
+                "username": "hannesa2"
+            },
+            {
+                "href": "https://github.com/iraamaro",
+                "avatar": "https://avatars.githubusercontent.com/u/40754811?s=40&v=4",
+                "username": "iraamaro"
+            },
+            {
+                "href": "https://github.com/licaon-kter",
+                "avatar": "https://avatars.githubusercontent.com/u/2282799?s=40&v=4",
+                "username": "licaon-kter"
+            },
+            {
+                "href": "https://github.com/leggewie",
+                "avatar": "https://avatars.githubusercontent.com/u/2387015?s=40&v=4",
+                "username": "leggewie"
+            }
+        ]
+    },
+    {
+        "author": "spring-projects",
+        "name": "spring-boot",
+        "avatar": "https://github.com/spring-projects.png",
+        "sponsor": null,
+        "url": "https://github.com/spring-projects/spring-boot",
+        "description": "Spring Boot",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 73954,
+        "fork": 40389,
+        "currentPeriodStars": 20,
+        "builtBy": [
+            {
+                "href": "https://github.com/wilkinsona",
+                "avatar": "https://avatars.githubusercontent.com/u/914682?s=40&v=4",
+                "username": "wilkinsona"
+            },
+            {
+                "href": "https://github.com/snicoll",
+                "avatar": "https://avatars.githubusercontent.com/u/490484?s=40&v=4",
+                "username": "snicoll"
+            },
+            {
+                "href": "https://github.com/philwebb",
+                "avatar": "https://avatars.githubusercontent.com/u/519772?s=40&v=4",
+                "username": "philwebb"
+            },
+            {
+                "href": "https://github.com/mbhave",
+                "avatar": "https://avatars.githubusercontent.com/u/1761408?s=40&v=4",
+                "username": "mbhave"
+            },
+            {
+                "href": "https://github.com/mhalbritter",
+                "avatar": "https://avatars.githubusercontent.com/u/98899556?s=40&v=4",
+                "username": "mhalbritter"
+            }
+        ]
+    },
+    {
+        "author": "apolloconfig",
+        "name": "apollo",
+        "avatar": "https://github.com/apolloconfig.png",
+        "sponsor": "https://github.com/sponsors/apolloconfig",
+        "url": "https://github.com/apolloconfig/apollo",
+        "description": "Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 28994,
+        "fork": 10195,
+        "currentPeriodStars": 4,
+        "builtBy": [
+            {
+                "href": "https://github.com/nobodyiam",
+                "avatar": "https://avatars.githubusercontent.com/u/837658?s=40&v=4",
+                "username": "nobodyiam"
+            },
+            {
+                "href": "https://github.com/yiming187",
+                "avatar": "https://avatars.githubusercontent.com/u/1217700?s=40&v=4",
+                "username": "yiming187"
+            },
+            {
+                "href": "https://github.com/lepdou",
+                "avatar": "https://avatars.githubusercontent.com/u/4991116?s=40&v=4",
+                "username": "lepdou"
+            },
+            {
+                "href": "https://github.com/Anilople",
+                "avatar": "https://avatars.githubusercontent.com/u/15523186?s=40&v=4",
+                "username": "Anilople"
+            },
+            {
+                "href": "https://github.com/klboke",
+                "avatar": "https://avatars.githubusercontent.com/u/18591662?s=40&v=4",
+                "username": "klboke"
+            }
+        ]
+    },
+    {
+        "author": "Azure",
+        "name": "azure-sdk-for-java",
+        "avatar": "https://github.com/Azure.png",
+        "sponsor": null,
+        "url": "https://github.com/Azure/azure-sdk-for-java",
+        "description": "This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs athttps://docs.microsoft.com/java/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-java.",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 2264,
+        "fork": 1943,
+        "currentPeriodStars": 1,
+        "builtBy": [
+            {
+                "href": "https://github.com/azure-sdk",
+                "avatar": "https://avatars.githubusercontent.com/u/53356347?s=40&v=4",
+                "username": "azure-sdk"
+            },
+            {
+                "href": "https://github.com/jianghaolu",
+                "avatar": "https://avatars.githubusercontent.com/u/2320445?s=40&v=4",
+                "username": "jianghaolu"
+            },
+            {
+                "href": "https://github.com/alzimmermsft",
+                "avatar": "https://avatars.githubusercontent.com/u/48699787?s=40&v=4",
+                "username": "alzimmermsft"
+            },
+            {
+                "href": "https://github.com/anuchandy",
+                "avatar": "https://avatars.githubusercontent.com/u/1471612?s=40&v=4",
+                "username": "anuchandy"
+            },
+            {
+                "href": "https://github.com/weidongxu-microsoft",
+                "avatar": "https://avatars.githubusercontent.com/u/53292327?s=40&v=4",
+                "username": "weidongxu-microsoft"
             }
         ]
     },
     {
         "author": "apache",
-        "name": "beam",
+        "name": "incubator-seata",
         "avatar": "https://github.com/apache.png",
         "sponsor": null,
-        "url": "https://github.com/apache/beam",
-        "description": "Apache Beam is a unified programming model for Batch and Streaming data processing.",
+        "url": "https://github.com/apache/incubator-seata",
+        "description": "🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution.",
         "language": "Java",
         "languageColor": "#b07219",
-        "stars": 7712,
-        "fork": 4211,
+        "stars": 25128,
+        "fork": 8740,
         "currentPeriodStars": 2,
         "builtBy": [
             {
-                "href": "https://github.com/kennknowles",
-                "avatar": "https://avatars.githubusercontent.com/u/575353?s=40&v=4",
-                "username": "kennknowles"
+                "href": "https://github.com/slievrly",
+                "avatar": "https://avatars.githubusercontent.com/u/8758457?s=40&v=4",
+                "username": "slievrly"
             },
             {
-                "href": "https://github.com/robertwb",
-                "avatar": "https://avatars.githubusercontent.com/u/486017?s=40&v=4",
-                "username": "robertwb"
+                "href": "https://github.com/funky-eyes",
+                "avatar": "https://avatars.githubusercontent.com/u/19943636?s=40&v=4",
+                "username": "funky-eyes"
             },
             {
-                "href": "https://github.com/lukecwik",
-                "avatar": "https://avatars.githubusercontent.com/u/10078956?s=40&v=4",
-                "username": "lukecwik"
+                "href": "https://github.com/wangliang181230",
+                "avatar": "https://avatars.githubusercontent.com/u/1527893?s=40&v=4",
+                "username": "wangliang181230"
             },
             {
-                "href": "https://github.com/aaltay",
-                "avatar": "https://avatars.githubusercontent.com/u/696638?s=40&v=4",
-                "username": "aaltay"
+                "href": "https://github.com/xingfudeshi",
+                "avatar": "https://avatars.githubusercontent.com/u/24457941?s=40&v=4",
+                "username": "xingfudeshi"
             },
             {
-                "href": "https://github.com/tgroh",
-                "avatar": "https://avatars.githubusercontent.com/u/429866?s=40&v=4",
-                "username": "tgroh"
+                "href": "https://github.com/l81893521",
+                "avatar": "https://avatars.githubusercontent.com/u/4516752?s=40&v=4",
+                "username": "l81893521"
+            }
+        ]
+    },
+    {
+        "author": "spring-projects",
+        "name": "spring-ai",
+        "avatar": "https://github.com/spring-projects.png",
+        "sponsor": null,
+        "url": "https://github.com/spring-projects/spring-ai",
+        "description": "An Application Framework for AI Engineering",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 2657,
+        "fork": 649,
+        "currentPeriodStars": 2,
+        "builtBy": [
+            {
+                "href": "https://github.com/tzolov",
+                "avatar": "https://avatars.githubusercontent.com/u/1351573?s=40&v=4",
+                "username": "tzolov"
+            },
+            {
+                "href": "https://github.com/markpollack",
+                "avatar": "https://avatars.githubusercontent.com/u/247466?s=40&v=4",
+                "username": "markpollack"
+            },
+            {
+                "href": "https://github.com/eddumelendez",
+                "avatar": "https://avatars.githubusercontent.com/u/1810547?s=40&v=4",
+                "username": "eddumelendez"
+            },
+            {
+                "href": "https://github.com/ThomasVitale",
+                "avatar": "https://avatars.githubusercontent.com/u/8523418?s=40&v=4",
+                "username": "ThomasVitale"
+            },
+            {
+                "href": "https://github.com/habuma",
+                "avatar": "https://avatars.githubusercontent.com/u/167926?s=40&v=4",
+                "username": "habuma"
+            }
+        ]
+    },
+    {
+        "author": "kunal-kushwaha",
+        "name": "DSA-Bootcamp-Java",
+        "avatar": "https://github.com/kunal-kushwaha.png",
+        "sponsor": "https://github.com/sponsors/kunal-kushwaha",
+        "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+        "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 16338,
+        "fork": 10618,
+        "currentPeriodStars": 19,
+        "builtBy": [
+            {
+                "href": "https://github.com/kunal-kushwaha",
+                "avatar": "https://avatars.githubusercontent.com/u/42698533?s=40&v=4",
+                "username": "kunal-kushwaha"
+            },
+            {
+                "href": "https://github.com/Vrukshali-26",
+                "avatar": "https://avatars.githubusercontent.com/u/65615660?s=40&v=4",
+                "username": "Vrukshali-26"
+            },
+            {
+                "href": "https://github.com/avijit1999",
+                "avatar": "https://avatars.githubusercontent.com/u/46240269?s=40&v=4",
+                "username": "avijit1999"
+            },
+            {
+                "href": "https://github.com/darecoder",
+                "avatar": "https://avatars.githubusercontent.com/u/42637982?s=40&v=4",
+                "username": "darecoder"
+            },
+            {
+                "href": "https://github.com/alokVerma749",
+                "avatar": "https://avatars.githubusercontent.com/u/87599400?s=40&v=4",
+                "username": "alokVerma749"
+            }
+        ]
+    },
+    {
+        "author": "raphw",
+        "name": "byte-buddy",
+        "avatar": "https://github.com/raphw.png",
+        "sponsor": "https://github.com/sponsors/raphw",
+        "url": "https://github.com/raphw/byte-buddy",
+        "description": "Runtime code generation for the Java virtual machine.",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 6130,
+        "fork": 789,
+        "currentPeriodStars": 3,
+        "builtBy": [
+            {
+                "href": "https://github.com/raphw",
+                "avatar": "https://avatars.githubusercontent.com/u/4489328?s=40&v=4",
+                "username": "raphw"
+            },
+            {
+                "href": "https://github.com/LikeTheSalad",
+                "avatar": "https://avatars.githubusercontent.com/u/56847527?s=40&v=4",
+                "username": "LikeTheSalad"
+            },
+            {
+                "href": "https://github.com/ljnelson",
+                "avatar": "https://avatars.githubusercontent.com/u/80764?s=40&v=4",
+                "username": "ljnelson"
+            },
+            {
+                "href": "https://github.com/sormuras",
+                "avatar": "https://avatars.githubusercontent.com/u/2319838?s=40&v=4",
+                "username": "sormuras"
+            },
+            {
+                "href": "https://github.com/CodingFabian",
+                "avatar": "https://avatars.githubusercontent.com/u/176132?s=40&v=4",
+                "username": "CodingFabian"
+            }
+        ]
+    },
+    {
+        "author": "OpenRefine",
+        "name": "OpenRefine",
+        "avatar": "https://github.com/OpenRefine.png",
+        "sponsor": "https://github.com/sponsors/OpenRefine",
+        "url": "https://github.com/OpenRefine/OpenRefine",
+        "description": "OpenRefine is a free, open source power tool for working with messy data and improving it",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 10675,
+        "fork": 1935,
+        "currentPeriodStars": 9,
+        "builtBy": [
+            {
+                "href": "https://github.com/wetneb",
+                "avatar": "https://avatars.githubusercontent.com/u/309908?s=40&v=4",
+                "username": "wetneb"
+            },
+            {
+                "href": "https://github.com/tfmorris",
+                "avatar": "https://avatars.githubusercontent.com/u/82178?s=40&v=4",
+                "username": "tfmorris"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/dfhuynh",
+                "avatar": "https://avatars.githubusercontent.com/u/716319?s=40&v=4",
+                "username": "dfhuynh"
+            },
+            {
+                "href": "https://github.com/weblate",
+                "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4",
+                "username": "weblate"
+            }
+        ]
+    },
+    {
+        "author": "eugenp",
+        "name": "tutorials",
+        "avatar": "https://github.com/eugenp.png",
+        "sponsor": null,
+        "url": "https://github.com/eugenp/tutorials",
+        "description": "Just Announced - \"Learn Spring Security OAuth\":",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 36374,
+        "fork": 54426,
+        "currentPeriodStars": 4,
+        "builtBy": [
+            {
+                "href": "https://github.com/lor6",
+                "avatar": "https://avatars.githubusercontent.com/u/18684932?s=40&v=4",
+                "username": "lor6"
+            },
+            {
+                "href": "https://github.com/johnA1331",
+                "avatar": "https://avatars.githubusercontent.com/u/53036378?s=40&v=4",
+                "username": "johnA1331"
+            },
+            {
+                "href": "https://github.com/kwoyke",
+                "avatar": "https://avatars.githubusercontent.com/u/10830473?s=40&v=4",
+                "username": "kwoyke"
+            },
+            {
+                "href": "https://github.com/edizor",
+                "avatar": "https://avatars.githubusercontent.com/u/113095366?s=40&v=4",
+                "username": "edizor"
+            },
+            {
+                "href": "https://github.com/Doha2012",
+                "avatar": "https://avatars.githubusercontent.com/u/1456589?s=40&v=4",
+                "username": "Doha2012"
+            }
+        ]
+    },
+    {
+        "author": "open-telemetry",
+        "name": "opentelemetry-java-instrumentation",
+        "avatar": "https://github.com/open-telemetry.png",
+        "sponsor": null,
+        "url": "https://github.com/open-telemetry/opentelemetry-java-instrumentation",
+        "description": "OpenTelemetry auto-instrumentation and instrumentation libraries for Java",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 1837,
+        "fork": 808,
+        "currentPeriodStars": 7,
+        "builtBy": [
+            {
+                "href": "https://github.com/trask",
+                "avatar": "https://avatars.githubusercontent.com/u/218610?s=40&v=4",
+                "username": "trask"
+            },
+            {
+                "href": "https://github.com/tylerbenson",
+                "avatar": "https://avatars.githubusercontent.com/u/734411?s=40&v=4",
+                "username": "tylerbenson"
+            },
+            {
+                "href": "https://github.com/laurit",
+                "avatar": "https://avatars.githubusercontent.com/u/1997823?s=40&v=4",
+                "username": "laurit"
+            },
+            {
+                "href": "https://github.com/opentelemetrybot",
+                "avatar": "https://avatars.githubusercontent.com/u/107717825?s=40&v=4",
+                "username": "opentelemetrybot"
+            },
+            {
+                "href": "https://github.com/mar-kolya",
+                "avatar": "https://avatars.githubusercontent.com/u/1003102?s=40&v=4",
+                "username": "mar-kolya"
+            }
+        ]
+    },
+    {
+        "author": "bazelbuild",
+        "name": "bazel",
+        "avatar": "https://github.com/bazelbuild.png",
+        "sponsor": null,
+        "url": "https://github.com/bazelbuild/bazel",
+        "description": "a fast, scalable, multi-language and extensible build system",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 22797,
+        "fork": 4005,
+        "currentPeriodStars": 8,
+        "builtBy": [
+            {
+                "href": "https://github.com/lberki",
+                "avatar": "https://avatars.githubusercontent.com/u/3524818?s=40&v=4",
+                "username": "lberki"
+            },
+            {
+                "href": "https://github.com/katre",
+                "avatar": "https://avatars.githubusercontent.com/u/326527?s=40&v=4",
+                "username": "katre"
+            },
+            {
+                "href": "https://github.com/janakdr",
+                "avatar": "https://avatars.githubusercontent.com/u/10134896?s=40&v=4",
+                "username": "janakdr"
+            },
+            {
+                "href": "https://github.com/cushon",
+                "avatar": "https://avatars.githubusercontent.com/u/478458?s=40&v=4",
+                "username": "cushon"
+            }
+        ]
+    },
+    {
+        "author": "karatelabs",
+        "name": "karate",
+        "avatar": "https://github.com/karatelabs.png",
+        "sponsor": "https://github.com/sponsors/karatelabs",
+        "url": "https://github.com/karatelabs/karate",
+        "description": "Test Automation Made Simple",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 8028,
+        "fork": 1931,
+        "currentPeriodStars": 4,
+        "builtBy": [
+            {
+                "href": "https://github.com/ptrthomas",
+                "avatar": "https://avatars.githubusercontent.com/u/915480?s=40&v=4",
+                "username": "ptrthomas"
+            },
+            {
+                "href": "https://github.com/joelpramos",
+                "avatar": "https://avatars.githubusercontent.com/u/53574318?s=40&v=4",
+                "username": "joelpramos"
+            },
+            {
+                "href": "https://github.com/babusekaran",
+                "avatar": "https://avatars.githubusercontent.com/u/26348282?s=40&v=4",
+                "username": "babusekaran"
+            },
+            {
+                "href": "https://github.com/ivangsa",
+                "avatar": "https://avatars.githubusercontent.com/u/1246876?s=40&v=4",
+                "username": "ivangsa"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            }
+        ]
+    },
+    {
+        "author": "krlvm",
+        "name": "PowerTunnel-Android",
+        "avatar": "https://github.com/krlvm.png",
+        "sponsor": null,
+        "url": "https://github.com/krlvm/PowerTunnel-Android",
+        "description": "Powerful and extensible proxy server with anti-censorship functionality for Android",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 1051,
+        "fork": 93,
+        "currentPeriodStars": 39,
+        "builtBy": [
+            {
+                "href": "https://github.com/krlvm",
+                "avatar": "https://avatars.githubusercontent.com/u/51774833?s=40&v=4",
+                "username": "krlvm"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/apps/dependabot-preview",
+                "avatar": "https://avatars.githubusercontent.com/in/2141?s=40&v=4",
+                "username": "apps/dependabot-preview"
+            },
+            {
+                "href": "https://github.com/Atrate",
+                "avatar": "https://avatars.githubusercontent.com/u/26827848?s=40&v=4",
+                "username": "Atrate"
+            },
+            {
+                "href": "https://github.com/apps/imgbot",
+                "avatar": "https://avatars.githubusercontent.com/in/4706?s=40&v=4",
+                "username": "apps/imgbot"
             }
         ]
     }
