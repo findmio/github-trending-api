@@ -8,7 +8,7 @@
         "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
         "language": "Objective-C",
         "languageColor": "#438eff",
-        "stars": 17358,
+        "stars": 17359,
         "fork": 1068,
         "currentPeriodStars": 450,
         "builtBy": [
@@ -123,7 +123,7 @@
         "description": "Asynchronous image downloader with cache support as a UIImageView category",
         "language": "Objective-C",
         "languageColor": "#438eff",
-        "stars": 25001,
+        "stars": 25002,
         "fork": 5958,
         "currentPeriodStars": 63,
         "builtBy": [
@@ -163,7 +163,7 @@
         "description": "An in-app debugging and exploration tool for iOS",
         "language": "Objective-C",
         "languageColor": "#438eff",
-        "stars": 13967,
+        "stars": 13968,
         "fork": 1692,
         "currentPeriodStars": 50,
         "builtBy": [
@@ -191,46 +191,6 @@
                 "href": "https://github.com/TimOliver",
                 "avatar": "https://avatars.githubusercontent.com/u/429119?s=40&v=4",
                 "username": "TimOliver"
-            }
-        ]
-    },
-    {
-        "author": "realm",
-        "name": "realm-swift",
-        "avatar": "https://github.com/realm.png",
-        "sponsor": null,
-        "url": "https://github.com/realm/realm-swift",
-        "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
-        "language": "Objective-C",
-        "languageColor": "#438eff",
-        "stars": 16228,
-        "fork": 2138,
-        "currentPeriodStars": 57,
-        "builtBy": [
-            {
-                "href": "https://github.com/tgoyne",
-                "avatar": "https://avatars.githubusercontent.com/u/408944?s=40&v=4",
-                "username": "tgoyne"
-            },
-            {
-                "href": "https://github.com/jpsim",
-                "avatar": "https://avatars.githubusercontent.com/u/474794?s=40&v=4",
-                "username": "jpsim"
-            },
-            {
-                "href": "https://github.com/alazier",
-                "avatar": "https://avatars.githubusercontent.com/u/250144?s=40&v=4",
-                "username": "alazier"
-            },
-            {
-                "href": "https://github.com/mekjaer",
-                "avatar": "https://avatars.githubusercontent.com/u/5136231?s=40&v=4",
-                "username": "mekjaer"
-            },
-            {
-                "href": "https://github.com/bdash",
-                "avatar": "https://avatars.githubusercontent.com/u/54825?s=40&v=4",
-                "username": "bdash"
             }
         ]
     },
@@ -275,6 +235,126 @@
         ]
     },
     {
+        "author": "AFNetworking",
+        "name": "AFNetworking",
+        "avatar": "https://github.com/AFNetworking.png",
+        "sponsor": null,
+        "url": "https://github.com/AFNetworking/AFNetworking",
+        "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
+        "language": "Objective-C",
+        "languageColor": "#438eff",
+        "stars": 33333,
+        "fork": 10386,
+        "currentPeriodStars": 32,
+        "builtBy": [
+            {
+                "href": "https://github.com/mattt",
+                "avatar": "https://avatars.githubusercontent.com/u/7659?s=40&v=4",
+                "username": "mattt"
+            },
+            {
+                "href": "https://github.com/kcharwood",
+                "avatar": "https://avatars.githubusercontent.com/u/198768?s=40&v=4",
+                "username": "kcharwood"
+            },
+            {
+                "href": "https://github.com/SlaunchaMan",
+                "avatar": "https://avatars.githubusercontent.com/u/147458?s=40&v=4",
+                "username": "SlaunchaMan"
+            },
+            {
+                "href": "https://github.com/0xced",
+                "avatar": "https://avatars.githubusercontent.com/u/51363?s=40&v=4",
+                "username": "0xced"
+            },
+            {
+                "href": "https://github.com/kylef",
+                "avatar": "https://avatars.githubusercontent.com/u/44164?s=40&v=4",
+                "username": "kylef"
+            }
+        ]
+    },
+    {
+        "author": "realm",
+        "name": "realm-swift",
+        "avatar": "https://github.com/realm.png",
+        "sponsor": null,
+        "url": "https://github.com/realm/realm-swift",
+        "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
+        "language": "Objective-C",
+        "languageColor": "#438eff",
+        "stars": 16228,
+        "fork": 2138,
+        "currentPeriodStars": 57,
+        "builtBy": [
+            {
+                "href": "https://github.com/tgoyne",
+                "avatar": "https://avatars.githubusercontent.com/u/408944?s=40&v=4",
+                "username": "tgoyne"
+            },
+            {
+                "href": "https://github.com/jpsim",
+                "avatar": "https://avatars.githubusercontent.com/u/474794?s=40&v=4",
+                "username": "jpsim"
+            },
+            {
+                "href": "https://github.com/alazier",
+                "avatar": "https://avatars.githubusercontent.com/u/250144?s=40&v=4",
+                "username": "alazier"
+            },
+            {
+                "href": "https://github.com/mekjaer",
+                "avatar": "https://avatars.githubusercontent.com/u/5136231?s=40&v=4",
+                "username": "mekjaer"
+            },
+            {
+                "href": "https://github.com/bdash",
+                "avatar": "https://avatars.githubusercontent.com/u/54825?s=40&v=4",
+                "username": "bdash"
+            }
+        ]
+    },
+    {
+        "author": "AzureAD",
+        "name": "microsoft-authentication-library-for-objc",
+        "avatar": "https://github.com/AzureAD.png",
+        "sponsor": null,
+        "url": "https://github.com/AzureAD/microsoft-authentication-library-for-objc",
+        "description": "Microsoft Authentication Library (MSAL) for iOS and macOS",
+        "language": "Objective-C",
+        "languageColor": "#438eff",
+        "stars": 256,
+        "fork": 141,
+        "currentPeriodStars": 2,
+        "builtBy": [
+            {
+                "href": "https://github.com/oldalton",
+                "avatar": "https://avatars.githubusercontent.com/u/26911890?s=40&v=4",
+                "username": "oldalton"
+            },
+            {
+                "href": "https://github.com/rohitnarula7176",
+                "avatar": "https://avatars.githubusercontent.com/u/19417198?s=40&v=4",
+                "username": "rohitnarula7176"
+            },
+            {
+                "href": "https://github.com/unpluggedk",
+                "avatar": "https://avatars.githubusercontent.com/u/2293176?s=40&v=4",
+                "username": "unpluggedk"
+            },
+            {
+                "href": "https://github.com/antrix1989",
+                "avatar": "https://avatars.githubusercontent.com/u/1989385?s=40&v=4",
+                "username": "antrix1989"
+            },
+            {
+                "href": "https://github.com/jasoncoolmax",
+                "avatar": "https://avatars.githubusercontent.com/u/8347347?s=40&v=4",
+                "username": "jasoncoolmax"
+            }
+        ]
+    },
+    {
         "author": "google",
         "name": "GoogleSignIn-iOS",
         "avatar": "https://github.com/google.png",
@@ -311,6 +391,31 @@
                 "href": "https://github.com/XiangtianDai",
                 "avatar": "https://avatars.githubusercontent.com/u/19537619?s=40&v=4",
                 "username": "XiangtianDai"
+            }
+        ]
+    },
+    {
+        "author": "matej",
+        "name": "MBPullDownController",
+        "avatar": "https://github.com/matej.png",
+        "sponsor": null,
+        "url": "https://github.com/matej/MBPullDownController",
+        "description": "MBPullDownController, an iOS container view controller for pullable scroll view interfaces.",
+        "language": "Objective-C",
+        "languageColor": "#438eff",
+        "stars": 557,
+        "fork": 69,
+        "currentPeriodStars": 0,
+        "builtBy": [
+            {
+                "href": "https://github.com/matej",
+                "avatar": "https://avatars.githubusercontent.com/u/91322?s=40&v=4",
+                "username": "matej"
+            },
+            {
+                "href": "https://github.com/ReadmeCritic",
+                "avatar": "https://avatars.githubusercontent.com/u/15367484?s=40&v=4",
+                "username": "ReadmeCritic"
             }
         ]
     },
@@ -355,46 +460,6 @@
         ]
     },
     {
-        "author": "microsoft",
-        "name": "plcrashreporter",
-        "avatar": "https://github.com/microsoft.png",
-        "sponsor": null,
-        "url": "https://github.com/microsoft/plcrashreporter",
-        "description": "Reliable, open-source crash reporting for iOS, macOS and tvOS",
-        "language": "Objective-C",
-        "languageColor": "#438eff",
-        "stars": 2855,
-        "fork": 534,
-        "currentPeriodStars": 15,
-        "builtBy": [
-            {
-                "href": "https://github.com/landonf",
-                "avatar": "https://avatars.githubusercontent.com/u/18884?s=40&v=4",
-                "username": "landonf"
-            },
-            {
-                "href": "https://github.com/MatkovIvan",
-                "avatar": "https://avatars.githubusercontent.com/u/1836384?s=40&v=4",
-                "username": "MatkovIvan"
-            },
-            {
-                "href": "https://github.com/DmitriyKirakosyan",
-                "avatar": "https://avatars.githubusercontent.com/u/536497?s=40&v=4",
-                "username": "DmitriyKirakosyan"
-            },
-            {
-                "href": "https://github.com/AnastasiaKubova",
-                "avatar": "https://avatars.githubusercontent.com/u/42138465?s=40&v=4",
-                "username": "AnastasiaKubova"
-            },
-            {
-                "href": "https://github.com/ElektrojungeAtWork",
-                "avatar": "https://avatars.githubusercontent.com/u/10164200?s=40&v=4",
-                "username": "ElektrojungeAtWork"
-            }
-        ]
-    },
-    {
         "author": "getsentry",
         "name": "sentry-cocoa",
         "avatar": "https://github.com/getsentry.png",
@@ -431,6 +496,46 @@
                 "href": "https://github.com/bruno-garcia",
                 "avatar": "https://avatars.githubusercontent.com/u/1633368?s=40&v=4",
                 "username": "bruno-garcia"
+            }
+        ]
+    },
+    {
+        "author": "microsoft",
+        "name": "plcrashreporter",
+        "avatar": "https://github.com/microsoft.png",
+        "sponsor": null,
+        "url": "https://github.com/microsoft/plcrashreporter",
+        "description": "Reliable, open-source crash reporting for iOS, macOS and tvOS",
+        "language": "Objective-C",
+        "languageColor": "#438eff",
+        "stars": 2855,
+        "fork": 534,
+        "currentPeriodStars": 15,
+        "builtBy": [
+            {
+                "href": "https://github.com/landonf",
+                "avatar": "https://avatars.githubusercontent.com/u/18884?s=40&v=4",
+                "username": "landonf"
+            },
+            {
+                "href": "https://github.com/MatkovIvan",
+                "avatar": "https://avatars.githubusercontent.com/u/1836384?s=40&v=4",
+                "username": "MatkovIvan"
+            },
+            {
+                "href": "https://github.com/DmitriyKirakosyan",
+                "avatar": "https://avatars.githubusercontent.com/u/536497?s=40&v=4",
+                "username": "DmitriyKirakosyan"
+            },
+            {
+                "href": "https://github.com/AnastasiaKubova",
+                "avatar": "https://avatars.githubusercontent.com/u/42138465?s=40&v=4",
+                "username": "AnastasiaKubova"
+            },
+            {
+                "href": "https://github.com/ElektrojungeAtWork",
+                "avatar": "https://avatars.githubusercontent.com/u/10164200?s=40&v=4",
+                "username": "ElektrojungeAtWork"
             }
         ]
     },
@@ -551,86 +656,6 @@
                 "href": "https://github.com/E-B-Smith",
                 "avatar": "https://avatars.githubusercontent.com/u/1229047?s=40&v=4",
                 "username": "E-B-Smith"
-            }
-        ]
-    },
-    {
-        "author": "AFNetworking",
-        "name": "AFNetworking",
-        "avatar": "https://github.com/AFNetworking.png",
-        "sponsor": null,
-        "url": "https://github.com/AFNetworking/AFNetworking",
-        "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
-        "language": "Objective-C",
-        "languageColor": "#438eff",
-        "stars": 33333,
-        "fork": 10386,
-        "currentPeriodStars": 32,
-        "builtBy": [
-            {
-                "href": "https://github.com/mattt",
-                "avatar": "https://avatars.githubusercontent.com/u/7659?s=40&v=4",
-                "username": "mattt"
-            },
-            {
-                "href": "https://github.com/kcharwood",
-                "avatar": "https://avatars.githubusercontent.com/u/198768?s=40&v=4",
-                "username": "kcharwood"
-            },
-            {
-                "href": "https://github.com/SlaunchaMan",
-                "avatar": "https://avatars.githubusercontent.com/u/147458?s=40&v=4",
-                "username": "SlaunchaMan"
-            },
-            {
-                "href": "https://github.com/0xced",
-                "avatar": "https://avatars.githubusercontent.com/u/51363?s=40&v=4",
-                "username": "0xced"
-            },
-            {
-                "href": "https://github.com/kylef",
-                "avatar": "https://avatars.githubusercontent.com/u/44164?s=40&v=4",
-                "username": "kylef"
-            }
-        ]
-    },
-    {
-        "author": "openid",
-        "name": "AppAuth-iOS",
-        "avatar": "https://github.com/openid.png",
-        "sponsor": null,
-        "url": "https://github.com/openid/AppAuth-iOS",
-        "description": "iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.",
-        "language": "Objective-C",
-        "languageColor": "#438eff",
-        "stars": 1729,
-        "fork": 751,
-        "currentPeriodStars": 9,
-        "builtBy": [
-            {
-                "href": "https://github.com/WilliamDenniss",
-                "avatar": "https://avatars.githubusercontent.com/u/445150?s=40&v=4",
-                "username": "WilliamDenniss"
-            },
-            {
-                "href": "https://github.com/petea",
-                "avatar": "https://avatars.githubusercontent.com/u/102201?s=40&v=4",
-                "username": "petea"
-            },
-            {
-                "href": "https://github.com/julienbodet",
-                "avatar": "https://avatars.githubusercontent.com/u/3465275?s=40&v=4",
-                "username": "julienbodet"
-            },
-            {
-                "href": "https://github.com/mdmathias",
-                "avatar": "https://avatars.githubusercontent.com/u/4029922?s=40&v=4",
-                "username": "mdmathias"
-            },
-            {
-                "href": "https://github.com/iainmcgin",
-                "avatar": "https://avatars.githubusercontent.com/u/309153?s=40&v=4",
-                "username": "iainmcgin"
             }
         ]
     }
