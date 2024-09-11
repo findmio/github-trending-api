@@ -8,7 +8,7 @@
         "description": "DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 3812,
+        "stars": 3814,
         "fork": 475,
         "currentPeriodStars": 359,
         "builtBy": [
@@ -128,7 +128,7 @@
         "description": "Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 3490,
+        "stars": 3492,
         "fork": 104,
         "currentPeriodStars": 630,
         "builtBy": [
@@ -243,7 +243,7 @@
         "description": "Database migrations. CLI and Golang library.",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 14976,
+        "stars": 14977,
         "fork": 1378,
         "currentPeriodStars": 59,
         "builtBy": [
@@ -283,7 +283,7 @@
         "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 46041,
+        "stars": 46040,
         "fork": 4118,
         "currentPeriodStars": 158,
         "builtBy": [
@@ -403,7 +403,7 @@
         "description": "Sonne tanken ☀️🚘",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 3270,
+        "stars": 3271,
         "fork": 590,
         "currentPeriodStars": 118,
         "builtBy": [
@@ -523,7 +523,7 @@
         "description": "Development Platform for building robust type-safe distributed systems with declarative infrastructure",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 6232,
+        "stars": 6234,
         "fork": 273,
         "currentPeriodStars": 231,
         "builtBy": [
@@ -563,7 +563,7 @@
         "description": "Go configuration with fangs",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 26803,
+        "stars": 26795,
         "fork": 2013,
         "currentPeriodStars": 72,
         "builtBy": [
@@ -603,7 +603,7 @@
         "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 9404,
+        "stars": 9405,
         "fork": 1549,
         "currentPeriodStars": 61,
         "builtBy": [
@@ -643,8 +643,8 @@
         "description": "Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 88743,
-        "fork": 6936,
+        "stars": 88748,
+        "fork": 6937,
         "currentPeriodStars": 992,
         "builtBy": [
             {
@@ -683,7 +683,7 @@
         "description": "OpenTelemetry Collector distribution with programmable pipelines",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 1264,
+        "stars": 1265,
         "fork": 169,
         "currentPeriodStars": 23,
         "builtBy": [
@@ -723,7 +723,7 @@
         "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 22619,
+        "stars": 22622,
         "fork": 2359,
         "currentPeriodStars": 551,
         "builtBy": [
@@ -795,6 +795,46 @@
         ]
     },
     {
+        "author": "gorilla",
+        "name": "websocket",
+        "avatar": "https://github.com/gorilla.png",
+        "sponsor": null,
+        "url": "https://github.com/gorilla/websocket",
+        "description": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 22043,
+        "fork": 3467,
+        "currentPeriodStars": 46,
+        "builtBy": [
+            {
+                "href": "https://github.com/garyburd",
+                "avatar": "https://avatars.githubusercontent.com/u/33411?s=40&v=4",
+                "username": "garyburd"
+            },
+            {
+                "href": "https://github.com/fancycode",
+                "avatar": "https://avatars.githubusercontent.com/u/247730?s=40&v=4",
+                "username": "fancycode"
+            },
+            {
+                "href": "https://github.com/elithrar",
+                "avatar": "https://avatars.githubusercontent.com/u/18544?s=40&v=4",
+                "username": "elithrar"
+            },
+            {
+                "href": "https://github.com/rfyiamcool",
+                "avatar": "https://avatars.githubusercontent.com/u/3785409?s=40&v=4",
+                "username": "rfyiamcool"
+            },
+            {
+                "href": "https://github.com/FZambia",
+                "avatar": "https://avatars.githubusercontent.com/u/1196565?s=40&v=4",
+                "username": "FZambia"
+            }
+        ]
+    },
+    {
         "author": "seaweedfs",
         "name": "seaweedfs",
         "avatar": "https://github.com/seaweedfs.png",
@@ -803,7 +843,7 @@
         "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 22252,
+        "stars": 22253,
         "fork": 2245,
         "currentPeriodStars": 65,
         "builtBy": [
@@ -875,6 +915,46 @@
         ]
     },
     {
+        "author": "aquasecurity",
+        "name": "trivy",
+        "avatar": "https://github.com/aquasecurity.png",
+        "sponsor": null,
+        "url": "https://github.com/aquasecurity/trivy",
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 22814,
+        "fork": 2252,
+        "currentPeriodStars": 94,
+        "builtBy": [
+            {
+                "href": "https://github.com/knqyf263",
+                "avatar": "https://avatars.githubusercontent.com/u/2253692?s=40&v=4",
+                "username": "knqyf263"
+            },
+            {
+                "href": "https://github.com/DmitriyLewen",
+                "avatar": "https://avatars.githubusercontent.com/u/91113035?s=40&v=4",
+                "username": "DmitriyLewen"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/simar7",
+                "avatar": "https://avatars.githubusercontent.com/u/1254783?s=40&v=4",
+                "username": "simar7"
+            },
+            {
+                "href": "https://github.com/nikpivkin",
+                "avatar": "https://avatars.githubusercontent.com/u/100182843?s=40&v=4",
+                "username": "nikpivkin"
+            }
+        ]
+    },
+    {
         "author": "HavocFramework",
         "name": "Havoc",
         "avatar": "https://github.com/HavocFramework.png",
@@ -883,7 +963,7 @@
         "description": "The Havoc Framework.",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 6604,
+        "stars": 6605,
         "fork": 934,
         "currentPeriodStars": 83,
         "builtBy": [
