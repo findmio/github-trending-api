@@ -1,5 +1,45 @@
 [
     {
+        "author": "anthropics",
+        "name": "courses",
+        "avatar": "https://github.com/anthropics.png",
+        "sponsor": null,
+        "url": "https://github.com/anthropics/courses",
+        "description": "Anthropic's educational courses",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "stars": 4947,
+        "fork": 381,
+        "currentPeriodStars": 3956,
+        "builtBy": [
+            {
+                "href": "https://github.com/Colt",
+                "avatar": "https://avatars.githubusercontent.com/u/5498438?s=40&v=4",
+                "username": "Colt"
+            },
+            {
+                "href": "https://github.com/alexalbertt",
+                "avatar": "https://avatars.githubusercontent.com/u/34638987?s=40&v=4",
+                "username": "alexalbertt"
+            },
+            {
+                "href": "https://github.com/rainlee",
+                "avatar": "https://avatars.githubusercontent.com/u/2148148?s=40&v=4",
+                "username": "rainlee"
+            },
+            {
+                "href": "https://github.com/elie",
+                "avatar": "https://avatars.githubusercontent.com/u/5502107?s=40&v=4",
+                "username": "elie"
+            },
+            {
+                "href": "https://github.com/maggie-vo",
+                "avatar": "https://avatars.githubusercontent.com/u/143411590?s=40&v=4",
+                "username": "maggie-vo"
+            }
+        ]
+    },
+    {
         "author": "gojue",
         "name": "ecapture",
         "avatar": "https://github.com/gojue.png",
@@ -8,7 +48,7 @@
         "description": "Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.",
         "language": "C",
         "languageColor": "#555555",
-        "stars": 12559,
+        "stars": 12563,
         "fork": 1330,
         "currentPeriodStars": 3335,
         "builtBy": [
@@ -48,7 +88,7 @@
         "description": "🧡 Next generation information browser.",
         "language": "TypeScript",
         "languageColor": "#3178c6",
-        "stars": 9079,
+        "stars": 9087,
         "fork": 376,
         "currentPeriodStars": 5823,
         "builtBy": [
@@ -80,41 +120,6 @@
         ]
     },
     {
-        "author": "sickcodes",
-        "name": "Docker-OSX",
-        "avatar": "https://github.com/sickcodes.png",
-        "sponsor": "https://github.com/sponsors/sickcodes",
-        "url": "https://github.com/sickcodes/Docker-OSX",
-        "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
-        "language": "Shell",
-        "languageColor": "#89e051",
-        "stars": 45812,
-        "fork": 2437,
-        "currentPeriodStars": 5808,
-        "builtBy": [
-            {
-                "href": "https://github.com/sickcodes",
-                "avatar": "https://avatars.githubusercontent.com/u/65906298?s=40&v=4",
-                "username": "sickcodes"
-            },
-            {
-                "href": "https://github.com/iambenmitchell",
-                "avatar": "https://avatars.githubusercontent.com/u/27426792?s=40&v=4",
-                "username": "iambenmitchell"
-            },
-            {
-                "href": "https://github.com/jimdigriz",
-                "avatar": "https://avatars.githubusercontent.com/u/2567406?s=40&v=4",
-                "username": "jimdigriz"
-            },
-            {
-                "href": "https://github.com/PeterDaveHello",
-                "avatar": "https://avatars.githubusercontent.com/u/3691490?s=40&v=4",
-                "username": "PeterDaveHello"
-            }
-        ]
-    },
-    {
         "author": "mendableai",
         "name": "firecrawl",
         "avatar": "https://github.com/mendableai.png",
@@ -123,8 +128,8 @@
         "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
         "language": "TypeScript",
         "languageColor": "#3178c6",
-        "stars": 14454,
-        "fork": 1046,
+        "stars": 14455,
+        "fork": 1047,
         "currentPeriodStars": 5406,
         "builtBy": [
             {
@@ -155,6 +160,41 @@
         ]
     },
     {
+        "author": "sickcodes",
+        "name": "Docker-OSX",
+        "avatar": "https://github.com/sickcodes.png",
+        "sponsor": "https://github.com/sponsors/sickcodes",
+        "url": "https://github.com/sickcodes/Docker-OSX",
+        "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "stars": 45819,
+        "fork": 2437,
+        "currentPeriodStars": 5808,
+        "builtBy": [
+            {
+                "href": "https://github.com/sickcodes",
+                "avatar": "https://avatars.githubusercontent.com/u/65906298?s=40&v=4",
+                "username": "sickcodes"
+            },
+            {
+                "href": "https://github.com/iambenmitchell",
+                "avatar": "https://avatars.githubusercontent.com/u/27426792?s=40&v=4",
+                "username": "iambenmitchell"
+            },
+            {
+                "href": "https://github.com/jimdigriz",
+                "avatar": "https://avatars.githubusercontent.com/u/2567406?s=40&v=4",
+                "username": "jimdigriz"
+            },
+            {
+                "href": "https://github.com/PeterDaveHello",
+                "avatar": "https://avatars.githubusercontent.com/u/3691490?s=40&v=4",
+                "username": "PeterDaveHello"
+            }
+        ]
+    },
+    {
         "author": "sherlock-project",
         "name": "sherlock",
         "avatar": "https://github.com/sherlock-project.png",
@@ -163,7 +203,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "language": "Python",
         "languageColor": "#3572A5",
-        "stars": 58568,
+        "stars": 58575,
         "fork": 6731,
         "currentPeriodStars": 5270,
         "builtBy": [
@@ -203,7 +243,7 @@
         "description": "Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.",
         "language": "Dart",
         "languageColor": "#00B4AB",
-        "stars": 55729,
+        "stars": 55731,
         "fork": 3632,
         "currentPeriodStars": 4603,
         "builtBy": [
@@ -243,8 +283,8 @@
         "description": "Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.",
         "language": "Shell",
         "languageColor": "#89e051",
-        "stars": 2109,
-        "fork": 175,
+        "stars": 2110,
+        "fork": 174,
         "currentPeriodStars": 1614,
         "builtBy": [
             {
@@ -275,46 +315,6 @@
         ]
     },
     {
-        "author": "frappe",
-        "name": "erpnext",
-        "avatar": "https://github.com/frappe.png",
-        "sponsor": null,
-        "url": "https://github.com/frappe/erpnext",
-        "description": "Free and Open Source Enterprise Resource Planning (ERP)",
-        "language": "Python",
-        "languageColor": "#3572A5",
-        "stars": 20392,
-        "fork": 7082,
-        "currentPeriodStars": 2351,
-        "builtBy": [
-            {
-                "href": "https://github.com/nabinhait",
-                "avatar": "https://avatars.githubusercontent.com/u/836784?s=40&v=4",
-                "username": "nabinhait"
-            },
-            {
-                "href": "https://github.com/deepeshgarg007",
-                "avatar": "https://avatars.githubusercontent.com/u/42651287?s=40&v=4",
-                "username": "deepeshgarg007"
-            },
-            {
-                "href": "https://github.com/rmehta",
-                "avatar": "https://avatars.githubusercontent.com/u/140076?s=40&v=4",
-                "username": "rmehta"
-            },
-            {
-                "href": "https://github.com/rohitwaghchaure",
-                "avatar": "https://avatars.githubusercontent.com/u/8780500?s=40&v=4",
-                "username": "rohitwaghchaure"
-            },
-            {
-                "href": "https://github.com/anandpdoshi",
-                "avatar": "https://avatars.githubusercontent.com/u/836785?s=40&v=4",
-                "username": "anandpdoshi"
-            }
-        ]
-    },
-    {
         "author": "nocodb",
         "name": "nocodb",
         "avatar": "https://github.com/nocodb.png",
@@ -323,7 +323,7 @@
         "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
         "language": "TypeScript",
         "languageColor": "#3178c6",
-        "stars": 47721,
+        "stars": 47723,
         "fork": 3233,
         "currentPeriodStars": 3408,
         "builtBy": [
@@ -355,6 +355,126 @@
         ]
     },
     {
+        "author": "frappe",
+        "name": "erpnext",
+        "avatar": "https://github.com/frappe.png",
+        "sponsor": null,
+        "url": "https://github.com/frappe/erpnext",
+        "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "stars": 20393,
+        "fork": 7083,
+        "currentPeriodStars": 2351,
+        "builtBy": [
+            {
+                "href": "https://github.com/nabinhait",
+                "avatar": "https://avatars.githubusercontent.com/u/836784?s=40&v=4",
+                "username": "nabinhait"
+            },
+            {
+                "href": "https://github.com/deepeshgarg007",
+                "avatar": "https://avatars.githubusercontent.com/u/42651287?s=40&v=4",
+                "username": "deepeshgarg007"
+            },
+            {
+                "href": "https://github.com/rmehta",
+                "avatar": "https://avatars.githubusercontent.com/u/140076?s=40&v=4",
+                "username": "rmehta"
+            },
+            {
+                "href": "https://github.com/rohitwaghchaure",
+                "avatar": "https://avatars.githubusercontent.com/u/8780500?s=40&v=4",
+                "username": "rohitwaghchaure"
+            },
+            {
+                "href": "https://github.com/anandpdoshi",
+                "avatar": "https://avatars.githubusercontent.com/u/836785?s=40&v=4",
+                "username": "anandpdoshi"
+            }
+        ]
+    },
+    {
+        "author": "johannesjo",
+        "name": "super-productivity",
+        "avatar": "https://github.com/johannesjo.png",
+        "sponsor": "https://github.com/sponsors/johannesjo",
+        "url": "https://github.com/johannesjo/super-productivity",
+        "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "stars": 10899,
+        "fork": 868,
+        "currentPeriodStars": 1754,
+        "builtBy": [
+            {
+                "href": "https://github.com/johannesjo",
+                "avatar": "https://avatars.githubusercontent.com/u/1456265?s=40&v=4",
+                "username": "johannesjo"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/MostafaAmin07",
+                "avatar": "https://avatars.githubusercontent.com/u/32510728?s=40&v=4",
+                "username": "MostafaAmin07"
+            },
+            {
+                "href": "https://github.com/bytrangle",
+                "avatar": "https://avatars.githubusercontent.com/u/28924121?s=40&v=4",
+                "username": "bytrangle"
+            },
+            {
+                "href": "https://github.com/stkofler",
+                "avatar": "https://avatars.githubusercontent.com/u/4400664?s=40&v=4",
+                "username": "stkofler"
+            }
+        ]
+    },
+    {
+        "author": "Permify",
+        "name": "permify",
+        "avatar": "https://github.com/Permify.png",
+        "sponsor": null,
+        "url": "https://github.com/Permify/permify",
+        "description": "An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 4515,
+        "fork": 201,
+        "currentPeriodStars": 1597,
+        "builtBy": [
+            {
+                "href": "https://github.com/tolgaOzen",
+                "avatar": "https://avatars.githubusercontent.com/u/39353278?s=40&v=4",
+                "username": "tolgaOzen"
+            },
+            {
+                "href": "https://github.com/EgeAytin",
+                "avatar": "https://avatars.githubusercontent.com/u/34595361?s=40&v=4",
+                "username": "EgeAytin"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/muratmirgun",
+                "avatar": "https://avatars.githubusercontent.com/u/45563173?s=40&v=4",
+                "username": "muratmirgun"
+            },
+            {
+                "href": "https://github.com/thegeekywanderer",
+                "avatar": "https://avatars.githubusercontent.com/u/30985448?s=40&v=4",
+                "username": "thegeekywanderer"
+            }
+        ]
+    },
+    {
         "author": "s0md3v",
         "name": "roop",
         "avatar": "https://github.com/s0md3v.png",
@@ -363,7 +483,7 @@
         "description": "one-click face swap",
         "language": "Python",
         "languageColor": "#3572A5",
-        "stars": 28003,
+        "stars": 28005,
         "fork": 6746,
         "currentPeriodStars": 1955,
         "builtBy": [
@@ -395,46 +515,6 @@
         ]
     },
     {
-        "author": "johannesjo",
-        "name": "super-productivity",
-        "avatar": "https://github.com/johannesjo.png",
-        "sponsor": "https://github.com/sponsors/johannesjo",
-        "url": "https://github.com/johannesjo/super-productivity",
-        "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.",
-        "language": "TypeScript",
-        "languageColor": "#3178c6",
-        "stars": 10896,
-        "fork": 867,
-        "currentPeriodStars": 1754,
-        "builtBy": [
-            {
-                "href": "https://github.com/johannesjo",
-                "avatar": "https://avatars.githubusercontent.com/u/1456265?s=40&v=4",
-                "username": "johannesjo"
-            },
-            {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
-            },
-            {
-                "href": "https://github.com/MostafaAmin07",
-                "avatar": "https://avatars.githubusercontent.com/u/32510728?s=40&v=4",
-                "username": "MostafaAmin07"
-            },
-            {
-                "href": "https://github.com/bytrangle",
-                "avatar": "https://avatars.githubusercontent.com/u/28924121?s=40&v=4",
-                "username": "bytrangle"
-            },
-            {
-                "href": "https://github.com/stkofler",
-                "avatar": "https://avatars.githubusercontent.com/u/4400664?s=40&v=4",
-                "username": "stkofler"
-            }
-        ]
-    },
-    {
         "author": "huggingface",
         "name": "lerobot",
         "avatar": "https://github.com/huggingface.png",
@@ -443,7 +523,7 @@
         "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
         "language": "Python",
         "languageColor": "#3572A5",
-        "stars": 6423,
+        "stars": 6426,
         "fork": 565,
         "currentPeriodStars": 1713,
         "builtBy": [
@@ -475,46 +555,6 @@
         ]
     },
     {
-        "author": "amnezia-vpn",
-        "name": "amnezia-client",
-        "avatar": "https://github.com/amnezia-vpn.png",
-        "sponsor": null,
-        "url": "https://github.com/amnezia-vpn/amnezia-client",
-        "description": "Amnezia VPN Client (Desktop+Mobile)",
-        "language": "C++",
-        "languageColor": "#f34b7d",
-        "stars": 4381,
-        "fork": 283,
-        "currentPeriodStars": 1926,
-        "builtBy": [
-            {
-                "href": "https://github.com/pokamest",
-                "avatar": "https://avatars.githubusercontent.com/u/23482029?s=40&v=4",
-                "username": "pokamest"
-            },
-            {
-                "href": "https://github.com/Nethius",
-                "avatar": "https://avatars.githubusercontent.com/u/15364855?s=40&v=4",
-                "username": "Nethius"
-            },
-            {
-                "href": "https://github.com/albexk",
-                "avatar": "https://avatars.githubusercontent.com/u/141177744?s=40&v=4",
-                "username": "albexk"
-            },
-            {
-                "href": "https://github.com/outspace",
-                "avatar": "https://avatars.githubusercontent.com/u/5472761?s=40&v=4",
-                "username": "outspace"
-            },
-            {
-                "href": "https://github.com/kolobchanin",
-                "avatar": "https://avatars.githubusercontent.com/u/1857572?s=40&v=4",
-                "username": "kolobchanin"
-            }
-        ]
-    },
-    {
         "author": "ostris",
         "name": "ai-toolkit",
         "avatar": "https://github.com/ostris.png",
@@ -523,7 +563,7 @@
         "description": "Various AI scripts. Mostly Stable Diffusion stuff.",
         "language": "Python",
         "languageColor": "#3572A5",
-        "stars": 2774,
+        "stars": 2775,
         "fork": 264,
         "currentPeriodStars": 1399,
         "builtBy": [
@@ -563,8 +603,8 @@
         "description": "Brand new TTS solution",
         "language": "Python",
         "languageColor": "#3572A5",
-        "stars": 11998,
-        "fork": 911,
+        "stars": 12004,
+        "fork": 912,
         "currentPeriodStars": 4833,
         "builtBy": [
             {
@@ -603,8 +643,8 @@
         "description": "Deepfakes Software For All",
         "language": "Python",
         "languageColor": "#3572A5",
-        "stars": 51625,
-        "fork": 13152,
+        "stars": 51628,
+        "fork": 13151,
         "currentPeriodStars": 1557,
         "builtBy": [
             {
@@ -631,86 +671,6 @@
                 "href": "https://github.com/Clorr",
                 "avatar": "https://avatars.githubusercontent.com/u/873943?s=40&v=4",
                 "username": "Clorr"
-            }
-        ]
-    },
-    {
-        "author": "midday-ai",
-        "name": "midday",
-        "avatar": "https://github.com/midday-ai.png",
-        "sponsor": null,
-        "url": "https://github.com/midday-ai/midday",
-        "description": "Run your business smarter 🪄",
-        "language": "TypeScript",
-        "languageColor": "#3178c6",
-        "stars": 4966,
-        "fork": 432,
-        "currentPeriodStars": 1523,
-        "builtBy": [
-            {
-                "href": "https://github.com/pontusab",
-                "avatar": "https://avatars.githubusercontent.com/u/655158?s=40&v=4",
-                "username": "pontusab"
-            },
-            {
-                "href": "https://github.com/BharathxD",
-                "avatar": "https://avatars.githubusercontent.com/u/108531789?s=40&v=4",
-                "username": "BharathxD"
-            },
-            {
-                "href": "https://github.com/federicoestevez",
-                "avatar": "https://avatars.githubusercontent.com/u/10424147?s=40&v=4",
-                "username": "federicoestevez"
-            },
-            {
-                "href": "https://github.com/Ifunanyacollins",
-                "avatar": "https://avatars.githubusercontent.com/u/31220512?s=40&v=4",
-                "username": "Ifunanyacollins"
-            },
-            {
-                "href": "https://github.com/YazidKurdi",
-                "avatar": "https://avatars.githubusercontent.com/u/50083367?s=40&v=4",
-                "username": "YazidKurdi"
-            }
-        ]
-    },
-    {
-        "author": "makeplane",
-        "name": "plane",
-        "avatar": "https://github.com/makeplane.png",
-        "sponsor": null,
-        "url": "https://github.com/makeplane/plane",
-        "description": "🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.",
-        "language": "TypeScript",
-        "languageColor": "#3178c6",
-        "stars": 29304,
-        "fork": 1606,
-        "currentPeriodStars": 2438,
-        "builtBy": [
-            {
-                "href": "https://github.com/anmolsinghbhatia",
-                "avatar": "https://avatars.githubusercontent.com/u/121005188?s=40&v=4",
-                "username": "anmolsinghbhatia"
-            },
-            {
-                "href": "https://github.com/pablohashescobar",
-                "avatar": "https://avatars.githubusercontent.com/u/118773738?s=40&v=4",
-                "username": "pablohashescobar"
-            },
-            {
-                "href": "https://github.com/aaryan610",
-                "avatar": "https://avatars.githubusercontent.com/u/65252264?s=40&v=4",
-                "username": "aaryan610"
-            },
-            {
-                "href": "https://github.com/sriramveeraghanta",
-                "avatar": "https://avatars.githubusercontent.com/u/9498163?s=40&v=4",
-                "username": "sriramveeraghanta"
-            },
-            {
-                "href": "https://github.com/NarayanBavisetti",
-                "avatar": "https://avatars.githubusercontent.com/u/72156168?s=40&v=4",
-                "username": "NarayanBavisetti"
             }
         ]
     }
