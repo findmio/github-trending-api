@@ -8,7 +8,7 @@
         "description": "DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 6570,
+        "stars": 6571,
         "fork": 1040,
         "currentPeriodStars": 2057,
         "builtBy": [
@@ -88,7 +88,7 @@
         "description": "A curated list of awesome Go frameworks, libraries and software",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 131319,
+        "stars": 131320,
         "fork": 11884,
         "currentPeriodStars": 2177,
         "builtBy": [
@@ -168,7 +168,7 @@
         "description": "Generate type-safe code from SQL",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 13187,
+        "stars": 13189,
         "fork": 802,
         "currentPeriodStars": 878,
         "builtBy": [
@@ -288,7 +288,7 @@
         "description": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 4964,
+        "stars": 4965,
         "fork": 397,
         "currentPeriodStars": 630,
         "builtBy": [
@@ -443,7 +443,7 @@
         "description": "Directory/File, DNS and VHost busting tool written in Go",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 9945,
+        "stars": 9946,
         "fork": 1192,
         "currentPeriodStars": 341,
         "builtBy": [
@@ -524,7 +524,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "stars": 15005,
-        "fork": 1368,
+        "fork": 1369,
         "currentPeriodStars": 395,
         "builtBy": [
             {
@@ -683,7 +683,7 @@
         "description": "A modern load testing tool, using Go and JavaScript -https://k6.io",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 25758,
+        "stars": 25760,
         "fork": 1265,
         "currentPeriodStars": 656,
         "builtBy": [
@@ -715,6 +715,46 @@
         ]
     },
     {
+        "author": "btcsuite",
+        "name": "btcd",
+        "avatar": "https://github.com/btcsuite.png",
+        "sponsor": null,
+        "url": "https://github.com/btcsuite/btcd",
+        "description": "An alternative full node bitcoin implementation written in Go (golang)",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 6236,
+        "fork": 2362,
+        "currentPeriodStars": 57,
+        "builtBy": [
+            {
+                "href": "https://github.com/davecgh",
+                "avatar": "https://avatars.githubusercontent.com/u/2115102?s=40&v=4",
+                "username": "davecgh"
+            },
+            {
+                "href": "https://github.com/Roasbeef",
+                "avatar": "https://avatars.githubusercontent.com/u/998190?s=40&v=4",
+                "username": "Roasbeef"
+            },
+            {
+                "href": "https://github.com/dajohi",
+                "avatar": "https://avatars.githubusercontent.com/u/3308193?s=40&v=4",
+                "username": "dajohi"
+            },
+            {
+                "href": "https://github.com/jrick",
+                "avatar": "https://avatars.githubusercontent.com/u/1420313?s=40&v=4",
+                "username": "jrick"
+            },
+            {
+                "href": "https://github.com/cfromknecht",
+                "avatar": "https://avatars.githubusercontent.com/u/2013993?s=40&v=4",
+                "username": "cfromknecht"
+            }
+        ]
+    },
+    {
         "author": "minio",
         "name": "minio",
         "avatar": "https://github.com/minio.png",
@@ -723,7 +763,7 @@
         "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 47715,
+        "stars": 47716,
         "fork": 5491,
         "currentPeriodStars": 836,
         "builtBy": [
@@ -751,6 +791,126 @@
                 "href": "https://github.com/poornas",
                 "avatar": "https://avatars.githubusercontent.com/u/791968?s=40&v=4",
                 "username": "poornas"
+            }
+        ]
+    },
+    {
+        "author": "anchore",
+        "name": "grype",
+        "avatar": "https://github.com/anchore.png",
+        "sponsor": null,
+        "url": "https://github.com/anchore/grype",
+        "description": "A vulnerability scanner for container images and filesystems",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 8679,
+        "fork": 566,
+        "currentPeriodStars": 162,
+        "builtBy": [
+            {
+                "href": "https://github.com/wagoodman",
+                "avatar": "https://avatars.githubusercontent.com/u/590471?s=40&v=4",
+                "username": "wagoodman"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/apps/anchore-actions-token-generator",
+                "avatar": "https://avatars.githubusercontent.com/u/16208487?s=40&v=4",
+                "username": "apps/anchore-actions-token-generator"
+            },
+            {
+                "href": "https://github.com/westonsteimel",
+                "avatar": "https://avatars.githubusercontent.com/u/1593939?s=40&v=4",
+                "username": "westonsteimel"
+            },
+            {
+                "href": "https://github.com/spiffcs",
+                "avatar": "https://avatars.githubusercontent.com/u/32073428?s=40&v=4",
+                "username": "spiffcs"
+            }
+        ]
+    },
+    {
+        "author": "pion",
+        "name": "webrtc",
+        "avatar": "https://github.com/pion.png",
+        "sponsor": null,
+        "url": "https://github.com/pion/webrtc",
+        "description": "Pure Go implementation of the WebRTC API",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 13713,
+        "fork": 1650,
+        "currentPeriodStars": 251,
+        "builtBy": [
+            {
+                "href": "https://github.com/Sean-Der",
+                "avatar": "https://avatars.githubusercontent.com/u/1302304?s=40&v=4",
+                "username": "Sean-Der"
+            },
+            {
+                "href": "https://github.com/renovate-bot",
+                "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
+                "username": "renovate-bot"
+            },
+            {
+                "href": "https://github.com/apps/renovate",
+                "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
+                "username": "apps/renovate"
+            },
+            {
+                "href": "https://github.com/backkem",
+                "avatar": "https://avatars.githubusercontent.com/u/38858977?s=40&v=4",
+                "username": "backkem"
+            },
+            {
+                "href": "https://github.com/trivigy",
+                "avatar": "https://avatars.githubusercontent.com/u/3146062?s=40&v=4",
+                "username": "trivigy"
+            }
+        ]
+    },
+    {
+        "author": "teamhanko",
+        "name": "hanko",
+        "avatar": "https://github.com/teamhanko.png",
+        "sponsor": null,
+        "url": "https://github.com/teamhanko/hanko",
+        "description": "Authentication and User Management solution for developers. Open source alternative to Clerk & Auth0.",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 7138,
+        "fork": 896,
+        "currentPeriodStars": 1462,
+        "builtBy": [
+            {
+                "href": "https://github.com/like-a-bause",
+                "avatar": "https://avatars.githubusercontent.com/u/1003846?s=40&v=4",
+                "username": "like-a-bause"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/FreddyDevelop",
+                "avatar": "https://avatars.githubusercontent.com/u/29370474?s=40&v=4",
+                "username": "FreddyDevelop"
+            },
+            {
+                "href": "https://github.com/lfleischmann",
+                "avatar": "https://avatars.githubusercontent.com/u/67686424?s=40&v=4",
+                "username": "lfleischmann"
+            },
+            {
+                "href": "https://github.com/FlxMgdnz",
+                "avatar": "https://avatars.githubusercontent.com/u/20115649?s=40&v=4",
+                "username": "FlxMgdnz"
             }
         ]
     }
