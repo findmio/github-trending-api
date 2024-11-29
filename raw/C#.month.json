@@ -48,8 +48,8 @@
         "description": "A GUI client for Windows and Linux, support Xray core and others",
         "language": "C#",
         "languageColor": "#178600",
-        "stars": 70613,
-        "fork": 11642,
+        "stars": 70618,
+        "fork": 11643,
         "currentPeriodStars": 2052,
         "builtBy": [
             {
@@ -88,7 +88,7 @@
         "description": "Remove large amounts of unwanted applications quickly.",
         "language": "C#",
         "languageColor": "#178600",
-        "stars": 12623,
+        "stars": 12624,
         "fork": 617,
         "currentPeriodStars": 1009,
         "builtBy": [
@@ -116,6 +116,86 @@
                 "href": "https://github.com/PhilippLoewen",
                 "avatar": "https://avatars.githubusercontent.com/u/6199606?s=40&v=4",
                 "username": "PhilippLoewen"
+            }
+        ]
+    },
+    {
+        "author": "dotnet",
+        "name": "aspnetcore",
+        "avatar": "https://github.com/dotnet.png",
+        "sponsor": null,
+        "url": "https://github.com/dotnet/aspnetcore",
+        "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+        "language": "C#",
+        "languageColor": "#178600",
+        "stars": 35576,
+        "fork": 10053,
+        "currentPeriodStars": 232,
+        "builtBy": [
+            {
+                "href": "https://github.com/pranavkm",
+                "avatar": "https://avatars.githubusercontent.com/u/174281?s=40&v=4",
+                "username": "pranavkm"
+            },
+            {
+                "href": "https://github.com/aspnetci",
+                "avatar": "https://avatars.githubusercontent.com/u/23037549?s=40&v=4",
+                "username": "aspnetci"
+            },
+            {
+                "href": "https://github.com/apps/dotnet-maestro",
+                "avatar": "https://avatars.githubusercontent.com/in/16706?s=40&v=4",
+                "username": "apps/dotnet-maestro"
+            },
+            {
+                "href": "https://github.com/dougbu",
+                "avatar": "https://avatars.githubusercontent.com/u/6431421?s=40&v=4",
+                "username": "dougbu"
+            },
+            {
+                "href": "https://github.com/Tratcher",
+                "avatar": "https://avatars.githubusercontent.com/u/1821173?s=40&v=4",
+                "username": "Tratcher"
+            }
+        ]
+    },
+    {
+        "author": "Sonarr",
+        "name": "Sonarr",
+        "avatar": "https://github.com/Sonarr.png",
+        "sponsor": null,
+        "url": "https://github.com/Sonarr/Sonarr",
+        "description": "Smart PVR for newsgroup and bittorrent users.",
+        "language": "C#",
+        "languageColor": "#178600",
+        "stars": 10911,
+        "fork": 1424,
+        "currentPeriodStars": 155,
+        "builtBy": [
+            {
+                "href": "https://github.com/markus101",
+                "avatar": "https://avatars.githubusercontent.com/u/413544?s=40&v=4",
+                "username": "markus101"
+            },
+            {
+                "href": "https://github.com/kayone",
+                "avatar": "https://avatars.githubusercontent.com/u/412280?s=40&v=4",
+                "username": "kayone"
+            },
+            {
+                "href": "https://github.com/Taloth",
+                "avatar": "https://avatars.githubusercontent.com/u/6383890?s=40&v=4",
+                "username": "Taloth"
+            },
+            {
+                "href": "https://github.com/mynameisbogdan",
+                "avatar": "https://avatars.githubusercontent.com/u/707714?s=40&v=4",
+                "username": "mynameisbogdan"
+            },
+            {
+                "href": "https://github.com/Qstick",
+                "avatar": "https://avatars.githubusercontent.com/u/376117?s=40&v=4",
+                "username": "Qstick"
             }
         ]
     },
@@ -160,111 +240,6 @@
         ]
     },
     {
-        "author": "dotnet",
-        "name": "aspnetcore",
-        "avatar": "https://github.com/dotnet.png",
-        "sponsor": null,
-        "url": "https://github.com/dotnet/aspnetcore",
-        "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
-        "language": "C#",
-        "languageColor": "#178600",
-        "stars": 35577,
-        "fork": 10053,
-        "currentPeriodStars": 232,
-        "builtBy": [
-            {
-                "href": "https://github.com/pranavkm",
-                "avatar": "https://avatars.githubusercontent.com/u/174281?s=40&v=4",
-                "username": "pranavkm"
-            },
-            {
-                "href": "https://github.com/aspnetci",
-                "avatar": "https://avatars.githubusercontent.com/u/23037549?s=40&v=4",
-                "username": "aspnetci"
-            },
-            {
-                "href": "https://github.com/apps/dotnet-maestro",
-                "avatar": "https://avatars.githubusercontent.com/in/16706?s=40&v=4",
-                "username": "apps/dotnet-maestro"
-            },
-            {
-                "href": "https://github.com/dougbu",
-                "avatar": "https://avatars.githubusercontent.com/u/6431421?s=40&v=4",
-                "username": "dougbu"
-            },
-            {
-                "href": "https://github.com/Tratcher",
-                "avatar": "https://avatars.githubusercontent.com/u/1821173?s=40&v=4",
-                "username": "Tratcher"
-            }
-        ]
-    },
-    {
-        "author": "ardalis",
-        "name": "CleanArchitecture",
-        "avatar": "https://github.com/ardalis.png",
-        "sponsor": "https://github.com/sponsors/ardalis",
-        "url": "https://github.com/ardalis/CleanArchitecture",
-        "description": "Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core",
-        "language": "C#",
-        "languageColor": "#178600",
-        "stars": 16464,
-        "fork": 2842,
-        "currentPeriodStars": 179,
-        "builtBy": [
-            {
-                "href": "https://github.com/ardalis",
-                "avatar": "https://avatars.githubusercontent.com/u/782127?s=40&v=4",
-                "username": "ardalis"
-            },
-            {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
-            },
-            {
-                "href": "https://github.com/KyleMcMaster",
-                "avatar": "https://avatars.githubusercontent.com/u/11415127?s=40&v=4",
-                "username": "KyleMcMaster"
-            },
-            {
-                "href": "https://github.com/arielsrv",
-                "avatar": "https://avatars.githubusercontent.com/u/760657?s=40&v=4",
-                "username": "arielsrv"
-            },
-            {
-                "href": "https://github.com/aminsharifi",
-                "avatar": "https://avatars.githubusercontent.com/u/2895021?s=40&v=4",
-                "username": "aminsharifi"
-            }
-        ]
-    },
-    {
-        "author": "yaobiao131",
-        "name": "downkyicore",
-        "avatar": "https://github.com/yaobiao131.png",
-        "sponsor": null,
-        "url": "https://github.com/yaobiao131/downkyicore",
-        "description": "哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。",
-        "language": "C#",
-        "languageColor": "#178600",
-        "stars": 1774,
-        "fork": 135,
-        "currentPeriodStars": 232,
-        "builtBy": [
-            {
-                "href": "https://github.com/yaobiao131",
-                "avatar": "https://avatars.githubusercontent.com/u/28655758?s=40&v=4",
-                "username": "yaobiao131"
-            },
-            {
-                "href": "https://github.com/NLick47",
-                "avatar": "https://avatars.githubusercontent.com/u/70244515?s=40&v=4",
-                "username": "NLick47"
-            }
-        ]
-    },
-    {
         "author": "microsoft",
         "name": "WPF-Samples",
         "avatar": "https://github.com/microsoft.png",
@@ -273,7 +248,7 @@
         "description": "Repository for WPF related samples",
         "language": "C#",
         "languageColor": "#178600",
-        "stars": 5161,
+        "stars": 5162,
         "fork": 3214,
         "currentPeriodStars": 70,
         "builtBy": [
@@ -301,6 +276,46 @@
                 "href": "https://github.com/himgoyalmicro",
                 "avatar": "https://avatars.githubusercontent.com/u/130452193?s=40&v=4",
                 "username": "himgoyalmicro"
+            }
+        ]
+    },
+    {
+        "author": "ardalis",
+        "name": "CleanArchitecture",
+        "avatar": "https://github.com/ardalis.png",
+        "sponsor": "https://github.com/sponsors/ardalis",
+        "url": "https://github.com/ardalis/CleanArchitecture",
+        "description": "Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core",
+        "language": "C#",
+        "languageColor": "#178600",
+        "stars": 16464,
+        "fork": 2843,
+        "currentPeriodStars": 179,
+        "builtBy": [
+            {
+                "href": "https://github.com/ardalis",
+                "avatar": "https://avatars.githubusercontent.com/u/782127?s=40&v=4",
+                "username": "ardalis"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/KyleMcMaster",
+                "avatar": "https://avatars.githubusercontent.com/u/11415127?s=40&v=4",
+                "username": "KyleMcMaster"
+            },
+            {
+                "href": "https://github.com/arielsrv",
+                "avatar": "https://avatars.githubusercontent.com/u/760657?s=40&v=4",
+                "username": "arielsrv"
+            },
+            {
+                "href": "https://github.com/aminsharifi",
+                "avatar": "https://avatars.githubusercontent.com/u/2895021?s=40&v=4",
+                "username": "aminsharifi"
             }
         ]
     },
@@ -345,242 +360,27 @@
         ]
     },
     {
-        "author": "AvaloniaUI",
-        "name": "Avalonia.Samples",
-        "avatar": "https://github.com/AvaloniaUI.png",
-        "sponsor": "https://github.com/sponsors/AvaloniaUI",
-        "url": "https://github.com/AvaloniaUI/Avalonia.Samples",
-        "description": "Avalonia.Samples aims to provide some minimal samples focusing on a particular issue at a time. This should help getting new users started.",
-        "language": "C#",
-        "languageColor": "#178600",
-        "stars": 699,
-        "fork": 121,
-        "currentPeriodStars": 47,
-        "builtBy": [
-            {
-                "href": "https://github.com/timunie",
-                "avatar": "https://avatars.githubusercontent.com/u/47110241?s=40&v=4",
-                "username": "timunie"
-            },
-            {
-                "href": "https://github.com/maxkatz6",
-                "avatar": "https://avatars.githubusercontent.com/u/3163374?s=40&v=4",
-                "username": "maxkatz6"
-            },
-            {
-                "href": "https://github.com/kekekeks",
-                "avatar": "https://avatars.githubusercontent.com/u/1067584?s=40&v=4",
-                "username": "kekekeks"
-            },
-            {
-                "href": "https://github.com/begleysm",
-                "avatar": "https://avatars.githubusercontent.com/u/1275999?s=40&v=4",
-                "username": "begleysm"
-            },
-            {
-                "href": "https://github.com/workgroupengineering",
-                "avatar": "https://avatars.githubusercontent.com/u/12531229?s=40&v=4",
-                "username": "workgroupengineering"
-            }
-        ]
-    },
-    {
-        "author": "lepoco",
-        "name": "wpfui",
-        "avatar": "https://github.com/lepoco.png",
-        "sponsor": "https://github.com/sponsors/lepoco",
-        "url": "https://github.com/lepoco/wpfui",
-        "description": "WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly.",
-        "language": "C#",
-        "languageColor": "#178600",
-        "stars": 7734,
-        "fork": 756,
-        "currentPeriodStars": 157,
-        "builtBy": [
-            {
-                "href": "https://github.com/pomianowski",
-                "avatar": "https://avatars.githubusercontent.com/u/13592821?s=40&v=4",
-                "username": "pomianowski"
-            },
-            {
-                "href": "https://github.com/IvanDmitriev1",
-                "avatar": "https://avatars.githubusercontent.com/u/42055372?s=40&v=4",
-                "username": "IvanDmitriev1"
-            },
-            {
-                "href": "https://github.com/niels9001",
-                "avatar": "https://avatars.githubusercontent.com/u/9866362?s=40&v=4",
-                "username": "niels9001"
-            },
-            {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
-            },
-            {
-                "href": "https://github.com/koal44",
-                "avatar": "https://avatars.githubusercontent.com/u/78566945?s=40&v=4",
-                "username": "koal44"
-            }
-        ]
-    },
-    {
-        "author": "jasontaylordev",
-        "name": "CleanArchitecture",
-        "avatar": "https://github.com/jasontaylordev.png",
-        "sponsor": "https://github.com/sponsors/jasontaylordev",
-        "url": "https://github.com/jasontaylordev/CleanArchitecture",
-        "description": "Clean Architecture Solution Template for ASP.NET Core",
-        "language": "C#",
-        "languageColor": "#178600",
-        "stars": 17097,
-        "fork": 3666,
-        "currentPeriodStars": 238,
-        "builtBy": [
-            {
-                "href": "https://github.com/jasontaylordev",
-                "avatar": "https://avatars.githubusercontent.com/u/1988321?s=40&v=4",
-                "username": "jasontaylordev"
-            },
-            {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
-            },
-            {
-                "href": "https://github.com/jasongt",
-                "avatar": "https://avatars.githubusercontent.com/u/61503095?s=40&v=4",
-                "username": "jasongt"
-            },
-            {
-                "href": "https://github.com/Lanz86",
-                "avatar": "https://avatars.githubusercontent.com/u/3080258?s=40&v=4",
-                "username": "Lanz86"
-            },
-            {
-                "href": "https://github.com/southernsun",
-                "avatar": "https://avatars.githubusercontent.com/u/1664694?s=40&v=4",
-                "username": "southernsun"
-            }
-        ]
-    },
-    {
-        "author": "evolutionary-architecture",
-        "name": "evolutionary-architecture-by-example",
-        "avatar": "https://github.com/evolutionary-architecture.png",
+        "author": "yaobiao131",
+        "name": "downkyicore",
+        "avatar": "https://github.com/yaobiao131.png",
         "sponsor": null,
-        "url": "https://github.com/evolutionary-architecture/evolutionary-architecture-by-example",
-        "description": "Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various architectural patterns. Go beyond the one-size-fits-all solutions and understand how to blend these approaches based on your unique needs.",
+        "url": "https://github.com/yaobiao131/downkyicore",
+        "description": "哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。",
         "language": "C#",
         "languageColor": "#178600",
-        "stars": 1906,
-        "fork": 256,
-        "currentPeriodStars": 247,
+        "stars": 1774,
+        "fork": 135,
+        "currentPeriodStars": 232,
         "builtBy": [
             {
-                "href": "https://github.com/meaboutsoftware",
-                "avatar": "https://avatars.githubusercontent.com/u/5842524?s=40&v=4",
-                "username": "meaboutsoftware"
+                "href": "https://github.com/yaobiao131",
+                "avatar": "https://avatars.githubusercontent.com/u/28655758?s=40&v=4",
+                "username": "yaobiao131"
             },
             {
-                "href": "https://github.com/kamilbaczek",
-                "avatar": "https://avatars.githubusercontent.com/u/74410956?s=40&v=4",
-                "username": "kamilbaczek"
-            },
-            {
-                "href": "https://github.com/anddrzejb",
-                "avatar": "https://avatars.githubusercontent.com/u/6518006?s=40&v=4",
-                "username": "anddrzejb"
-            },
-            {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
-            },
-            {
-                "href": "https://github.com/Mateuszpietrusinski",
-                "avatar": "https://avatars.githubusercontent.com/u/24594740?s=40&v=4",
-                "username": "Mateuszpietrusinski"
-            }
-        ]
-    },
-    {
-        "author": "BluePointLilac",
-        "name": "ContextMenuManager",
-        "avatar": "https://github.com/BluePointLilac.png",
-        "sponsor": null,
-        "url": "https://github.com/BluePointLilac/ContextMenuManager",
-        "description": "🖱️ 纯粹的Windows右键菜单管理程序",
-        "language": "C#",
-        "languageColor": "#178600",
-        "stars": 12826,
-        "fork": 638,
-        "currentPeriodStars": 439,
-        "builtBy": [
-            {
-                "href": "https://github.com/BluePointLilac",
-                "avatar": "https://avatars.githubusercontent.com/u/55010935?s=40&v=4",
-                "username": "BluePointLilac"
-            },
-            {
-                "href": "https://github.com/geofferb",
-                "avatar": "https://avatars.githubusercontent.com/u/38046772?s=40&v=4",
-                "username": "geofferb"
-            },
-            {
-                "href": "https://github.com/JNylson",
-                "avatar": "https://avatars.githubusercontent.com/u/20192563?s=40&v=4",
-                "username": "JNylson"
-            },
-            {
-                "href": "https://github.com/AiYuuki",
-                "avatar": "https://avatars.githubusercontent.com/u/28827378?s=40&v=4",
-                "username": "AiYuuki"
-            },
-            {
-                "href": "https://github.com/delgh1",
-                "avatar": "https://avatars.githubusercontent.com/u/60296981?s=40&v=4",
-                "username": "delgh1"
-            }
-        ]
-    },
-    {
-        "author": "elsa-workflows",
-        "name": "elsa-core",
-        "avatar": "https://github.com/elsa-workflows.png",
-        "sponsor": null,
-        "url": "https://github.com/elsa-workflows/elsa-core",
-        "description": "A .NET workflows library",
-        "language": "C#",
-        "languageColor": "#178600",
-        "stars": 6556,
-        "fork": 1210,
-        "currentPeriodStars": 195,
-        "builtBy": [
-            {
-                "href": "https://github.com/sfmskywalker",
-                "avatar": "https://avatars.githubusercontent.com/u/938393?s=40&v=4",
-                "username": "sfmskywalker"
-            },
-            {
-                "href": "https://github.com/milkyware",
-                "avatar": "https://avatars.githubusercontent.com/u/24723886?s=40&v=4",
-                "username": "milkyware"
-            },
-            {
-                "href": "https://github.com/raymonddenhaan",
-                "avatar": "https://avatars.githubusercontent.com/u/155616759?s=40&v=4",
-                "username": "raymonddenhaan"
-            },
-            {
-                "href": "https://github.com/Axeleron007",
-                "avatar": "https://avatars.githubusercontent.com/u/58106986?s=40&v=4",
-                "username": "Axeleron007"
-            },
-            {
-                "href": "https://github.com/craigfowler",
-                "avatar": "https://avatars.githubusercontent.com/u/982047?s=40&v=4",
-                "username": "craigfowler"
+                "href": "https://github.com/NLick47",
+                "avatar": "https://avatars.githubusercontent.com/u/70244515?s=40&v=4",
+                "username": "NLick47"
             }
         ]
     },
@@ -593,7 +393,7 @@
         "description": null,
         "language": "C#",
         "languageColor": "#178600",
-        "stars": 740,
+        "stars": 741,
         "fork": 216,
         "currentPeriodStars": 82,
         "builtBy": [
@@ -625,122 +425,42 @@
         ]
     },
     {
-        "author": "dotnet",
-        "name": "orleans",
-        "avatar": "https://github.com/dotnet.png",
-        "sponsor": null,
-        "url": "https://github.com/dotnet/orleans",
-        "description": "Cloud Native application framework for .NET",
+        "author": "MudBlazor",
+        "name": "MudBlazor",
+        "avatar": "https://github.com/MudBlazor.png",
+        "sponsor": "https://github.com/sponsors/MudBlazor",
+        "url": "https://github.com/MudBlazor/MudBlazor",
+        "description": "Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.",
         "language": "C#",
         "languageColor": "#178600",
-        "stars": 10141,
-        "fork": 2042,
-        "currentPeriodStars": 74,
+        "stars": 8188,
+        "fork": 1295,
+        "currentPeriodStars": 191,
         "builtBy": [
             {
-                "href": "https://github.com/ReubenBond",
-                "avatar": "https://avatars.githubusercontent.com/u/203839?s=40&v=4",
-                "username": "ReubenBond"
+                "href": "https://github.com/Garderoben",
+                "avatar": "https://avatars.githubusercontent.com/u/10367109?s=40&v=4",
+                "username": "Garderoben"
             },
             {
-                "href": "https://github.com/sergeybykov",
-                "avatar": "https://avatars.githubusercontent.com/u/8248806?s=40&v=4",
-                "username": "sergeybykov"
+                "href": "https://github.com/henon",
+                "avatar": "https://avatars.githubusercontent.com/u/44090?s=40&v=4",
+                "username": "henon"
             },
             {
-                "href": "https://github.com/gabikliot",
-                "avatar": "https://avatars.githubusercontent.com/u/10171207?s=40&v=4",
-                "username": "gabikliot"
+                "href": "https://github.com/ScarletKuro",
+                "avatar": "https://avatars.githubusercontent.com/u/19953225?s=40&v=4",
+                "username": "ScarletKuro"
             },
             {
-                "href": "https://github.com/jason-bragg",
-                "avatar": "https://avatars.githubusercontent.com/u/10675494?s=40&v=4",
-                "username": "jason-bragg"
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
             },
             {
-                "href": "https://github.com/jdom",
-                "avatar": "https://avatars.githubusercontent.com/u/1361686?s=40&v=4",
-                "username": "jdom"
-            }
-        ]
-    },
-    {
-        "author": "GhostPack",
-        "name": "Rubeus",
-        "avatar": "https://github.com/GhostPack.png",
-        "sponsor": null,
-        "url": "https://github.com/GhostPack/Rubeus",
-        "description": "Trying to tame the three-headed dog.",
-        "language": "C#",
-        "languageColor": "#178600",
-        "stars": 4166,
-        "fork": 784,
-        "currentPeriodStars": 73,
-        "builtBy": [
-            {
-                "href": "https://github.com/0xe7",
-                "avatar": "https://avatars.githubusercontent.com/u/13423848?s=40&v=4",
-                "username": "0xe7"
-            },
-            {
-                "href": "https://github.com/HarmJ0y",
-                "avatar": "https://avatars.githubusercontent.com/u/5504523?s=40&v=4",
-                "username": "HarmJ0y"
-            },
-            {
-                "href": "https://github.com/CCob",
-                "avatar": "https://avatars.githubusercontent.com/u/3064210?s=40&v=4",
-                "username": "CCob"
-            },
-            {
-                "href": "https://github.com/VbScrub",
-                "avatar": "https://avatars.githubusercontent.com/u/53273102?s=40&v=4",
-                "username": "VbScrub"
-            },
-            {
-                "href": "https://github.com/pkb1s",
-                "avatar": "https://avatars.githubusercontent.com/u/25517393?s=40&v=4",
-                "username": "pkb1s"
-            }
-        ]
-    },
-    {
-        "author": "dotnet",
-        "name": "runtime",
-        "avatar": "https://github.com/dotnet.png",
-        "sponsor": null,
-        "url": "https://github.com/dotnet/runtime",
-        "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
-        "language": "C#",
-        "languageColor": "#178600",
-        "stars": 15458,
-        "fork": 4760,
-        "currentPeriodStars": 290,
-        "builtBy": [
-            {
-                "href": "https://github.com/vargaz",
-                "avatar": "https://avatars.githubusercontent.com/u/186301?s=40&v=4",
-                "username": "vargaz"
-            },
-            {
-                "href": "https://github.com/stephentoub",
-                "avatar": "https://avatars.githubusercontent.com/u/2642209?s=40&v=4",
-                "username": "stephentoub"
-            },
-            {
-                "href": "https://github.com/kumpera",
-                "avatar": "https://avatars.githubusercontent.com/u/5738?s=40&v=4",
-                "username": "kumpera"
-            },
-            {
-                "href": "https://github.com/jkotas",
-                "avatar": "https://avatars.githubusercontent.com/u/6668460?s=40&v=4",
-                "username": "jkotas"
-            },
-            {
-                "href": "https://github.com/illupus",
-                "avatar": "https://avatars.githubusercontent.com/u/263091?s=40&v=4",
-                "username": "illupus"
+                "href": "https://github.com/danielchalmers",
+                "avatar": "https://avatars.githubusercontent.com/u/7112040?s=40&v=4",
+                "username": "danielchalmers"
             }
         ]
     },
@@ -785,32 +505,72 @@
         ]
     },
     {
-        "author": "MudBlazor",
-        "name": "MudBlazor",
-        "avatar": "https://github.com/MudBlazor.png",
-        "sponsor": "https://github.com/sponsors/MudBlazor",
-        "url": "https://github.com/MudBlazor/MudBlazor",
-        "description": "Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.",
+        "author": "BluePointLilac",
+        "name": "ContextMenuManager",
+        "avatar": "https://github.com/BluePointLilac.png",
+        "sponsor": null,
+        "url": "https://github.com/BluePointLilac/ContextMenuManager",
+        "description": "🖱️ 纯粹的Windows右键菜单管理程序",
         "language": "C#",
         "languageColor": "#178600",
-        "stars": 8188,
-        "fork": 1294,
-        "currentPeriodStars": 191,
+        "stars": 12828,
+        "fork": 638,
+        "currentPeriodStars": 439,
         "builtBy": [
             {
-                "href": "https://github.com/Garderoben",
-                "avatar": "https://avatars.githubusercontent.com/u/10367109?s=40&v=4",
-                "username": "Garderoben"
+                "href": "https://github.com/BluePointLilac",
+                "avatar": "https://avatars.githubusercontent.com/u/55010935?s=40&v=4",
+                "username": "BluePointLilac"
             },
             {
-                "href": "https://github.com/henon",
-                "avatar": "https://avatars.githubusercontent.com/u/44090?s=40&v=4",
-                "username": "henon"
+                "href": "https://github.com/geofferb",
+                "avatar": "https://avatars.githubusercontent.com/u/38046772?s=40&v=4",
+                "username": "geofferb"
             },
             {
-                "href": "https://github.com/ScarletKuro",
-                "avatar": "https://avatars.githubusercontent.com/u/19953225?s=40&v=4",
-                "username": "ScarletKuro"
+                "href": "https://github.com/JNylson",
+                "avatar": "https://avatars.githubusercontent.com/u/20192563?s=40&v=4",
+                "username": "JNylson"
+            },
+            {
+                "href": "https://github.com/AiYuuki",
+                "avatar": "https://avatars.githubusercontent.com/u/28827378?s=40&v=4",
+                "username": "AiYuuki"
+            },
+            {
+                "href": "https://github.com/delgh1",
+                "avatar": "https://avatars.githubusercontent.com/u/60296981?s=40&v=4",
+                "username": "delgh1"
+            }
+        ]
+    },
+    {
+        "author": "evolutionary-architecture",
+        "name": "evolutionary-architecture-by-example",
+        "avatar": "https://github.com/evolutionary-architecture.png",
+        "sponsor": null,
+        "url": "https://github.com/evolutionary-architecture/evolutionary-architecture-by-example",
+        "description": "Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various architectural patterns. Go beyond the one-size-fits-all solutions and understand how to blend these approaches based on your unique needs.",
+        "language": "C#",
+        "languageColor": "#178600",
+        "stars": 1906,
+        "fork": 256,
+        "currentPeriodStars": 247,
+        "builtBy": [
+            {
+                "href": "https://github.com/meaboutsoftware",
+                "avatar": "https://avatars.githubusercontent.com/u/5842524?s=40&v=4",
+                "username": "meaboutsoftware"
+            },
+            {
+                "href": "https://github.com/kamilbaczek",
+                "avatar": "https://avatars.githubusercontent.com/u/74410956?s=40&v=4",
+                "username": "kamilbaczek"
+            },
+            {
+                "href": "https://github.com/anddrzejb",
+                "avatar": "https://avatars.githubusercontent.com/u/6518006?s=40&v=4",
+                "username": "anddrzejb"
             },
             {
                 "href": "https://github.com/apps/dependabot",
@@ -818,39 +578,289 @@
                 "username": "apps/dependabot"
             },
             {
-                "href": "https://github.com/danielchalmers",
-                "avatar": "https://avatars.githubusercontent.com/u/7112040?s=40&v=4",
-                "username": "danielchalmers"
+                "href": "https://github.com/Mateuszpietrusinski",
+                "avatar": "https://avatars.githubusercontent.com/u/24594740?s=40&v=4",
+                "username": "Mateuszpietrusinski"
             }
         ]
     },
     {
-        "author": "mob-sakai",
-        "name": "UIEffect",
-        "avatar": "https://github.com/mob-sakai.png",
-        "sponsor": "https://github.com/sponsors/mob-sakai",
-        "url": "https://github.com/mob-sakai/UIEffect",
-        "description": "UIEffect is an open-source package that allows you to intuitively apply rich UI effects directly from the Inspector or via code. Combine various filters, such as grayscale, blur, and dissolve, to decorate your UI with a unique visual style!",
+        "author": "dotnet",
+        "name": "runtime",
+        "avatar": "https://github.com/dotnet.png",
+        "sponsor": null,
+        "url": "https://github.com/dotnet/runtime",
+        "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
         "language": "C#",
         "languageColor": "#178600",
-        "stars": 5806,
-        "fork": 796,
-        "currentPeriodStars": 102,
+        "stars": 15457,
+        "fork": 4760,
+        "currentPeriodStars": 290,
         "builtBy": [
             {
-                "href": "https://github.com/mob-sakai",
-                "avatar": "https://avatars.githubusercontent.com/u/12690315?s=40&v=4",
-                "username": "mob-sakai"
+                "href": "https://github.com/vargaz",
+                "avatar": "https://avatars.githubusercontent.com/u/186301?s=40&v=4",
+                "username": "vargaz"
             },
             {
-                "href": "https://github.com/semantic-release-bot",
-                "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
-                "username": "semantic-release-bot"
+                "href": "https://github.com/stephentoub",
+                "avatar": "https://avatars.githubusercontent.com/u/2642209?s=40&v=4",
+                "username": "stephentoub"
             },
             {
-                "href": "https://github.com/rickytheoldtree",
-                "avatar": "https://avatars.githubusercontent.com/u/94957102?s=40&v=4",
-                "username": "rickytheoldtree"
+                "href": "https://github.com/kumpera",
+                "avatar": "https://avatars.githubusercontent.com/u/5738?s=40&v=4",
+                "username": "kumpera"
+            },
+            {
+                "href": "https://github.com/jkotas",
+                "avatar": "https://avatars.githubusercontent.com/u/6668460?s=40&v=4",
+                "username": "jkotas"
+            },
+            {
+                "href": "https://github.com/illupus",
+                "avatar": "https://avatars.githubusercontent.com/u/263091?s=40&v=4",
+                "username": "illupus"
+            }
+        ]
+    },
+    {
+        "author": "GhostPack",
+        "name": "Rubeus",
+        "avatar": "https://github.com/GhostPack.png",
+        "sponsor": null,
+        "url": "https://github.com/GhostPack/Rubeus",
+        "description": "Trying to tame the three-headed dog.",
+        "language": "C#",
+        "languageColor": "#178600",
+        "stars": 4167,
+        "fork": 784,
+        "currentPeriodStars": 73,
+        "builtBy": [
+            {
+                "href": "https://github.com/0xe7",
+                "avatar": "https://avatars.githubusercontent.com/u/13423848?s=40&v=4",
+                "username": "0xe7"
+            },
+            {
+                "href": "https://github.com/HarmJ0y",
+                "avatar": "https://avatars.githubusercontent.com/u/5504523?s=40&v=4",
+                "username": "HarmJ0y"
+            },
+            {
+                "href": "https://github.com/CCob",
+                "avatar": "https://avatars.githubusercontent.com/u/3064210?s=40&v=4",
+                "username": "CCob"
+            },
+            {
+                "href": "https://github.com/VbScrub",
+                "avatar": "https://avatars.githubusercontent.com/u/53273102?s=40&v=4",
+                "username": "VbScrub"
+            },
+            {
+                "href": "https://github.com/pkb1s",
+                "avatar": "https://avatars.githubusercontent.com/u/25517393?s=40&v=4",
+                "username": "pkb1s"
+            }
+        ]
+    },
+    {
+        "author": "elsa-workflows",
+        "name": "elsa-core",
+        "avatar": "https://github.com/elsa-workflows.png",
+        "sponsor": null,
+        "url": "https://github.com/elsa-workflows/elsa-core",
+        "description": "A .NET workflows library",
+        "language": "C#",
+        "languageColor": "#178600",
+        "stars": 6557,
+        "fork": 1210,
+        "currentPeriodStars": 195,
+        "builtBy": [
+            {
+                "href": "https://github.com/sfmskywalker",
+                "avatar": "https://avatars.githubusercontent.com/u/938393?s=40&v=4",
+                "username": "sfmskywalker"
+            },
+            {
+                "href": "https://github.com/milkyware",
+                "avatar": "https://avatars.githubusercontent.com/u/24723886?s=40&v=4",
+                "username": "milkyware"
+            },
+            {
+                "href": "https://github.com/raymonddenhaan",
+                "avatar": "https://avatars.githubusercontent.com/u/155616759?s=40&v=4",
+                "username": "raymonddenhaan"
+            },
+            {
+                "href": "https://github.com/Axeleron007",
+                "avatar": "https://avatars.githubusercontent.com/u/58106986?s=40&v=4",
+                "username": "Axeleron007"
+            },
+            {
+                "href": "https://github.com/craigfowler",
+                "avatar": "https://avatars.githubusercontent.com/u/982047?s=40&v=4",
+                "username": "craigfowler"
+            }
+        ]
+    },
+    {
+        "author": "jasontaylordev",
+        "name": "CleanArchitecture",
+        "avatar": "https://github.com/jasontaylordev.png",
+        "sponsor": "https://github.com/sponsors/jasontaylordev",
+        "url": "https://github.com/jasontaylordev/CleanArchitecture",
+        "description": "Clean Architecture Solution Template for ASP.NET Core",
+        "language": "C#",
+        "languageColor": "#178600",
+        "stars": 17098,
+        "fork": 3666,
+        "currentPeriodStars": 238,
+        "builtBy": [
+            {
+                "href": "https://github.com/jasontaylordev",
+                "avatar": "https://avatars.githubusercontent.com/u/1988321?s=40&v=4",
+                "username": "jasontaylordev"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/jasongt",
+                "avatar": "https://avatars.githubusercontent.com/u/61503095?s=40&v=4",
+                "username": "jasongt"
+            },
+            {
+                "href": "https://github.com/Lanz86",
+                "avatar": "https://avatars.githubusercontent.com/u/3080258?s=40&v=4",
+                "username": "Lanz86"
+            },
+            {
+                "href": "https://github.com/southernsun",
+                "avatar": "https://avatars.githubusercontent.com/u/1664694?s=40&v=4",
+                "username": "southernsun"
+            }
+        ]
+    },
+    {
+        "author": "umbraco",
+        "name": "Umbraco-CMS",
+        "avatar": "https://github.com/umbraco.png",
+        "sponsor": null,
+        "url": "https://github.com/umbraco/Umbraco-CMS",
+        "description": "Umbraco is a free and open source .NET content management system helping you deliver delightful digital experiences.",
+        "language": "C#",
+        "languageColor": "#178600",
+        "stars": 4538,
+        "fork": 2708,
+        "currentPeriodStars": 81,
+        "builtBy": [
+            {
+                "href": "https://github.com/Shazwazza",
+                "avatar": "https://avatars.githubusercontent.com/u/1742685?s=40&v=4",
+                "username": "Shazwazza"
+            },
+            {
+                "href": "https://github.com/nul800sebastiaan",
+                "avatar": "https://avatars.githubusercontent.com/u/304656?s=40&v=4",
+                "username": "nul800sebastiaan"
+            },
+            {
+                "href": "https://github.com/bergmania",
+                "avatar": "https://avatars.githubusercontent.com/u/1561480?s=40&v=4",
+                "username": "bergmania"
+            },
+            {
+                "href": "https://github.com/madsrasmussen",
+                "avatar": "https://avatars.githubusercontent.com/u/6078361?s=40&v=4",
+                "username": "madsrasmussen"
+            },
+            {
+                "href": "https://github.com/nielslyngsoe",
+                "avatar": "https://avatars.githubusercontent.com/u/6791648?s=40&v=4",
+                "username": "nielslyngsoe"
+            }
+        ]
+    },
+    {
+        "author": "lepoco",
+        "name": "wpfui",
+        "avatar": "https://github.com/lepoco.png",
+        "sponsor": "https://github.com/sponsors/lepoco",
+        "url": "https://github.com/lepoco/wpfui",
+        "description": "WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly.",
+        "language": "C#",
+        "languageColor": "#178600",
+        "stars": 7734,
+        "fork": 756,
+        "currentPeriodStars": 157,
+        "builtBy": [
+            {
+                "href": "https://github.com/pomianowski",
+                "avatar": "https://avatars.githubusercontent.com/u/13592821?s=40&v=4",
+                "username": "pomianowski"
+            },
+            {
+                "href": "https://github.com/IvanDmitriev1",
+                "avatar": "https://avatars.githubusercontent.com/u/42055372?s=40&v=4",
+                "username": "IvanDmitriev1"
+            },
+            {
+                "href": "https://github.com/niels9001",
+                "avatar": "https://avatars.githubusercontent.com/u/9866362?s=40&v=4",
+                "username": "niels9001"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/koal44",
+                "avatar": "https://avatars.githubusercontent.com/u/78566945?s=40&v=4",
+                "username": "koal44"
+            }
+        ]
+    },
+    {
+        "author": "dotnet",
+        "name": "orleans",
+        "avatar": "https://github.com/dotnet.png",
+        "sponsor": null,
+        "url": "https://github.com/dotnet/orleans",
+        "description": "Cloud Native application framework for .NET",
+        "language": "C#",
+        "languageColor": "#178600",
+        "stars": 10141,
+        "fork": 2042,
+        "currentPeriodStars": 74,
+        "builtBy": [
+            {
+                "href": "https://github.com/ReubenBond",
+                "avatar": "https://avatars.githubusercontent.com/u/203839?s=40&v=4",
+                "username": "ReubenBond"
+            },
+            {
+                "href": "https://github.com/sergeybykov",
+                "avatar": "https://avatars.githubusercontent.com/u/8248806?s=40&v=4",
+                "username": "sergeybykov"
+            },
+            {
+                "href": "https://github.com/gabikliot",
+                "avatar": "https://avatars.githubusercontent.com/u/10171207?s=40&v=4",
+                "username": "gabikliot"
+            },
+            {
+                "href": "https://github.com/jason-bragg",
+                "avatar": "https://avatars.githubusercontent.com/u/10675494?s=40&v=4",
+                "username": "jason-bragg"
+            },
+            {
+                "href": "https://github.com/jdom",
+                "avatar": "https://avatars.githubusercontent.com/u/1361686?s=40&v=4",
+                "username": "jdom"
             }
         ]
     }
