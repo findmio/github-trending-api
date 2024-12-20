@@ -8,8 +8,8 @@
         "description": "Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 7279,
-        "fork": 227,
+        "stars": 7283,
+        "fork": 228,
         "currentPeriodStars": 3607,
         "builtBy": [
             {
@@ -48,7 +48,7 @@
         "description": "⚙️🦀 Build portable, modular & lightweight Fullstack Agents",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 1186,
+        "stars": 1190,
         "fork": 97,
         "currentPeriodStars": 527,
         "builtBy": [
@@ -88,7 +88,7 @@
         "description": "Fullstack app framework for web, desktop, mobile, and more.",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 23480,
+        "stars": 23482,
         "fork": 904,
         "currentPeriodStars": 1022,
         "builtBy": [
@@ -120,42 +120,82 @@
         ]
     },
     {
-        "author": "influxdata",
-        "name": "influxdb",
-        "avatar": "https://github.com/influxdata.png",
+        "author": "hyperium",
+        "name": "hyper",
+        "avatar": "https://github.com/hyperium.png",
         "sponsor": null,
-        "url": "https://github.com/influxdata/influxdb",
-        "description": "Scalable datastore for metrics, events, and real-time analytics",
+        "url": "https://github.com/hyperium/hyper",
+        "description": "An HTTP library for Rust",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 29176,
-        "fork": 3568,
-        "currentPeriodStars": 60,
+        "stars": 14723,
+        "fork": 1610,
+        "currentPeriodStars": 68,
         "builtBy": [
             {
-                "href": "https://github.com/apps/kodiakhq",
-                "avatar": "https://private-avatars.githubusercontent.com/in/29196?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzkzODAsIm5iZiI6MTczNDY3ODE4MCwicGF0aCI6Ii9pbi8yOTE5NiJ9.C5y2EJ17aDMOWHvzgtPsAokOvNY4UJjK6J0M4EfNJ-k&s=40&v=4",
-                "username": "apps/kodiakhq"
+                "href": "https://github.com/seanmonstar",
+                "avatar": "https://private-avatars.githubusercontent.com/u/51479?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NjYzNjAsIm5iZiI6MTczNDY2NTE2MCwicGF0aCI6Ii91LzUxNDc5In0.1T7yUwJYchDY741r1d0Ye9rI_mVFwmPYgox4ByQhL2U&s=40&v=4",
+                "username": "seanmonstar"
             },
             {
-                "href": "https://github.com/alexpaxton",
-                "avatar": "https://private-avatars.githubusercontent.com/u/2433762?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2Nzk1NjAsIm5iZiI6MTczNDY3ODM2MCwicGF0aCI6Ii91LzI0MzM3NjIifQ.6QLjZtQRHL2IFGo16bfo4OXjesiWe6jkPKjNlx4GCO0&s=40&v=4",
-                "username": "alexpaxton"
+                "href": "https://github.com/reem",
+                "avatar": "https://private-avatars.githubusercontent.com/u/4745181?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NjY3MjAsIm5iZiI6MTczNDY2NTUyMCwicGF0aCI6Ii91LzQ3NDUxODEifQ.u5eKKyRsvBXdl4RzgpKTKa8spe16J7_hYHbjsZKukYY&s=40&v=4",
+                "username": "reem"
             },
             {
-                "href": "https://github.com/121watts",
-                "avatar": "https://private-avatars.githubusercontent.com/u/7582765?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzkwMjAsIm5iZiI6MTczNDY3NzgyMCwicGF0aCI6Ii91Lzc1ODI3NjUifQ.yJiryQXGRnnRe6DrExPsaXVsMsgVa1toW0-kmK91kSk&s=40&v=4",
-                "username": "121watts"
+                "href": "https://github.com/tottoto",
+                "avatar": "https://private-avatars.githubusercontent.com/u/16907501?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NjY0ODAsIm5iZiI6MTczNDY2NTI4MCwicGF0aCI6Ii91LzE2OTA3NTAxIn0.HWbdCaAIfV0Mr2ve6in3lZk9ZAM201Wb9Vnqezl5Sps&s=40&v=4",
+                "username": "tottoto"
             },
             {
-                "href": "https://github.com/carols10cents",
-                "avatar": "https://private-avatars.githubusercontent.com/u/193874?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NzkyNjAsIm5iZiI6MTczNDY3ODA2MCwicGF0aCI6Ii91LzE5Mzg3NCJ9.ah8iKFrOgmqIHQzphG0DgsqZn2sCw4lADFFP7gcsy6w&s=40&v=4",
-                "username": "carols10cents"
+                "href": "https://github.com/pyfisch",
+                "avatar": "https://private-avatars.githubusercontent.com/u/2781017?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NjYyNDAsIm5iZiI6MTczNDY2NTA0MCwicGF0aCI6Ii91LzI3ODEwMTcifQ.bkOK9V3cNRTR8yR-dadriKVJRsaTMauC2O2bZbJOyzk&s=40&v=4",
+                "username": "pyfisch"
             },
             {
-                "href": "https://github.com/otoolep",
-                "avatar": "https://private-avatars.githubusercontent.com/u/536312?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2Nzk0NDAsIm5iZiI6MTczNDY3ODI0MCwicGF0aCI6Ii91LzUzNjMxMiJ9.ScGoiZGUXAwsaFWmG6RrA7FNGy_Kfcq65HLjggDd3fI&s=40&v=4",
-                "username": "otoolep"
+                "href": "https://github.com/weihanglo",
+                "avatar": "https://private-avatars.githubusercontent.com/u/14314532?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NjY5NjAsIm5iZiI6MTczNDY2NTc2MCwicGF0aCI6Ii91LzE0MzE0NTMyIn0.hvoIos-roLmFNgquHz2lvijBSXnkvR3duMkzSdxYxAA&s=40&v=4",
+                "username": "weihanglo"
+            }
+        ]
+    },
+    {
+        "author": "jj-vcs",
+        "name": "jj",
+        "avatar": "https://github.com/jj-vcs.png",
+        "sponsor": null,
+        "url": "https://github.com/jj-vcs/jj",
+        "description": "A Git-compatible VCS that is both simple and powerful",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "stars": 9888,
+        "fork": 346,
+        "currentPeriodStars": 213,
+        "builtBy": [
+            {
+                "href": "https://github.com/martinvonz",
+                "avatar": "https://avatars.githubusercontent.com/u/891642?s=40&v=4",
+                "username": "martinvonz"
+            },
+            {
+                "href": "https://github.com/yuja",
+                "avatar": "https://avatars.githubusercontent.com/u/172069?s=40&v=4",
+                "username": "yuja"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/ilyagr",
+                "avatar": "https://avatars.githubusercontent.com/u/4123047?s=40&v=4",
+                "username": "ilyagr"
+            },
+            {
+                "href": "https://github.com/thoughtpolice",
+                "avatar": "https://avatars.githubusercontent.com/u/3416?s=40&v=4",
+                "username": "thoughtpolice"
             }
         ]
     },
@@ -174,308 +214,68 @@
         "builtBy": [
             {
                 "href": "https://github.com/dae",
-                "avatar": "https://avatars.githubusercontent.com/u/180542?s=40&v=4",
+                "avatar": "https://private-avatars.githubusercontent.com/u/180542?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NjI1MjAsIm5iZiI6MTczNDY2MTMyMCwicGF0aCI6Ii91LzE4MDU0MiJ9.5cHuqkOKD4L23Z1PFq_IrierEE5culGYxZTO4Jet9Qw&s=40&v=4",
                 "username": "dae"
             },
             {
                 "href": "https://github.com/hgiesel",
-                "avatar": "https://avatars.githubusercontent.com/u/7188844?s=40&v=4",
+                "avatar": "https://private-avatars.githubusercontent.com/u/7188844?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NjI3NjAsIm5iZiI6MTczNDY2MTU2MCwicGF0aCI6Ii91LzcxODg4NDQifQ.ltSvYYSDWhhHYcTHYjiCHxsqM2_hhhdQTP8EPVFHUJg&s=40&v=4",
                 "username": "hgiesel"
             },
             {
                 "href": "https://github.com/RumovZ",
-                "avatar": "https://avatars.githubusercontent.com/u/48286681?s=40&v=4",
+                "avatar": "https://private-avatars.githubusercontent.com/u/48286681?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NjI3NjAsIm5iZiI6MTczNDY2MTU2MCwicGF0aCI6Ii91LzQ4Mjg2NjgxIn0.Yo2u778uSmzjQBE2vB60JzkWE-wU1cw3fDNknctvSzc&s=40&v=4",
                 "username": "RumovZ"
             },
             {
                 "href": "https://github.com/abdnh",
-                "avatar": "https://avatars.githubusercontent.com/u/41397710?s=40&v=4",
+                "avatar": "https://private-avatars.githubusercontent.com/u/41397710?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NjMxMjAsIm5iZiI6MTczNDY2MTkyMCwicGF0aCI6Ii91LzQxMzk3NzEwIn0.pJWd5wz98ESwn0D-x82WVbcCePjzCL1OfeEVWgJhgts&s=40&v=4",
                 "username": "abdnh"
             },
             {
                 "href": "https://github.com/Arthur-Milchior",
-                "avatar": "https://avatars.githubusercontent.com/u/357361?s=40&v=4",
+                "avatar": "https://private-avatars.githubusercontent.com/u/357361?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NjI2NDAsIm5iZiI6MTczNDY2MTQ0MCwicGF0aCI6Ii91LzM1NzM2MSJ9.MF1qBWUSlNLYYhk3bwmN-IG0r-6wXDY_wK-tQgiOQVc&s=40&v=4",
                 "username": "Arthur-Milchior"
             }
         ]
     },
     {
-        "author": "hyperium",
-        "name": "hyper",
-        "avatar": "https://github.com/hyperium.png",
+        "author": "microsoft",
+        "name": "windows-rs",
+        "avatar": "https://github.com/microsoft.png",
         "sponsor": null,
-        "url": "https://github.com/hyperium/hyper",
-        "description": "An HTTP library for Rust",
+        "url": "https://github.com/microsoft/windows-rs",
+        "description": "Rust for Windows",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 14723,
-        "fork": 1610,
-        "currentPeriodStars": 68,
+        "stars": 10816,
+        "fork": 510,
+        "currentPeriodStars": 295,
         "builtBy": [
             {
-                "href": "https://github.com/seanmonstar",
-                "avatar": "https://avatars.githubusercontent.com/u/51479?s=40&v=4",
-                "username": "seanmonstar"
+                "href": "https://github.com/kennykerr",
+                "avatar": "https://avatars.githubusercontent.com/u/9845234?s=40&v=4",
+                "username": "kennykerr"
             },
             {
-                "href": "https://github.com/reem",
-                "avatar": "https://avatars.githubusercontent.com/u/4745181?s=40&v=4",
-                "username": "reem"
+                "href": "https://github.com/rylev",
+                "avatar": "https://avatars.githubusercontent.com/u/1327285?s=40&v=4",
+                "username": "rylev"
             },
             {
-                "href": "https://github.com/tottoto",
-                "avatar": "https://avatars.githubusercontent.com/u/16907501?s=40&v=4",
-                "username": "tottoto"
+                "href": "https://github.com/riverar",
+                "avatar": "https://avatars.githubusercontent.com/u/475132?s=40&v=4",
+                "username": "riverar"
             },
             {
-                "href": "https://github.com/pyfisch",
-                "avatar": "https://avatars.githubusercontent.com/u/2781017?s=40&v=4",
-                "username": "pyfisch"
+                "href": "https://github.com/MarijnS95",
+                "avatar": "https://avatars.githubusercontent.com/u/2325264?s=40&v=4",
+                "username": "MarijnS95"
             },
             {
-                "href": "https://github.com/weihanglo",
-                "avatar": "https://avatars.githubusercontent.com/u/14314532?s=40&v=4",
-                "username": "weihanglo"
-            }
-        ]
-    },
-    {
-        "author": "nexus-xyz",
-        "name": "nexus-zkvm",
-        "avatar": "https://github.com/nexus-xyz.png",
-        "sponsor": null,
-        "url": "https://github.com/nexus-xyz/nexus-zkvm",
-        "description": "The Nexus zkVM: The zero-knowledge virtual machine",
-        "language": "Rust",
-        "languageColor": "#dea584",
-        "stars": 2067,
-        "fork": 354,
-        "currentPeriodStars": 237,
-        "builtBy": [
-            {
-                "href": "https://github.com/govereau",
-                "avatar": "https://avatars.githubusercontent.com/u/864855?s=40&v=4",
-                "username": "govereau"
-            },
-            {
-                "href": "https://github.com/slumber",
-                "avatar": "https://avatars.githubusercontent.com/u/48099298?s=40&v=4",
-                "username": "slumber"
-            },
-            {
-                "href": "https://github.com/danielmarinq",
-                "avatar": "https://avatars.githubusercontent.com/u/60114322?s=40&v=4",
-                "username": "danielmarinq"
-            },
-            {
-                "href": "https://github.com/sjudson",
-                "avatar": "https://avatars.githubusercontent.com/u/20324824?s=40&v=4",
-                "username": "sjudson"
-            },
-            {
-                "href": "https://github.com/yoichi-nexus",
-                "avatar": "https://avatars.githubusercontent.com/u/173047316?s=40&v=4",
-                "username": "yoichi-nexus"
-            }
-        ]
-    },
-    {
-        "author": "nexus-xyz",
-        "name": "network-api",
-        "avatar": "https://github.com/nexus-xyz.png",
-        "sponsor": null,
-        "url": "https://github.com/nexus-xyz/network-api",
-        "description": "High-performance interface for supplying compute to the Nexus network.",
-        "language": "Rust",
-        "languageColor": "#dea584",
-        "stars": 256,
-        "fork": 75,
-        "currentPeriodStars": 87,
-        "builtBy": [
-            {
-                "href": "https://github.com/collinjackson",
-                "avatar": "https://avatars.githubusercontent.com/u/394889?s=40&v=4",
-                "username": "collinjackson"
-            },
-            {
-                "href": "https://github.com/dprats",
-                "avatar": "https://avatars.githubusercontent.com/u/1202924?s=40&v=4",
-                "username": "dprats"
-            },
-            {
-                "href": "https://github.com/mdqst",
-                "avatar": "https://avatars.githubusercontent.com/u/98899785?s=40&v=4",
-                "username": "mdqst"
-            },
-            {
-                "href": "https://github.com/stupidmelon",
-                "avatar": "https://avatars.githubusercontent.com/u/10066952?s=40&v=4",
-                "username": "stupidmelon"
-            },
-            {
-                "href": "https://github.com/mfaulk",
-                "avatar": "https://avatars.githubusercontent.com/u/1364393?s=40&v=4",
-                "username": "mfaulk"
-            }
-        ]
-    },
-    {
-        "author": "FuelLabs",
-        "name": "sway",
-        "avatar": "https://github.com/FuelLabs.png",
-        "sponsor": null,
-        "url": "https://github.com/FuelLabs/sway",
-        "description": "🌴 Empowering everyone to build reliable and efficient smart contracts.",
-        "language": "Rust",
-        "languageColor": "#dea584",
-        "stars": 62593,
-        "fork": 5390,
-        "currentPeriodStars": 37,
-        "builtBy": [
-            {
-                "href": "https://github.com/IGI-111",
-                "avatar": "https://avatars.githubusercontent.com/u/7190144?s=40&v=4",
-                "username": "IGI-111"
-            },
-            {
-                "href": "https://github.com/JoshuaBatty",
-                "avatar": "https://avatars.githubusercontent.com/u/1289413?s=40&v=4",
-                "username": "JoshuaBatty"
-            },
-            {
-                "href": "https://github.com/kayagokalp",
-                "avatar": "https://avatars.githubusercontent.com/u/20915464?s=40&v=4",
-                "username": "kayagokalp"
-            },
-            {
-                "href": "https://github.com/mohammadfawaz",
-                "avatar": "https://avatars.githubusercontent.com/u/59666792?s=40&v=4",
-                "username": "mohammadfawaz"
-            },
-            {
-                "href": "https://github.com/tritao",
-                "avatar": "https://avatars.githubusercontent.com/u/602268?s=40&v=4",
-                "username": "tritao"
-            }
-        ]
-    },
-    {
-        "author": "jj-vcs",
-        "name": "jj",
-        "avatar": "https://github.com/jj-vcs.png",
-        "sponsor": null,
-        "url": "https://github.com/jj-vcs/jj",
-        "description": "A Git-compatible VCS that is both simple and powerful",
-        "language": "Rust",
-        "languageColor": "#dea584",
-        "stars": 9887,
-        "fork": 346,
-        "currentPeriodStars": 213,
-        "builtBy": [
-            {
-                "href": "https://github.com/martinvonz",
-                "avatar": "https://private-avatars.githubusercontent.com/u/891642?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NDg0ODAsIm5iZiI6MTczNDY0NzI4MCwicGF0aCI6Ii91Lzg5MTY0MiJ9.Zj6FDE6ZN0TFyCRQUkL9BIpNw6KbhQXmi4JtyFRcH50&s=40&v=4",
-                "username": "martinvonz"
-            },
-            {
-                "href": "https://github.com/yuja",
-                "avatar": "https://private-avatars.githubusercontent.com/u/172069?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NDg5MDAsIm5iZiI6MTczNDY0NzcwMCwicGF0aCI6Ii91LzE3MjA2OSJ9.uB2sB5hCFRcQlOVfEwkyHUCH9o8bxA59Oz2qW4nyzDw&s=40&v=4",
-                "username": "yuja"
-            },
-            {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://private-avatars.githubusercontent.com/in/29110?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NDg2NjAsIm5iZiI6MTczNDY0NzQ2MCwicGF0aCI6Ii9pbi8yOTExMCJ9.qiX3FOREJNnvBm0sAzZ9PHh4kcMn80wXsB3peinkiRY&s=40&v=4",
-                "username": "apps/dependabot"
-            },
-            {
-                "href": "https://github.com/ilyagr",
-                "avatar": "https://private-avatars.githubusercontent.com/u/4123047?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NDg2MDAsIm5iZiI6MTczNDY0NzQwMCwicGF0aCI6Ii91LzQxMjMwNDcifQ.DgvUdXzN3V8yzy7eZ6PSpr90FB2YkpsRx8SmQtmo1IY&s=40&v=4",
-                "username": "ilyagr"
-            },
-            {
-                "href": "https://github.com/thoughtpolice",
-                "avatar": "https://private-avatars.githubusercontent.com/u/3416?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NDg3ODAsIm5iZiI6MTczNDY0NzU4MCwicGF0aCI6Ii91LzM0MTYifQ.B-CsPnzlJeLjMkqG8Bz1kBEs3coqocf16mtGaWZtD38&s=40&v=4",
-                "username": "thoughtpolice"
-            }
-        ]
-    },
-    {
-        "author": "woodruffw",
-        "name": "zizmor",
-        "avatar": "https://github.com/woodruffw.png",
-        "sponsor": "https://github.com/sponsors/woodruffw",
-        "url": "https://github.com/woodruffw/zizmor",
-        "description": "A static analysis tool for GitHub Actions",
-        "language": "Rust",
-        "languageColor": "#dea584",
-        "stars": 1433,
-        "fork": 32,
-        "currentPeriodStars": 598,
-        "builtBy": [
-            {
-                "href": "https://github.com/woodruffw",
-                "avatar": "https://avatars.githubusercontent.com/u/3059210?s=40&v=4",
-                "username": "woodruffw"
-            },
-            {
-                "href": "https://github.com/ubiratansoares",
-                "avatar": "https://avatars.githubusercontent.com/u/484670?s=40&v=4",
-                "username": "ubiratansoares"
-            },
-            {
-                "href": "https://github.com/miketheman",
-                "avatar": "https://avatars.githubusercontent.com/u/529516?s=40&v=4",
-                "username": "miketheman"
-            },
-            {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
-            },
-            {
-                "href": "https://github.com/funnelfiasco",
-                "avatar": "https://avatars.githubusercontent.com/u/445852?s=40&v=4",
-                "username": "funnelfiasco"
-            }
-        ]
-    },
-    {
-        "author": "helix-editor",
-        "name": "helix",
-        "avatar": "https://github.com/helix-editor.png",
-        "sponsor": null,
-        "url": "https://github.com/helix-editor/helix",
-        "description": "A post-modern modal text editor.",
-        "language": "Rust",
-        "languageColor": "#dea584",
-        "stars": 34376,
-        "fork": 2546,
-        "currentPeriodStars": 191,
-        "builtBy": [
-            {
-                "href": "https://github.com/archseer",
-                "avatar": "https://avatars.githubusercontent.com/u/1372918?s=40&v=4",
-                "username": "archseer"
-            },
-            {
-                "href": "https://github.com/the-mikedavis",
-                "avatar": "https://avatars.githubusercontent.com/u/21230295?s=40&v=4",
-                "username": "the-mikedavis"
-            },
-            {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
-            },
-            {
-                "href": "https://github.com/pascalkuthe",
-                "avatar": "https://avatars.githubusercontent.com/u/61850714?s=40&v=4",
-                "username": "pascalkuthe"
-            },
-            {
-                "href": "https://github.com/sudormrfbin",
-                "avatar": "https://avatars.githubusercontent.com/u/23398472?s=40&v=4",
-                "username": "sudormrfbin"
+                "href": "https://github.com/sivadeilra",
+                "avatar": "https://avatars.githubusercontent.com/u/4743776?s=40&v=4",
+                "username": "sivadeilra"
             }
         ]
     },
@@ -488,7 +288,7 @@
         "description": "Rust full node implementation of the Fuel v2 protocol.",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 57978,
+        "stars": 57977,
         "fork": 2813,
         "currentPeriodStars": 40,
         "builtBy": [
@@ -520,82 +320,162 @@
         ]
     },
     {
-        "author": "foundry-rs",
-        "name": "foundry",
-        "avatar": "https://github.com/foundry-rs.png",
+        "author": "influxdata",
+        "name": "influxdb",
+        "avatar": "https://github.com/influxdata.png",
         "sponsor": null,
-        "url": "https://github.com/foundry-rs/foundry",
-        "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+        "url": "https://github.com/influxdata/influxdb",
+        "description": "Scalable datastore for metrics, events, and real-time analytics",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 8414,
-        "fork": 1792,
-        "currentPeriodStars": 30,
+        "stars": 29176,
+        "fork": 3568,
+        "currentPeriodStars": 60,
         "builtBy": [
             {
-                "href": "https://github.com/mattsse",
-                "avatar": "https://avatars.githubusercontent.com/u/19890894?s=40&v=4",
-                "username": "mattsse"
+                "href": "https://github.com/apps/kodiakhq",
+                "avatar": "https://avatars.githubusercontent.com/in/29196?s=40&v=4",
+                "username": "apps/kodiakhq"
             },
             {
-                "href": "https://github.com/DaniPopes",
-                "avatar": "https://avatars.githubusercontent.com/u/57450786?s=40&v=4",
-                "username": "DaniPopes"
+                "href": "https://github.com/alexpaxton",
+                "avatar": "https://avatars.githubusercontent.com/u/2433762?s=40&v=4",
+                "username": "alexpaxton"
             },
             {
-                "href": "https://github.com/gakonst",
-                "avatar": "https://avatars.githubusercontent.com/u/17802178?s=40&v=4",
-                "username": "gakonst"
+                "href": "https://github.com/121watts",
+                "avatar": "https://avatars.githubusercontent.com/u/7582765?s=40&v=4",
+                "username": "121watts"
             },
             {
-                "href": "https://github.com/grandizzy",
-                "avatar": "https://avatars.githubusercontent.com/u/38490174?s=40&v=4",
-                "username": "grandizzy"
+                "href": "https://github.com/carols10cents",
+                "avatar": "https://avatars.githubusercontent.com/u/193874?s=40&v=4",
+                "username": "carols10cents"
             },
             {
-                "href": "https://github.com/Evalir",
-                "avatar": "https://avatars.githubusercontent.com/u/26014927?s=40&v=4",
-                "username": "Evalir"
+                "href": "https://github.com/otoolep",
+                "avatar": "https://avatars.githubusercontent.com/u/536312?s=40&v=4",
+                "username": "otoolep"
             }
         ]
     },
     {
-        "author": "astral-sh",
-        "name": "uv",
-        "avatar": "https://github.com/astral-sh.png",
+        "author": "helix-editor",
+        "name": "helix",
+        "avatar": "https://github.com/helix-editor.png",
         "sponsor": null,
-        "url": "https://github.com/astral-sh/uv",
-        "description": "An extremely fast Python package and project manager, written in Rust.",
+        "url": "https://github.com/helix-editor/helix",
+        "description": "A post-modern modal text editor.",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 33012,
-        "fork": 896,
-        "currentPeriodStars": 1110,
+        "stars": 34377,
+        "fork": 2547,
+        "currentPeriodStars": 191,
         "builtBy": [
             {
-                "href": "https://github.com/charliermarsh",
-                "avatar": "https://avatars.githubusercontent.com/u/1309177?s=40&v=4",
-                "username": "charliermarsh"
+                "href": "https://github.com/archseer",
+                "avatar": "https://avatars.githubusercontent.com/u/1372918?s=40&v=4",
+                "username": "archseer"
             },
             {
-                "href": "https://github.com/zanieb",
-                "avatar": "https://avatars.githubusercontent.com/u/2586601?s=40&v=4",
-                "username": "zanieb"
+                "href": "https://github.com/the-mikedavis",
+                "avatar": "https://avatars.githubusercontent.com/u/21230295?s=40&v=4",
+                "username": "the-mikedavis"
             },
             {
-                "href": "https://github.com/konstin",
-                "avatar": "https://avatars.githubusercontent.com/u/6826232?s=40&v=4",
-                "username": "konstin"
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
             },
             {
-                "href": "https://github.com/apps/renovate",
-                "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
-                "username": "apps/renovate"
+                "href": "https://github.com/pascalkuthe",
+                "avatar": "https://avatars.githubusercontent.com/u/61850714?s=40&v=4",
+                "username": "pascalkuthe"
             },
             {
-                "href": "https://github.com/BurntSushi",
-                "avatar": "https://avatars.githubusercontent.com/u/456674?s=40&v=4",
-                "username": "BurntSushi"
+                "href": "https://github.com/sudormrfbin",
+                "avatar": "https://avatars.githubusercontent.com/u/23398472?s=40&v=4",
+                "username": "sudormrfbin"
+            }
+        ]
+    },
+    {
+        "author": "FuelLabs",
+        "name": "sway",
+        "avatar": "https://github.com/FuelLabs.png",
+        "sponsor": null,
+        "url": "https://github.com/FuelLabs/sway",
+        "description": "🌴 Empowering everyone to build reliable and efficient smart contracts.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "stars": 62592,
+        "fork": 5390,
+        "currentPeriodStars": 37,
+        "builtBy": [
+            {
+                "href": "https://github.com/IGI-111",
+                "avatar": "https://avatars.githubusercontent.com/u/7190144?s=40&v=4",
+                "username": "IGI-111"
+            },
+            {
+                "href": "https://github.com/JoshuaBatty",
+                "avatar": "https://avatars.githubusercontent.com/u/1289413?s=40&v=4",
+                "username": "JoshuaBatty"
+            },
+            {
+                "href": "https://github.com/kayagokalp",
+                "avatar": "https://avatars.githubusercontent.com/u/20915464?s=40&v=4",
+                "username": "kayagokalp"
+            },
+            {
+                "href": "https://github.com/mohammadfawaz",
+                "avatar": "https://avatars.githubusercontent.com/u/59666792?s=40&v=4",
+                "username": "mohammadfawaz"
+            },
+            {
+                "href": "https://github.com/tritao",
+                "avatar": "https://avatars.githubusercontent.com/u/602268?s=40&v=4",
+                "username": "tritao"
+            }
+        ]
+    },
+    {
+        "author": "fish-shell",
+        "name": "fish-shell",
+        "avatar": "https://github.com/fish-shell.png",
+        "sponsor": null,
+        "url": "https://github.com/fish-shell/fish-shell",
+        "description": "The user-friendly command line shell.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "stars": 26579,
+        "fork": 1917,
+        "currentPeriodStars": 169,
+        "builtBy": [
+            {
+                "href": "https://github.com/ridiculousfish",
+                "avatar": "https://avatars.githubusercontent.com/u/920838?s=40&v=4",
+                "username": "ridiculousfish"
+            },
+            {
+                "href": "https://github.com/faho",
+                "avatar": "https://avatars.githubusercontent.com/u/5185367?s=40&v=4",
+                "username": "faho"
+            },
+            {
+                "href": "https://github.com/liljencrantz",
+                "avatar": "https://avatars.githubusercontent.com/u/212675?s=40&v=4",
+                "username": "liljencrantz"
+            },
+            {
+                "href": "https://github.com/krobelus",
+                "avatar": "https://avatars.githubusercontent.com/u/6853872?s=40&v=4",
+                "username": "krobelus"
+            },
+            {
+                "href": "https://github.com/mqudsi",
+                "avatar": "https://avatars.githubusercontent.com/u/606923?s=40&v=4",
+                "username": "mqudsi"
             }
         ]
     },
@@ -640,37 +520,242 @@
         ]
     },
     {
-        "author": "elkowar",
-        "name": "eww",
-        "avatar": "https://github.com/elkowar.png",
-        "sponsor": "https://github.com/sponsors/elkowar",
-        "url": "https://github.com/elkowar/eww",
-        "description": "ElKowars wacky widgets",
+        "author": "woodruffw",
+        "name": "zizmor",
+        "avatar": "https://github.com/woodruffw.png",
+        "sponsor": "https://github.com/sponsors/woodruffw",
+        "url": "https://github.com/woodruffw/zizmor",
+        "description": "A static analysis tool for GitHub Actions",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 9586,
-        "fork": 398,
-        "currentPeriodStars": 71,
+        "stars": 1433,
+        "fork": 32,
+        "currentPeriodStars": 598,
         "builtBy": [
             {
-                "href": "https://github.com/elkowar",
-                "avatar": "https://avatars.githubusercontent.com/u/5300871?s=40&v=4",
-                "username": "elkowar"
+                "href": "https://github.com/woodruffw",
+                "avatar": "https://avatars.githubusercontent.com/u/3059210?s=40&v=4",
+                "username": "woodruffw"
             },
             {
-                "href": "https://github.com/w-lfchen",
-                "avatar": "https://avatars.githubusercontent.com/u/115360611?s=40&v=4",
-                "username": "w-lfchen"
+                "href": "https://github.com/ubiratansoares",
+                "avatar": "https://avatars.githubusercontent.com/u/484670?s=40&v=4",
+                "username": "ubiratansoares"
             },
             {
-                "href": "https://github.com/legendofmiracles",
-                "avatar": "https://avatars.githubusercontent.com/u/30902201?s=40&v=4",
-                "username": "legendofmiracles"
+                "href": "https://github.com/miketheman",
+                "avatar": "https://avatars.githubusercontent.com/u/529516?s=40&v=4",
+                "username": "miketheman"
             },
             {
-                "href": "https://github.com/druskus20",
-                "avatar": "https://avatars.githubusercontent.com/u/43417195?s=40&v=4",
-                "username": "druskus20"
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/funnelfiasco",
+                "avatar": "https://avatars.githubusercontent.com/u/445852?s=40&v=4",
+                "username": "funnelfiasco"
+            }
+        ]
+    },
+    {
+        "author": "neondatabase",
+        "name": "neon",
+        "avatar": "https://github.com/neondatabase.png",
+        "sponsor": null,
+        "url": "https://github.com/neondatabase/neon",
+        "description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "stars": 15506,
+        "fork": 456,
+        "currentPeriodStars": 91,
+        "builtBy": [
+            {
+                "href": "https://github.com/hlinnaka",
+                "avatar": "https://private-avatars.githubusercontent.com/u/191602?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjY5NDAsIm5iZiI6MTczNDYyNTc0MCwicGF0aCI6Ii91LzE5MTYwMiJ9.0lgBEeE13eOQ0NDYrqBAwYerlBOMwQLSK7Z1AlckfRY&s=40&v=4",
+                "username": "hlinnaka"
+            },
+            {
+                "href": "https://github.com/jcsp",
+                "avatar": "https://private-avatars.githubusercontent.com/u/944640?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjY2NDAsIm5iZiI6MTczNDYyNTQ0MCwicGF0aCI6Ii91Lzk0NDY0MCJ9.CS2a4W3bbtP4_d3h3-Mn15mxt4W7Uwt3LVC0gpuX5og&s=40&v=4",
+                "username": "jcsp"
+            },
+            {
+                "href": "https://github.com/problame",
+                "avatar": "https://private-avatars.githubusercontent.com/u/956573?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjY1ODAsIm5iZiI6MTczNDYyNTM4MCwicGF0aCI6Ii91Lzk1NjU3MyJ9.77Ly3m9ZCbqnl1Hl_Cco-r-nZLypOdbKj0dHcQP5jSA&s=40&v=4",
+                "username": "problame"
+            },
+            {
+                "href": "https://github.com/koivunej",
+                "avatar": "https://private-avatars.githubusercontent.com/u/1081634?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjYzNDAsIm5iZiI6MTczNDYyNTE0MCwicGF0aCI6Ii91LzEwODE2MzQifQ.yRbhqkBAGTY87rmf1HoaS6W0CZuOfUsA2whK5p1g0g8&s=40&v=4",
+                "username": "koivunej"
+            },
+            {
+                "href": "https://github.com/bayandin",
+                "avatar": "https://private-avatars.githubusercontent.com/u/864213?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjY1MjAsIm5iZiI6MTczNDYyNTMyMCwicGF0aCI6Ii91Lzg2NDIxMyJ9.JCT-eXHuoRzJEJe_sTOiAsj_ni-eDBWi7hYKJgea76Q&s=40&v=4",
+                "username": "bayandin"
+            }
+        ]
+    },
+    {
+        "author": "web-infra-dev",
+        "name": "rspack",
+        "avatar": "https://github.com/web-infra-dev.png",
+        "sponsor": null,
+        "url": "https://github.com/web-infra-dev/rspack",
+        "description": "The fast Rust-based web bundler with webpack-compatible API 🦀️",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "stars": 10381,
+        "fork": 593,
+        "currentPeriodStars": 75,
+        "builtBy": [
+            {
+                "href": "https://github.com/apps/github-actions",
+                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+                "username": "apps/github-actions"
+            },
+            {
+                "href": "https://github.com/ahabhgk",
+                "avatar": "https://avatars.githubusercontent.com/u/42857895?s=40&v=4",
+                "username": "ahabhgk"
+            },
+            {
+                "href": "https://github.com/IWANABETHATGUY",
+                "avatar": "https://avatars.githubusercontent.com/u/17974631?s=40&v=4",
+                "username": "IWANABETHATGUY"
+            },
+            {
+                "href": "https://github.com/h-a-n-a",
+                "avatar": "https://avatars.githubusercontent.com/u/10465670?s=40&v=4",
+                "username": "h-a-n-a"
+            },
+            {
+                "href": "https://github.com/hardfist",
+                "avatar": "https://avatars.githubusercontent.com/u/8898718?s=40&v=4",
+                "username": "hardfist"
+            }
+        ]
+    },
+    {
+        "author": "rust-lang",
+        "name": "rust",
+        "avatar": "https://github.com/rust-lang.png",
+        "sponsor": null,
+        "url": "https://github.com/rust-lang/rust",
+        "description": "Empowering everyone to build reliable and efficient software.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "stars": 99690,
+        "fork": 12878,
+        "currentPeriodStars": 241,
+        "builtBy": [
+            {
+                "href": "https://github.com/bors",
+                "avatar": "https://avatars.githubusercontent.com/u/3372342?s=40&v=4",
+                "username": "bors"
+            },
+            {
+                "href": "https://github.com/matthiaskrgr",
+                "avatar": "https://avatars.githubusercontent.com/u/476013?s=40&v=4",
+                "username": "matthiaskrgr"
+            },
+            {
+                "href": "https://github.com/RalfJung",
+                "avatar": "https://avatars.githubusercontent.com/u/330628?s=40&v=4",
+                "username": "RalfJung"
+            },
+            {
+                "href": "https://github.com/matklad",
+                "avatar": "https://avatars.githubusercontent.com/u/1711539?s=40&v=4",
+                "username": "matklad"
+            },
+            {
+                "href": "https://github.com/GuillaumeGomez",
+                "avatar": "https://avatars.githubusercontent.com/u/3050060?s=40&v=4",
+                "username": "GuillaumeGomez"
+            }
+        ]
+    },
+    {
+        "author": "astral-sh",
+        "name": "uv",
+        "avatar": "https://github.com/astral-sh.png",
+        "sponsor": null,
+        "url": "https://github.com/astral-sh/uv",
+        "description": "An extremely fast Python package and project manager, written in Rust.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "stars": 33018,
+        "fork": 896,
+        "currentPeriodStars": 1110,
+        "builtBy": [
+            {
+                "href": "https://github.com/charliermarsh",
+                "avatar": "https://avatars.githubusercontent.com/u/1309177?s=40&v=4",
+                "username": "charliermarsh"
+            },
+            {
+                "href": "https://github.com/zanieb",
+                "avatar": "https://avatars.githubusercontent.com/u/2586601?s=40&v=4",
+                "username": "zanieb"
+            },
+            {
+                "href": "https://github.com/konstin",
+                "avatar": "https://avatars.githubusercontent.com/u/6826232?s=40&v=4",
+                "username": "konstin"
+            },
+            {
+                "href": "https://github.com/apps/renovate",
+                "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
+                "username": "apps/renovate"
+            },
+            {
+                "href": "https://github.com/BurntSushi",
+                "avatar": "https://avatars.githubusercontent.com/u/456674?s=40&v=4",
+                "username": "BurntSushi"
+            }
+        ]
+    },
+    {
+        "author": "libp2p",
+        "name": "rust-libp2p",
+        "avatar": "https://github.com/libp2p.png",
+        "sponsor": null,
+        "url": "https://github.com/libp2p/rust-libp2p",
+        "description": "The Rust Implementation of the libp2p networking stack.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "stars": 4679,
+        "fork": 982,
+        "currentPeriodStars": 23,
+        "builtBy": [
+            {
+                "href": "https://github.com/tomaka",
+                "avatar": "https://avatars.githubusercontent.com/u/1412254?s=40&v=4",
+                "username": "tomaka"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/mxinden",
+                "avatar": "https://avatars.githubusercontent.com/u/7047859?s=40&v=4",
+                "username": "mxinden"
+            },
+            {
+                "href": "https://github.com/thomaseizinger",
+                "avatar": "https://avatars.githubusercontent.com/u/5486389?s=40&v=4",
+                "username": "thomaseizinger"
+            },
+            {
+                "href": "https://github.com/romanb",
+                "avatar": "https://avatars.githubusercontent.com/u/177309?s=40&v=4",
+                "username": "romanb"
             }
         ]
     },
@@ -715,202 +800,117 @@
         ]
     },
     {
-        "author": "tokio-rs",
-        "name": "tokio",
-        "avatar": "https://github.com/tokio-rs.png",
-        "sponsor": "https://github.com/sponsors/tokio-rs",
-        "url": "https://github.com/tokio-rs/tokio",
-        "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+        "author": "starship",
+        "name": "starship",
+        "avatar": "https://github.com/starship.png",
+        "sponsor": "https://github.com/sponsors/starship",
+        "url": "https://github.com/starship/starship",
+        "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 27398,
-        "fork": 2509,
-        "currentPeriodStars": 99,
+        "stars": 45935,
+        "fork": 1985,
+        "currentPeriodStars": 129,
         "builtBy": [
-            {
-                "href": "https://github.com/traviscibot",
-                "avatar": "https://avatars.githubusercontent.com/u/33116358?s=40&v=4",
-                "username": "traviscibot"
-            },
-            {
-                "href": "https://github.com/carllerche",
-                "avatar": "https://avatars.githubusercontent.com/u/6180?s=40&v=4",
-                "username": "carllerche"
-            },
-            {
-                "href": "https://github.com/Darksonn",
-                "avatar": "https://avatars.githubusercontent.com/u/928074?s=40&v=4",
-                "username": "Darksonn"
-            },
-            {
-                "href": "https://github.com/alexcrichton",
-                "avatar": "https://avatars.githubusercontent.com/u/64996?s=40&v=4",
-                "username": "alexcrichton"
-            },
-            {
-                "href": "https://github.com/taiki-e",
-                "avatar": "https://avatars.githubusercontent.com/u/43724913?s=40&v=4",
-                "username": "taiki-e"
-            }
-        ]
-    },
-    {
-        "author": "rust-lang",
-        "name": "rust",
-        "avatar": "https://github.com/rust-lang.png",
-        "sponsor": null,
-        "url": "https://github.com/rust-lang/rust",
-        "description": "Empowering everyone to build reliable and efficient software.",
-        "language": "Rust",
-        "languageColor": "#dea584",
-        "stars": 99689,
-        "fork": 12877,
-        "currentPeriodStars": 241,
-        "builtBy": [
-            {
-                "href": "https://github.com/bors",
-                "avatar": "https://avatars.githubusercontent.com/u/3372342?s=40&v=4",
-                "username": "bors"
-            },
-            {
-                "href": "https://github.com/matthiaskrgr",
-                "avatar": "https://avatars.githubusercontent.com/u/476013?s=40&v=4",
-                "username": "matthiaskrgr"
-            },
-            {
-                "href": "https://github.com/RalfJung",
-                "avatar": "https://avatars.githubusercontent.com/u/330628?s=40&v=4",
-                "username": "RalfJung"
-            },
-            {
-                "href": "https://github.com/matklad",
-                "avatar": "https://avatars.githubusercontent.com/u/1711539?s=40&v=4",
-                "username": "matklad"
-            },
-            {
-                "href": "https://github.com/GuillaumeGomez",
-                "avatar": "https://avatars.githubusercontent.com/u/3050060?s=40&v=4",
-                "username": "GuillaumeGomez"
-            }
-        ]
-    },
-    {
-        "author": "biomejs",
-        "name": "biome",
-        "avatar": "https://github.com/biomejs.png",
-        "sponsor": "https://github.com/sponsors/biomejs",
-        "url": "https://github.com/biomejs/biome",
-        "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
-        "language": "Rust",
-        "languageColor": "#dea584",
-        "stars": 16014,
-        "fork": 500,
-        "currentPeriodStars": 207,
-        "builtBy": [
-            {
-                "href": "https://github.com/ematipico",
-                "avatar": "https://avatars.githubusercontent.com/u/602478?s=40&v=4",
-                "username": "ematipico"
-            },
-            {
-                "href": "https://github.com/sebmck",
-                "avatar": "https://avatars.githubusercontent.com/u/853712?s=40&v=4",
-                "username": "sebmck"
-            },
-            {
-                "href": "https://github.com/Conaclos",
-                "avatar": "https://avatars.githubusercontent.com/u/2358560?s=40&v=4",
-                "username": "Conaclos"
-            },
-            {
-                "href": "https://github.com/MichaReiser",
-                "avatar": "https://avatars.githubusercontent.com/u/1203881?s=40&v=4",
-                "username": "MichaReiser"
-            },
             {
                 "href": "https://github.com/apps/renovate",
                 "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
                 "username": "apps/renovate"
+            },
+            {
+                "href": "https://github.com/matchai",
+                "avatar": "https://avatars.githubusercontent.com/u/4658208?s=40&v=4",
+                "username": "matchai"
+            },
+            {
+                "href": "https://github.com/davidkna",
+                "avatar": "https://avatars.githubusercontent.com/u/835177?s=40&v=4",
+                "username": "davidkna"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/apps/dependabot-preview",
+                "avatar": "https://avatars.githubusercontent.com/in/2141?s=40&v=4",
+                "username": "apps/dependabot-preview"
             }
         ]
     },
     {
-        "author": "lancedb",
-        "name": "lancedb",
-        "avatar": "https://github.com/lancedb.png",
-        "sponsor": null,
-        "url": "https://github.com/lancedb/lancedb",
-        "description": "Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!",
+        "author": "elkowar",
+        "name": "eww",
+        "avatar": "https://github.com/elkowar.png",
+        "sponsor": "https://github.com/sponsors/elkowar",
+        "url": "https://github.com/elkowar/eww",
+        "description": "ElKowars wacky widgets",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 5035,
-        "fork": 349,
-        "currentPeriodStars": 86,
+        "stars": 9586,
+        "fork": 398,
+        "currentPeriodStars": 71,
         "builtBy": [
             {
-                "href": "https://github.com/changhiskhan",
-                "avatar": "https://avatars.githubusercontent.com/u/759245?s=40&v=4",
-                "username": "changhiskhan"
+                "href": "https://github.com/elkowar",
+                "avatar": "https://avatars.githubusercontent.com/u/5300871?s=40&v=4",
+                "username": "elkowar"
             },
             {
-                "href": "https://github.com/wjones127",
-                "avatar": "https://avatars.githubusercontent.com/u/5488879?s=40&v=4",
-                "username": "wjones127"
+                "href": "https://github.com/w-lfchen",
+                "avatar": "https://avatars.githubusercontent.com/u/115360611?s=40&v=4",
+                "username": "w-lfchen"
             },
             {
-                "href": "https://github.com/eddyxu",
-                "avatar": "https://avatars.githubusercontent.com/u/17097?s=40&v=4",
-                "username": "eddyxu"
+                "href": "https://github.com/legendofmiracles",
+                "avatar": "https://avatars.githubusercontent.com/u/30902201?s=40&v=4",
+                "username": "legendofmiracles"
             },
             {
-                "href": "https://github.com/AyushExel",
-                "avatar": "https://avatars.githubusercontent.com/u/15766192?s=40&v=4",
-                "username": "AyushExel"
-            },
-            {
-                "href": "https://github.com/westonpace",
-                "avatar": "https://avatars.githubusercontent.com/u/1696093?s=40&v=4",
-                "username": "westonpace"
+                "href": "https://github.com/druskus20",
+                "avatar": "https://avatars.githubusercontent.com/u/43417195?s=40&v=4",
+                "username": "druskus20"
             }
         ]
     },
     {
-        "author": "juspay",
-        "name": "hyperswitch",
-        "avatar": "https://github.com/juspay.png",
-        "sponsor": null,
-        "url": "https://github.com/juspay/hyperswitch",
-        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "author": "mainmatter",
+        "name": "100-exercises-to-learn-rust",
+        "avatar": "https://github.com/mainmatter.png",
+        "sponsor": "https://github.com/sponsors/mainmatter",
+        "url": "https://github.com/mainmatter/100-exercises-to-learn-rust",
+        "description": "A self-paced course to learn Rust, one exercise at a time.",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 12750,
-        "fork": 1362,
-        "currentPeriodStars": 42,
+        "stars": 6379,
+        "fork": 1149,
+        "currentPeriodStars": 70,
         "builtBy": [
             {
-                "href": "https://github.com/apps/hyperswitch-bot",
-                "avatar": "https://avatars.githubusercontent.com/in/411175?s=40&v=4",
-                "username": "apps/hyperswitch-bot"
+                "href": "https://github.com/LukeMathWalker",
+                "avatar": "https://avatars.githubusercontent.com/u/20745048?s=40&v=4",
+                "username": "LukeMathWalker"
             },
             {
-                "href": "https://github.com/apps/github-actions",
-                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-                "username": "apps/github-actions"
+                "href": "https://github.com/marcoow",
+                "avatar": "https://avatars.githubusercontent.com/u/1510?s=40&v=4",
+                "username": "marcoow"
             },
             {
-                "href": "https://github.com/SanchithHegde",
-                "avatar": "https://avatars.githubusercontent.com/u/22217505?s=40&v=4",
-                "username": "SanchithHegde"
+                "href": "https://github.com/c-git",
+                "avatar": "https://avatars.githubusercontent.com/u/43485962?s=40&v=4",
+                "username": "c-git"
             },
             {
-                "href": "https://github.com/Narayanbhat166",
-                "avatar": "https://avatars.githubusercontent.com/u/48803246?s=40&v=4",
-                "username": "Narayanbhat166"
+                "href": "https://github.com/hdoordt",
+                "avatar": "https://avatars.githubusercontent.com/u/17907879?s=40&v=4",
+                "username": "hdoordt"
             },
             {
-                "href": "https://github.com/hrithikesh026",
-                "avatar": "https://avatars.githubusercontent.com/u/61539176?s=40&v=4",
-                "username": "hrithikesh026"
+                "href": "https://github.com/ehershey",
+                "avatar": "https://avatars.githubusercontent.com/u/286008?s=40&v=4",
+                "username": "ehershey"
             }
         ]
     }
