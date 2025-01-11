@@ -8,7 +8,7 @@
         "description": "Build your own AI friend",
         "language": "C",
         "languageColor": "#555555",
-        "stars": 2506,
+        "stars": 2510,
         "fork": 394,
         "currentPeriodStars": 244,
         "builtBy": [
@@ -48,7 +48,7 @@
         "description": "A simple and easy-to-use library to enjoy videogames programming",
         "language": "C",
         "languageColor": "#555555",
-        "stars": 24293,
+        "stars": 24294,
         "fork": 2370,
         "currentPeriodStars": 31,
         "builtBy": [
@@ -130,7 +130,7 @@
         "languageColor": "#555555",
         "stars": 3938,
         "fork": 515,
-        "currentPeriodStars": 44,
+        "currentPeriodStars": 11,
         "builtBy": [
             {
                 "href": "https://github.com/josancamon19",
@@ -208,7 +208,7 @@
         "description": "Run periodic jobs in PostgreSQL",
         "language": "C",
         "languageColor": "#555555",
-        "stars": 2995,
+        "stars": 2996,
         "fork": 205,
         "currentPeriodStars": 5,
         "builtBy": [
@@ -400,42 +400,122 @@
         ]
     },
     {
-        "author": "espressif",
-        "name": "esp-idf",
-        "avatar": "https://github.com/espressif.png",
+        "author": "confluentinc",
+        "name": "librdkafka",
+        "avatar": "https://github.com/confluentinc.png",
         "sponsor": null,
-        "url": "https://github.com/espressif/esp-idf",
-        "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+        "url": "https://github.com/confluentinc/librdkafka",
+        "description": "The Apache Kafka C/C++ library",
         "language": "C",
         "languageColor": "#555555",
-        "stars": 14223,
-        "fork": 7394,
+        "stars": 356,
+        "fork": 3163,
+        "currentPeriodStars": 1,
+        "builtBy": [
+            {
+                "href": "https://github.com/edenhill",
+                "avatar": "https://avatars.githubusercontent.com/u/524990?s=40&v=4",
+                "username": "edenhill"
+            },
+            {
+                "href": "https://github.com/emasab",
+                "avatar": "https://avatars.githubusercontent.com/u/2727141?s=40&v=4",
+                "username": "emasab"
+            },
+            {
+                "href": "https://github.com/rondagostino",
+                "avatar": "https://avatars.githubusercontent.com/u/6076159?s=40&v=4",
+                "username": "rondagostino"
+            },
+            {
+                "href": "https://github.com/paravoid",
+                "avatar": "https://avatars.githubusercontent.com/u/1330796?s=40&v=4",
+                "username": "paravoid"
+            },
+            {
+                "href": "https://github.com/mhowlett",
+                "avatar": "https://avatars.githubusercontent.com/u/19174?s=40&v=4",
+                "username": "mhowlett"
+            }
+        ]
+    },
+    {
+        "author": "netdata",
+        "name": "netdata",
+        "avatar": "https://github.com/netdata.png",
+        "sponsor": null,
+        "url": "https://github.com/netdata/netdata",
+        "description": "Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!",
+        "language": "C",
+        "languageColor": "#555555",
+        "stars": 72892,
+        "fork": 5989,
         "currentPeriodStars": 14,
         "builtBy": [
             {
-                "href": "https://github.com/igrr",
-                "avatar": "https://avatars.githubusercontent.com/u/4349050?s=40&v=4",
-                "username": "igrr"
+                "href": "https://github.com/ktsaou",
+                "avatar": "https://avatars.githubusercontent.com/u/2662304?s=40&v=4",
+                "username": "ktsaou"
             },
             {
-                "href": "https://github.com/projectgus",
-                "avatar": "https://avatars.githubusercontent.com/u/205573?s=40&v=4",
-                "username": "projectgus"
+                "href": "https://github.com/netdatabot",
+                "avatar": "https://avatars.githubusercontent.com/u/43409846?s=40&v=4",
+                "username": "netdatabot"
             },
             {
-                "href": "https://github.com/jack0c",
-                "avatar": "https://avatars.githubusercontent.com/u/21117421?s=40&v=4",
-                "username": "jack0c"
+                "href": "https://github.com/ilyam8",
+                "avatar": "https://avatars.githubusercontent.com/u/22274335?s=40&v=4",
+                "username": "ilyam8"
             },
             {
-                "href": "https://github.com/suda-morris",
-                "avatar": "https://avatars.githubusercontent.com/u/8869469?s=40&v=4",
-                "username": "suda-morris"
+                "href": "https://github.com/Ferroin",
+                "avatar": "https://avatars.githubusercontent.com/u/905151?s=40&v=4",
+                "username": "Ferroin"
             },
             {
-                "href": "https://github.com/mahavirj",
-                "avatar": "https://avatars.githubusercontent.com/u/902446?s=40&v=4",
-                "username": "mahavirj"
+                "href": "https://github.com/paulfantom",
+                "avatar": "https://avatars.githubusercontent.com/u/3531758?s=40&v=4",
+                "username": "paulfantom"
+            }
+        ]
+    },
+    {
+        "author": "libssh2",
+        "name": "libssh2",
+        "avatar": "https://github.com/libssh2.png",
+        "sponsor": null,
+        "url": "https://github.com/libssh2/libssh2",
+        "description": "the SSH library",
+        "language": "C",
+        "languageColor": "#555555",
+        "stars": 1373,
+        "fork": 559,
+        "currentPeriodStars": 0,
+        "builtBy": [
+            {
+                "href": "https://github.com/bagder",
+                "avatar": "https://avatars.githubusercontent.com/u/177011?s=40&v=4",
+                "username": "bagder"
+            },
+            {
+                "href": "https://github.com/vszakats",
+                "avatar": "https://avatars.githubusercontent.com/u/1446897?s=40&v=4",
+                "username": "vszakats"
+            },
+            {
+                "href": "https://github.com/jas4711",
+                "avatar": "https://avatars.githubusercontent.com/u/531817?s=40&v=4",
+                "username": "jas4711"
+            },
+            {
+                "href": "https://github.com/mback2k",
+                "avatar": "https://avatars.githubusercontent.com/u/231943?s=40&v=4",
+                "username": "mback2k"
+            },
+            {
+                "href": "https://github.com/willco007",
+                "avatar": "https://avatars.githubusercontent.com/u/4294739?s=40&v=4",
+                "username": "willco007"
             }
         ]
     }
