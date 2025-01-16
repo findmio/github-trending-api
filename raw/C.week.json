@@ -8,7 +8,7 @@
         "description": "Build your own AI friend",
         "language": "C",
         "languageColor": "#555555",
-        "stars": 3126,
+        "stars": 3128,
         "fork": 472,
         "currentPeriodStars": 1556,
         "builtBy": [
@@ -80,6 +80,86 @@
         ]
     },
     {
+        "author": "Mbed-TLS",
+        "name": "mbedtls",
+        "avatar": "https://github.com/Mbed-TLS.png",
+        "sponsor": null,
+        "url": "https://github.com/Mbed-TLS/mbedtls",
+        "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+        "language": "C",
+        "languageColor": "#555555",
+        "stars": 5647,
+        "fork": 2631,
+        "currentPeriodStars": 18,
+        "builtBy": [
+            {
+                "href": "https://github.com/gilles-peskine-arm",
+                "avatar": "https://avatars.githubusercontent.com/u/26596258?s=40&v=4",
+                "username": "gilles-peskine-arm"
+            },
+            {
+                "href": "https://github.com/mpg",
+                "avatar": "https://avatars.githubusercontent.com/u/60640?s=40&v=4",
+                "username": "mpg"
+            },
+            {
+                "href": "https://github.com/daverodgman",
+                "avatar": "https://avatars.githubusercontent.com/u/407459?s=40&v=4",
+                "username": "daverodgman"
+            },
+            {
+                "href": "https://github.com/ronald-cron-arm",
+                "avatar": "https://avatars.githubusercontent.com/u/39518861?s=40&v=4",
+                "username": "ronald-cron-arm"
+            },
+            {
+                "href": "https://github.com/valeriosetti",
+                "avatar": "https://avatars.githubusercontent.com/u/92275829?s=40&v=4",
+                "username": "valeriosetti"
+            }
+        ]
+    },
+    {
+        "author": "nanopb",
+        "name": "nanopb",
+        "avatar": "https://github.com/nanopb.png",
+        "sponsor": null,
+        "url": "https://github.com/nanopb/nanopb",
+        "description": "Protocol Buffers with small code size",
+        "language": "C",
+        "languageColor": "#555555",
+        "stars": 4450,
+        "fork": 872,
+        "currentPeriodStars": 13,
+        "builtBy": [
+            {
+                "href": "https://github.com/PetteriAimonen",
+                "avatar": "https://avatars.githubusercontent.com/u/922265?s=40&v=4",
+                "username": "PetteriAimonen"
+            },
+            {
+                "href": "https://github.com/kylemanna",
+                "avatar": "https://avatars.githubusercontent.com/u/936367?s=40&v=4",
+                "username": "kylemanna"
+            },
+            {
+                "href": "https://github.com/oliverlee",
+                "avatar": "https://avatars.githubusercontent.com/u/2965031?s=40&v=4",
+                "username": "oliverlee"
+            },
+            {
+                "href": "https://github.com/joshstrohminger",
+                "avatar": "https://avatars.githubusercontent.com/u/17883887?s=40&v=4",
+                "username": "joshstrohminger"
+            },
+            {
+                "href": "https://github.com/theunkn0wn1",
+                "avatar": "https://avatars.githubusercontent.com/u/3110986?s=40&v=4",
+                "username": "theunkn0wn1"
+            }
+        ]
+    },
+    {
         "author": "mit-pdos",
         "name": "xv6-riscv",
         "avatar": "https://github.com/mit-pdos.png",
@@ -89,7 +169,7 @@
         "language": "C",
         "languageColor": "#555555",
         "stars": 7465,
-        "fork": 2732,
+        "fork": 2733,
         "currentPeriodStars": 54,
         "builtBy": [
             {
@@ -116,6 +196,46 @@
                 "href": "https://github.com/aclements",
                 "avatar": "https://avatars.githubusercontent.com/u/2688315?s=40&v=4",
                 "username": "aclements"
+            }
+        ]
+    },
+    {
+        "author": "espressif",
+        "name": "esp-idf",
+        "avatar": "https://github.com/espressif.png",
+        "sponsor": null,
+        "url": "https://github.com/espressif/esp-idf",
+        "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+        "language": "C",
+        "languageColor": "#555555",
+        "stars": 14262,
+        "fork": 7404,
+        "currentPeriodStars": 70,
+        "builtBy": [
+            {
+                "href": "https://github.com/igrr",
+                "avatar": "https://avatars.githubusercontent.com/u/4349050?s=40&v=4",
+                "username": "igrr"
+            },
+            {
+                "href": "https://github.com/projectgus",
+                "avatar": "https://avatars.githubusercontent.com/u/205573?s=40&v=4",
+                "username": "projectgus"
+            },
+            {
+                "href": "https://github.com/jack0c",
+                "avatar": "https://avatars.githubusercontent.com/u/21117421?s=40&v=4",
+                "username": "jack0c"
+            },
+            {
+                "href": "https://github.com/suda-morris",
+                "avatar": "https://avatars.githubusercontent.com/u/8869469?s=40&v=4",
+                "username": "suda-morris"
+            },
+            {
+                "href": "https://github.com/mahavirj",
+                "avatar": "https://avatars.githubusercontent.com/u/902446?s=40&v=4",
+                "username": "mahavirj"
             }
         ]
     },
@@ -200,42 +320,82 @@
         ]
     },
     {
-        "author": "brunodev85",
-        "name": "winlator",
-        "avatar": "https://github.com/brunodev85.png",
-        "sponsor": null,
-        "url": "https://github.com/brunodev85/winlator",
-        "description": "Android application for running Windows applications with Wine and Box86/Box64",
+        "author": "lvgl",
+        "name": "lvgl",
+        "avatar": "https://github.com/lvgl.png",
+        "sponsor": "https://github.com/sponsors/lvgl",
+        "url": "https://github.com/lvgl/lvgl",
+        "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
         "language": "C",
         "languageColor": "#555555",
-        "stars": 10260,
-        "fork": 523,
-        "currentPeriodStars": 163,
+        "stars": 18030,
+        "fork": 3382,
+        "currentPeriodStars": 91,
         "builtBy": [
             {
-                "href": "https://github.com/brunodev85",
-                "avatar": "https://avatars.githubusercontent.com/u/11407071?s=40&v=4",
-                "username": "brunodev85"
+                "href": "https://github.com/kisvegabor",
+                "avatar": "https://avatars.githubusercontent.com/u/7599318?s=40&v=4",
+                "username": "kisvegabor"
             },
             {
-                "href": "https://github.com/kazimaruf991",
-                "avatar": "https://avatars.githubusercontent.com/u/88626244?s=40&v=4",
-                "username": "kazimaruf991"
+                "href": "https://github.com/embeddedt",
+                "avatar": "https://avatars.githubusercontent.com/u/42941056?s=40&v=4",
+                "username": "embeddedt"
             },
             {
-                "href": "https://github.com/Kashinathpat",
-                "avatar": "https://avatars.githubusercontent.com/u/100040786?s=40&v=4",
-                "username": "Kashinathpat"
+                "href": "https://github.com/apps/github-actions",
+                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+                "username": "apps/github-actions"
             },
             {
-                "href": "https://github.com/hackcasual",
-                "avatar": "https://avatars.githubusercontent.com/u/518438?s=40&v=4",
-                "username": "hackcasual"
+                "href": "https://github.com/FASTSHIFT",
+                "avatar": "https://avatars.githubusercontent.com/u/26767803?s=40&v=4",
+                "username": "FASTSHIFT"
             },
             {
-                "href": "https://github.com/lvonasek",
-                "avatar": "https://avatars.githubusercontent.com/u/6472545?s=40&v=4",
-                "username": "lvonasek"
+                "href": "https://github.com/XuNeo",
+                "avatar": "https://avatars.githubusercontent.com/u/25867991?s=40&v=4",
+                "username": "XuNeo"
+            }
+        ]
+    },
+    {
+        "author": "raspberrypi",
+        "name": "pico-sdk",
+        "avatar": "https://github.com/raspberrypi.png",
+        "sponsor": null,
+        "url": "https://github.com/raspberrypi/pico-sdk",
+        "description": null,
+        "language": "C",
+        "languageColor": "#555555",
+        "stars": 3907,
+        "fork": 991,
+        "currentPeriodStars": 26,
+        "builtBy": [
+            {
+                "href": "https://github.com/kilograham",
+                "avatar": "https://avatars.githubusercontent.com/u/575810?s=40&v=4",
+                "username": "kilograham"
+            },
+            {
+                "href": "https://github.com/lurch",
+                "avatar": "https://avatars.githubusercontent.com/u/476186?s=40&v=4",
+                "username": "lurch"
+            },
+            {
+                "href": "https://github.com/Wren6991",
+                "avatar": "https://avatars.githubusercontent.com/u/1298595?s=40&v=4",
+                "username": "Wren6991"
+            },
+            {
+                "href": "https://github.com/peterharperuk",
+                "avatar": "https://avatars.githubusercontent.com/u/77111776?s=40&v=4",
+                "username": "peterharperuk"
+            },
+            {
+                "href": "https://github.com/liamfraser",
+                "avatar": "https://avatars.githubusercontent.com/u/4839615?s=40&v=4",
+                "username": "liamfraser"
             }
         ]
     },
@@ -248,7 +408,7 @@
         "description": "YugabyteDB - the cloud native distributed SQL database for mission-critical applications.",
         "language": "C",
         "languageColor": "#555555",
-        "stars": 9159,
+        "stars": 9160,
         "fork": 1097,
         "currentPeriodStars": 22,
         "builtBy": [
@@ -280,166 +440,6 @@
         ]
     },
     {
-        "author": "mpv-player",
-        "name": "mpv",
-        "avatar": "https://github.com/mpv-player.png",
-        "sponsor": null,
-        "url": "https://github.com/mpv-player/mpv",
-        "description": "🎥 Command line video player",
-        "language": "C",
-        "languageColor": "#555555",
-        "stars": 29331,
-        "fork": 2957,
-        "currentPeriodStars": 147,
-        "builtBy": [
-            {
-                "href": "https://github.com/kasper93",
-                "avatar": "https://avatars.githubusercontent.com/u/1126053?s=40&v=4",
-                "username": "kasper93"
-            },
-            {
-                "href": "https://github.com/Dudemanguy",
-                "avatar": "https://avatars.githubusercontent.com/u/5105515?s=40&v=4",
-                "username": "Dudemanguy"
-            },
-            {
-                "href": "https://github.com/haasn",
-                "avatar": "https://avatars.githubusercontent.com/u/1149047?s=40&v=4",
-                "username": "haasn"
-            },
-            {
-                "href": "https://github.com/pigoz",
-                "avatar": "https://avatars.githubusercontent.com/u/24681?s=40&v=4",
-                "username": "pigoz"
-            },
-            {
-                "href": "https://github.com/Akemi",
-                "avatar": "https://avatars.githubusercontent.com/u/680386?s=40&v=4",
-                "username": "Akemi"
-            }
-        ]
-    },
-    {
-        "author": "UberGuidoZ",
-        "name": "Flipper",
-        "avatar": "https://github.com/UberGuidoZ.png",
-        "sponsor": null,
-        "url": "https://github.com/UberGuidoZ/Flipper",
-        "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
-        "language": "C",
-        "languageColor": "#555555",
-        "stars": 14483,
-        "fork": 3353,
-        "currentPeriodStars": 86,
-        "builtBy": [
-            {
-                "href": "https://github.com/UberGuidoZ",
-                "avatar": "https://avatars.githubusercontent.com/u/57457139?s=40&v=4",
-                "username": "UberGuidoZ"
-            },
-            {
-                "href": "https://github.com/amec0e",
-                "avatar": "https://avatars.githubusercontent.com/u/88857687?s=40&v=4",
-                "username": "amec0e"
-            },
-            {
-                "href": "https://github.com/RogueMaster",
-                "avatar": "https://avatars.githubusercontent.com/u/20751479?s=40&v=4",
-                "username": "RogueMaster"
-            },
-            {
-                "href": "https://github.com/FalsePhilosopher",
-                "avatar": "https://avatars.githubusercontent.com/u/108245223?s=40&v=4",
-                "username": "FalsePhilosopher"
-            },
-            {
-                "href": "https://github.com/MarkCyber",
-                "avatar": "https://avatars.githubusercontent.com/u/148797232?s=40&v=4",
-                "username": "MarkCyber"
-            }
-        ]
-    },
-    {
-        "author": "espressif",
-        "name": "esp-idf",
-        "avatar": "https://github.com/espressif.png",
-        "sponsor": null,
-        "url": "https://github.com/espressif/esp-idf",
-        "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
-        "language": "C",
-        "languageColor": "#555555",
-        "stars": 14263,
-        "fork": 7404,
-        "currentPeriodStars": 70,
-        "builtBy": [
-            {
-                "href": "https://github.com/igrr",
-                "avatar": "https://avatars.githubusercontent.com/u/4349050?s=40&v=4",
-                "username": "igrr"
-            },
-            {
-                "href": "https://github.com/projectgus",
-                "avatar": "https://avatars.githubusercontent.com/u/205573?s=40&v=4",
-                "username": "projectgus"
-            },
-            {
-                "href": "https://github.com/jack0c",
-                "avatar": "https://avatars.githubusercontent.com/u/21117421?s=40&v=4",
-                "username": "jack0c"
-            },
-            {
-                "href": "https://github.com/suda-morris",
-                "avatar": "https://avatars.githubusercontent.com/u/8869469?s=40&v=4",
-                "username": "suda-morris"
-            },
-            {
-                "href": "https://github.com/mahavirj",
-                "avatar": "https://avatars.githubusercontent.com/u/902446?s=40&v=4",
-                "username": "mahavirj"
-            }
-        ]
-    },
-    {
-        "author": "nanopb",
-        "name": "nanopb",
-        "avatar": "https://github.com/nanopb.png",
-        "sponsor": null,
-        "url": "https://github.com/nanopb/nanopb",
-        "description": "Protocol Buffers with small code size",
-        "language": "C",
-        "languageColor": "#555555",
-        "stars": 4450,
-        "fork": 872,
-        "currentPeriodStars": 13,
-        "builtBy": [
-            {
-                "href": "https://github.com/PetteriAimonen",
-                "avatar": "https://avatars.githubusercontent.com/u/922265?s=40&v=4",
-                "username": "PetteriAimonen"
-            },
-            {
-                "href": "https://github.com/kylemanna",
-                "avatar": "https://avatars.githubusercontent.com/u/936367?s=40&v=4",
-                "username": "kylemanna"
-            },
-            {
-                "href": "https://github.com/oliverlee",
-                "avatar": "https://avatars.githubusercontent.com/u/2965031?s=40&v=4",
-                "username": "oliverlee"
-            },
-            {
-                "href": "https://github.com/joshstrohminger",
-                "avatar": "https://avatars.githubusercontent.com/u/17883887?s=40&v=4",
-                "username": "joshstrohminger"
-            },
-            {
-                "href": "https://github.com/theunkn0wn1",
-                "avatar": "https://avatars.githubusercontent.com/u/3110986?s=40&v=4",
-                "username": "theunkn0wn1"
-            }
-        ]
-    },
-    {
         "author": "zephyrproject-rtos",
         "name": "zephyr",
         "avatar": "https://github.com/zephyrproject-rtos.png",
@@ -448,7 +448,7 @@
         "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
         "language": "C",
         "languageColor": "#555555",
-        "stars": 11243,
+        "stars": 11244,
         "fork": 6831,
         "currentPeriodStars": 45,
         "builtBy": [
@@ -480,282 +480,82 @@
         ]
     },
     {
-        "author": "open-telemetry",
-        "name": "opentelemetry-go-instrumentation",
-        "avatar": "https://github.com/open-telemetry.png",
+        "author": "gnuton",
+        "name": "asuswrt-merlin.ng",
+        "avatar": "https://github.com/gnuton.png",
         "sponsor": null,
-        "url": "https://github.com/open-telemetry/opentelemetry-go-instrumentation",
-        "description": "OpenTelemetry Auto Instrumentation using eBPF",
+        "url": "https://github.com/gnuton/asuswrt-merlin.ng",
+        "description": "Extends the support of Merlin firmware to more ASUS routers",
         "language": "C",
         "languageColor": "#555555",
-        "stars": 608,
-        "fork": 96,
-        "currentPeriodStars": 10,
-        "builtBy": [
-            {
-                "href": "https://github.com/MrAlias",
-                "avatar": "https://avatars.githubusercontent.com/u/5543599?s=40&v=4",
-                "username": "MrAlias"
-            },
-            {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
-            },
-            {
-                "href": "https://github.com/apps/renovate",
-                "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
-                "username": "apps/renovate"
-            },
-            {
-                "href": "https://github.com/RonFed",
-                "avatar": "https://avatars.githubusercontent.com/u/73110295?s=40&v=4",
-                "username": "RonFed"
-            },
-            {
-                "href": "https://github.com/apps/github-actions",
-                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-                "username": "apps/github-actions"
-            }
-        ]
-    },
-    {
-        "author": "EpicGamesExt",
-        "name": "raddebugger",
-        "avatar": "https://github.com/EpicGamesExt.png",
-        "sponsor": null,
-        "url": "https://github.com/EpicGamesExt/raddebugger",
-        "description": "A native, user-mode, multi-process, graphical debugger.",
-        "language": "C",
-        "languageColor": "#555555",
-        "stars": 3794,
-        "fork": 191,
-        "currentPeriodStars": 61,
-        "builtBy": [
-            {
-                "href": "https://github.com/ryanfleury",
-                "avatar": "https://avatars.githubusercontent.com/u/12454169?s=40&v=4",
-                "username": "ryanfleury"
-            },
-            {
-                "href": "https://github.com/NikitaSmith057",
-                "avatar": "https://avatars.githubusercontent.com/u/4572155?s=40&v=4",
-                "username": "NikitaSmith057"
-            },
-            {
-                "href": "https://github.com/mmozeiko",
-                "avatar": "https://avatars.githubusercontent.com/u/1665010?s=40&v=4",
-                "username": "mmozeiko"
-            },
-            {
-                "href": "https://github.com/NikitaAtEpic",
-                "avatar": "https://avatars.githubusercontent.com/u/167924611?s=40&v=4",
-                "username": "NikitaAtEpic"
-            },
-            {
-                "href": "https://github.com/GloriousPtr",
-                "avatar": "https://avatars.githubusercontent.com/u/29519295?s=40&v=4",
-                "username": "GloriousPtr"
-            }
-        ]
-    },
-    {
-        "author": "citusdata",
-        "name": "pg_cron",
-        "avatar": "https://github.com/citusdata.png",
-        "sponsor": null,
-        "url": "https://github.com/citusdata/pg_cron",
-        "description": "Run periodic jobs in PostgreSQL",
-        "language": "C",
-        "languageColor": "#555555",
-        "stars": 3015,
-        "fork": 206,
-        "currentPeriodStars": 28,
-        "builtBy": [
-            {
-                "href": "https://github.com/marcocitus",
-                "avatar": "https://avatars.githubusercontent.com/u/7127240?s=40&v=4",
-                "username": "marcocitus"
-            },
-            {
-                "href": "https://github.com/marcoslot",
-                "avatar": "https://avatars.githubusercontent.com/u/529570?s=40&v=4",
-                "username": "marcoslot"
-            },
-            {
-                "href": "https://github.com/df7cb",
-                "avatar": "https://avatars.githubusercontent.com/u/1021828?s=40&v=4",
-                "username": "df7cb"
-            },
-            {
-                "href": "https://github.com/zhjwpku",
-                "avatar": "https://avatars.githubusercontent.com/u/12639404?s=40&v=4",
-                "username": "zhjwpku"
-            },
-            {
-                "href": "https://github.com/hughcapet",
-                "avatar": "https://avatars.githubusercontent.com/u/27892524?s=40&v=4",
-                "username": "hughcapet"
-            }
-        ]
-    },
-    {
-        "author": "espeak-ng",
-        "name": "espeak-ng",
-        "avatar": "https://github.com/espeak-ng.png",
-        "sponsor": null,
-        "url": "https://github.com/espeak-ng/espeak-ng",
-        "description": "eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.",
-        "language": "C",
-        "languageColor": "#555555",
-        "stars": 4458,
-        "fork": 934,
-        "currentPeriodStars": 61,
-        "builtBy": [
-            {
-                "href": "https://github.com/rhdunn",
-                "avatar": "https://avatars.githubusercontent.com/u/47298?s=40&v=4",
-                "username": "rhdunn"
-            },
-            {
-                "href": "https://github.com/valdisvi",
-                "avatar": "https://avatars.githubusercontent.com/u/1501944?s=40&v=4",
-                "username": "valdisvi"
-            },
-            {
-                "href": "https://github.com/jaacoppi",
-                "avatar": "https://avatars.githubusercontent.com/u/1794301?s=40&v=4",
-                "username": "jaacoppi"
-            },
-            {
-                "href": "https://github.com/sthibaul",
-                "avatar": "https://avatars.githubusercontent.com/u/5405051?s=40&v=4",
-                "username": "sthibaul"
-            },
-            {
-                "href": "https://github.com/alex19EP",
-                "avatar": "https://avatars.githubusercontent.com/u/4889846?s=40&v=4",
-                "username": "alex19EP"
-            }
-        ]
-    },
-    {
-        "author": "coolsnowwolf",
-        "name": "lede",
-        "avatar": "https://github.com/coolsnowwolf.png",
-        "sponsor": null,
-        "url": "https://github.com/coolsnowwolf/lede",
-        "description": "Lean's LEDE source",
-        "language": "C",
-        "languageColor": "#555555",
-        "stars": 30185,
-        "fork": 19546,
-        "currentPeriodStars": 61,
-        "builtBy": [
-            {
-                "href": "https://github.com/coolsnowwolf",
-                "avatar": "https://avatars.githubusercontent.com/u/31687149?s=40&v=4",
-                "username": "coolsnowwolf"
-            },
-            {
-                "href": "https://github.com/aiamadeus",
-                "avatar": "https://avatars.githubusercontent.com/u/42570690?s=40&v=4",
-                "username": "aiamadeus"
-            },
-            {
-                "href": "https://github.com/Beginner-Go",
-                "avatar": "https://avatars.githubusercontent.com/u/70857188?s=40&v=4",
-                "username": "Beginner-Go"
-            },
-            {
-                "href": "https://github.com/dangowrt",
-                "avatar": "https://avatars.githubusercontent.com/u/9948313?s=40&v=4",
-                "username": "dangowrt"
-            },
-            {
-                "href": "https://github.com/misaka36",
-                "avatar": "https://avatars.githubusercontent.com/u/92633080?s=40&v=4",
-                "username": "misaka36"
-            }
-        ]
-    },
-    {
-        "author": "microsoft",
-        "name": "Windows-driver-samples",
-        "avatar": "https://github.com/microsoft.png",
-        "sponsor": null,
-        "url": "https://github.com/microsoft/Windows-driver-samples",
-        "description": "This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.",
-        "language": "C",
-        "languageColor": "#555555",
-        "stars": 7091,
-        "fork": 4960,
-        "currentPeriodStars": 17,
-        "builtBy": [
-            {
-                "href": "https://github.com/NeoAdonis",
-                "avatar": "https://avatars.githubusercontent.com/u/1562728?s=40&v=4",
-                "username": "NeoAdonis"
-            },
-            {
-                "href": "https://github.com/barrygolden",
-                "avatar": "https://avatars.githubusercontent.com/u/1238101?s=40&v=4",
-                "username": "barrygolden"
-            },
-            {
-                "href": "https://github.com/wm1",
-                "avatar": "https://avatars.githubusercontent.com/u/12519738?s=40&v=4",
-                "username": "wm1"
-            },
-            {
-                "href": "https://github.com/JakobL-MSFT",
-                "avatar": "https://avatars.githubusercontent.com/u/110699333?s=40&v=4",
-                "username": "JakobL-MSFT"
-            },
-            {
-                "href": "https://github.com/tobafo19",
-                "avatar": "https://avatars.githubusercontent.com/u/10056301?s=40&v=4",
-                "username": "tobafo19"
-            }
-        ]
-    },
-    {
-        "author": "pgbouncer",
-        "name": "pgbouncer",
-        "avatar": "https://github.com/pgbouncer.png",
-        "sponsor": null,
-        "url": "https://github.com/pgbouncer/pgbouncer",
-        "description": "lightweight connection pooler for PostgreSQL",
-        "language": "C",
-        "languageColor": "#555555",
-        "stars": 3110,
-        "fork": 464,
+        "stars": 1569,
+        "fork": 89,
         "currentPeriodStars": 15,
         "builtBy": [
             {
-                "href": "https://github.com/markokr",
-                "avatar": "https://avatars.githubusercontent.com/u/49397?s=40&v=4",
-                "username": "markokr"
+                "href": "https://github.com/RMerl",
+                "avatar": "https://avatars.githubusercontent.com/u/1661562?s=40&v=4",
+                "username": "RMerl"
             },
             {
-                "href": "https://github.com/petere",
-                "avatar": "https://avatars.githubusercontent.com/u/105543?s=40&v=4",
-                "username": "petere"
+                "href": "https://github.com/gnuton",
+                "avatar": "https://avatars.githubusercontent.com/u/576580?s=40&v=4",
+                "username": "gnuton"
             },
             {
-                "href": "https://github.com/JelteF",
-                "avatar": "https://avatars.githubusercontent.com/u/1162278?s=40&v=4",
-                "username": "JelteF"
+                "href": "https://github.com/zaloisio",
+                "avatar": "https://avatars.githubusercontent.com/u/154320812?s=40&v=4",
+                "username": "zaloisio"
             },
             {
-                "href": "https://github.com/emelsimsek",
-                "avatar": "https://avatars.githubusercontent.com/u/13130350?s=40&v=4",
-                "username": "emelsimsek"
+                "href": "https://github.com/ExtremeFiretop",
+                "avatar": "https://avatars.githubusercontent.com/u/1971404?s=40&v=4",
+                "username": "ExtremeFiretop"
             },
             {
-                "href": "https://github.com/eulerto",
-                "avatar": "https://avatars.githubusercontent.com/u/213604?s=40&v=4",
-                "username": "eulerto"
+                "href": "https://github.com/dave14305",
+                "avatar": "https://avatars.githubusercontent.com/u/44532942?s=40&v=4",
+                "username": "dave14305"
+            }
+        ]
+    },
+    {
+        "author": "OpenMathLib",
+        "name": "OpenBLAS",
+        "avatar": "https://github.com/OpenMathLib.png",
+        "sponsor": null,
+        "url": "https://github.com/OpenMathLib/OpenBLAS",
+        "description": "OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.",
+        "language": "C",
+        "languageColor": "#555555",
+        "stars": 6519,
+        "fork": 1521,
+        "currentPeriodStars": 21,
+        "builtBy": [
+            {
+                "href": "https://github.com/martin-frbg",
+                "avatar": "https://avatars.githubusercontent.com/u/6192365?s=40&v=4",
+                "username": "martin-frbg"
+            },
+            {
+                "href": "https://github.com/xianyi",
+                "avatar": "https://avatars.githubusercontent.com/u/371600?s=40&v=4",
+                "username": "xianyi"
+            },
+            {
+                "href": "https://github.com/wernsaar",
+                "avatar": "https://avatars.githubusercontent.com/u/2973416?s=40&v=4",
+                "username": "wernsaar"
+            },
+            {
+                "href": "https://github.com/hpanderson",
+                "avatar": "https://avatars.githubusercontent.com/u/2925280?s=40&v=4",
+                "username": "hpanderson"
+            },
+            {
+                "href": "https://github.com/wjc404",
+                "avatar": "https://avatars.githubusercontent.com/u/52632443?s=40&v=4",
+                "username": "wjc404"
             }
         ]
     },
@@ -768,7 +568,7 @@
         "description": "Open-source vector similarity search for Postgres",
         "language": "C",
         "languageColor": "#555555",
-        "stars": 13481,
+        "stars": 13485,
         "fork": 632,
         "currentPeriodStars": 111,
         "builtBy": [
@@ -800,82 +600,242 @@
         ]
     },
     {
-        "author": "TheAlgorithms",
-        "name": "C",
-        "avatar": "https://github.com/TheAlgorithms.png",
+        "author": "firedancer-io",
+        "name": "firedancer",
+        "avatar": "https://github.com/firedancer-io.png",
         "sponsor": null,
-        "url": "https://github.com/TheAlgorithms/C",
-        "description": "Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.",
+        "url": "https://github.com/firedancer-io/firedancer",
+        "description": "Firedancer is Jump Crypto's Solana validator software.",
         "language": "C",
         "languageColor": "#555555",
-        "stars": 19625,
-        "fork": 4441,
-        "currentPeriodStars": 78,
+        "stars": 1025,
+        "fork": 203,
+        "currentPeriodStars": 11,
         "builtBy": [
             {
-                "href": "https://github.com/kvedala",
-                "avatar": "https://avatars.githubusercontent.com/u/7001608?s=40&v=4",
-                "username": "kvedala"
+                "href": "https://github.com/riptl",
+                "avatar": "https://avatars.githubusercontent.com/u/21371810?s=40&v=4",
+                "username": "riptl"
             },
             {
-                "href": "https://github.com/Panquesito7",
-                "avatar": "https://avatars.githubusercontent.com/u/51391473?s=40&v=4",
-                "username": "Panquesito7"
+                "href": "https://github.com/kbowers-jump",
+                "avatar": "https://avatars.githubusercontent.com/u/92736880?s=40&v=4",
+                "username": "kbowers-jump"
             },
             {
-                "href": "https://github.com/danghai",
-                "avatar": "https://avatars.githubusercontent.com/u/10912671?s=40&v=4",
-                "username": "danghai"
+                "href": "https://github.com/mmcgee-jump",
+                "avatar": "https://avatars.githubusercontent.com/u/132931789?s=40&v=4",
+                "username": "mmcgee-jump"
             },
             {
-                "href": "https://github.com/alexpantyukhin",
-                "avatar": "https://avatars.githubusercontent.com/u/6513121?s=40&v=4",
-                "username": "alexpantyukhin"
+                "href": "https://github.com/ptaffet-jump",
+                "avatar": "https://avatars.githubusercontent.com/u/123486962?s=40&v=4",
+                "username": "ptaffet-jump"
             },
             {
-                "href": "https://github.com/StepfenShawn",
-                "avatar": "https://avatars.githubusercontent.com/u/44727245?s=40&v=4",
-                "username": "StepfenShawn"
+                "href": "https://github.com/mjain-jump",
+                "avatar": "https://avatars.githubusercontent.com/u/150074777?s=40&v=4",
+                "username": "mjain-jump"
             }
         ]
     },
     {
-        "author": "raysan5",
-        "name": "raylib",
-        "avatar": "https://github.com/raysan5.png",
-        "sponsor": "https://github.com/sponsors/raysan5",
-        "url": "https://github.com/raysan5/raylib",
-        "description": "A simple and easy-to-use library to enjoy videogames programming",
+        "author": "git",
+        "name": "git",
+        "avatar": "https://github.com/git.png",
+        "sponsor": null,
+        "url": "https://github.com/git/git",
+        "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
         "language": "C",
         "languageColor": "#555555",
-        "stars": 24361,
-        "fork": 2382,
-        "currentPeriodStars": 159,
+        "stars": 53183,
+        "fork": 25798,
+        "currentPeriodStars": 114,
         "builtBy": [
             {
-                "href": "https://github.com/raysan5",
-                "avatar": "https://avatars.githubusercontent.com/u/5766837?s=40&v=4",
-                "username": "raysan5"
+                "href": "https://github.com/gitster",
+                "avatar": "https://avatars.githubusercontent.com/u/54884?s=40&v=4",
+                "username": "gitster"
             },
             {
-                "href": "https://github.com/a3f",
-                "avatar": "https://avatars.githubusercontent.com/u/5204368?s=40&v=4",
-                "username": "a3f"
+                "href": "https://github.com/peff",
+                "avatar": "https://avatars.githubusercontent.com/u/45925?s=40&v=4",
+                "username": "peff"
             },
             {
-                "href": "https://github.com/victorfisac",
-                "avatar": "https://avatars.githubusercontent.com/u/10688349?s=40&v=4",
-                "username": "victorfisac"
+                "href": "https://github.com/dscho",
+                "avatar": "https://avatars.githubusercontent.com/u/127790?s=40&v=4",
+                "username": "dscho"
             },
             {
-                "href": "https://github.com/JeffM2501",
-                "avatar": "https://avatars.githubusercontent.com/u/322174?s=40&v=4",
-                "username": "JeffM2501"
+                "href": "https://github.com/avar",
+                "avatar": "https://avatars.githubusercontent.com/u/45301?s=40&v=4",
+                "username": "avar"
             },
             {
-                "href": "https://github.com/apps/github-actions",
-                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-                "username": "apps/github-actions"
+                "href": "https://github.com/pclouds",
+                "avatar": "https://avatars.githubusercontent.com/u/720?s=40&v=4",
+                "username": "pclouds"
+            }
+        ]
+    },
+    {
+        "author": "pgbouncer",
+        "name": "pgbouncer",
+        "avatar": "https://github.com/pgbouncer.png",
+        "sponsor": null,
+        "url": "https://github.com/pgbouncer/pgbouncer",
+        "description": "lightweight connection pooler for PostgreSQL",
+        "language": "C",
+        "languageColor": "#555555",
+        "stars": 3109,
+        "fork": 464,
+        "currentPeriodStars": 15,
+        "builtBy": [
+            {
+                "href": "https://github.com/markokr",
+                "avatar": "https://avatars.githubusercontent.com/u/49397?s=40&v=4",
+                "username": "markokr"
+            },
+            {
+                "href": "https://github.com/petere",
+                "avatar": "https://avatars.githubusercontent.com/u/105543?s=40&v=4",
+                "username": "petere"
+            },
+            {
+                "href": "https://github.com/JelteF",
+                "avatar": "https://avatars.githubusercontent.com/u/1162278?s=40&v=4",
+                "username": "JelteF"
+            },
+            {
+                "href": "https://github.com/emelsimsek",
+                "avatar": "https://avatars.githubusercontent.com/u/13130350?s=40&v=4",
+                "username": "emelsimsek"
+            },
+            {
+                "href": "https://github.com/eulerto",
+                "avatar": "https://avatars.githubusercontent.com/u/213604?s=40&v=4",
+                "username": "eulerto"
+            }
+        ]
+    },
+    {
+        "author": "OISF",
+        "name": "suricata",
+        "avatar": "https://github.com/OISF.png",
+        "sponsor": null,
+        "url": "https://github.com/OISF/suricata",
+        "description": "Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.",
+        "language": "C",
+        "languageColor": "#555555",
+        "stars": 4857,
+        "fork": 1483,
+        "currentPeriodStars": 30,
+        "builtBy": [
+            {
+                "href": "https://github.com/victorjulien",
+                "avatar": "https://avatars.githubusercontent.com/u/32410611?s=40&v=4",
+                "username": "victorjulien"
+            },
+            {
+                "href": "https://github.com/inliniac",
+                "avatar": "https://avatars.githubusercontent.com/u/719366?s=40&v=4",
+                "username": "inliniac"
+            },
+            {
+                "href": "https://github.com/jasonish",
+                "avatar": "https://avatars.githubusercontent.com/u/644115?s=40&v=4",
+                "username": "jasonish"
+            },
+            {
+                "href": "https://github.com/regit",
+                "avatar": "https://avatars.githubusercontent.com/u/308616?s=40&v=4",
+                "username": "regit"
+            },
+            {
+                "href": "https://github.com/catenacyber",
+                "avatar": "https://avatars.githubusercontent.com/u/35799796?s=40&v=4",
+                "username": "catenacyber"
+            }
+        ]
+    },
+    {
+        "author": "asterisk",
+        "name": "asterisk",
+        "avatar": "https://github.com/asterisk.png",
+        "sponsor": null,
+        "url": "https://github.com/asterisk/asterisk",
+        "description": "The official Asterisk Project repository.",
+        "language": "C",
+        "languageColor": "#555555",
+        "stars": 2348,
+        "fork": 989,
+        "currentPeriodStars": 10,
+        "builtBy": [
+            {
+                "href": "https://github.com/jcolp",
+                "avatar": "https://avatars.githubusercontent.com/u/631932?s=40&v=4",
+                "username": "jcolp"
+            },
+            {
+                "href": "https://github.com/russellb",
+                "avatar": "https://avatars.githubusercontent.com/u/309258?s=40&v=4",
+                "username": "russellb"
+            },
+            {
+                "href": "https://github.com/tilghman",
+                "avatar": "https://avatars.githubusercontent.com/u/531589?s=40&v=4",
+                "username": "tilghman"
+            },
+            {
+                "href": "https://github.com/rmudgett9125",
+                "avatar": "https://avatars.githubusercontent.com/u/37188649?s=40&v=4",
+                "username": "rmudgett9125"
+            },
+            {
+                "href": "https://github.com/oej",
+                "avatar": "https://avatars.githubusercontent.com/u/20310?s=40&v=4",
+                "username": "oej"
+            }
+        ]
+    },
+    {
+        "author": "riscv-software-src",
+        "name": "riscv-isa-sim",
+        "avatar": "https://github.com/riscv-software-src.png",
+        "sponsor": null,
+        "url": "https://github.com/riscv-software-src/riscv-isa-sim",
+        "description": "Spike, a RISC-V ISA Simulator",
+        "language": "C",
+        "languageColor": "#555555",
+        "stars": 2538,
+        "fork": 884,
+        "currentPeriodStars": 11,
+        "builtBy": [
+            {
+                "href": "https://github.com/aswaterman",
+                "avatar": "https://avatars.githubusercontent.com/u/1031106?s=40&v=4",
+                "username": "aswaterman"
+            },
+            {
+                "href": "https://github.com/scottj97",
+                "avatar": "https://avatars.githubusercontent.com/u/86350?s=40&v=4",
+                "username": "scottj97"
+            },
+            {
+                "href": "https://github.com/timsifive",
+                "avatar": "https://avatars.githubusercontent.com/u/16123885?s=40&v=4",
+                "username": "timsifive"
+            },
+            {
+                "href": "https://github.com/chihminchao",
+                "avatar": "https://avatars.githubusercontent.com/u/48193236?s=40&v=4",
+                "username": "chihminchao"
+            },
+            {
+                "href": "https://github.com/jerryz123",
+                "avatar": "https://avatars.githubusercontent.com/u/14086183?s=40&v=4",
+                "username": "jerryz123"
             }
         ]
     }
