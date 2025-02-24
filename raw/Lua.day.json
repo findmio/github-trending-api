@@ -1,26 +1,61 @@
 [
     {
-        "author": "nvim-lua",
-        "name": "kickstart.nvim",
-        "avatar": "https://github.com/nvim-lua.png",
+        "author": "echasnovski",
+        "name": "mini.nvim",
+        "avatar": "https://github.com/echasnovski.png",
         "sponsor": null,
-        "url": "https://github.com/nvim-lua/kickstart.nvim",
-        "description": "A launch point for your personal nvim configuration",
+        "url": "https://github.com/echasnovski/mini.nvim",
+        "description": "Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort",
         "language": "Lua",
         "languageColor": "#000080",
-        "stars": 22045,
-        "fork": 28780,
-        "currentPeriodStars": 24,
+        "stars": 6660,
+        "fork": 220,
+        "currentPeriodStars": 15,
         "builtBy": [
             {
-                "href": "https://github.com/feoh",
-                "avatar": "https://avatars.githubusercontent.com/u/330070?s=40&v=4",
-                "username": "feoh"
+                "href": "https://github.com/echasnovski",
+                "avatar": "https://avatars.githubusercontent.com/u/24854248?s=40&v=4",
+                "username": "echasnovski"
             },
             {
-                "href": "https://github.com/dam9000",
-                "avatar": "https://avatars.githubusercontent.com/u/148590335?s=40&v=4",
-                "username": "dam9000"
+                "href": "https://github.com/wroyca",
+                "avatar": "https://avatars.githubusercontent.com/u/91024200?s=40&v=4",
+                "username": "wroyca"
+            },
+            {
+                "href": "https://github.com/dundargoc",
+                "avatar": "https://avatars.githubusercontent.com/u/33953936?s=40&v=4",
+                "username": "dundargoc"
+            },
+            {
+                "href": "https://github.com/gpanders",
+                "avatar": "https://avatars.githubusercontent.com/u/8965202?s=40&v=4",
+                "username": "gpanders"
+            },
+            {
+                "href": "https://github.com/annenpolka",
+                "avatar": "https://avatars.githubusercontent.com/u/56289203?s=40&v=4",
+                "username": "annenpolka"
+            }
+        ]
+    },
+    {
+        "author": "nvim-telescope",
+        "name": "telescope.nvim",
+        "avatar": "https://github.com/nvim-telescope.png",
+        "sponsor": null,
+        "url": "https://github.com/nvim-telescope/telescope.nvim",
+        "description": "Find, Filter, Preview, Pick. All lua, all the time.",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "stars": 16868,
+        "fork": 857,
+        "currentPeriodStars": 17,
+        "builtBy": [
+            {
+                "href": "https://github.com/Conni2461",
+                "avatar": "https://avatars.githubusercontent.com/u/15233006?s=40&v=4",
+                "username": "Conni2461"
             },
             {
                 "href": "https://github.com/tjdevries",
@@ -28,254 +63,99 @@
                 "username": "tjdevries"
             },
             {
-                "href": "https://github.com/nPHYN1T3",
-                "avatar": "https://avatars.githubusercontent.com/u/38122105?s=40&v=4",
-                "username": "nPHYN1T3"
+                "href": "https://github.com/jamestrew",
+                "avatar": "https://avatars.githubusercontent.com/u/66286082?s=40&v=4",
+                "username": "jamestrew"
             },
             {
-                "href": "https://github.com/VlaDexa",
-                "avatar": "https://avatars.githubusercontent.com/u/52157081?s=40&v=4",
-                "username": "VlaDexa"
+                "href": "https://github.com/rockerBOO",
+                "avatar": "https://avatars.githubusercontent.com/u/15027?s=40&v=4",
+                "username": "rockerBOO"
+            },
+            {
+                "href": "https://github.com/fdschmidt93",
+                "avatar": "https://avatars.githubusercontent.com/u/39233597?s=40&v=4",
+                "username": "fdschmidt93"
             }
         ]
     },
     {
-        "author": "koreader",
-        "name": "koreader",
-        "avatar": "https://github.com/koreader.png",
+        "author": "CopilotC-Nvim",
+        "name": "CopilotChat.nvim",
+        "avatar": "https://github.com/CopilotC-Nvim.png",
         "sponsor": null,
-        "url": "https://github.com/koreader/koreader",
-        "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+        "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim",
+        "description": "Chat with GitHub Copilot in Neovim",
         "language": "Lua",
         "languageColor": "#000080",
-        "stars": 18585,
-        "fork": 1330,
-        "currentPeriodStars": 41,
-        "builtBy": [
-            {
-                "href": "https://github.com/houqp",
-                "avatar": "https://avatars.githubusercontent.com/u/670302?s=40&v=4",
-                "username": "houqp"
-            },
-            {
-                "href": "https://github.com/chrox",
-                "avatar": "https://avatars.githubusercontent.com/u/751535?s=40&v=4",
-                "username": "chrox"
-            },
-            {
-                "href": "https://github.com/NiLuJe",
-                "avatar": "https://avatars.githubusercontent.com/u/111974?s=40&v=4",
-                "username": "NiLuJe"
-            },
-            {
-                "href": "https://github.com/Frenzie",
-                "avatar": "https://avatars.githubusercontent.com/u/202757?s=40&v=4",
-                "username": "Frenzie"
-            },
-            {
-                "href": "https://github.com/poire-z",
-                "avatar": "https://avatars.githubusercontent.com/u/24273478?s=40&v=4",
-                "username": "poire-z"
-            }
-        ]
-    },
-    {
-        "author": "mfussenegger",
-        "name": "nvim-dap",
-        "avatar": "https://github.com/mfussenegger.png",
-        "sponsor": "https://github.com/sponsors/mfussenegger",
-        "url": "https://github.com/mfussenegger/nvim-dap",
-        "description": "Debug Adapter Protocol client implementation for Neovim",
-        "language": "Lua",
-        "languageColor": "#000080",
-        "stars": 6003,
-        "fork": 217,
-        "currentPeriodStars": 6,
-        "builtBy": [
-            {
-                "href": "https://github.com/mfussenegger",
-                "avatar": "https://avatars.githubusercontent.com/u/38700?s=40&v=4",
-                "username": "mfussenegger"
-            },
-            {
-                "href": "https://github.com/theHamsta",
-                "avatar": "https://avatars.githubusercontent.com/u/7189118?s=40&v=4",
-                "username": "theHamsta"
-            },
-            {
-                "href": "https://github.com/rcarriga",
-                "avatar": "https://avatars.githubusercontent.com/u/24252670?s=40&v=4",
-                "username": "rcarriga"
-            },
-            {
-                "href": "https://github.com/andmis",
-                "avatar": "https://avatars.githubusercontent.com/u/5308024?s=40&v=4",
-                "username": "andmis"
-            },
-            {
-                "href": "https://github.com/Shatur",
-                "avatar": "https://avatars.githubusercontent.com/u/22453358?s=40&v=4",
-                "username": "Shatur"
-            }
-        ]
-    },
-    {
-        "author": "NeogitOrg",
-        "name": "neogit",
-        "avatar": "https://github.com/NeogitOrg.png",
-        "sponsor": "https://github.com/sponsors/NeogitOrg",
-        "url": "https://github.com/NeogitOrg/neogit",
-        "description": "An interactive and powerful Git interface for Neovim, inspired by Magit",
-        "language": "Lua",
-        "languageColor": "#000080",
-        "stars": 4368,
-        "fork": 259,
-        "currentPeriodStars": 3,
-        "builtBy": [
-            {
-                "href": "https://github.com/CKolkey",
-                "avatar": "https://avatars.githubusercontent.com/u/7228095?s=40&v=4",
-                "username": "CKolkey"
-            },
-            {
-                "href": "https://github.com/TimUntersberger",
-                "avatar": "https://avatars.githubusercontent.com/u/32014449?s=40&v=4",
-                "username": "TimUntersberger"
-            },
-            {
-                "href": "https://github.com/ten3roberts",
-                "avatar": "https://avatars.githubusercontent.com/u/25723553?s=40&v=4",
-                "username": "ten3roberts"
-            },
-            {
-                "href": "https://github.com/RianFuro",
-                "avatar": "https://avatars.githubusercontent.com/u/10298987?s=40&v=4",
-                "username": "RianFuro"
-            },
-            {
-                "href": "https://github.com/PriceHiller",
-                "avatar": "https://avatars.githubusercontent.com/u/58627896?s=40&v=4",
-                "username": "PriceHiller"
-            }
-        ]
-    },
-    {
-        "author": "xiaorouji",
-        "name": "openwrt-passwall",
-        "avatar": "https://github.com/xiaorouji.png",
-        "sponsor": null,
-        "url": "https://github.com/xiaorouji/openwrt-passwall",
-        "description": null,
-        "language": "Lua",
-        "languageColor": "#000080",
-        "stars": 7775,
-        "fork": 2734,
-        "currentPeriodStars": 4,
-        "builtBy": [
-            {
-                "href": "https://github.com/xiaorouji",
-                "avatar": "https://avatars.githubusercontent.com/u/60100640?s=40&v=4",
-                "username": "xiaorouji"
-            },
-            {
-                "href": "https://github.com/lwb1978",
-                "avatar": "https://avatars.githubusercontent.com/u/86697442?s=40&v=4",
-                "username": "lwb1978"
-            },
-            {
-                "href": "https://github.com/nftbty",
-                "avatar": "https://avatars.githubusercontent.com/u/10704839?s=40&v=4",
-                "username": "nftbty"
-            },
-            {
-                "href": "https://github.com/smallprogram",
-                "avatar": "https://avatars.githubusercontent.com/u/6050360?s=40&v=4",
-                "username": "smallprogram"
-            },
-            {
-                "href": "https://github.com/ShanStone",
-                "avatar": "https://avatars.githubusercontent.com/u/31815718?s=40&v=4",
-                "username": "ShanStone"
-            }
-        ]
-    },
-    {
-        "author": "PathOfBuildingCommunity",
-        "name": "PathOfBuilding",
-        "avatar": "https://github.com/PathOfBuildingCommunity.png",
-        "sponsor": null,
-        "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
-        "description": "Offline build planner for Path of Exile.",
-        "language": "Lua",
-        "languageColor": "#000080",
-        "stars": 4507,
-        "fork": 2110,
+        "stars": 2191,
+        "fork": 107,
         "currentPeriodStars": 5,
         "builtBy": [
             {
-                "href": "https://github.com/Wires77",
-                "avatar": "https://avatars.githubusercontent.com/u/1209372?s=40&v=4",
-                "username": "Wires77"
+                "href": "https://github.com/deathbeam",
+                "avatar": "https://avatars.githubusercontent.com/u/5115805?s=40&v=4",
+                "username": "deathbeam"
             },
             {
-                "href": "https://github.com/LocalIdentity",
-                "avatar": "https://avatars.githubusercontent.com/u/31035929?s=40&v=4",
-                "username": "LocalIdentity"
+                "href": "https://github.com/apps/github-actions",
+                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+                "username": "apps/github-actions"
             },
             {
-                "href": "https://github.com/Openarl",
-                "avatar": "https://avatars.githubusercontent.com/u/19189971?s=40&v=4",
-                "username": "Openarl"
+                "href": "https://github.com/jellydn",
+                "avatar": "https://avatars.githubusercontent.com/u/870029?s=40&v=4",
+                "username": "jellydn"
             },
             {
-                "href": "https://github.com/Nostrademous",
-                "avatar": "https://avatars.githubusercontent.com/u/1735956?s=40&v=4",
-                "username": "Nostrademous"
+                "href": "https://github.com/gptlang",
+                "avatar": "https://avatars.githubusercontent.com/u/121417512?s=40&v=4",
+                "username": "gptlang"
             },
             {
-                "href": "https://github.com/ppoelzl",
-                "avatar": "https://avatars.githubusercontent.com/u/33464174?s=40&v=4",
-                "username": "ppoelzl"
+                "href": "https://github.com/apps/pre-commit-ci",
+                "avatar": "https://avatars.githubusercontent.com/in/68672?s=40&v=4",
+                "username": "apps/pre-commit-ci"
             }
         ]
     },
     {
-        "author": "opentibiabr",
-        "name": "canary",
-        "avatar": "https://github.com/opentibiabr.png",
-        "sponsor": "https://github.com/sponsors/opentibiabr",
-        "url": "https://github.com/opentibiabr/canary",
-        "description": "Canary Server 13.x for OpenTibia community.",
+        "author": "neovim",
+        "name": "nvim-lspconfig",
+        "avatar": "https://github.com/neovim.png",
+        "sponsor": "https://github.com/sponsors/neovim",
+        "url": "https://github.com/neovim/nvim-lspconfig",
+        "description": "Quickstart configs for Nvim LSP",
         "language": "Lua",
         "languageColor": "#000080",
-        "stars": 415,
-        "fork": 669,
-        "currentPeriodStars": 0,
+        "stars": 11304,
+        "fork": 2114,
+        "currentPeriodStars": 6,
         "builtBy": [
             {
-                "href": "https://github.com/dudantas",
-                "avatar": "https://avatars.githubusercontent.com/u/8551443?s=40&v=4",
-                "username": "dudantas"
+                "href": "https://github.com/mjlbach",
+                "avatar": "https://avatars.githubusercontent.com/u/13316262?s=40&v=4",
+                "username": "mjlbach"
             },
             {
-                "href": "https://github.com/luan",
-                "avatar": "https://avatars.githubusercontent.com/u/223760?s=40&v=4",
-                "username": "luan"
+                "href": "https://github.com/apps/github-actions",
+                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+                "username": "apps/github-actions"
             },
             {
-                "href": "https://github.com/omarcopires",
-                "avatar": "https://avatars.githubusercontent.com/u/26801045?s=40&v=4",
-                "username": "omarcopires"
+                "href": "https://github.com/h-michael",
+                "avatar": "https://avatars.githubusercontent.com/u/4556097?s=40&v=4",
+                "username": "h-michael"
             },
             {
-                "href": "https://github.com/beats-dh",
-                "avatar": "https://avatars.githubusercontent.com/u/61994374?s=40&v=4",
-                "username": "beats-dh"
+                "href": "https://github.com/glepnir",
+                "avatar": "https://avatars.githubusercontent.com/u/41671631?s=40&v=4",
+                "username": "glepnir"
             },
             {
-                "href": "https://github.com/elsongabriel",
-                "avatar": "https://avatars.githubusercontent.com/u/7812282?s=40&v=4",
-                "username": "elsongabriel"
+                "href": "https://github.com/justinmk",
+                "avatar": "https://avatars.githubusercontent.com/u/1359421?s=40&v=4",
+                "username": "justinmk"
             }
         ]
     },
@@ -320,57 +200,17 @@
         ]
     },
     {
-        "author": "echasnovski",
-        "name": "mini.nvim",
-        "avatar": "https://github.com/echasnovski.png",
-        "sponsor": null,
-        "url": "https://github.com/echasnovski/mini.nvim",
-        "description": "Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort",
-        "language": "Lua",
-        "languageColor": "#000080",
-        "stars": 6660,
-        "fork": 220,
-        "currentPeriodStars": 15,
-        "builtBy": [
-            {
-                "href": "https://github.com/echasnovski",
-                "avatar": "https://avatars.githubusercontent.com/u/24854248?s=40&v=4",
-                "username": "echasnovski"
-            },
-            {
-                "href": "https://github.com/wroyca",
-                "avatar": "https://avatars.githubusercontent.com/u/91024200?s=40&v=4",
-                "username": "wroyca"
-            },
-            {
-                "href": "https://github.com/dundargoc",
-                "avatar": "https://avatars.githubusercontent.com/u/33953936?s=40&v=4",
-                "username": "dundargoc"
-            },
-            {
-                "href": "https://github.com/gpanders",
-                "avatar": "https://avatars.githubusercontent.com/u/8965202?s=40&v=4",
-                "username": "gpanders"
-            },
-            {
-                "href": "https://github.com/annenpolka",
-                "avatar": "https://avatars.githubusercontent.com/u/56289203?s=40&v=4",
-                "username": "annenpolka"
-            }
-        ]
-    },
-    {
         "author": "folke",
-        "name": "which-key.nvim",
+        "name": "snacks.nvim",
         "avatar": "https://github.com/folke.png",
         "sponsor": null,
-        "url": "https://github.com/folke/which-key.nvim",
-        "description": "💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",
+        "url": "https://github.com/folke/snacks.nvim",
+        "description": "🍿 A collection of QoL plugins for Neovim",
         "language": "Lua",
         "languageColor": "#000080",
-        "stars": 5877,
-        "fork": 189,
-        "currentPeriodStars": 6,
+        "stars": 3876,
+        "fork": 162,
+        "currentPeriodStars": 28,
         "builtBy": [
             {
                 "href": "https://github.com/folke",
@@ -383,79 +223,44 @@
                 "username": "apps/github-actions"
             },
             {
-                "href": "https://github.com/zeertzjq",
-                "avatar": "https://avatars.githubusercontent.com/u/35768171?s=40&v=4",
-                "username": "zeertzjq"
+                "href": "https://github.com/dpetka2001",
+                "avatar": "https://avatars.githubusercontent.com/u/12776461?s=40&v=4",
+                "username": "dpetka2001"
             },
             {
-                "href": "https://github.com/alaviss",
-                "avatar": "https://avatars.githubusercontent.com/u/4961280?s=40&v=4",
-                "username": "alaviss"
+                "href": "https://github.com/chrisgrieser",
+                "avatar": "https://avatars.githubusercontent.com/u/73286100?s=40&v=4",
+                "username": "chrisgrieser"
             },
             {
-                "href": "https://github.com/hezhizhen",
-                "avatar": "https://avatars.githubusercontent.com/u/7611700?s=40&v=4",
-                "username": "hezhizhen"
+                "href": "https://github.com/minusfive",
+                "avatar": "https://avatars.githubusercontent.com/u/33695?s=40&v=4",
+                "username": "minusfive"
             }
         ]
     },
     {
-        "author": "rebelot",
-        "name": "kanagawa.nvim",
-        "avatar": "https://github.com/rebelot.png",
+        "author": "overextended",
+        "name": "ox_inventory",
+        "avatar": "https://github.com/overextended.png",
         "sponsor": null,
-        "url": "https://github.com/rebelot/kanagawa.nvim",
-        "description": "NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.",
+        "url": "https://github.com/overextended/ox_inventory",
+        "description": "Slot-based inventory with metadata.",
         "language": "Lua",
         "languageColor": "#000080",
-        "stars": 4685,
-        "fork": 188,
-        "currentPeriodStars": 7,
+        "stars": 492,
+        "fork": 747,
+        "currentPeriodStars": 3,
         "builtBy": [
             {
-                "href": "https://github.com/rebelot",
-                "avatar": "https://avatars.githubusercontent.com/u/36300441?s=40&v=4",
-                "username": "rebelot"
+                "href": "https://github.com/thelindat",
+                "avatar": "https://avatars.githubusercontent.com/u/65407488?s=40&v=4",
+                "username": "thelindat"
             },
             {
-                "href": "https://github.com/fbearoff",
-                "avatar": "https://avatars.githubusercontent.com/u/11050285?s=40&v=4",
-                "username": "fbearoff"
-            },
-            {
-                "href": "https://github.com/3719e04",
-                "avatar": "https://avatars.githubusercontent.com/u/56977205?s=40&v=4",
-                "username": "3719e04"
-            },
-            {
-                "href": "https://github.com/WieeRd",
-                "avatar": "https://avatars.githubusercontent.com/u/59733058?s=40&v=4",
-                "username": "WieeRd"
-            },
-            {
-                "href": "https://github.com/SaladinAyyub",
-                "avatar": "https://avatars.githubusercontent.com/u/40650341?s=40&v=4",
-                "username": "SaladinAyyub"
-            }
-        ]
-    },
-    {
-        "author": "olimorris",
-        "name": "codecompanion.nvim",
-        "avatar": "https://github.com/olimorris.png",
-        "sponsor": "https://github.com/sponsors/olimorris",
-        "url": "https://github.com/olimorris/codecompanion.nvim",
-        "description": "✨ AI-powered coding, seamlessly in Neovim",
-        "language": "Lua",
-        "languageColor": "#000080",
-        "stars": 2480,
-        "fork": 158,
-        "currentPeriodStars": 23,
-        "builtBy": [
-            {
-                "href": "https://github.com/olimorris",
-                "avatar": "https://avatars.githubusercontent.com/u/9512444?s=40&v=4",
-                "username": "olimorris"
+                "href": "https://github.com/LukeWasTakenn",
+                "avatar": "https://avatars.githubusercontent.com/u/39926192?s=40&v=4",
+                "username": "LukeWasTakenn"
             },
             {
                 "href": "https://github.com/apps/github-actions",
@@ -463,179 +268,14 @@
                 "username": "apps/github-actions"
             },
             {
-                "href": "https://github.com/bassamsdata",
-                "avatar": "https://avatars.githubusercontent.com/u/105807570?s=40&v=4",
-                "username": "bassamsdata"
+                "href": "https://github.com/dunak-debug",
+                "avatar": "https://avatars.githubusercontent.com/u/19434539?s=40&v=4",
+                "username": "dunak-debug"
             },
             {
-                "href": "https://github.com/SDGLBL",
-                "avatar": "https://avatars.githubusercontent.com/u/41188874?s=40&v=4",
-                "username": "SDGLBL"
-            },
-            {
-                "href": "https://github.com/GitMurf",
-                "avatar": "https://avatars.githubusercontent.com/u/64155612?s=40&v=4",
-                "username": "GitMurf"
-            }
-        ]
-    },
-    {
-        "author": "neovim",
-        "name": "nvim-lspconfig",
-        "avatar": "https://github.com/neovim.png",
-        "sponsor": "https://github.com/sponsors/neovim",
-        "url": "https://github.com/neovim/nvim-lspconfig",
-        "description": "Quickstart configs for Nvim LSP",
-        "language": "Lua",
-        "languageColor": "#000080",
-        "stars": 11302,
-        "fork": 2114,
-        "currentPeriodStars": 6,
-        "builtBy": [
-            {
-                "href": "https://github.com/mjlbach",
-                "avatar": "https://avatars.githubusercontent.com/u/13316262?s=40&v=4",
-                "username": "mjlbach"
-            },
-            {
-                "href": "https://github.com/apps/github-actions",
-                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-                "username": "apps/github-actions"
-            },
-            {
-                "href": "https://github.com/h-michael",
-                "avatar": "https://avatars.githubusercontent.com/u/4556097?s=40&v=4",
-                "username": "h-michael"
-            },
-            {
-                "href": "https://github.com/glepnir",
-                "avatar": "https://avatars.githubusercontent.com/u/41671631?s=40&v=4",
-                "username": "glepnir"
-            },
-            {
-                "href": "https://github.com/justinmk",
-                "avatar": "https://avatars.githubusercontent.com/u/1359421?s=40&v=4",
-                "username": "justinmk"
-            }
-        ]
-    },
-    {
-        "author": "Grokitach",
-        "name": "Stalker_GAMMA",
-        "avatar": "https://github.com/Grokitach.png",
-        "sponsor": null,
-        "url": "https://github.com/Grokitach/Stalker_GAMMA",
-        "description": "S.T.A.L.K.E.R. Anomaly G.A.M.M.A. modpack definition files.",
-        "language": "Lua",
-        "languageColor": "#000080",
-        "stars": 829,
-        "fork": 153,
-        "currentPeriodStars": 0,
-        "builtBy": [
-            {
-                "href": "https://github.com/Grokitach",
-                "avatar": "https://avatars.githubusercontent.com/u/20973555?s=40&v=4",
-                "username": "Grokitach"
-            },
-            {
-                "href": "https://github.com/oleh5230",
-                "avatar": "https://avatars.githubusercontent.com/u/146314647?s=40&v=4",
-                "username": "oleh5230"
-            },
-            {
-                "href": "https://github.com/Larkin10859",
-                "avatar": "https://avatars.githubusercontent.com/u/51220997?s=40&v=4",
-                "username": "Larkin10859"
-            },
-            {
-                "href": "https://github.com/vorpal-void",
-                "avatar": "https://avatars.githubusercontent.com/u/60776130?s=40&v=4",
-                "username": "vorpal-void"
-            },
-            {
-                "href": "https://github.com/MarkedOneStrelok",
-                "avatar": "https://avatars.githubusercontent.com/u/99824746?s=40&v=4",
-                "username": "MarkedOneStrelok"
-            }
-        ]
-    },
-    {
-        "author": "goolord",
-        "name": "alpha-nvim",
-        "avatar": "https://github.com/goolord.png",
-        "sponsor": null,
-        "url": "https://github.com/goolord/alpha-nvim",
-        "description": "a lua powered greeter like vim-startify / dashboard-nvim",
-        "language": "Lua",
-        "languageColor": "#000080",
-        "stars": 2057,
-        "fork": 117,
-        "currentPeriodStars": 2,
-        "builtBy": [
-            {
-                "href": "https://github.com/goolord",
-                "avatar": "https://avatars.githubusercontent.com/u/24906808?s=40&v=4",
-                "username": "goolord"
-            },
-            {
-                "href": "https://github.com/Shivix",
-                "avatar": "https://avatars.githubusercontent.com/u/52997365?s=40&v=4",
-                "username": "Shivix"
-            },
-            {
-                "href": "https://github.com/kylo252",
-                "avatar": "https://avatars.githubusercontent.com/u/59826753?s=40&v=4",
-                "username": "kylo252"
-            },
-            {
-                "href": "https://github.com/jdrouhard",
-                "avatar": "https://avatars.githubusercontent.com/u/394891?s=40&v=4",
-                "username": "jdrouhard"
-            },
-            {
-                "href": "https://github.com/bennypowers",
-                "avatar": "https://avatars.githubusercontent.com/u/1466420?s=40&v=4",
-                "username": "bennypowers"
-            }
-        ]
-    },
-    {
-        "author": "craftzdog",
-        "name": "dotfiles-public",
-        "avatar": "https://github.com/craftzdog.png",
-        "sponsor": null,
-        "url": "https://github.com/craftzdog/dotfiles-public",
-        "description": "My personal dotfiles",
-        "language": "Lua",
-        "languageColor": "#000080",
-        "stars": 6604,
-        "fork": 1174,
-        "currentPeriodStars": 0,
-        "builtBy": [
-            {
-                "href": "https://github.com/craftzdog",
-                "avatar": "https://avatars.githubusercontent.com/u/1332805?s=40&v=4",
-                "username": "craftzdog"
-            },
-            {
-                "href": "https://github.com/IlanCosman",
-                "avatar": "https://avatars.githubusercontent.com/u/6318351?s=40&v=4",
-                "username": "IlanCosman"
-            },
-            {
-                "href": "https://github.com/harshv5094",
-                "avatar": "https://avatars.githubusercontent.com/u/51878195?s=40&v=4",
-                "username": "harshv5094"
-            },
-            {
-                "href": "https://github.com/sbmsr",
-                "avatar": "https://avatars.githubusercontent.com/u/2349518?s=40&v=4",
-                "username": "sbmsr"
-            },
-            {
-                "href": "https://github.com/geminixiang",
-                "avatar": "https://avatars.githubusercontent.com/u/11078827?s=40&v=4",
-                "username": "geminixiang"
+                "href": "https://github.com/antond15",
+                "avatar": "https://avatars.githubusercontent.com/u/71350868?s=40&v=4",
+                "username": "antond15"
             }
         ]
     },
@@ -680,42 +320,282 @@
         ]
     },
     {
-        "author": "nvim-tree",
-        "name": "nvim-tree.lua",
-        "avatar": "https://github.com/nvim-tree.png",
+        "author": "MathIsFun0",
+        "name": "Cryptid",
+        "avatar": "https://github.com/MathIsFun0.png",
         "sponsor": null,
-        "url": "https://github.com/nvim-tree/nvim-tree.lua",
-        "description": "A file explorer tree for neovim written in lua",
+        "url": "https://github.com/MathIsFun0/Cryptid",
+        "description": "An unbalanced Balatro mod",
         "language": "Lua",
         "languageColor": "#000080",
-        "stars": 7531,
-        "fork": 610,
+        "stars": 265,
+        "fork": 72,
         "currentPeriodStars": 2,
         "builtBy": [
             {
-                "href": "https://github.com/kyazdani42",
-                "avatar": "https://avatars.githubusercontent.com/u/23156099?s=40&v=4",
-                "username": "kyazdani42"
+                "href": "https://github.com/MathIsFun0",
+                "avatar": "https://avatars.githubusercontent.com/u/89877664?s=40&v=4",
+                "username": "MathIsFun0"
             },
             {
-                "href": "https://github.com/alex-courtis",
-                "avatar": "https://avatars.githubusercontent.com/u/1505378?s=40&v=4",
-                "username": "alex-courtis"
+                "href": "https://github.com/Jevonnissocoolman",
+                "avatar": "https://avatars.githubusercontent.com/u/170693801?s=40&v=4",
+                "username": "Jevonnissocoolman"
             },
             {
-                "href": "https://github.com/Akmadan23",
-                "avatar": "https://avatars.githubusercontent.com/u/49314270?s=40&v=4",
-                "username": "Akmadan23"
+                "href": "https://github.com/Toneblock",
+                "avatar": "https://avatars.githubusercontent.com/u/55140928?s=40&v=4",
+                "username": "Toneblock"
             },
             {
-                "href": "https://github.com/sindrets",
-                "avatar": "https://avatars.githubusercontent.com/u/2786478?s=40&v=4",
-                "username": "sindrets"
+                "href": "https://github.com/Foegro",
+                "avatar": "https://avatars.githubusercontent.com/u/68813500?s=40&v=4",
+                "username": "Foegro"
             },
             {
-                "href": "https://github.com/gegoune",
-                "avatar": "https://avatars.githubusercontent.com/u/69750637?s=40&v=4",
-                "username": "gegoune"
+                "href": "https://github.com/jenwalter666",
+                "avatar": "https://avatars.githubusercontent.com/u/60117721?s=40&v=4",
+                "username": "jenwalter666"
+            }
+        ]
+    },
+    {
+        "author": "LuaLS",
+        "name": "lua-language-server",
+        "avatar": "https://github.com/LuaLS.png",
+        "sponsor": null,
+        "url": "https://github.com/LuaLS/lua-language-server",
+        "description": "A language server that offers Lua language support - programmed in Lua",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "stars": 3554,
+        "fork": 336,
+        "currentPeriodStars": 2,
+        "builtBy": [
+            {
+                "href": "https://github.com/sumneko",
+                "avatar": "https://avatars.githubusercontent.com/u/5213431?s=40&v=4",
+                "username": "sumneko"
+            },
+            {
+                "href": "https://github.com/CppCXY",
+                "avatar": "https://avatars.githubusercontent.com/u/40318218?s=40&v=4",
+                "username": "CppCXY"
+            },
+            {
+                "href": "https://github.com/fesily",
+                "avatar": "https://avatars.githubusercontent.com/u/15152525?s=40&v=4",
+                "username": "fesily"
+            },
+            {
+                "href": "https://github.com/actboy168",
+                "avatar": "https://avatars.githubusercontent.com/u/1836844?s=40&v=4",
+                "username": "actboy168"
+            },
+            {
+                "href": "https://github.com/carsakiller",
+                "avatar": "https://avatars.githubusercontent.com/u/61925890?s=40&v=4",
+                "username": "carsakiller"
+            }
+        ]
+    },
+    {
+        "author": "koreader",
+        "name": "koreader",
+        "avatar": "https://github.com/koreader.png",
+        "sponsor": null,
+        "url": "https://github.com/koreader/koreader",
+        "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "stars": 18587,
+        "fork": 1330,
+        "currentPeriodStars": 41,
+        "builtBy": [
+            {
+                "href": "https://github.com/houqp",
+                "avatar": "https://avatars.githubusercontent.com/u/670302?s=40&v=4",
+                "username": "houqp"
+            },
+            {
+                "href": "https://github.com/chrox",
+                "avatar": "https://avatars.githubusercontent.com/u/751535?s=40&v=4",
+                "username": "chrox"
+            },
+            {
+                "href": "https://github.com/NiLuJe",
+                "avatar": "https://avatars.githubusercontent.com/u/111974?s=40&v=4",
+                "username": "NiLuJe"
+            },
+            {
+                "href": "https://github.com/Frenzie",
+                "avatar": "https://avatars.githubusercontent.com/u/202757?s=40&v=4",
+                "username": "Frenzie"
+            },
+            {
+                "href": "https://github.com/poire-z",
+                "avatar": "https://avatars.githubusercontent.com/u/24273478?s=40&v=4",
+                "username": "poire-z"
+            }
+        ]
+    },
+    {
+        "author": "folke",
+        "name": "which-key.nvim",
+        "avatar": "https://github.com/folke.png",
+        "sponsor": null,
+        "url": "https://github.com/folke/which-key.nvim",
+        "description": "💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "stars": 5877,
+        "fork": 189,
+        "currentPeriodStars": 6,
+        "builtBy": [
+            {
+                "href": "https://github.com/folke",
+                "avatar": "https://avatars.githubusercontent.com/u/292349?s=40&v=4",
+                "username": "folke"
+            },
+            {
+                "href": "https://github.com/apps/github-actions",
+                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+                "username": "apps/github-actions"
+            },
+            {
+                "href": "https://github.com/zeertzjq",
+                "avatar": "https://avatars.githubusercontent.com/u/35768171?s=40&v=4",
+                "username": "zeertzjq"
+            },
+            {
+                "href": "https://github.com/alaviss",
+                "avatar": "https://avatars.githubusercontent.com/u/4961280?s=40&v=4",
+                "username": "alaviss"
+            },
+            {
+                "href": "https://github.com/hezhizhen",
+                "avatar": "https://avatars.githubusercontent.com/u/7611700?s=40&v=4",
+                "username": "hezhizhen"
+            }
+        ]
+    },
+    {
+        "author": "hrsh7th",
+        "name": "nvim-cmp",
+        "avatar": "https://github.com/hrsh7th.png",
+        "sponsor": "https://github.com/sponsors/hrsh7th",
+        "url": "https://github.com/hrsh7th/nvim-cmp",
+        "description": "A completion plugin for neovim coded in Lua.",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "stars": 8505,
+        "fork": 405,
+        "currentPeriodStars": 5,
+        "builtBy": [
+            {
+                "href": "https://github.com/hrsh7th",
+                "avatar": "https://avatars.githubusercontent.com/u/629908?s=40&v=4",
+                "username": "hrsh7th"
+            },
+            {
+                "href": "https://github.com/uga-rosa",
+                "avatar": "https://avatars.githubusercontent.com/u/82267684?s=40&v=4",
+                "username": "uga-rosa"
+            },
+            {
+                "href": "https://github.com/tzachar",
+                "avatar": "https://avatars.githubusercontent.com/u/4946827?s=40&v=4",
+                "username": "tzachar"
+            },
+            {
+                "href": "https://github.com/dmitmel",
+                "avatar": "https://avatars.githubusercontent.com/u/15367354?s=40&v=4",
+                "username": "dmitmel"
+            },
+            {
+                "href": "https://github.com/smjonas",
+                "avatar": "https://avatars.githubusercontent.com/u/40792180?s=40&v=4",
+                "username": "smjonas"
+            }
+        ]
+    },
+    {
+        "author": "NeogitOrg",
+        "name": "neogit",
+        "avatar": "https://github.com/NeogitOrg.png",
+        "sponsor": "https://github.com/sponsors/NeogitOrg",
+        "url": "https://github.com/NeogitOrg/neogit",
+        "description": "An interactive and powerful Git interface for Neovim, inspired by Magit",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "stars": 4368,
+        "fork": 259,
+        "currentPeriodStars": 3,
+        "builtBy": [
+            {
+                "href": "https://github.com/CKolkey",
+                "avatar": "https://avatars.githubusercontent.com/u/7228095?s=40&v=4",
+                "username": "CKolkey"
+            },
+            {
+                "href": "https://github.com/TimUntersberger",
+                "avatar": "https://avatars.githubusercontent.com/u/32014449?s=40&v=4",
+                "username": "TimUntersberger"
+            },
+            {
+                "href": "https://github.com/ten3roberts",
+                "avatar": "https://avatars.githubusercontent.com/u/25723553?s=40&v=4",
+                "username": "ten3roberts"
+            },
+            {
+                "href": "https://github.com/RianFuro",
+                "avatar": "https://avatars.githubusercontent.com/u/10298987?s=40&v=4",
+                "username": "RianFuro"
+            },
+            {
+                "href": "https://github.com/PriceHiller",
+                "avatar": "https://avatars.githubusercontent.com/u/58627896?s=40&v=4",
+                "username": "PriceHiller"
+            }
+        ]
+    },
+    {
+        "author": "opentibiabr",
+        "name": "canary",
+        "avatar": "https://github.com/opentibiabr.png",
+        "sponsor": "https://github.com/sponsors/opentibiabr",
+        "url": "https://github.com/opentibiabr/canary",
+        "description": "Canary Server 13.x for OpenTibia community.",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "stars": 415,
+        "fork": 669,
+        "currentPeriodStars": 0,
+        "builtBy": [
+            {
+                "href": "https://github.com/dudantas",
+                "avatar": "https://avatars.githubusercontent.com/u/8551443?s=40&v=4",
+                "username": "dudantas"
+            },
+            {
+                "href": "https://github.com/luan",
+                "avatar": "https://avatars.githubusercontent.com/u/223760?s=40&v=4",
+                "username": "luan"
+            },
+            {
+                "href": "https://github.com/omarcopires",
+                "avatar": "https://avatars.githubusercontent.com/u/26801045?s=40&v=4",
+                "username": "omarcopires"
+            },
+            {
+                "href": "https://github.com/beats-dh",
+                "avatar": "https://avatars.githubusercontent.com/u/61994374?s=40&v=4",
+                "username": "beats-dh"
+            },
+            {
+                "href": "https://github.com/elsongabriel",
+                "avatar": "https://avatars.githubusercontent.com/u/7812282?s=40&v=4",
+                "username": "elsongabriel"
             }
         ]
     },
@@ -760,62 +640,102 @@
         ]
     },
     {
-        "author": "MathIsFun0",
-        "name": "Cryptid",
-        "avatar": "https://github.com/MathIsFun0.png",
-        "sponsor": null,
-        "url": "https://github.com/MathIsFun0/Cryptid",
-        "description": "An unbalanced Balatro mod",
+        "author": "lukas-reineke",
+        "name": "indent-blankline.nvim",
+        "avatar": "https://github.com/lukas-reineke.png",
+        "sponsor": "https://github.com/sponsors/lukas-reineke",
+        "url": "https://github.com/lukas-reineke/indent-blankline.nvim",
+        "description": "Indent guides for Neovim",
         "language": "Lua",
         "languageColor": "#000080",
-        "stars": 265,
-        "fork": 72,
-        "currentPeriodStars": 2,
+        "stars": 4436,
+        "fork": 108,
+        "currentPeriodStars": 4,
         "builtBy": [
             {
-                "href": "https://github.com/MathIsFun0",
-                "avatar": "https://avatars.githubusercontent.com/u/89877664?s=40&v=4",
-                "username": "MathIsFun0"
+                "href": "https://github.com/lukas-reineke",
+                "avatar": "https://avatars.githubusercontent.com/u/12900252?s=40&v=4",
+                "username": "lukas-reineke"
             },
             {
-                "href": "https://github.com/Jevonnissocoolman",
-                "avatar": "https://avatars.githubusercontent.com/u/170693801?s=40&v=4",
-                "username": "Jevonnissocoolman"
+                "href": "https://github.com/jbarap",
+                "avatar": "https://avatars.githubusercontent.com/u/57547764?s=40&v=4",
+                "username": "jbarap"
             },
             {
-                "href": "https://github.com/Toneblock",
-                "avatar": "https://avatars.githubusercontent.com/u/55140928?s=40&v=4",
-                "username": "Toneblock"
+                "href": "https://github.com/Danielkonge",
+                "avatar": "https://avatars.githubusercontent.com/u/7075380?s=40&v=4",
+                "username": "Danielkonge"
             },
             {
-                "href": "https://github.com/Foegro",
-                "avatar": "https://avatars.githubusercontent.com/u/68813500?s=40&v=4",
-                "username": "Foegro"
+                "href": "https://github.com/wincent",
+                "avatar": "https://avatars.githubusercontent.com/u/7074?s=40&v=4",
+                "username": "wincent"
             },
             {
-                "href": "https://github.com/jenwalter666",
-                "avatar": "https://avatars.githubusercontent.com/u/60117721?s=40&v=4",
-                "username": "jenwalter666"
+                "href": "https://github.com/rhino1998",
+                "avatar": "https://avatars.githubusercontent.com/u/9094640?s=40&v=4",
+                "username": "rhino1998"
             }
         ]
     },
     {
-        "author": "overextended",
-        "name": "ox_target",
-        "avatar": "https://github.com/overextended.png",
+        "author": "nvim-lua",
+        "name": "kickstart.nvim",
+        "avatar": "https://github.com/nvim-lua.png",
         "sponsor": null,
-        "url": "https://github.com/overextended/ox_target",
-        "description": "Standalone \"third-eye\" targeting resource.",
+        "url": "https://github.com/nvim-lua/kickstart.nvim",
+        "description": "A launch point for your personal nvim configuration",
         "language": "Lua",
         "languageColor": "#000080",
-        "stars": 157,
-        "fork": 205,
-        "currentPeriodStars": 0,
+        "stars": 22045,
+        "fork": 28782,
+        "currentPeriodStars": 24,
         "builtBy": [
             {
-                "href": "https://github.com/thelindat",
-                "avatar": "https://avatars.githubusercontent.com/u/65407488?s=40&v=4",
-                "username": "thelindat"
+                "href": "https://github.com/feoh",
+                "avatar": "https://avatars.githubusercontent.com/u/330070?s=40&v=4",
+                "username": "feoh"
+            },
+            {
+                "href": "https://github.com/dam9000",
+                "avatar": "https://avatars.githubusercontent.com/u/148590335?s=40&v=4",
+                "username": "dam9000"
+            },
+            {
+                "href": "https://github.com/tjdevries",
+                "avatar": "https://avatars.githubusercontent.com/u/4466899?s=40&v=4",
+                "username": "tjdevries"
+            },
+            {
+                "href": "https://github.com/nPHYN1T3",
+                "avatar": "https://avatars.githubusercontent.com/u/38122105?s=40&v=4",
+                "username": "nPHYN1T3"
+            },
+            {
+                "href": "https://github.com/VlaDexa",
+                "avatar": "https://avatars.githubusercontent.com/u/52157081?s=40&v=4",
+                "username": "VlaDexa"
+            }
+        ]
+    },
+    {
+        "author": "stevearc",
+        "name": "conform.nvim",
+        "avatar": "https://github.com/stevearc.png",
+        "sponsor": null,
+        "url": "https://github.com/stevearc/conform.nvim",
+        "description": "Lightweight yet powerful formatter plugin for Neovim",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "stars": 3684,
+        "fork": 191,
+        "currentPeriodStars": 6,
+        "builtBy": [
+            {
+                "href": "https://github.com/stevearc",
+                "avatar": "https://avatars.githubusercontent.com/u/506791?s=40&v=4",
+                "username": "stevearc"
             },
             {
                 "href": "https://github.com/apps/github-actions",
@@ -823,19 +743,59 @@
                 "username": "apps/github-actions"
             },
             {
-                "href": "https://github.com/DokaDoka",
-                "avatar": "https://avatars.githubusercontent.com/u/31368547?s=40&v=4",
-                "username": "DokaDoka"
+                "href": "https://github.com/hougesen",
+                "avatar": "https://avatars.githubusercontent.com/u/56034786?s=40&v=4",
+                "username": "hougesen"
             },
             {
-                "href": "https://github.com/LukeWasTakenn",
-                "avatar": "https://avatars.githubusercontent.com/u/39926192?s=40&v=4",
-                "username": "LukeWasTakenn"
+                "href": "https://github.com/chrisgrieser",
+                "avatar": "https://avatars.githubusercontent.com/u/73286100?s=40&v=4",
+                "username": "chrisgrieser"
             },
             {
-                "href": "https://github.com/Manason",
-                "avatar": "https://avatars.githubusercontent.com/u/3579092?s=40&v=4",
-                "username": "Manason"
+                "href": "https://github.com/WhoIsSethDaniel",
+                "avatar": "https://avatars.githubusercontent.com/u/4702260?s=40&v=4",
+                "username": "WhoIsSethDaniel"
+            }
+        ]
+    },
+    {
+        "author": "PathOfBuildingCommunity",
+        "name": "PathOfBuilding",
+        "avatar": "https://github.com/PathOfBuildingCommunity.png",
+        "sponsor": null,
+        "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+        "description": "Offline build planner for Path of Exile.",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "stars": 4507,
+        "fork": 2110,
+        "currentPeriodStars": 5,
+        "builtBy": [
+            {
+                "href": "https://github.com/Wires77",
+                "avatar": "https://avatars.githubusercontent.com/u/1209372?s=40&v=4",
+                "username": "Wires77"
+            },
+            {
+                "href": "https://github.com/LocalIdentity",
+                "avatar": "https://avatars.githubusercontent.com/u/31035929?s=40&v=4",
+                "username": "LocalIdentity"
+            },
+            {
+                "href": "https://github.com/Openarl",
+                "avatar": "https://avatars.githubusercontent.com/u/19189971?s=40&v=4",
+                "username": "Openarl"
+            },
+            {
+                "href": "https://github.com/Nostrademous",
+                "avatar": "https://avatars.githubusercontent.com/u/1735956?s=40&v=4",
+                "username": "Nostrademous"
+            },
+            {
+                "href": "https://github.com/ppoelzl",
+                "avatar": "https://avatars.githubusercontent.com/u/33464174?s=40&v=4",
+                "username": "ppoelzl"
             }
         ]
     }
