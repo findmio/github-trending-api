@@ -8,7 +8,7 @@
         "description": "Use your Neovim like using Cursor AI IDE!",
         "language": "Lua",
         "languageColor": "#000080",
-        "stars": 12059,
+        "stars": 12060,
         "fork": 493,
         "currentPeriodStars": 401,
         "builtBy": [
@@ -48,7 +48,7 @@
         "description": "Performant, batteries-included completion plugin for Neovim",
         "language": "Lua",
         "languageColor": "#000080",
-        "stars": 3917,
+        "stars": 3918,
         "fork": 223,
         "currentPeriodStars": 238,
         "builtBy": [
@@ -120,6 +120,86 @@
         ]
     },
     {
+        "author": "LuaLS",
+        "name": "lua-language-server",
+        "avatar": "https://github.com/LuaLS.png",
+        "sponsor": null,
+        "url": "https://github.com/LuaLS/lua-language-server",
+        "description": "A language server that offers Lua language support - programmed in Lua",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "stars": 3640,
+        "fork": 349,
+        "currentPeriodStars": 28,
+        "builtBy": [
+            {
+                "href": "https://github.com/sumneko",
+                "avatar": "https://avatars.githubusercontent.com/u/5213431?s=40&v=4",
+                "username": "sumneko"
+            },
+            {
+                "href": "https://github.com/CppCXY",
+                "avatar": "https://avatars.githubusercontent.com/u/40318218?s=40&v=4",
+                "username": "CppCXY"
+            },
+            {
+                "href": "https://github.com/fesily",
+                "avatar": "https://avatars.githubusercontent.com/u/15152525?s=40&v=4",
+                "username": "fesily"
+            },
+            {
+                "href": "https://github.com/actboy168",
+                "avatar": "https://avatars.githubusercontent.com/u/1836844?s=40&v=4",
+                "username": "actboy168"
+            },
+            {
+                "href": "https://github.com/carsakiller",
+                "avatar": "https://avatars.githubusercontent.com/u/61925890?s=40&v=4",
+                "username": "carsakiller"
+            }
+        ]
+    },
+    {
+        "author": "mfussenegger",
+        "name": "nvim-lint",
+        "avatar": "https://github.com/mfussenegger.png",
+        "sponsor": "https://github.com/sponsors/mfussenegger",
+        "url": "https://github.com/mfussenegger/nvim-lint",
+        "description": "An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "stars": 2266,
+        "fork": 237,
+        "currentPeriodStars": 18,
+        "builtBy": [
+            {
+                "href": "https://github.com/mfussenegger",
+                "avatar": "https://avatars.githubusercontent.com/u/38700?s=40&v=4",
+                "username": "mfussenegger"
+            },
+            {
+                "href": "https://github.com/gpanders",
+                "avatar": "https://avatars.githubusercontent.com/u/8965202?s=40&v=4",
+                "username": "gpanders"
+            },
+            {
+                "href": "https://github.com/chrisgrieser",
+                "avatar": "https://avatars.githubusercontent.com/u/73286100?s=40&v=4",
+                "username": "chrisgrieser"
+            },
+            {
+                "href": "https://github.com/mflova",
+                "avatar": "https://avatars.githubusercontent.com/u/67102627?s=40&v=4",
+                "username": "mflova"
+            },
+            {
+                "href": "https://github.com/dhruvmanila",
+                "avatar": "https://avatars.githubusercontent.com/u/67177269?s=40&v=4",
+                "username": "dhruvmanila"
+            }
+        ]
+    },
+    {
         "author": "nvim-lua",
         "name": "kickstart.nvim",
         "avatar": "https://github.com/nvim-lua.png",
@@ -128,8 +208,8 @@
         "description": "A launch point for your personal nvim configuration",
         "language": "Lua",
         "languageColor": "#000080",
-        "stars": 23362,
-        "fork": 31063,
+        "stars": 23364,
+        "fork": 31065,
         "currentPeriodStars": 253,
         "builtBy": [
             {
@@ -156,46 +236,6 @@
                 "href": "https://github.com/VlaDexa",
                 "avatar": "https://avatars.githubusercontent.com/u/52157081?s=40&v=4",
                 "username": "VlaDexa"
-            }
-        ]
-    },
-    {
-        "author": "ThePrimeagen",
-        "name": "harpoon",
-        "avatar": "https://github.com/ThePrimeagen.png",
-        "sponsor": "https://github.com/sponsors/ThePrimeagen",
-        "url": "https://github.com/ThePrimeagen/harpoon",
-        "description": null,
-        "language": "Lua",
-        "languageColor": "#000080",
-        "stars": 7783,
-        "fork": 419,
-        "currentPeriodStars": 63,
-        "builtBy": [
-            {
-                "href": "https://github.com/ThePrimeagen",
-                "avatar": "https://avatars.githubusercontent.com/u/4458174?s=40&v=4",
-                "username": "ThePrimeagen"
-            },
-            {
-                "href": "https://github.com/rudotriton",
-                "avatar": "https://avatars.githubusercontent.com/u/14181026?s=40&v=4",
-                "username": "rudotriton"
-            },
-            {
-                "href": "https://github.com/brandoncc",
-                "avatar": "https://avatars.githubusercontent.com/u/543973?s=40&v=4",
-                "username": "brandoncc"
-            },
-            {
-                "href": "https://github.com/asbjornhaland",
-                "avatar": "https://avatars.githubusercontent.com/u/4287319?s=40&v=4",
-                "username": "asbjornhaland"
-            },
-            {
-                "href": "https://github.com/pranavrao145",
-                "avatar": "https://avatars.githubusercontent.com/u/56097527?s=40&v=4",
-                "username": "pranavrao145"
             }
         ]
     },
@@ -240,6 +280,46 @@
         ]
     },
     {
+        "author": "ThePrimeagen",
+        "name": "harpoon",
+        "avatar": "https://github.com/ThePrimeagen.png",
+        "sponsor": "https://github.com/sponsors/ThePrimeagen",
+        "url": "https://github.com/ThePrimeagen/harpoon",
+        "description": null,
+        "language": "Lua",
+        "languageColor": "#000080",
+        "stars": 7783,
+        "fork": 419,
+        "currentPeriodStars": 63,
+        "builtBy": [
+            {
+                "href": "https://github.com/ThePrimeagen",
+                "avatar": "https://avatars.githubusercontent.com/u/4458174?s=40&v=4",
+                "username": "ThePrimeagen"
+            },
+            {
+                "href": "https://github.com/rudotriton",
+                "avatar": "https://avatars.githubusercontent.com/u/14181026?s=40&v=4",
+                "username": "rudotriton"
+            },
+            {
+                "href": "https://github.com/brandoncc",
+                "avatar": "https://avatars.githubusercontent.com/u/543973?s=40&v=4",
+                "username": "brandoncc"
+            },
+            {
+                "href": "https://github.com/asbjornhaland",
+                "avatar": "https://avatars.githubusercontent.com/u/4287319?s=40&v=4",
+                "username": "asbjornhaland"
+            },
+            {
+                "href": "https://github.com/pranavrao145",
+                "avatar": "https://avatars.githubusercontent.com/u/56097527?s=40&v=4",
+                "username": "pranavrao145"
+            }
+        ]
+    },
+    {
         "author": "stevearc",
         "name": "oil.nvim",
         "avatar": "https://github.com/stevearc.png",
@@ -276,6 +356,46 @@
                 "href": "https://github.com/Foo-x",
                 "avatar": "https://avatars.githubusercontent.com/u/24248467?s=40&v=4",
                 "username": "Foo-x"
+            }
+        ]
+    },
+    {
+        "author": "nvim-lualine",
+        "name": "lualine.nvim",
+        "avatar": "https://github.com/nvim-lualine.png",
+        "sponsor": null,
+        "url": "https://github.com/nvim-lualine/lualine.nvim",
+        "description": "A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "stars": 6834,
+        "fork": 490,
+        "currentPeriodStars": 43,
+        "builtBy": [
+            {
+                "href": "https://github.com/shadmansaleh",
+                "avatar": "https://avatars.githubusercontent.com/u/13149513?s=40&v=4",
+                "username": "shadmansaleh"
+            },
+            {
+                "href": "https://github.com/hoob3rt",
+                "avatar": "https://avatars.githubusercontent.com/u/41551030?s=40&v=4",
+                "username": "hoob3rt"
+            },
+            {
+                "href": "https://github.com/apps/github-actions",
+                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+                "username": "apps/github-actions"
+            },
+            {
+                "href": "https://github.com/zeertzjq",
+                "avatar": "https://avatars.githubusercontent.com/u/35768171?s=40&v=4",
+                "username": "zeertzjq"
+            },
+            {
+                "href": "https://github.com/kdheepak",
+                "avatar": "https://avatars.githubusercontent.com/u/1813121?s=40&v=4",
+                "username": "kdheepak"
             }
         ]
     },
@@ -328,7 +448,7 @@
         "description": "A community repository of common plugin specifications",
         "language": "Lua",
         "languageColor": "#000080",
-        "stars": 1379,
+        "stars": 1380,
         "fork": 262,
         "currentPeriodStars": 16,
         "builtBy": [
@@ -356,46 +476,6 @@
                 "href": "https://github.com/manuuurino",
                 "avatar": "https://avatars.githubusercontent.com/u/2855338?s=40&v=4",
                 "username": "manuuurino"
-            }
-        ]
-    },
-    {
-        "author": "nvim-neo-tree",
-        "name": "neo-tree.nvim",
-        "avatar": "https://github.com/nvim-neo-tree.png",
-        "sponsor": null,
-        "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
-        "description": "Neovim plugin to manage the file system and other tree like structures.",
-        "language": "Lua",
-        "languageColor": "#000080",
-        "stars": 4386,
-        "fork": 248,
-        "currentPeriodStars": 36,
-        "builtBy": [
-            {
-                "href": "https://github.com/cseickel",
-                "avatar": "https://avatars.githubusercontent.com/u/5160605?s=40&v=4",
-                "username": "cseickel"
-            },
-            {
-                "href": "https://github.com/pynappo",
-                "avatar": "https://avatars.githubusercontent.com/u/43484729?s=40&v=4",
-                "username": "pynappo"
-            },
-            {
-                "href": "https://github.com/pysan3",
-                "avatar": "https://avatars.githubusercontent.com/u/41065736?s=40&v=4",
-                "username": "pysan3"
-            },
-            {
-                "href": "https://github.com/nhat-vo",
-                "avatar": "https://avatars.githubusercontent.com/u/30724347?s=40&v=4",
-                "username": "nhat-vo"
-            },
-            {
-                "href": "https://github.com/MunifTanjim",
-                "avatar": "https://avatars.githubusercontent.com/u/8050659?s=40&v=4",
-                "username": "MunifTanjim"
             }
         ]
     },
@@ -440,6 +520,46 @@
         ]
     },
     {
+        "author": "echasnovski",
+        "name": "mini.nvim",
+        "avatar": "https://github.com/echasnovski.png",
+        "sponsor": null,
+        "url": "https://github.com/echasnovski/mini.nvim",
+        "description": "Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "stars": 6917,
+        "fork": 230,
+        "currentPeriodStars": 52,
+        "builtBy": [
+            {
+                "href": "https://github.com/echasnovski",
+                "avatar": "https://avatars.githubusercontent.com/u/24854248?s=40&v=4",
+                "username": "echasnovski"
+            },
+            {
+                "href": "https://github.com/wroyca",
+                "avatar": "https://avatars.githubusercontent.com/u/91024200?s=40&v=4",
+                "username": "wroyca"
+            },
+            {
+                "href": "https://github.com/dundargoc",
+                "avatar": "https://avatars.githubusercontent.com/u/33953936?s=40&v=4",
+                "username": "dundargoc"
+            },
+            {
+                "href": "https://github.com/gpanders",
+                "avatar": "https://avatars.githubusercontent.com/u/8965202?s=40&v=4",
+                "username": "gpanders"
+            },
+            {
+                "href": "https://github.com/annenpolka",
+                "avatar": "https://avatars.githubusercontent.com/u/56289203?s=40&v=4",
+                "username": "annenpolka"
+            }
+        ]
+    },
+    {
         "author": "stevearc",
         "name": "conform.nvim",
         "avatar": "https://github.com/stevearc.png",
@@ -480,42 +600,82 @@
         ]
     },
     {
-        "author": "LuaLS",
-        "name": "lua-language-server",
-        "avatar": "https://github.com/LuaLS.png",
-        "sponsor": null,
-        "url": "https://github.com/LuaLS/lua-language-server",
-        "description": "A language server that offers Lua language support - programmed in Lua",
+        "author": "lewis6991",
+        "name": "gitsigns.nvim",
+        "avatar": "https://github.com/lewis6991.png",
+        "sponsor": "https://github.com/sponsors/lewis6991",
+        "url": "https://github.com/lewis6991/gitsigns.nvim",
+        "description": "Git integration for buffers",
         "language": "Lua",
         "languageColor": "#000080",
-        "stars": 3640,
-        "fork": 349,
-        "currentPeriodStars": 28,
+        "stars": 5626,
+        "fork": 204,
+        "currentPeriodStars": 39,
         "builtBy": [
             {
-                "href": "https://github.com/sumneko",
-                "avatar": "https://avatars.githubusercontent.com/u/5213431?s=40&v=4",
-                "username": "sumneko"
+                "href": "https://github.com/lewis6991",
+                "avatar": "https://avatars.githubusercontent.com/u/7904185?s=40&v=4",
+                "username": "lewis6991"
             },
             {
-                "href": "https://github.com/CppCXY",
-                "avatar": "https://avatars.githubusercontent.com/u/40318218?s=40&v=4",
-                "username": "CppCXY"
+                "href": "https://github.com/dundargoc",
+                "avatar": "https://avatars.githubusercontent.com/u/33953936?s=40&v=4",
+                "username": "dundargoc"
             },
             {
-                "href": "https://github.com/fesily",
-                "avatar": "https://avatars.githubusercontent.com/u/15152525?s=40&v=4",
-                "username": "fesily"
+                "href": "https://github.com/zapling",
+                "avatar": "https://avatars.githubusercontent.com/u/15123086?s=40&v=4",
+                "username": "zapling"
             },
             {
-                "href": "https://github.com/actboy168",
-                "avatar": "https://avatars.githubusercontent.com/u/1836844?s=40&v=4",
-                "username": "actboy168"
+                "href": "https://github.com/andersevenrud",
+                "avatar": "https://avatars.githubusercontent.com/u/161548?s=40&v=4",
+                "username": "andersevenrud"
             },
             {
-                "href": "https://github.com/carsakiller",
-                "avatar": "https://avatars.githubusercontent.com/u/61925890?s=40&v=4",
-                "username": "carsakiller"
+                "href": "https://github.com/apps/github-actions",
+                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+                "username": "apps/github-actions"
+            }
+        ]
+    },
+    {
+        "author": "ThePrimeagen",
+        "name": "vim-be-good",
+        "avatar": "https://github.com/ThePrimeagen.png",
+        "sponsor": "https://github.com/sponsors/ThePrimeagen",
+        "url": "https://github.com/ThePrimeagen/vim-be-good",
+        "description": "vim-be-good is a nvim plugin designed to make you better at Vim Movements.",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "stars": 3643,
+        "fork": 137,
+        "currentPeriodStars": 42,
+        "builtBy": [
+            {
+                "href": "https://github.com/ThePrimeagen",
+                "avatar": "https://avatars.githubusercontent.com/u/4458174?s=40&v=4",
+                "username": "ThePrimeagen"
+            },
+            {
+                "href": "https://github.com/d4rk",
+                "avatar": "https://avatars.githubusercontent.com/u/22163?s=40&v=4",
+                "username": "d4rk"
+            },
+            {
+                "href": "https://github.com/FL3SH",
+                "avatar": "https://avatars.githubusercontent.com/u/9084725?s=40&v=4",
+                "username": "FL3SH"
+            },
+            {
+                "href": "https://github.com/brandoncc",
+                "avatar": "https://avatars.githubusercontent.com/u/543973?s=40&v=4",
+                "username": "brandoncc"
+            },
+            {
+                "href": "https://github.com/antonk52",
+                "avatar": "https://avatars.githubusercontent.com/u/5817809?s=40&v=4",
+                "username": "antonk52"
             }
         ]
     },
@@ -560,42 +720,82 @@
         ]
     },
     {
-        "author": "mfussenegger",
-        "name": "nvim-lint",
-        "avatar": "https://github.com/mfussenegger.png",
-        "sponsor": "https://github.com/sponsors/mfussenegger",
-        "url": "https://github.com/mfussenegger/nvim-lint",
-        "description": "An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+        "author": "nvim-neo-tree",
+        "name": "neo-tree.nvim",
+        "avatar": "https://github.com/nvim-neo-tree.png",
+        "sponsor": null,
+        "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+        "description": "Neovim plugin to manage the file system and other tree like structures.",
         "language": "Lua",
         "languageColor": "#000080",
-        "stars": 2265,
-        "fork": 237,
-        "currentPeriodStars": 18,
+        "stars": 4386,
+        "fork": 248,
+        "currentPeriodStars": 36,
         "builtBy": [
             {
-                "href": "https://github.com/mfussenegger",
-                "avatar": "https://avatars.githubusercontent.com/u/38700?s=40&v=4",
-                "username": "mfussenegger"
+                "href": "https://github.com/cseickel",
+                "avatar": "https://avatars.githubusercontent.com/u/5160605?s=40&v=4",
+                "username": "cseickel"
             },
             {
-                "href": "https://github.com/gpanders",
-                "avatar": "https://avatars.githubusercontent.com/u/8965202?s=40&v=4",
-                "username": "gpanders"
+                "href": "https://github.com/pynappo",
+                "avatar": "https://avatars.githubusercontent.com/u/43484729?s=40&v=4",
+                "username": "pynappo"
             },
             {
-                "href": "https://github.com/chrisgrieser",
-                "avatar": "https://avatars.githubusercontent.com/u/73286100?s=40&v=4",
-                "username": "chrisgrieser"
+                "href": "https://github.com/pysan3",
+                "avatar": "https://avatars.githubusercontent.com/u/41065736?s=40&v=4",
+                "username": "pysan3"
             },
             {
-                "href": "https://github.com/mflova",
-                "avatar": "https://avatars.githubusercontent.com/u/67102627?s=40&v=4",
-                "username": "mflova"
+                "href": "https://github.com/nhat-vo",
+                "avatar": "https://avatars.githubusercontent.com/u/30724347?s=40&v=4",
+                "username": "nhat-vo"
             },
             {
-                "href": "https://github.com/dhruvmanila",
-                "avatar": "https://avatars.githubusercontent.com/u/67177269?s=40&v=4",
-                "username": "dhruvmanila"
+                "href": "https://github.com/MunifTanjim",
+                "avatar": "https://avatars.githubusercontent.com/u/8050659?s=40&v=4",
+                "username": "MunifTanjim"
+            }
+        ]
+    },
+    {
+        "author": "williamboman",
+        "name": "mason.nvim",
+        "avatar": "https://github.com/williamboman.png",
+        "sponsor": "https://github.com/sponsors/williamboman",
+        "url": "https://github.com/williamboman/mason.nvim",
+        "description": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "stars": 8613,
+        "fork": 296,
+        "currentPeriodStars": 56,
+        "builtBy": [
+            {
+                "href": "https://github.com/williamboman",
+                "avatar": "https://avatars.githubusercontent.com/u/6705160?s=40&v=4",
+                "username": "williamboman"
+            },
+            {
+                "href": "https://github.com/williambotman",
+                "avatar": "https://avatars.githubusercontent.com/u/107473453?s=40&v=4",
+                "username": "williambotman"
+            },
+            {
+                "href": "https://github.com/WhoIsSethDaniel",
+                "avatar": "https://avatars.githubusercontent.com/u/4702260?s=40&v=4",
+                "username": "WhoIsSethDaniel"
+            },
+            {
+                "href": "https://github.com/jay-babu",
+                "avatar": "https://avatars.githubusercontent.com/u/36803168?s=40&v=4",
+                "username": "jay-babu"
+            },
+            {
+                "href": "https://github.com/thanhvule0310",
+                "avatar": "https://avatars.githubusercontent.com/u/31539177?s=40&v=4",
+                "username": "thanhvule0310"
             }
         ]
     },
@@ -608,7 +808,7 @@
         "description": "💤 A modern plugin manager for Neovim",
         "language": "Lua",
         "languageColor": "#000080",
-        "stars": 16848,
+        "stars": 16849,
         "fork": 411,
         "currentPeriodStars": 117,
         "builtBy": [
@@ -636,241 +836,6 @@
                 "href": "https://github.com/ribru17",
                 "avatar": "https://avatars.githubusercontent.com/u/55766287?s=40&v=4",
                 "username": "ribru17"
-            }
-        ]
-    },
-    {
-        "author": "echasnovski",
-        "name": "mini.nvim",
-        "avatar": "https://github.com/echasnovski.png",
-        "sponsor": null,
-        "url": "https://github.com/echasnovski/mini.nvim",
-        "description": "Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort",
-        "language": "Lua",
-        "languageColor": "#000080",
-        "stars": 6917,
-        "fork": 230,
-        "currentPeriodStars": 52,
-        "builtBy": [
-            {
-                "href": "https://github.com/echasnovski",
-                "avatar": "https://avatars.githubusercontent.com/u/24854248?s=40&v=4",
-                "username": "echasnovski"
-            },
-            {
-                "href": "https://github.com/wroyca",
-                "avatar": "https://avatars.githubusercontent.com/u/91024200?s=40&v=4",
-                "username": "wroyca"
-            },
-            {
-                "href": "https://github.com/dundargoc",
-                "avatar": "https://avatars.githubusercontent.com/u/33953936?s=40&v=4",
-                "username": "dundargoc"
-            },
-            {
-                "href": "https://github.com/gpanders",
-                "avatar": "https://avatars.githubusercontent.com/u/8965202?s=40&v=4",
-                "username": "gpanders"
-            },
-            {
-                "href": "https://github.com/annenpolka",
-                "avatar": "https://avatars.githubusercontent.com/u/56289203?s=40&v=4",
-                "username": "annenpolka"
-            }
-        ]
-    },
-    {
-        "author": "nvim-lualine",
-        "name": "lualine.nvim",
-        "avatar": "https://github.com/nvim-lualine.png",
-        "sponsor": null,
-        "url": "https://github.com/nvim-lualine/lualine.nvim",
-        "description": "A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
-        "language": "Lua",
-        "languageColor": "#000080",
-        "stars": 6833,
-        "fork": 490,
-        "currentPeriodStars": 43,
-        "builtBy": [
-            {
-                "href": "https://github.com/shadmansaleh",
-                "avatar": "https://avatars.githubusercontent.com/u/13149513?s=40&v=4",
-                "username": "shadmansaleh"
-            },
-            {
-                "href": "https://github.com/hoob3rt",
-                "avatar": "https://avatars.githubusercontent.com/u/41551030?s=40&v=4",
-                "username": "hoob3rt"
-            },
-            {
-                "href": "https://github.com/apps/github-actions",
-                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-                "username": "apps/github-actions"
-            },
-            {
-                "href": "https://github.com/zeertzjq",
-                "avatar": "https://avatars.githubusercontent.com/u/35768171?s=40&v=4",
-                "username": "zeertzjq"
-            },
-            {
-                "href": "https://github.com/kdheepak",
-                "avatar": "https://avatars.githubusercontent.com/u/1813121?s=40&v=4",
-                "username": "kdheepak"
-            }
-        ]
-    },
-    {
-        "author": "MathIsFun0",
-        "name": "Cryptid",
-        "avatar": "https://github.com/MathIsFun0.png",
-        "sponsor": null,
-        "url": "https://github.com/MathIsFun0/Cryptid",
-        "description": "An unbalanced Balatro mod",
-        "language": "Lua",
-        "languageColor": "#000080",
-        "stars": 335,
-        "fork": 93,
-        "currentPeriodStars": 16,
-        "builtBy": [
-            {
-                "href": "https://github.com/MathIsFun0",
-                "avatar": "https://avatars.githubusercontent.com/u/89877664?s=40&v=4",
-                "username": "MathIsFun0"
-            },
-            {
-                "href": "https://github.com/Jevonnissocoolman",
-                "avatar": "https://avatars.githubusercontent.com/u/170693801?s=40&v=4",
-                "username": "Jevonnissocoolman"
-            },
-            {
-                "href": "https://github.com/Toneblock",
-                "avatar": "https://avatars.githubusercontent.com/u/55140928?s=40&v=4",
-                "username": "Toneblock"
-            },
-            {
-                "href": "https://github.com/Foegro",
-                "avatar": "https://avatars.githubusercontent.com/u/68813500?s=40&v=4",
-                "username": "Foegro"
-            },
-            {
-                "href": "https://github.com/jenwalter666",
-                "avatar": "https://avatars.githubusercontent.com/u/60117721?s=40&v=4",
-                "username": "jenwalter666"
-            }
-        ]
-    },
-    {
-        "author": "windwp",
-        "name": "nvim-autopairs",
-        "avatar": "https://github.com/windwp.png",
-        "sponsor": "https://github.com/sponsors/windwp",
-        "url": "https://github.com/windwp/nvim-autopairs",
-        "description": "autopairs for neovim written in lua",
-        "language": "Lua",
-        "languageColor": "#000080",
-        "stars": 3521,
-        "fork": 126,
-        "currentPeriodStars": 18,
-        "builtBy": [
-            {
-                "href": "https://github.com/windwp",
-                "avatar": "https://avatars.githubusercontent.com/u/7578110?s=40&v=4",
-                "username": "windwp"
-            },
-            {
-                "href": "https://github.com/apps/github-actions",
-                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-                "username": "apps/github-actions"
-            },
-            {
-                "href": "https://github.com/ribru17",
-                "avatar": "https://avatars.githubusercontent.com/u/55766287?s=40&v=4",
-                "username": "ribru17"
-            },
-            {
-                "href": "https://github.com/hexium310",
-                "avatar": "https://avatars.githubusercontent.com/u/10758173?s=40&v=4",
-                "username": "hexium310"
-            }
-        ]
-    },
-    {
-        "author": "ThePrimeagen",
-        "name": "vim-be-good",
-        "avatar": "https://github.com/ThePrimeagen.png",
-        "sponsor": "https://github.com/sponsors/ThePrimeagen",
-        "url": "https://github.com/ThePrimeagen/vim-be-good",
-        "description": "vim-be-good is a nvim plugin designed to make you better at Vim Movements.",
-        "language": "Lua",
-        "languageColor": "#000080",
-        "stars": 3641,
-        "fork": 137,
-        "currentPeriodStars": 42,
-        "builtBy": [
-            {
-                "href": "https://github.com/ThePrimeagen",
-                "avatar": "https://avatars.githubusercontent.com/u/4458174?s=40&v=4",
-                "username": "ThePrimeagen"
-            },
-            {
-                "href": "https://github.com/d4rk",
-                "avatar": "https://avatars.githubusercontent.com/u/22163?s=40&v=4",
-                "username": "d4rk"
-            },
-            {
-                "href": "https://github.com/FL3SH",
-                "avatar": "https://avatars.githubusercontent.com/u/9084725?s=40&v=4",
-                "username": "FL3SH"
-            },
-            {
-                "href": "https://github.com/brandoncc",
-                "avatar": "https://avatars.githubusercontent.com/u/543973?s=40&v=4",
-                "username": "brandoncc"
-            },
-            {
-                "href": "https://github.com/antonk52",
-                "avatar": "https://avatars.githubusercontent.com/u/5817809?s=40&v=4",
-                "username": "antonk52"
-            }
-        ]
-    },
-    {
-        "author": "nvim-tree",
-        "name": "nvim-tree.lua",
-        "avatar": "https://github.com/nvim-tree.png",
-        "sponsor": null,
-        "url": "https://github.com/nvim-tree/nvim-tree.lua",
-        "description": "A file explorer tree for neovim written in lua",
-        "language": "Lua",
-        "languageColor": "#000080",
-        "stars": 7644,
-        "fork": 612,
-        "currentPeriodStars": 33,
-        "builtBy": [
-            {
-                "href": "https://github.com/kyazdani42",
-                "avatar": "https://avatars.githubusercontent.com/u/23156099?s=40&v=4",
-                "username": "kyazdani42"
-            },
-            {
-                "href": "https://github.com/alex-courtis",
-                "avatar": "https://avatars.githubusercontent.com/u/1505378?s=40&v=4",
-                "username": "alex-courtis"
-            },
-            {
-                "href": "https://github.com/Akmadan23",
-                "avatar": "https://avatars.githubusercontent.com/u/49314270?s=40&v=4",
-                "username": "Akmadan23"
-            },
-            {
-                "href": "https://github.com/sindrets",
-                "avatar": "https://avatars.githubusercontent.com/u/2786478?s=40&v=4",
-                "username": "sindrets"
-            },
-            {
-                "href": "https://github.com/gegoune",
-                "avatar": "https://avatars.githubusercontent.com/u/69750637?s=40&v=4",
-                "username": "gegoune"
             }
         ]
     }
