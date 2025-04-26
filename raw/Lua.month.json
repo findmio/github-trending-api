@@ -8,7 +8,7 @@
         "description": "Use your Neovim like using Cursor AI IDE!",
         "language": "Lua",
         "languageColor": "#000080",
-        "stars": 13018,
+        "stars": 13022,
         "fork": 550,
         "currentPeriodStars": 1487,
         "builtBy": [
@@ -48,7 +48,7 @@
         "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
         "language": "Lua",
         "languageColor": "#000080",
-        "stars": 20674,
+        "stars": 20675,
         "fork": 1408,
         "currentPeriodStars": 1683,
         "builtBy": [
@@ -128,8 +128,8 @@
         "description": "A launch point for your personal nvim configuration",
         "language": "Lua",
         "languageColor": "#000080",
-        "stars": 24121,
-        "fork": 32558,
+        "stars": 24122,
+        "fork": 32559,
         "currentPeriodStars": 1059,
         "builtBy": [
             {
@@ -168,7 +168,7 @@
         "description": "Performant, batteries-included completion plugin for Neovim",
         "language": "Lua",
         "languageColor": "#000080",
-        "stars": 4255,
+        "stars": 4256,
         "fork": 236,
         "currentPeriodStars": 594,
         "builtBy": [
@@ -196,6 +196,46 @@
                 "href": "https://github.com/redxtech",
                 "avatar": "https://avatars.githubusercontent.com/u/18155001?s=40&v=4",
                 "username": "redxtech"
+            }
+        ]
+    },
+    {
+        "author": "zbirenbaum",
+        "name": "copilot.lua",
+        "avatar": "https://github.com/zbirenbaum.png",
+        "sponsor": null,
+        "url": "https://github.com/zbirenbaum/copilot.lua",
+        "description": "Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "stars": 3339,
+        "fork": 122,
+        "currentPeriodStars": 172,
+        "builtBy": [
+            {
+                "href": "https://github.com/MunifTanjim",
+                "avatar": "https://avatars.githubusercontent.com/u/8050659?s=40&v=4",
+                "username": "MunifTanjim"
+            },
+            {
+                "href": "https://github.com/AntoineGS",
+                "avatar": "https://avatars.githubusercontent.com/u/16911399?s=40&v=4",
+                "username": "AntoineGS"
+            },
+            {
+                "href": "https://github.com/zbirenbaum",
+                "avatar": "https://avatars.githubusercontent.com/u/32016110?s=40&v=4",
+                "username": "zbirenbaum"
+            },
+            {
+                "href": "https://github.com/apps/github-actions",
+                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+                "username": "apps/github-actions"
+            },
+            {
+                "href": "https://github.com/MuntasirSZN",
+                "avatar": "https://avatars.githubusercontent.com/u/161931072?s=40&v=4",
+                "username": "MuntasirSZN"
             }
         ]
     },
@@ -236,46 +276,6 @@
                 "href": "https://github.com/apps/github-actions",
                 "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
                 "username": "apps/github-actions"
-            }
-        ]
-    },
-    {
-        "author": "LazyVim",
-        "name": "LazyVim",
-        "avatar": "https://github.com/LazyVim.png",
-        "sponsor": null,
-        "url": "https://github.com/LazyVim/LazyVim",
-        "description": "Neovim config for the lazy",
-        "language": "Lua",
-        "languageColor": "#000080",
-        "stars": 20271,
-        "fork": 1433,
-        "currentPeriodStars": 552,
-        "builtBy": [
-            {
-                "href": "https://github.com/folke",
-                "avatar": "https://avatars.githubusercontent.com/u/292349?s=40&v=4",
-                "username": "folke"
-            },
-            {
-                "href": "https://github.com/apps/github-actions",
-                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-                "username": "apps/github-actions"
-            },
-            {
-                "href": "https://github.com/dpetka2001",
-                "avatar": "https://avatars.githubusercontent.com/u/12776461?s=40&v=4",
-                "username": "dpetka2001"
-            },
-            {
-                "href": "https://github.com/amaanq",
-                "avatar": "https://avatars.githubusercontent.com/u/29718261?s=40&v=4",
-                "username": "amaanq"
-            },
-            {
-                "href": "https://github.com/rubiin",
-                "avatar": "https://avatars.githubusercontent.com/u/8222059?s=40&v=4",
-                "username": "rubiin"
             }
         ]
     },
@@ -360,22 +360,22 @@
         ]
     },
     {
-        "author": "CopilotC-Nvim",
-        "name": "CopilotChat.nvim",
-        "avatar": "https://github.com/CopilotC-Nvim.png",
+        "author": "LazyVim",
+        "name": "LazyVim",
+        "avatar": "https://github.com/LazyVim.png",
         "sponsor": null,
-        "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim",
-        "description": "Chat with GitHub Copilot in Neovim",
+        "url": "https://github.com/LazyVim/LazyVim",
+        "description": "Neovim config for the lazy",
         "language": "Lua",
         "languageColor": "#000080",
-        "stars": 2674,
-        "fork": 122,
-        "currentPeriodStars": 247,
+        "stars": 20273,
+        "fork": 1433,
+        "currentPeriodStars": 552,
         "builtBy": [
             {
-                "href": "https://github.com/deathbeam",
-                "avatar": "https://avatars.githubusercontent.com/u/5115805?s=40&v=4",
-                "username": "deathbeam"
+                "href": "https://github.com/folke",
+                "avatar": "https://avatars.githubusercontent.com/u/292349?s=40&v=4",
+                "username": "folke"
             },
             {
                 "href": "https://github.com/apps/github-actions",
@@ -383,99 +383,19 @@
                 "username": "apps/github-actions"
             },
             {
-                "href": "https://github.com/jellydn",
-                "avatar": "https://avatars.githubusercontent.com/u/870029?s=40&v=4",
-                "username": "jellydn"
+                "href": "https://github.com/dpetka2001",
+                "avatar": "https://avatars.githubusercontent.com/u/12776461?s=40&v=4",
+                "username": "dpetka2001"
             },
             {
-                "href": "https://github.com/apps/pre-commit-ci",
-                "avatar": "https://avatars.githubusercontent.com/in/68672?s=40&v=4",
-                "username": "apps/pre-commit-ci"
+                "href": "https://github.com/amaanq",
+                "avatar": "https://avatars.githubusercontent.com/u/29718261?s=40&v=4",
+                "username": "amaanq"
             },
             {
-                "href": "https://github.com/gptlang",
-                "avatar": "https://avatars.githubusercontent.com/u/121417512?s=40&v=4",
-                "username": "gptlang"
-            }
-        ]
-    },
-    {
-        "author": "mfussenegger",
-        "name": "nvim-lint",
-        "avatar": "https://github.com/mfussenegger.png",
-        "sponsor": "https://github.com/sponsors/mfussenegger",
-        "url": "https://github.com/mfussenegger/nvim-lint",
-        "description": "An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
-        "language": "Lua",
-        "languageColor": "#000080",
-        "stars": 2312,
-        "fork": 241,
-        "currentPeriodStars": 77,
-        "builtBy": [
-            {
-                "href": "https://github.com/mfussenegger",
-                "avatar": "https://avatars.githubusercontent.com/u/38700?s=40&v=4",
-                "username": "mfussenegger"
-            },
-            {
-                "href": "https://github.com/gpanders",
-                "avatar": "https://avatars.githubusercontent.com/u/8965202?s=40&v=4",
-                "username": "gpanders"
-            },
-            {
-                "href": "https://github.com/chrisgrieser",
-                "avatar": "https://avatars.githubusercontent.com/u/73286100?s=40&v=4",
-                "username": "chrisgrieser"
-            },
-            {
-                "href": "https://github.com/mflova",
-                "avatar": "https://avatars.githubusercontent.com/u/67102627?s=40&v=4",
-                "username": "mflova"
-            },
-            {
-                "href": "https://github.com/dhruvmanila",
-                "avatar": "https://avatars.githubusercontent.com/u/67177269?s=40&v=4",
-                "username": "dhruvmanila"
-            }
-        ]
-    },
-    {
-        "author": "zbirenbaum",
-        "name": "copilot.lua",
-        "avatar": "https://github.com/zbirenbaum.png",
-        "sponsor": null,
-        "url": "https://github.com/zbirenbaum/copilot.lua",
-        "description": "Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot",
-        "language": "Lua",
-        "languageColor": "#000080",
-        "stars": 3339,
-        "fork": 122,
-        "currentPeriodStars": 172,
-        "builtBy": [
-            {
-                "href": "https://github.com/MunifTanjim",
-                "avatar": "https://avatars.githubusercontent.com/u/8050659?s=40&v=4",
-                "username": "MunifTanjim"
-            },
-            {
-                "href": "https://github.com/AntoineGS",
-                "avatar": "https://avatars.githubusercontent.com/u/16911399?s=40&v=4",
-                "username": "AntoineGS"
-            },
-            {
-                "href": "https://github.com/zbirenbaum",
-                "avatar": "https://avatars.githubusercontent.com/u/32016110?s=40&v=4",
-                "username": "zbirenbaum"
-            },
-            {
-                "href": "https://github.com/apps/github-actions",
-                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-                "username": "apps/github-actions"
-            },
-            {
-                "href": "https://github.com/MuntasirSZN",
-                "avatar": "https://avatars.githubusercontent.com/u/161931072?s=40&v=4",
-                "username": "MuntasirSZN"
+                "href": "https://github.com/rubiin",
+                "avatar": "https://avatars.githubusercontent.com/u/8222059?s=40&v=4",
+                "username": "rubiin"
             }
         ]
     },
@@ -600,42 +520,82 @@
         ]
     },
     {
-        "author": "nvim-tree",
-        "name": "nvim-tree.lua",
-        "avatar": "https://github.com/nvim-tree.png",
-        "sponsor": null,
-        "url": "https://github.com/nvim-tree/nvim-tree.lua",
-        "description": "A file explorer tree for neovim written in lua",
+        "author": "mfussenegger",
+        "name": "nvim-lint",
+        "avatar": "https://github.com/mfussenegger.png",
+        "sponsor": "https://github.com/sponsors/mfussenegger",
+        "url": "https://github.com/mfussenegger/nvim-lint",
+        "description": "An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
         "language": "Lua",
         "languageColor": "#000080",
-        "stars": 7721,
-        "fork": 618,
-        "currentPeriodStars": 128,
+        "stars": 2312,
+        "fork": 241,
+        "currentPeriodStars": 77,
         "builtBy": [
             {
-                "href": "https://github.com/kyazdani42",
-                "avatar": "https://avatars.githubusercontent.com/u/23156099?s=40&v=4",
-                "username": "kyazdani42"
+                "href": "https://github.com/mfussenegger",
+                "avatar": "https://avatars.githubusercontent.com/u/38700?s=40&v=4",
+                "username": "mfussenegger"
             },
             {
-                "href": "https://github.com/alex-courtis",
-                "avatar": "https://avatars.githubusercontent.com/u/1505378?s=40&v=4",
-                "username": "alex-courtis"
+                "href": "https://github.com/gpanders",
+                "avatar": "https://avatars.githubusercontent.com/u/8965202?s=40&v=4",
+                "username": "gpanders"
             },
             {
-                "href": "https://github.com/Akmadan23",
-                "avatar": "https://avatars.githubusercontent.com/u/49314270?s=40&v=4",
-                "username": "Akmadan23"
+                "href": "https://github.com/chrisgrieser",
+                "avatar": "https://avatars.githubusercontent.com/u/73286100?s=40&v=4",
+                "username": "chrisgrieser"
             },
             {
-                "href": "https://github.com/sindrets",
-                "avatar": "https://avatars.githubusercontent.com/u/2786478?s=40&v=4",
-                "username": "sindrets"
+                "href": "https://github.com/mflova",
+                "avatar": "https://avatars.githubusercontent.com/u/67102627?s=40&v=4",
+                "username": "mflova"
             },
             {
-                "href": "https://github.com/gegoune",
-                "avatar": "https://avatars.githubusercontent.com/u/69750637?s=40&v=4",
-                "username": "gegoune"
+                "href": "https://github.com/dhruvmanila",
+                "avatar": "https://avatars.githubusercontent.com/u/67177269?s=40&v=4",
+                "username": "dhruvmanila"
+            }
+        ]
+    },
+    {
+        "author": "CopilotC-Nvim",
+        "name": "CopilotChat.nvim",
+        "avatar": "https://github.com/CopilotC-Nvim.png",
+        "sponsor": null,
+        "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim",
+        "description": "Chat with GitHub Copilot in Neovim",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "stars": 2675,
+        "fork": 122,
+        "currentPeriodStars": 247,
+        "builtBy": [
+            {
+                "href": "https://github.com/deathbeam",
+                "avatar": "https://avatars.githubusercontent.com/u/5115805?s=40&v=4",
+                "username": "deathbeam"
+            },
+            {
+                "href": "https://github.com/apps/github-actions",
+                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+                "username": "apps/github-actions"
+            },
+            {
+                "href": "https://github.com/jellydn",
+                "avatar": "https://avatars.githubusercontent.com/u/870029?s=40&v=4",
+                "username": "jellydn"
+            },
+            {
+                "href": "https://github.com/apps/pre-commit-ci",
+                "avatar": "https://avatars.githubusercontent.com/in/68672?s=40&v=4",
+                "username": "apps/pre-commit-ci"
+            },
+            {
+                "href": "https://github.com/gptlang",
+                "avatar": "https://avatars.githubusercontent.com/u/121417512?s=40&v=4",
+                "username": "gptlang"
             }
         ]
     },
@@ -720,6 +680,46 @@
         ]
     },
     {
+        "author": "nvim-tree",
+        "name": "nvim-tree.lua",
+        "avatar": "https://github.com/nvim-tree.png",
+        "sponsor": null,
+        "url": "https://github.com/nvim-tree/nvim-tree.lua",
+        "description": "A file explorer tree for neovim written in lua",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "stars": 7721,
+        "fork": 618,
+        "currentPeriodStars": 128,
+        "builtBy": [
+            {
+                "href": "https://github.com/kyazdani42",
+                "avatar": "https://avatars.githubusercontent.com/u/23156099?s=40&v=4",
+                "username": "kyazdani42"
+            },
+            {
+                "href": "https://github.com/alex-courtis",
+                "avatar": "https://avatars.githubusercontent.com/u/1505378?s=40&v=4",
+                "username": "alex-courtis"
+            },
+            {
+                "href": "https://github.com/Akmadan23",
+                "avatar": "https://avatars.githubusercontent.com/u/49314270?s=40&v=4",
+                "username": "Akmadan23"
+            },
+            {
+                "href": "https://github.com/sindrets",
+                "avatar": "https://avatars.githubusercontent.com/u/2786478?s=40&v=4",
+                "username": "sindrets"
+            },
+            {
+                "href": "https://github.com/gegoune",
+                "avatar": "https://avatars.githubusercontent.com/u/69750637?s=40&v=4",
+                "username": "gegoune"
+            }
+        ]
+    },
+    {
         "author": "folke",
         "name": "lazy.nvim",
         "avatar": "https://github.com/folke.png",
@@ -760,42 +760,42 @@
         ]
     },
     {
-        "author": "mfussenegger",
-        "name": "nvim-dap",
-        "avatar": "https://github.com/mfussenegger.png",
-        "sponsor": "https://github.com/sponsors/mfussenegger",
-        "url": "https://github.com/mfussenegger/nvim-dap",
-        "description": "Debug Adapter Protocol client implementation for Neovim",
+        "author": "nvimtools",
+        "name": "none-ls.nvim",
+        "avatar": "https://github.com/nvimtools.png",
+        "sponsor": null,
+        "url": "https://github.com/nvimtools/none-ls.nvim",
+        "description": "null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",
         "language": "Lua",
         "languageColor": "#000080",
-        "stars": 6223,
-        "fork": 230,
-        "currentPeriodStars": 133,
+        "stars": 2915,
+        "fork": 100,
+        "currentPeriodStars": 68,
         "builtBy": [
             {
-                "href": "https://github.com/mfussenegger",
-                "avatar": "https://avatars.githubusercontent.com/u/38700?s=40&v=4",
-                "username": "mfussenegger"
+                "href": "https://github.com/jose-elias-alvarez",
+                "avatar": "https://avatars.githubusercontent.com/u/54108223?s=40&v=4",
+                "username": "jose-elias-alvarez"
             },
             {
-                "href": "https://github.com/theHamsta",
-                "avatar": "https://avatars.githubusercontent.com/u/7189118?s=40&v=4",
-                "username": "theHamsta"
+                "href": "https://github.com/mochaaP",
+                "avatar": "https://avatars.githubusercontent.com/u/21154023?s=40&v=4",
+                "username": "mochaaP"
             },
             {
-                "href": "https://github.com/rcarriga",
-                "avatar": "https://avatars.githubusercontent.com/u/24252670?s=40&v=4",
-                "username": "rcarriga"
+                "href": "https://github.com/folke",
+                "avatar": "https://avatars.githubusercontent.com/u/292349?s=40&v=4",
+                "username": "folke"
             },
             {
-                "href": "https://github.com/igorlfs",
-                "avatar": "https://avatars.githubusercontent.com/u/84649544?s=40&v=4",
-                "username": "igorlfs"
+                "href": "https://github.com/Tastyep",
+                "avatar": "https://avatars.githubusercontent.com/u/3267228?s=40&v=4",
+                "username": "Tastyep"
             },
             {
-                "href": "https://github.com/andmis",
-                "avatar": "https://avatars.githubusercontent.com/u/5308024?s=40&v=4",
-                "username": "andmis"
+                "href": "https://github.com/abzcoding",
+                "avatar": "https://avatars.githubusercontent.com/u/10992695?s=40&v=4",
+                "username": "abzcoding"
             }
         ]
     }
