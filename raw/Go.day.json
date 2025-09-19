@@ -1,21 +1,61 @@
 [
     {
-        "author": "influxdata",
-        "name": "telegraf",
-        "avatar": "https://github.com/influxdata.png",
+        "author": "containers",
+        "name": "skopeo",
+        "avatar": "https://github.com/containers.png",
         "sponsor": null,
-        "url": "https://github.com/influxdata/telegraf",
-        "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+        "url": "https://github.com/containers/skopeo",
+        "description": "Work with remote images registries - retrieving information, images, signing content",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 16260,
-        "fork": 5716,
-        "currentPeriodStars": 24,
+        "stars": 9756,
+        "fork": 860,
+        "currentPeriodStars": 12,
         "builtBy": [
             {
-                "href": "https://github.com/danielnelson",
-                "avatar": "https://avatars.githubusercontent.com/u/1048079?s=40&v=4",
-                "username": "danielnelson"
+                "href": "https://github.com/mtrmac",
+                "avatar": "https://avatars.githubusercontent.com/u/7052838?s=40&v=4",
+                "username": "mtrmac"
+            },
+            {
+                "href": "https://github.com/rhatdan",
+                "avatar": "https://avatars.githubusercontent.com/u/2000835?s=40&v=4",
+                "username": "rhatdan"
+            },
+            {
+                "href": "https://github.com/runcom",
+                "avatar": "https://avatars.githubusercontent.com/u/849915?s=40&v=4",
+                "username": "runcom"
+            },
+            {
+                "href": "https://github.com/apps/renovate",
+                "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
+                "username": "apps/renovate"
+            },
+            {
+                "href": "https://github.com/apps/dependabot-preview",
+                "avatar": "https://avatars.githubusercontent.com/in/2141?s=40&v=4",
+                "username": "apps/dependabot-preview"
+            }
+        ]
+    },
+    {
+        "author": "argoproj",
+        "name": "argo-rollouts",
+        "avatar": "https://github.com/argoproj.png",
+        "sponsor": null,
+        "url": "https://github.com/argoproj/argo-rollouts",
+        "description": "Progressive Delivery for Kubernetes",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 3236,
+        "fork": 1026,
+        "currentPeriodStars": 5,
+        "builtBy": [
+            {
+                "href": "https://github.com/zachaller",
+                "avatar": "https://avatars.githubusercontent.com/u/201390?s=40&v=4",
+                "username": "zachaller"
             },
             {
                 "href": "https://github.com/apps/dependabot",
@@ -23,19 +63,19 @@
                 "username": "apps/dependabot"
             },
             {
-                "href": "https://github.com/sparrc",
-                "avatar": "https://avatars.githubusercontent.com/u/7155926?s=40&v=4",
-                "username": "sparrc"
+                "href": "https://github.com/jessesuen",
+                "avatar": "https://avatars.githubusercontent.com/u/12677113?s=40&v=4",
+                "username": "jessesuen"
             },
             {
-                "href": "https://github.com/powersj",
-                "avatar": "https://avatars.githubusercontent.com/u/6453401?s=40&v=4",
-                "username": "powersj"
+                "href": "https://github.com/dthomson25",
+                "avatar": "https://avatars.githubusercontent.com/u/8616845?s=40&v=4",
+                "username": "dthomson25"
             },
             {
-                "href": "https://github.com/srebhan",
-                "avatar": "https://avatars.githubusercontent.com/u/36194019?s=40&v=4",
-                "username": "srebhan"
+                "href": "https://github.com/khhirani",
+                "avatar": "https://avatars.githubusercontent.com/u/16888243?s=40&v=4",
+                "username": "khhirani"
             }
         ]
     },
@@ -80,46 +120,6 @@
         ]
     },
     {
-        "author": "go-task",
-        "name": "task",
-        "avatar": "https://github.com/go-task.png",
-        "sponsor": null,
-        "url": "https://github.com/go-task/task",
-        "description": "A task runner / simpler Make alternative written in Go",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 13656,
-        "fork": 730,
-        "currentPeriodStars": 31,
-        "builtBy": [
-            {
-                "href": "https://github.com/andreynering",
-                "avatar": "https://avatars.githubusercontent.com/u/7011819?s=40&v=4",
-                "username": "andreynering"
-            },
-            {
-                "href": "https://github.com/pd93",
-                "avatar": "https://avatars.githubusercontent.com/u/9294862?s=40&v=4",
-                "username": "pd93"
-            },
-            {
-                "href": "https://github.com/task-bot",
-                "avatar": "https://avatars.githubusercontent.com/u/106601941?s=40&v=4",
-                "username": "task-bot"
-            },
-            {
-                "href": "https://github.com/jaedle",
-                "avatar": "https://avatars.githubusercontent.com/u/32975714?s=40&v=4",
-                "username": "jaedle"
-            },
-            {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
-            }
-        ]
-    },
-    {
         "author": "helm",
         "name": "helm",
         "avatar": "https://github.com/helm.png",
@@ -128,7 +128,7 @@
         "description": "The Kubernetes Package Manager",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 28483,
+        "stars": 28482,
         "fork": 7329,
         "currentPeriodStars": 7,
         "builtBy": [
@@ -156,526 +156,6 @@
                 "href": "https://github.com/thomastaylor312",
                 "avatar": "https://avatars.githubusercontent.com/u/4294228?s=40&v=4",
                 "username": "thomastaylor312"
-            }
-        ]
-    },
-    {
-        "author": "trufflesecurity",
-        "name": "trufflehog",
-        "avatar": "https://github.com/trufflesecurity.png",
-        "sponsor": null,
-        "url": "https://github.com/trufflesecurity/trufflehog",
-        "description": "Find, verify, and analyze leaked credentials",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 22171,
-        "fork": 2052,
-        "currentPeriodStars": 150,
-        "builtBy": [
-            {
-                "href": "https://github.com/apps/renovate",
-                "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
-                "username": "apps/renovate"
-            },
-            {
-                "href": "https://github.com/lonmarsDev",
-                "avatar": "https://avatars.githubusercontent.com/u/28698778?s=40&v=4",
-                "username": "lonmarsDev"
-            },
-            {
-                "href": "https://github.com/roxanne-tampus",
-                "avatar": "https://avatars.githubusercontent.com/u/51393035?s=40&v=4",
-                "username": "roxanne-tampus"
-            },
-            {
-                "href": "https://github.com/ahrav",
-                "avatar": "https://avatars.githubusercontent.com/u/21311841?s=40&v=4",
-                "username": "ahrav"
-            },
-            {
-                "href": "https://github.com/dustin-decker",
-                "avatar": "https://avatars.githubusercontent.com/u/6031416?s=40&v=4",
-                "username": "dustin-decker"
-            }
-        ]
-    },
-    {
-        "author": "hashicorp",
-        "name": "terraform",
-        "avatar": "https://github.com/hashicorp.png",
-        "sponsor": null,
-        "url": "https://github.com/hashicorp/terraform",
-        "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 46586,
-        "fork": 10022,
-        "currentPeriodStars": 9,
-        "builtBy": [
-            {
-                "href": "https://github.com/jbardin",
-                "avatar": "https://avatars.githubusercontent.com/u/35067?s=40&v=4",
-                "username": "jbardin"
-            },
-            {
-                "href": "https://github.com/mitchellh",
-                "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&v=4",
-                "username": "mitchellh"
-            },
-            {
-                "href": "https://github.com/apparentlymart",
-                "avatar": "https://avatars.githubusercontent.com/u/20180?s=40&v=4",
-                "username": "apparentlymart"
-            },
-            {
-                "href": "https://github.com/stack72",
-                "avatar": "https://avatars.githubusercontent.com/u/227823?s=40&v=4",
-                "username": "stack72"
-            },
-            {
-                "href": "https://github.com/catsby",
-                "avatar": "https://avatars.githubusercontent.com/u/61721?s=40&v=4",
-                "username": "catsby"
-            }
-        ]
-    },
-    {
-        "author": "cert-manager",
-        "name": "cert-manager",
-        "avatar": "https://github.com/cert-manager.png",
-        "sponsor": null,
-        "url": "https://github.com/cert-manager/cert-manager",
-        "description": "Automatically provision and manage TLS certificates in Kubernetes",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 13152,
-        "fork": 2246,
-        "currentPeriodStars": 7,
-        "builtBy": [
-            {
-                "href": "https://github.com/jetstack-bot",
-                "avatar": "https://avatars.githubusercontent.com/u/32282838?s=40&v=4",
-                "username": "jetstack-bot"
-            },
-            {
-                "href": "https://github.com/munnerz",
-                "avatar": "https://avatars.githubusercontent.com/u/203583?s=40&v=4",
-                "username": "munnerz"
-            },
-            {
-                "href": "https://github.com/JoshVanL",
-                "avatar": "https://avatars.githubusercontent.com/u/15893072?s=40&v=4",
-                "username": "JoshVanL"
-            },
-            {
-                "href": "https://github.com/inteon",
-                "avatar": "https://avatars.githubusercontent.com/u/42113979?s=40&v=4",
-                "username": "inteon"
-            },
-            {
-                "href": "https://github.com/apps/cert-manager-prow",
-                "avatar": "https://avatars.githubusercontent.com/in/877404?s=40&v=4",
-                "username": "apps/cert-manager-prow"
-            }
-        ]
-    },
-    {
-        "author": "hashicorp",
-        "name": "terraform-provider-azurerm",
-        "avatar": "https://github.com/hashicorp.png",
-        "sponsor": null,
-        "url": "https://github.com/hashicorp/terraform-provider-azurerm",
-        "description": "Terraform provider for Azure Resource Manager",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 4816,
-        "fork": 4866,
-        "currentPeriodStars": 0,
-        "builtBy": [
-            {
-                "href": "https://github.com/tombuildsstuff",
-                "avatar": "https://avatars.githubusercontent.com/u/666005?s=40&v=4",
-                "username": "tombuildsstuff"
-            },
-            {
-                "href": "https://github.com/katbyte",
-                "avatar": "https://avatars.githubusercontent.com/u/1638467?s=40&v=4",
-                "username": "katbyte"
-            },
-            {
-                "href": "https://github.com/mbfrahry",
-                "avatar": "https://avatars.githubusercontent.com/u/6515518?s=40&v=4",
-                "username": "mbfrahry"
-            },
-            {
-                "href": "https://github.com/jackofallops",
-                "avatar": "https://avatars.githubusercontent.com/u/11830746?s=40&v=4",
-                "username": "jackofallops"
-            },
-            {
-                "href": "https://github.com/stephybun",
-                "avatar": "https://avatars.githubusercontent.com/u/25562180?s=40&v=4",
-                "username": "stephybun"
-            }
-        ]
-    },
-    {
-        "author": "coreybutler",
-        "name": "nvm-windows",
-        "avatar": "https://github.com/coreybutler.png",
-        "sponsor": "https://github.com/sponsors/coreybutler",
-        "url": "https://github.com/coreybutler/nvm-windows",
-        "description": "A node.js version management utility for Windows. Ironically written in Go.",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 42869,
-        "fork": 3614,
-        "currentPeriodStars": 15,
-        "builtBy": [
-            {
-                "href": "https://github.com/coreybutler",
-                "avatar": "https://avatars.githubusercontent.com/u/770982?s=40&v=4",
-                "username": "coreybutler"
-            },
-            {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
-            },
-            {
-                "href": "https://github.com/wsobolewski",
-                "avatar": "https://avatars.githubusercontent.com/u/8691776?s=40&v=4",
-                "username": "wsobolewski"
-            },
-            {
-                "href": "https://github.com/rahulroy9202",
-                "avatar": "https://avatars.githubusercontent.com/u/3462467?s=40&v=4",
-                "username": "rahulroy9202"
-            },
-            {
-                "href": "https://github.com/Excited-ccccly",
-                "avatar": "https://avatars.githubusercontent.com/u/5396750?s=40&v=4",
-                "username": "Excited-ccccly"
-            }
-        ]
-    },
-    {
-        "author": "ArvinLovegood",
-        "name": "go-stock",
-        "avatar": "https://github.com/ArvinLovegood.png",
-        "sponsor": null,
-        "url": "https://github.com/ArvinLovegood/go-stock",
-        "description": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 2597,
-        "fork": 429,
-        "currentPeriodStars": 9,
-        "builtBy": [
-            {
-                "href": "https://github.com/ArvinLovegood",
-                "avatar": "https://avatars.githubusercontent.com/u/7401917?s=40&v=4",
-                "username": "ArvinLovegood"
-            },
-            {
-                "href": "https://github.com/CodeNoobLH",
-                "avatar": "https://avatars.githubusercontent.com/u/49932926?s=40&v=4",
-                "username": "CodeNoobLH"
-            },
-            {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
-            },
-            {
-                "href": "https://github.com/GiCo001",
-                "avatar": "https://avatars.githubusercontent.com/u/13131107?s=40&v=4",
-                "username": "GiCo001"
-            },
-            {
-                "href": "https://github.com/apps/github-advanced-security",
-                "avatar": "https://avatars.githubusercontent.com/in/57789?s=40&v=4",
-                "username": "apps/github-advanced-security"
-            }
-        ]
-    },
-    {
-        "author": "kgateway-dev",
-        "name": "kgateway",
-        "avatar": "https://github.com/kgateway-dev.png",
-        "sponsor": null,
-        "url": "https://github.com/kgateway-dev/kgateway",
-        "description": "The Cloud-Native API Gateway and AI Gateway",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 4850,
-        "fork": 573,
-        "currentPeriodStars": 10,
-        "builtBy": [
-            {
-                "href": "https://github.com/apps/soloio-bulldozer",
-                "avatar": "https://avatars.githubusercontent.com/in/26741?s=40&v=4",
-                "username": "apps/soloio-bulldozer"
-            },
-            {
-                "href": "https://github.com/jenshu",
-                "avatar": "https://avatars.githubusercontent.com/u/28537278?s=40&v=4",
-                "username": "jenshu"
-            },
-            {
-                "href": "https://github.com/kdorosh",
-                "avatar": "https://avatars.githubusercontent.com/u/11008283?s=40&v=4",
-                "username": "kdorosh"
-            },
-            {
-                "href": "https://github.com/sam-heilbron",
-                "avatar": "https://avatars.githubusercontent.com/u/5279627?s=40&v=4",
-                "username": "sam-heilbron"
-            },
-            {
-                "href": "https://github.com/yuval-k",
-                "avatar": "https://avatars.githubusercontent.com/u/325621?s=40&v=4",
-                "username": "yuval-k"
-            }
-        ]
-    },
-    {
-        "author": "charmbracelet",
-        "name": "crush",
-        "avatar": "https://github.com/charmbracelet.png",
-        "sponsor": null,
-        "url": "https://github.com/charmbracelet/crush",
-        "description": "The glamourous AI coding agent for your favourite terminal 💘",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 12885,
-        "fork": 652,
-        "currentPeriodStars": 78,
-        "builtBy": [
-            {
-                "href": "https://github.com/kujtimiihoxha",
-                "avatar": "https://avatars.githubusercontent.com/u/14311743?s=40&v=4",
-                "username": "kujtimiihoxha"
-            },
-            {
-                "href": "https://github.com/andreynering",
-                "avatar": "https://avatars.githubusercontent.com/u/7011819?s=40&v=4",
-                "username": "andreynering"
-            },
-            {
-                "href": "https://github.com/caarlos0",
-                "avatar": "https://avatars.githubusercontent.com/u/245435?s=40&v=4",
-                "username": "caarlos0"
-            },
-            {
-                "href": "https://github.com/meowgorithm",
-                "avatar": "https://avatars.githubusercontent.com/u/25087?s=40&v=4",
-                "username": "meowgorithm"
-            },
-            {
-                "href": "https://github.com/aymanbagabas",
-                "avatar": "https://avatars.githubusercontent.com/u/3187948?s=40&v=4",
-                "username": "aymanbagabas"
-            }
-        ]
-    },
-    {
-        "author": "modelcontextprotocol",
-        "name": "go-sdk",
-        "avatar": "https://github.com/modelcontextprotocol.png",
-        "sponsor": null,
-        "url": "https://github.com/modelcontextprotocol/go-sdk",
-        "description": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 2116,
-        "fork": 182,
-        "currentPeriodStars": 12,
-        "builtBy": [
-            {
-                "href": "https://github.com/jba",
-                "avatar": "https://avatars.githubusercontent.com/u/18483045?s=40&v=4",
-                "username": "jba"
-            },
-            {
-                "href": "https://github.com/findleyr",
-                "avatar": "https://avatars.githubusercontent.com/u/57144380?s=40&v=4",
-                "username": "findleyr"
-            },
-            {
-                "href": "https://github.com/samthanawalla",
-                "avatar": "https://avatars.githubusercontent.com/u/17936816?s=40&v=4",
-                "username": "samthanawalla"
-            },
-            {
-                "href": "https://github.com/cryo-zd",
-                "avatar": "https://avatars.githubusercontent.com/u/129663775?s=40&v=4",
-                "username": "cryo-zd"
-            },
-            {
-                "href": "https://github.com/rwjblue-glean",
-                "avatar": "https://avatars.githubusercontent.com/u/205674904?s=40&v=4",
-                "username": "rwjblue-glean"
-            }
-        ]
-    },
-    {
-        "author": "jackc",
-        "name": "pgx",
-        "avatar": "https://github.com/jackc.png",
-        "sponsor": null,
-        "url": "https://github.com/jackc/pgx",
-        "description": "PostgreSQL driver and toolkit for Go",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 12490,
-        "fork": 944,
-        "currentPeriodStars": 14,
-        "builtBy": [
-            {
-                "href": "https://github.com/jackc",
-                "avatar": "https://avatars.githubusercontent.com/u/94130?s=40&v=4",
-                "username": "jackc"
-            },
-            {
-                "href": "https://github.com/manniwood",
-                "avatar": "https://avatars.githubusercontent.com/u/91690?s=40&v=4",
-                "username": "manniwood"
-            },
-            {
-                "href": "https://github.com/furdarius",
-                "avatar": "https://avatars.githubusercontent.com/u/2843971?s=40&v=4",
-                "username": "furdarius"
-            },
-            {
-                "href": "https://github.com/drakkan",
-                "avatar": "https://avatars.githubusercontent.com/u/553263?s=40&v=4",
-                "username": "drakkan"
-            },
-            {
-                "href": "https://github.com/redbaron",
-                "avatar": "https://avatars.githubusercontent.com/u/16624?s=40&v=4",
-                "username": "redbaron"
-            }
-        ]
-    },
-    {
-        "author": "jesseduffield",
-        "name": "lazydocker",
-        "avatar": "https://github.com/jesseduffield.png",
-        "sponsor": "https://github.com/sponsors/jesseduffield",
-        "url": "https://github.com/jesseduffield/lazydocker",
-        "description": "The lazier way to manage everything docker",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 46252,
-        "fork": 1453,
-        "currentPeriodStars": 26,
-        "builtBy": [
-            {
-                "href": "https://github.com/jesseduffield",
-                "avatar": "https://avatars.githubusercontent.com/u/8456633?s=40&v=4",
-                "username": "jesseduffield"
-            },
-            {
-                "href": "https://github.com/dawidd6",
-                "avatar": "https://avatars.githubusercontent.com/u/9713907?s=40&v=4",
-                "username": "dawidd6"
-            },
-            {
-                "href": "https://github.com/mjarkk",
-                "avatar": "https://avatars.githubusercontent.com/u/15320763?s=40&v=4",
-                "username": "mjarkk"
-            },
-            {
-                "href": "https://github.com/qdm12",
-                "avatar": "https://avatars.githubusercontent.com/u/15654980?s=40&v=4",
-                "username": "qdm12"
-            },
-            {
-                "href": "https://github.com/thaJeztah",
-                "avatar": "https://avatars.githubusercontent.com/u/1804568?s=40&v=4",
-                "username": "thaJeztah"
-            }
-        ]
-    },
-    {
-        "author": "opentofu",
-        "name": "opentofu",
-        "avatar": "https://github.com/opentofu.png",
-        "sponsor": null,
-        "url": "https://github.com/opentofu/opentofu",
-        "description": "OpenTofu lets you declaratively manage your cloud infrastructure.",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 26546,
-        "fork": 1088,
-        "currentPeriodStars": 10,
-        "builtBy": [
-            {
-                "href": "https://github.com/cam72cam",
-                "avatar": "https://avatars.githubusercontent.com/u/892136?s=40&v=4",
-                "username": "cam72cam"
-            },
-            {
-                "href": "https://github.com/apparentlymart",
-                "avatar": "https://avatars.githubusercontent.com/u/20180?s=40&v=4",
-                "username": "apparentlymart"
-            },
-            {
-                "href": "https://github.com/RLRabinowitz",
-                "avatar": "https://avatars.githubusercontent.com/u/30493345?s=40&v=4",
-                "username": "RLRabinowitz"
-            },
-            {
-                "href": "https://github.com/cube2222",
-                "avatar": "https://avatars.githubusercontent.com/u/7013055?s=40&v=4",
-                "username": "cube2222"
-            },
-            {
-                "href": "https://github.com/Yantrio",
-                "avatar": "https://avatars.githubusercontent.com/u/237469?s=40&v=4",
-                "username": "Yantrio"
-            }
-        ]
-    },
-    {
-        "author": "prometheus",
-        "name": "prometheus",
-        "avatar": "https://github.com/prometheus.png",
-        "sponsor": null,
-        "url": "https://github.com/prometheus/prometheus",
-        "description": "The Prometheus monitoring system and time series database.",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 60431,
-        "fork": 9792,
-        "currentPeriodStars": 23,
-        "builtBy": [
-            {
-                "href": "https://github.com/fabxc",
-                "avatar": "https://avatars.githubusercontent.com/u/4948210?s=40&v=4",
-                "username": "fabxc"
-            },
-            {
-                "href": "https://github.com/juliusv",
-                "avatar": "https://avatars.githubusercontent.com/u/538008?s=40&v=4",
-                "username": "juliusv"
-            },
-            {
-                "href": "https://github.com/beorn7",
-                "avatar": "https://avatars.githubusercontent.com/u/5609886?s=40&v=4",
-                "username": "beorn7"
-            },
-            {
-                "href": "https://github.com/bboreham",
-                "avatar": "https://avatars.githubusercontent.com/u/8125524?s=40&v=4",
-                "username": "bboreham"
-            },
-            {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
             }
         ]
     },
@@ -720,202 +200,122 @@
         ]
     },
     {
-        "author": "alibaba",
-        "name": "higress",
-        "avatar": "https://github.com/alibaba.png",
+        "author": "cert-manager",
+        "name": "cert-manager",
+        "avatar": "https://github.com/cert-manager.png",
         "sponsor": null,
-        "url": "https://github.com/alibaba/higress",
-        "description": "🤖 AI Gateway | AI Native API Gateway",
+        "url": "https://github.com/cert-manager/cert-manager",
+        "description": "Automatically provision and manage TLS certificates in Kubernetes",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 6416,
-        "fork": 826,
+        "stars": 13152,
+        "fork": 2246,
         "currentPeriodStars": 7,
         "builtBy": [
             {
-                "href": "https://github.com/johnlanni",
-                "avatar": "https://avatars.githubusercontent.com/u/6763318?s=40&v=4",
-                "username": "johnlanni"
+                "href": "https://github.com/jetstack-bot",
+                "avatar": "https://avatars.githubusercontent.com/u/32282838?s=40&v=4",
+                "username": "jetstack-bot"
             },
             {
-                "href": "https://github.com/CH3CHO",
-                "avatar": "https://avatars.githubusercontent.com/u/2909796?s=40&v=4",
-                "username": "CH3CHO"
+                "href": "https://github.com/munnerz",
+                "avatar": "https://avatars.githubusercontent.com/u/203583?s=40&v=4",
+                "username": "munnerz"
             },
             {
-                "href": "https://github.com/rinfx",
-                "avatar": "https://avatars.githubusercontent.com/u/25995563?s=40&v=4",
-                "username": "rinfx"
+                "href": "https://github.com/JoshVanL",
+                "avatar": "https://avatars.githubusercontent.com/u/15893072?s=40&v=4",
+                "username": "JoshVanL"
             },
             {
-                "href": "https://github.com/Xunzhuo",
-                "avatar": "https://avatars.githubusercontent.com/u/48784001?s=40&v=4",
-                "username": "Xunzhuo"
+                "href": "https://github.com/inteon",
+                "avatar": "https://avatars.githubusercontent.com/u/42113979?s=40&v=4",
+                "username": "inteon"
             },
             {
-                "href": "https://github.com/hanxiantao",
-                "avatar": "https://avatars.githubusercontent.com/u/45159482?s=40&v=4",
-                "username": "hanxiantao"
+                "href": "https://github.com/apps/cert-manager-prow",
+                "avatar": "https://avatars.githubusercontent.com/in/877404?s=40&v=4",
+                "username": "apps/cert-manager-prow"
             }
         ]
     },
     {
-        "author": "fluxcd",
-        "name": "flux2",
-        "avatar": "https://github.com/fluxcd.png",
+        "author": "GoogleCloudPlatform",
+        "name": "kubectl-ai",
+        "avatar": "https://github.com/GoogleCloudPlatform.png",
         "sponsor": null,
-        "url": "https://github.com/fluxcd/flux2",
-        "description": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.",
+        "url": "https://github.com/GoogleCloudPlatform/kubectl-ai",
+        "description": "AI powered Kubernetes Assistant",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 7422,
-        "fork": 678,
-        "currentPeriodStars": 5,
+        "stars": 6817,
+        "fork": 607,
+        "currentPeriodStars": 11,
         "builtBy": [
             {
-                "href": "https://github.com/stefanprodan",
-                "avatar": "https://avatars.githubusercontent.com/u/3797675?s=40&v=4",
-                "username": "stefanprodan"
+                "href": "https://github.com/justinsb",
+                "avatar": "https://avatars.githubusercontent.com/u/100893?s=40&v=4",
+                "username": "justinsb"
             },
             {
-                "href": "https://github.com/hiddeco",
-                "avatar": "https://avatars.githubusercontent.com/u/10063039?s=40&v=4",
-                "username": "hiddeco"
+                "href": "https://github.com/droot",
+                "avatar": "https://avatars.githubusercontent.com/u/172029?s=40&v=4",
+                "username": "droot"
             },
             {
-                "href": "https://github.com/fluxcdbot",
-                "avatar": "https://avatars.githubusercontent.com/u/53427796?s=40&v=4",
-                "username": "fluxcdbot"
+                "href": "https://github.com/noahlwest",
+                "avatar": "https://avatars.githubusercontent.com/u/73133173?s=40&v=4",
+                "username": "noahlwest"
             },
             {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
+                "href": "https://github.com/ShubyM",
+                "avatar": "https://avatars.githubusercontent.com/u/30248854?s=40&v=4",
+                "username": "ShubyM"
             },
             {
-                "href": "https://github.com/somtochiama",
-                "avatar": "https://avatars.githubusercontent.com/u/34774756?s=40&v=4",
-                "username": "somtochiama"
+                "href": "https://github.com/janetkuo",
+                "avatar": "https://avatars.githubusercontent.com/u/4876867?s=40&v=4",
+                "username": "janetkuo"
             }
         ]
     },
     {
-        "author": "kubernetes-sigs",
-        "name": "gateway-api",
-        "avatar": "https://github.com/kubernetes-sigs.png",
+        "author": "open-telemetry",
+        "name": "opentelemetry-collector",
+        "avatar": "https://github.com/open-telemetry.png",
         "sponsor": null,
-        "url": "https://github.com/kubernetes-sigs/gateway-api",
-        "description": "Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.",
+        "url": "https://github.com/open-telemetry/opentelemetry-collector",
+        "description": "OpenTelemetry Collector",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 2270,
-        "fork": 595,
+        "stars": 5792,
+        "fork": 1730,
         "currentPeriodStars": 3,
         "builtBy": [
             {
-                "href": "https://github.com/k8s-ci-robot",
-                "avatar": "https://avatars.githubusercontent.com/u/20407524?s=40&v=4",
-                "username": "k8s-ci-robot"
+                "href": "https://github.com/bogdandrutu",
+                "avatar": "https://avatars.githubusercontent.com/u/1373887?s=40&v=4",
+                "username": "bogdandrutu"
             },
             {
-                "href": "https://github.com/robscott",
-                "avatar": "https://avatars.githubusercontent.com/u/419322?s=40&v=4",
-                "username": "robscott"
+                "href": "https://github.com/apps/renovate",
+                "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
+                "username": "apps/renovate"
             },
             {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
+                "href": "https://github.com/dmitryax",
+                "avatar": "https://avatars.githubusercontent.com/u/6628631?s=40&v=4",
+                "username": "dmitryax"
             },
             {
-                "href": "https://github.com/shaneutt",
-                "avatar": "https://avatars.githubusercontent.com/u/5332524?s=40&v=4",
-                "username": "shaneutt"
+                "href": "https://github.com/mx-psi",
+                "avatar": "https://avatars.githubusercontent.com/u/5502710?s=40&v=4",
+                "username": "mx-psi"
             },
             {
-                "href": "https://github.com/hbagdi",
-                "avatar": "https://avatars.githubusercontent.com/u/4694585?s=40&v=4",
-                "username": "hbagdi"
-            }
-        ]
-    },
-    {
-        "author": "gitleaks",
-        "name": "gitleaks",
-        "avatar": "https://github.com/gitleaks.png",
-        "sponsor": null,
-        "url": "https://github.com/gitleaks/gitleaks",
-        "description": "Find secrets with Gitleaks 🔑",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 23274,
-        "fork": 1778,
-        "currentPeriodStars": 14,
-        "builtBy": [
-            {
-                "href": "https://github.com/zricethezav",
-                "avatar": "https://avatars.githubusercontent.com/u/15034943?s=40&v=4",
-                "username": "zricethezav"
-            },
-            {
-                "href": "https://github.com/rgmz",
-                "avatar": "https://avatars.githubusercontent.com/u/32133502?s=40&v=4",
-                "username": "rgmz"
-            },
-            {
-                "href": "https://github.com/w0rmr1d3r",
-                "avatar": "https://avatars.githubusercontent.com/u/20722014?s=40&v=4",
-                "username": "w0rmr1d3r"
-            },
-            {
-                "href": "https://github.com/petegallagher",
-                "avatar": "https://avatars.githubusercontent.com/u/688331?s=40&v=4",
-                "username": "petegallagher"
-            },
-            {
-                "href": "https://github.com/bufferoverflow",
-                "avatar": "https://avatars.githubusercontent.com/u/378909?s=40&v=4",
-                "username": "bufferoverflow"
-            }
-        ]
-    },
-    {
-        "author": "rancher",
-        "name": "rancher",
-        "avatar": "https://github.com/rancher.png",
-        "sponsor": null,
-        "url": "https://github.com/rancher/rancher",
-        "description": "Complete container management platform",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 24686,
-        "fork": 3097,
-        "currentPeriodStars": 2,
-        "builtBy": [
-            {
-                "href": "https://github.com/ibuildthecloud",
-                "avatar": "https://avatars.githubusercontent.com/u/1754002?s=40&v=4",
-                "username": "ibuildthecloud"
-            },
-            {
-                "href": "https://github.com/kinarashah",
-                "avatar": "https://avatars.githubusercontent.com/u/16870565?s=40&v=4",
-                "username": "kinarashah"
-            },
-            {
-                "href": "https://github.com/dramich",
-                "avatar": "https://avatars.githubusercontent.com/u/13897607?s=40&v=4",
-                "username": "dramich"
-            },
-            {
-                "href": "https://github.com/jakefhyde",
-                "avatar": "https://avatars.githubusercontent.com/u/33796120?s=40&v=4",
-                "username": "jakefhyde"
-            },
-            {
-                "href": "https://github.com/rmweir",
-                "avatar": "https://avatars.githubusercontent.com/u/19376037?s=40&v=4",
-                "username": "rmweir"
+                "href": "https://github.com/codeboten",
+                "avatar": "https://avatars.githubusercontent.com/u/223565?s=40&v=4",
+                "username": "codeboten"
             }
         ]
     },
@@ -928,7 +328,7 @@
         "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 70728,
+        "stars": 70727,
         "fork": 18815,
         "currentPeriodStars": 10,
         "builtBy": [
@@ -956,6 +356,566 @@
                 "href": "https://github.com/vieux",
                 "avatar": "https://avatars.githubusercontent.com/u/1032519?s=40&v=4",
                 "username": "vieux"
+            }
+        ]
+    },
+    {
+        "author": "open-telemetry",
+        "name": "opentelemetry-go",
+        "avatar": "https://github.com/open-telemetry.png",
+        "sponsor": null,
+        "url": "https://github.com/open-telemetry/opentelemetry-go",
+        "description": "OpenTelemetry Go API and SDK",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 6083,
+        "fork": 1220,
+        "currentPeriodStars": 5,
+        "builtBy": [
+            {
+                "href": "https://github.com/MrAlias",
+                "avatar": "https://avatars.githubusercontent.com/u/5543599?s=40&v=4",
+                "username": "MrAlias"
+            },
+            {
+                "href": "https://github.com/apps/renovate",
+                "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
+                "username": "apps/renovate"
+            },
+            {
+                "href": "https://github.com/pellared",
+                "avatar": "https://avatars.githubusercontent.com/u/5067549?s=40&v=4",
+                "username": "pellared"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/dmathieu",
+                "avatar": "https://avatars.githubusercontent.com/u/9347?s=40&v=4",
+                "username": "dmathieu"
+            }
+        ]
+    },
+    {
+        "author": "shirou",
+        "name": "gopsutil",
+        "avatar": "https://github.com/shirou.png",
+        "sponsor": "https://github.com/sponsors/shirou",
+        "url": "https://github.com/shirou/gopsutil",
+        "description": "psutil for golang",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 11450,
+        "fork": 1636,
+        "currentPeriodStars": 1,
+        "builtBy": [
+            {
+                "href": "https://github.com/shirou",
+                "avatar": "https://avatars.githubusercontent.com/u/177213?s=40&v=4",
+                "username": "shirou"
+            },
+            {
+                "href": "https://github.com/Lomanic",
+                "avatar": "https://avatars.githubusercontent.com/u/5020919?s=40&v=4",
+                "username": "Lomanic"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/mmorel-35",
+                "avatar": "https://avatars.githubusercontent.com/u/6032561?s=40&v=4",
+                "username": "mmorel-35"
+            },
+            {
+                "href": "https://github.com/scop",
+                "avatar": "https://avatars.githubusercontent.com/u/109152?s=40&v=4",
+                "username": "scop"
+            }
+        ]
+    },
+    {
+        "author": "kubesphere",
+        "name": "kubesphere",
+        "avatar": "https://github.com/kubesphere.png",
+        "sponsor": null,
+        "url": "https://github.com/kubesphere/kubesphere",
+        "description": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 16600,
+        "fork": 2682,
+        "currentPeriodStars": 6,
+        "builtBy": [
+            {
+                "href": "https://github.com/ks-ci-bot",
+                "avatar": "https://avatars.githubusercontent.com/u/47586280?s=40&v=4",
+                "username": "ks-ci-bot"
+            },
+            {
+                "href": "https://github.com/wansir",
+                "avatar": "https://avatars.githubusercontent.com/u/8263040?s=40&v=4",
+                "username": "wansir"
+            },
+            {
+                "href": "https://github.com/LinuxSuRen",
+                "avatar": "https://avatars.githubusercontent.com/u/1450685?s=40&v=4",
+                "username": "LinuxSuRen"
+            },
+            {
+                "href": "https://github.com/wanjunlei",
+                "avatar": "https://avatars.githubusercontent.com/u/53003665?s=40&v=4",
+                "username": "wanjunlei"
+            },
+            {
+                "href": "https://github.com/junotx",
+                "avatar": "https://avatars.githubusercontent.com/u/49136171?s=40&v=4",
+                "username": "junotx"
+            }
+        ]
+    },
+    {
+        "author": "influxdata",
+        "name": "telegraf",
+        "avatar": "https://github.com/influxdata.png",
+        "sponsor": null,
+        "url": "https://github.com/influxdata/telegraf",
+        "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 16259,
+        "fork": 5715,
+        "currentPeriodStars": 24,
+        "builtBy": [
+            {
+                "href": "https://github.com/danielnelson",
+                "avatar": "https://avatars.githubusercontent.com/u/1048079?s=40&v=4",
+                "username": "danielnelson"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/sparrc",
+                "avatar": "https://avatars.githubusercontent.com/u/7155926?s=40&v=4",
+                "username": "sparrc"
+            },
+            {
+                "href": "https://github.com/powersj",
+                "avatar": "https://avatars.githubusercontent.com/u/6453401?s=40&v=4",
+                "username": "powersj"
+            },
+            {
+                "href": "https://github.com/srebhan",
+                "avatar": "https://avatars.githubusercontent.com/u/36194019?s=40&v=4",
+                "username": "srebhan"
+            }
+        ]
+    },
+    {
+        "author": "gin-gonic",
+        "name": "gin",
+        "avatar": "https://github.com/gin-gonic.png",
+        "sponsor": null,
+        "url": "https://github.com/gin-gonic/gin",
+        "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 84065,
+        "fork": 8318,
+        "currentPeriodStars": 24,
+        "builtBy": [
+            {
+                "href": "https://github.com/manucorporat",
+                "avatar": "https://avatars.githubusercontent.com/u/127379?s=40&v=4",
+                "username": "manucorporat"
+            },
+            {
+                "href": "https://github.com/javierprovecho",
+                "avatar": "https://avatars.githubusercontent.com/u/2457529?s=40&v=4",
+                "username": "javierprovecho"
+            },
+            {
+                "href": "https://github.com/thinkerou",
+                "avatar": "https://avatars.githubusercontent.com/u/4488261?s=40&v=4",
+                "username": "thinkerou"
+            },
+            {
+                "href": "https://github.com/appleboy",
+                "avatar": "https://avatars.githubusercontent.com/u/21979?s=40&v=4",
+                "username": "appleboy"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            }
+        ]
+    },
+    {
+        "author": "sundowndev",
+        "name": "phoneinfoga",
+        "avatar": "https://github.com/sundowndev.png",
+        "sponsor": "https://github.com/sponsors/sundowndev",
+        "url": "https://github.com/sundowndev/phoneinfoga",
+        "description": "Information gathering framework for phone numbers",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 15101,
+        "fork": 4394,
+        "currentPeriodStars": 18,
+        "builtBy": [
+            {
+                "href": "https://github.com/sundowndev",
+                "avatar": "https://avatars.githubusercontent.com/u/16480203?s=40&v=4",
+                "username": "sundowndev"
+            },
+            {
+                "href": "https://github.com/renovate-bot",
+                "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
+                "username": "renovate-bot"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/RomainMaillot",
+                "avatar": "https://avatars.githubusercontent.com/u/32742569?s=40&v=4",
+                "username": "RomainMaillot"
+            },
+            {
+                "href": "https://github.com/richwrightnyc",
+                "avatar": "https://avatars.githubusercontent.com/u/81534044?s=40&v=4",
+                "username": "richwrightnyc"
+            }
+        ]
+    },
+    {
+        "author": "aquasecurity",
+        "name": "trivy",
+        "avatar": "https://github.com/aquasecurity.png",
+        "sponsor": null,
+        "url": "https://github.com/aquasecurity/trivy",
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 28970,
+        "fork": 2754,
+        "currentPeriodStars": 19,
+        "builtBy": [
+            {
+                "href": "https://github.com/knqyf263",
+                "avatar": "https://avatars.githubusercontent.com/u/2253692?s=40&v=4",
+                "username": "knqyf263"
+            },
+            {
+                "href": "https://github.com/DmitriyLewen",
+                "avatar": "https://avatars.githubusercontent.com/u/91113035?s=40&v=4",
+                "username": "DmitriyLewen"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/nikpivkin",
+                "avatar": "https://avatars.githubusercontent.com/u/100182843?s=40&v=4",
+                "username": "nikpivkin"
+            },
+            {
+                "href": "https://github.com/simar7",
+                "avatar": "https://avatars.githubusercontent.com/u/1254783?s=40&v=4",
+                "username": "simar7"
+            }
+        ]
+    },
+    {
+        "author": "hashicorp",
+        "name": "terraform-mcp-server",
+        "avatar": "https://github.com/hashicorp.png",
+        "sponsor": null,
+        "url": "https://github.com/hashicorp/terraform-mcp-server",
+        "description": "The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development.",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 943,
+        "fork": 85,
+        "currentPeriodStars": 3,
+        "builtBy": [
+            {
+                "href": "https://github.com/BBBmau",
+                "avatar": "https://avatars.githubusercontent.com/u/65101411?s=40&v=4",
+                "username": "BBBmau"
+            },
+            {
+                "href": "https://github.com/gautambaghel",
+                "avatar": "https://avatars.githubusercontent.com/u/22324290?s=40&v=4",
+                "username": "gautambaghel"
+            },
+            {
+                "href": "https://github.com/mukeshjc",
+                "avatar": "https://avatars.githubusercontent.com/u/176994694?s=40&v=4",
+                "username": "mukeshjc"
+            },
+            {
+                "href": "https://github.com/dduzgun-security",
+                "avatar": "https://avatars.githubusercontent.com/u/59659739?s=40&v=4",
+                "username": "dduzgun-security"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            }
+        ]
+    },
+    {
+        "author": "opencontainers",
+        "name": "image-spec",
+        "avatar": "https://github.com/opencontainers.png",
+        "sponsor": null,
+        "url": "https://github.com/opencontainers/image-spec",
+        "description": "OCI Image Format",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 3894,
+        "fork": 747,
+        "currentPeriodStars": 3,
+        "builtBy": [
+            {
+                "href": "https://github.com/vbatts",
+                "avatar": "https://avatars.githubusercontent.com/u/67049?s=40&v=4",
+                "username": "vbatts"
+            },
+            {
+                "href": "https://github.com/stevvooe",
+                "avatar": "https://avatars.githubusercontent.com/u/120601?s=40&v=4",
+                "username": "stevvooe"
+            },
+            {
+                "href": "https://github.com/wking",
+                "avatar": "https://avatars.githubusercontent.com/u/209920?s=40&v=4",
+                "username": "wking"
+            },
+            {
+                "href": "https://github.com/philips",
+                "avatar": "https://avatars.githubusercontent.com/u/33544?s=40&v=4",
+                "username": "philips"
+            },
+            {
+                "href": "https://github.com/jonboulle",
+                "avatar": "https://avatars.githubusercontent.com/u/2601015?s=40&v=4",
+                "username": "jonboulle"
+            }
+        ]
+    },
+    {
+        "author": "argoproj",
+        "name": "argo-workflows",
+        "avatar": "https://github.com/argoproj.png",
+        "sponsor": null,
+        "url": "https://github.com/argoproj/argo-workflows",
+        "description": "Workflow Engine for Kubernetes",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 16028,
+        "fork": 3378,
+        "currentPeriodStars": 2,
+        "builtBy": [
+            {
+                "href": "https://github.com/alexec",
+                "avatar": "https://avatars.githubusercontent.com/u/1142830?s=40&v=4",
+                "username": "alexec"
+            },
+            {
+                "href": "https://github.com/terrytangyuan",
+                "avatar": "https://avatars.githubusercontent.com/u/4269898?s=40&v=4",
+                "username": "terrytangyuan"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/simster7",
+                "avatar": "https://avatars.githubusercontent.com/u/614838?s=40&v=4",
+                "username": "simster7"
+            },
+            {
+                "href": "https://github.com/sarabala1979",
+                "avatar": "https://avatars.githubusercontent.com/u/33908564?s=40&v=4",
+                "username": "sarabala1979"
+            }
+        ]
+    },
+    {
+        "author": "infracost",
+        "name": "infracost",
+        "avatar": "https://github.com/infracost.png",
+        "sponsor": null,
+        "url": "https://github.com/infracost/infracost",
+        "description": "Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 11784,
+        "fork": 630,
+        "currentPeriodStars": 3,
+        "builtBy": [
+            {
+                "href": "https://github.com/aliscott",
+                "avatar": "https://avatars.githubusercontent.com/u/158824?s=40&v=4",
+                "username": "aliscott"
+            },
+            {
+                "href": "https://github.com/alikhajeh1",
+                "avatar": "https://avatars.githubusercontent.com/u/638577?s=40&v=4",
+                "username": "alikhajeh1"
+            },
+            {
+                "href": "https://github.com/hugorut",
+                "avatar": "https://avatars.githubusercontent.com/u/6455139?s=40&v=4",
+                "username": "hugorut"
+            },
+            {
+                "href": "https://github.com/tim775",
+                "avatar": "https://avatars.githubusercontent.com/u/52185?s=40&v=4",
+                "username": "tim775"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            }
+        ]
+    },
+    {
+        "author": "golang-migrate",
+        "name": "migrate",
+        "avatar": "https://github.com/golang-migrate.png",
+        "sponsor": null,
+        "url": "https://github.com/golang-migrate/migrate",
+        "description": "Database migrations. CLI and Golang library.",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 17390,
+        "fork": 1512,
+        "currentPeriodStars": 6,
+        "builtBy": [
+            {
+                "href": "https://github.com/dhui",
+                "avatar": "https://avatars.githubusercontent.com/u/896205?s=40&v=4",
+                "username": "dhui"
+            },
+            {
+                "href": "https://github.com/mattes",
+                "avatar": "https://avatars.githubusercontent.com/u/1240531?s=40&v=4",
+                "username": "mattes"
+            },
+            {
+                "href": "https://github.com/dimag-jfrog",
+                "avatar": "https://avatars.githubusercontent.com/u/20537227?s=40&v=4",
+                "username": "dimag-jfrog"
+            },
+            {
+                "href": "https://github.com/mknycha",
+                "avatar": "https://avatars.githubusercontent.com/u/12583215?s=40&v=4",
+                "username": "mknycha"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            }
+        ]
+    },
+    {
+        "author": "fleetdm",
+        "name": "fleet",
+        "avatar": "https://github.com/fleetdm.png",
+        "sponsor": null,
+        "url": "https://github.com/fleetdm/fleet",
+        "description": "Open device management",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 5539,
+        "fork": 669,
+        "currentPeriodStars": 3,
+        "builtBy": [
+            {
+                "href": "https://github.com/eashaw",
+                "avatar": "https://avatars.githubusercontent.com/u/7445991?s=40&v=4",
+                "username": "eashaw"
+            },
+            {
+                "href": "https://github.com/RachelElysia",
+                "avatar": "https://avatars.githubusercontent.com/u/71795832?s=40&v=4",
+                "username": "RachelElysia"
+            },
+            {
+                "href": "https://github.com/mikermcneil",
+                "avatar": "https://avatars.githubusercontent.com/u/618009?s=40&v=4",
+                "username": "mikermcneil"
+            },
+            {
+                "href": "https://github.com/noahtalerman",
+                "avatar": "https://avatars.githubusercontent.com/u/47070608?s=40&v=4",
+                "username": "noahtalerman"
+            },
+            {
+                "href": "https://github.com/zwass",
+                "avatar": "https://avatars.githubusercontent.com/u/575602?s=40&v=4",
+                "username": "zwass"
+            }
+        ]
+    },
+    {
+        "author": "krillinai",
+        "name": "KrillinAI",
+        "avatar": "https://github.com/krillinai.png",
+        "sponsor": null,
+        "url": "https://github.com/krillinai/KrillinAI",
+        "description": "A video translation and dubbing tool powered by LLMs, offering 99 language translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. AI视频翻译配音工具，99种语言双向翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 8506,
+        "fork": 686,
+        "currentPeriodStars": 12,
+        "builtBy": [
+            {
+                "href": "https://github.com/maranello-o",
+                "avatar": "https://avatars.githubusercontent.com/u/114557800?s=40&v=4",
+                "username": "maranello-o"
+            },
+            {
+                "href": "https://github.com/wulien",
+                "avatar": "https://avatars.githubusercontent.com/u/2296937?s=40&v=4",
+                "username": "wulien"
+            },
+            {
+                "href": "https://github.com/krillinai",
+                "avatar": "https://avatars.githubusercontent.com/u/2386538?s=40&v=4",
+                "username": "krillinai"
+            },
+            {
+                "href": "https://github.com/puji4810",
+                "avatar": "https://avatars.githubusercontent.com/u/148682040?s=40&v=4",
+                "username": "puji4810"
+            },
+            {
+                "href": "https://github.com/PairZhu",
+                "avatar": "https://avatars.githubusercontent.com/u/47098840?s=40&v=4",
+                "username": "PairZhu"
             }
         ]
     }
