@@ -8,7 +8,7 @@
         "description": "Staging repo for development of native port of TypeScript",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 23208,
+        "stars": 23209,
         "fork": 758,
         "currentPeriodStars": 214,
         "builtBy": [
@@ -48,7 +48,7 @@
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 30323,
+        "stars": 30325,
         "fork": 2843,
         "currentPeriodStars": 285,
         "builtBy": [
@@ -88,8 +88,8 @@
         "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 59089,
-        "fork": 6700,
+        "stars": 59090,
+        "fork": 6701,
         "currentPeriodStars": 442,
         "builtBy": [
             {
@@ -168,7 +168,7 @@
         "description": "A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 4072,
+        "stars": 4074,
         "fork": 103,
         "currentPeriodStars": 1210,
         "builtBy": [
@@ -200,37 +200,42 @@
         ]
     },
     {
-        "author": "memodb-io",
-        "name": "Acontext",
-        "avatar": "https://github.com/memodb-io.png",
+        "author": "projectdiscovery",
+        "name": "nuclei",
+        "avatar": "https://github.com/projectdiscovery.png",
         "sponsor": null,
-        "url": "https://github.com/memodb-io/Acontext",
-        "description": "Context Data Platform for Agents",
+        "url": "https://github.com/projectdiscovery/nuclei",
+        "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 1622,
-        "fork": 127,
-        "currentPeriodStars": 495,
+        "stars": 25914,
+        "fork": 2992,
+        "currentPeriodStars": 176,
         "builtBy": [
             {
-                "href": "https://github.com/gusye1234",
-                "avatar": "https://avatars.githubusercontent.com/u/34829253?s=40&v=4",
-                "username": "gusye1234"
+                "href": "https://github.com/ehsandeep",
+                "avatar": "https://avatars.githubusercontent.com/u/8293321?s=40&v=4",
+                "username": "ehsandeep"
             },
             {
-                "href": "https://github.com/GenerQAQ",
-                "avatar": "https://avatars.githubusercontent.com/u/39689863?s=40&v=4",
-                "username": "GenerQAQ"
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
             },
             {
-                "href": "https://github.com/jinjiaKarl",
-                "avatar": "https://avatars.githubusercontent.com/u/28686975?s=40&v=4",
-                "username": "jinjiaKarl"
+                "href": "https://github.com/Mzack9999",
+                "avatar": "https://avatars.githubusercontent.com/u/13421144?s=40&v=4",
+                "username": "Mzack9999"
             },
             {
-                "href": "https://github.com/AutoLTX",
-                "avatar": "https://avatars.githubusercontent.com/u/195711083?s=40&v=4",
-                "username": "AutoLTX"
+                "href": "https://github.com/Ice3man543",
+                "avatar": "https://avatars.githubusercontent.com/u/22318055?s=40&v=4",
+                "username": "Ice3man543"
+            },
+            {
+                "href": "https://github.com/tarunKoyalwar",
+                "avatar": "https://avatars.githubusercontent.com/u/45962551?s=40&v=4",
+                "username": "tarunKoyalwar"
             }
         ]
     },
@@ -315,6 +320,46 @@
         ]
     },
     {
+        "author": "ollama",
+        "name": "ollama",
+        "avatar": "https://github.com/ollama.png",
+        "sponsor": null,
+        "url": "https://github.com/ollama/ollama",
+        "description": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 157335,
+        "fork": 13871,
+        "currentPeriodStars": 515,
+        "builtBy": [
+            {
+                "href": "https://github.com/mxyng",
+                "avatar": "https://avatars.githubusercontent.com/u/2372640?s=40&v=4",
+                "username": "mxyng"
+            },
+            {
+                "href": "https://github.com/jmorganca",
+                "avatar": "https://avatars.githubusercontent.com/u/251292?s=40&v=4",
+                "username": "jmorganca"
+            },
+            {
+                "href": "https://github.com/dhiltgen",
+                "avatar": "https://avatars.githubusercontent.com/u/4033016?s=40&v=4",
+                "username": "dhiltgen"
+            },
+            {
+                "href": "https://github.com/BruceMacD",
+                "avatar": "https://avatars.githubusercontent.com/u/5853428?s=40&v=4",
+                "username": "BruceMacD"
+            },
+            {
+                "href": "https://github.com/jessegross",
+                "avatar": "https://avatars.githubusercontent.com/u/6468499?s=40&v=4",
+                "username": "jessegross"
+            }
+        ]
+    },
+    {
         "author": "seaweedfs",
         "name": "seaweedfs",
         "avatar": "https://github.com/seaweedfs.png",
@@ -323,7 +368,7 @@
         "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 28621,
+        "stars": 28624,
         "fork": 2591,
         "currentPeriodStars": 910,
         "builtBy": [
@@ -363,7 +408,7 @@
         "description": "Production-Grade Container Scheduling and Management",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 119151,
+        "stars": 119152,
         "fork": 41869,
         "currentPeriodStars": 246,
         "builtBy": [
@@ -403,8 +448,8 @@
         "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 33230,
-        "fork": 4779,
+        "stars": 33231,
+        "fork": 4780,
         "currentPeriodStars": 238,
         "builtBy": [
             {
@@ -435,42 +480,77 @@
         ]
     },
     {
-        "author": "v2fly",
-        "name": "domain-list-community",
-        "avatar": "https://github.com/v2fly.png",
+        "author": "memodb-io",
+        "name": "Acontext",
+        "avatar": "https://github.com/memodb-io.png",
         "sponsor": null,
-        "url": "https://github.com/v2fly/domain-list-community",
-        "description": "Community managed domain list. Generate geosite.dat for V2Ray.",
+        "url": "https://github.com/memodb-io/Acontext",
+        "description": "Context Data Platform for Agents",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 6914,
-        "fork": 1138,
-        "currentPeriodStars": 64,
+        "stars": 1625,
+        "fork": 128,
+        "currentPeriodStars": 495,
         "builtBy": [
             {
-                "href": "https://github.com/Loyalsoldier",
-                "avatar": "https://avatars.githubusercontent.com/u/10487845?s=40&v=4",
-                "username": "Loyalsoldier"
+                "href": "https://github.com/gusye1234",
+                "avatar": "https://avatars.githubusercontent.com/u/34829253?s=40&v=4",
+                "username": "gusye1234"
             },
             {
-                "href": "https://github.com/EpLiar",
-                "avatar": "https://avatars.githubusercontent.com/u/23559565?s=40&v=4",
-                "username": "EpLiar"
+                "href": "https://github.com/GenerQAQ",
+                "avatar": "https://avatars.githubusercontent.com/u/39689863?s=40&v=4",
+                "username": "GenerQAQ"
             },
             {
-                "href": "https://github.com/rootmelo92118",
-                "avatar": "https://avatars.githubusercontent.com/u/32770959?s=40&v=4",
-                "username": "rootmelo92118"
+                "href": "https://github.com/jinjiaKarl",
+                "avatar": "https://avatars.githubusercontent.com/u/28686975?s=40&v=4",
+                "username": "jinjiaKarl"
             },
             {
-                "href": "https://github.com/Robot-DaneelOlivaw",
-                "avatar": "https://avatars.githubusercontent.com/u/19835896?s=40&v=4",
-                "username": "Robot-DaneelOlivaw"
+                "href": "https://github.com/AutoLTX",
+                "avatar": "https://avatars.githubusercontent.com/u/195711083?s=40&v=4",
+                "username": "AutoLTX"
+            }
+        ]
+    },
+    {
+        "author": "1Panel-dev",
+        "name": "1Panel",
+        "avatar": "https://github.com/1Panel-dev.png",
+        "sponsor": null,
+        "url": "https://github.com/1Panel-dev/1Panel",
+        "description": "🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 32361,
+        "fork": 2868,
+        "currentPeriodStars": 155,
+        "builtBy": [
+            {
+                "href": "https://github.com/ssongliu",
+                "avatar": "https://avatars.githubusercontent.com/u/73214554?s=40&v=4",
+                "username": "ssongliu"
             },
             {
-                "href": "https://github.com/IceCodeNew",
-                "avatar": "https://avatars.githubusercontent.com/u/32576256?s=40&v=4",
-                "username": "IceCodeNew"
+                "href": "https://github.com/zhengkunwang223",
+                "avatar": "https://avatars.githubusercontent.com/u/31820853?s=40&v=4",
+                "username": "zhengkunwang223"
+            },
+            {
+                "href": "https://github.com/lan-yonghui",
+                "avatar": "https://avatars.githubusercontent.com/u/81747598?s=40&v=4",
+                "username": "lan-yonghui"
+            },
+            {
+                "href": "https://github.com/wanghe-fit2cloud",
+                "avatar": "https://avatars.githubusercontent.com/u/46734380?s=40&v=4",
+                "username": "wanghe-fit2cloud"
+            },
+            {
+                "href": "https://github.com/HynoR",
+                "avatar": "https://avatars.githubusercontent.com/u/20227709?s=40&v=4",
+                "username": "HynoR"
             }
         ]
     },
@@ -483,7 +563,7 @@
         "description": "🌸 A command-line fuzzy finder",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 75619,
+        "stars": 75621,
         "fork": 2631,
         "currentPeriodStars": 178,
         "builtBy": [
@@ -515,126 +595,6 @@
         ]
     },
     {
-        "author": "ollama",
-        "name": "ollama",
-        "avatar": "https://github.com/ollama.png",
-        "sponsor": null,
-        "url": "https://github.com/ollama/ollama",
-        "description": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 157334,
-        "fork": 13870,
-        "currentPeriodStars": 515,
-        "builtBy": [
-            {
-                "href": "https://github.com/mxyng",
-                "avatar": "https://avatars.githubusercontent.com/u/2372640?s=40&v=4",
-                "username": "mxyng"
-            },
-            {
-                "href": "https://github.com/jmorganca",
-                "avatar": "https://avatars.githubusercontent.com/u/251292?s=40&v=4",
-                "username": "jmorganca"
-            },
-            {
-                "href": "https://github.com/dhiltgen",
-                "avatar": "https://avatars.githubusercontent.com/u/4033016?s=40&v=4",
-                "username": "dhiltgen"
-            },
-            {
-                "href": "https://github.com/BruceMacD",
-                "avatar": "https://avatars.githubusercontent.com/u/5853428?s=40&v=4",
-                "username": "BruceMacD"
-            },
-            {
-                "href": "https://github.com/jessegross",
-                "avatar": "https://avatars.githubusercontent.com/u/6468499?s=40&v=4",
-                "username": "jessegross"
-            }
-        ]
-    },
-    {
-        "author": "projectdiscovery",
-        "name": "nuclei",
-        "avatar": "https://github.com/projectdiscovery.png",
-        "sponsor": null,
-        "url": "https://github.com/projectdiscovery/nuclei",
-        "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 25912,
-        "fork": 2990,
-        "currentPeriodStars": 176,
-        "builtBy": [
-            {
-                "href": "https://github.com/ehsandeep",
-                "avatar": "https://avatars.githubusercontent.com/u/8293321?s=40&v=4",
-                "username": "ehsandeep"
-            },
-            {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
-            },
-            {
-                "href": "https://github.com/Mzack9999",
-                "avatar": "https://avatars.githubusercontent.com/u/13421144?s=40&v=4",
-                "username": "Mzack9999"
-            },
-            {
-                "href": "https://github.com/Ice3man543",
-                "avatar": "https://avatars.githubusercontent.com/u/22318055?s=40&v=4",
-                "username": "Ice3man543"
-            },
-            {
-                "href": "https://github.com/tarunKoyalwar",
-                "avatar": "https://avatars.githubusercontent.com/u/45962551?s=40&v=4",
-                "username": "tarunKoyalwar"
-            }
-        ]
-    },
-    {
-        "author": "golang",
-        "name": "go",
-        "avatar": "https://github.com/golang.png",
-        "sponsor": null,
-        "url": "https://github.com/golang/go",
-        "description": "The Go programming language",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 131311,
-        "fork": 18537,
-        "currentPeriodStars": 271,
-        "builtBy": [
-            {
-                "href": "https://github.com/rsc",
-                "avatar": "https://avatars.githubusercontent.com/u/104030?s=40&v=4",
-                "username": "rsc"
-            },
-            {
-                "href": "https://github.com/griesemer",
-                "avatar": "https://avatars.githubusercontent.com/u/8528975?s=40&v=4",
-                "username": "griesemer"
-            },
-            {
-                "href": "https://github.com/robpike",
-                "avatar": "https://avatars.githubusercontent.com/u/4324516?s=40&v=4",
-                "username": "robpike"
-            },
-            {
-                "href": "https://github.com/ianlancetaylor",
-                "avatar": "https://avatars.githubusercontent.com/u/3194333?s=40&v=4",
-                "username": "ianlancetaylor"
-            },
-            {
-                "href": "https://github.com/bradfitz",
-                "avatar": "https://avatars.githubusercontent.com/u/2621?s=40&v=4",
-                "username": "bradfitz"
-            }
-        ]
-    },
-    {
         "author": "nats-io",
         "name": "nats-server",
         "avatar": "https://github.com/nats-io.png",
@@ -643,7 +603,7 @@
         "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 18748,
+        "stars": 18750,
         "fork": 1698,
         "currentPeriodStars": 67,
         "builtBy": [
@@ -675,6 +635,86 @@
         ]
     },
     {
+        "author": "AdguardTeam",
+        "name": "AdGuardHome",
+        "avatar": "https://github.com/AdguardTeam.png",
+        "sponsor": null,
+        "url": "https://github.com/AdguardTeam/AdGuardHome",
+        "description": "Network-wide ads & trackers blocking DNS server",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 31340,
+        "fork": 2183,
+        "currentPeriodStars": 151,
+        "builtBy": [
+            {
+                "href": "https://github.com/ainar-g",
+                "avatar": "https://avatars.githubusercontent.com/u/4964986?s=40&v=4",
+                "username": "ainar-g"
+            },
+            {
+                "href": "https://github.com/szolin",
+                "avatar": "https://avatars.githubusercontent.com/u/38690158?s=40&v=4",
+                "username": "szolin"
+            },
+            {
+                "href": "https://github.com/IldarKamalov",
+                "avatar": "https://avatars.githubusercontent.com/u/2804667?s=40&v=4",
+                "username": "IldarKamalov"
+            },
+            {
+                "href": "https://github.com/ameshkov",
+                "avatar": "https://avatars.githubusercontent.com/u/5947035?s=40&v=4",
+                "username": "ameshkov"
+            },
+            {
+                "href": "https://github.com/hmage",
+                "avatar": "https://avatars.githubusercontent.com/u/739119?s=40&v=4",
+                "username": "hmage"
+            }
+        ]
+    },
+    {
+        "author": "wagoodman",
+        "name": "dive",
+        "avatar": "https://github.com/wagoodman.png",
+        "sponsor": "https://github.com/sponsors/wagoodman",
+        "url": "https://github.com/wagoodman/dive",
+        "description": "A tool for exploring each layer in a docker image",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 52815,
+        "fork": 1927,
+        "currentPeriodStars": 96,
+        "builtBy": [
+            {
+                "href": "https://github.com/wagoodman",
+                "avatar": "https://avatars.githubusercontent.com/u/590471?s=40&v=4",
+                "username": "wagoodman"
+            },
+            {
+                "href": "https://github.com/willmurphyscode",
+                "avatar": "https://avatars.githubusercontent.com/u/12529630?s=40&v=4",
+                "username": "willmurphyscode"
+            },
+            {
+                "href": "https://github.com/abitrolly",
+                "avatar": "https://avatars.githubusercontent.com/u/8781107?s=40&v=4",
+                "username": "abitrolly"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/muesli",
+                "avatar": "https://avatars.githubusercontent.com/u/146378?s=40&v=4",
+                "username": "muesli"
+            }
+        ]
+    },
+    {
         "author": "wavetermdev",
         "name": "waveterm",
         "avatar": "https://github.com/wavetermdev.png",
@@ -683,7 +723,7 @@
         "description": "An open-source, cross-platform terminal for seamless workflows",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 14901,
+        "stars": 14902,
         "fork": 614,
         "currentPeriodStars": 575,
         "builtBy": [
@@ -715,42 +755,82 @@
         ]
     },
     {
-        "author": "beclab",
-        "name": "Olares",
-        "avatar": "https://github.com/beclab.png",
+        "author": "slackhq",
+        "name": "nebula",
+        "avatar": "https://github.com/slackhq.png",
         "sponsor": null,
-        "url": "https://github.com/beclab/Olares",
-        "description": "Olares: An Open-Source Personal Cloud to Reclaim Your Data",
+        "url": "https://github.com/slackhq/nebula",
+        "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 3351,
-        "fork": 157,
-        "currentPeriodStars": 189,
+        "stars": 16621,
+        "fork": 1084,
+        "currentPeriodStars": 71,
         "builtBy": [
             {
-                "href": "https://github.com/eball",
-                "avatar": "https://avatars.githubusercontent.com/u/7404288?s=40&v=4",
-                "username": "eball"
+                "href": "https://github.com/wadey",
+                "avatar": "https://avatars.githubusercontent.com/u/18437?s=40&v=4",
+                "username": "wadey"
             },
             {
-                "href": "https://github.com/dkeven",
-                "avatar": "https://avatars.githubusercontent.com/u/82354774?s=40&v=4",
-                "username": "dkeven"
+                "href": "https://github.com/nbrownus",
+                "avatar": "https://avatars.githubusercontent.com/u/957319?s=40&v=4",
+                "username": "nbrownus"
             },
             {
-                "href": "https://github.com/hysyeah",
-                "avatar": "https://avatars.githubusercontent.com/u/29909232?s=40&v=4",
-                "username": "hysyeah"
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
             },
             {
-                "href": "https://github.com/aby913",
-                "avatar": "https://avatars.githubusercontent.com/u/6872008?s=40&v=4",
-                "username": "aby913"
+                "href": "https://github.com/rawdigits",
+                "avatar": "https://avatars.githubusercontent.com/u/1096409?s=40&v=4",
+                "username": "rawdigits"
             },
             {
-                "href": "https://github.com/Meow33",
-                "avatar": "https://avatars.githubusercontent.com/u/49591305?s=40&v=4",
-                "username": "Meow33"
+                "href": "https://github.com/johnmaguire",
+                "avatar": "https://avatars.githubusercontent.com/u/440033?s=40&v=4",
+                "username": "johnmaguire"
+            }
+        ]
+    },
+    {
+        "author": "metallb",
+        "name": "metallb",
+        "avatar": "https://github.com/metallb.png",
+        "sponsor": null,
+        "url": "https://github.com/metallb/metallb",
+        "description": "A network load-balancer implementation for Kubernetes using standard routing protocols",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 7936,
+        "fork": 1008,
+        "currentPeriodStars": 21,
+        "builtBy": [
+            {
+                "href": "https://github.com/danderson",
+                "avatar": "https://avatars.githubusercontent.com/u/1918?s=40&v=4",
+                "username": "danderson"
+            },
+            {
+                "href": "https://github.com/fedepaol",
+                "avatar": "https://avatars.githubusercontent.com/u/200560?s=40&v=4",
+                "username": "fedepaol"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/oribon",
+                "avatar": "https://avatars.githubusercontent.com/u/68010241?s=40&v=4",
+                "username": "oribon"
+            },
+            {
+                "href": "https://github.com/liornoy",
+                "avatar": "https://avatars.githubusercontent.com/u/40122521?s=40&v=4",
+                "username": "liornoy"
             }
         ]
     }
