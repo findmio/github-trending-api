@@ -8,8 +8,8 @@
         "description": "LLM inference in C/C++",
         "language": "C++",
         "languageColor": "#f34b7d",
-        "stars": 99964,
-        "fork": 16018,
+        "stars": 99982,
+        "fork": 16022,
         "currentPeriodStars": 4355,
         "builtBy": [
             {
@@ -48,7 +48,7 @@
         "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
         "language": "C++",
         "languageColor": "#f34b7d",
-        "stars": 30598,
+        "stars": 30602,
         "fork": 2070,
         "currentPeriodStars": 2270,
         "builtBy": [
@@ -88,7 +88,7 @@
         "description": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
         "language": "C++",
         "languageColor": "#f34b7d",
-        "stars": 2014,
+        "stars": 2015,
         "fork": 250,
         "currentPeriodStars": 513,
         "builtBy": [
@@ -120,6 +120,46 @@
         ]
     },
     {
+        "author": "ml-explore",
+        "name": "mlx",
+        "avatar": "https://github.com/ml-explore.png",
+        "sponsor": null,
+        "url": "https://github.com/ml-explore/mlx",
+        "description": "MLX: An array framework for Apple silicon",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "stars": 24870,
+        "fork": 1615,
+        "currentPeriodStars": 808,
+        "builtBy": [
+            {
+                "href": "https://github.com/angeloskath",
+                "avatar": "https://avatars.githubusercontent.com/u/1242043?s=40&v=4",
+                "username": "angeloskath"
+            },
+            {
+                "href": "https://github.com/zcbenz",
+                "avatar": "https://avatars.githubusercontent.com/u/639601?s=40&v=4",
+                "username": "zcbenz"
+            },
+            {
+                "href": "https://github.com/jagrit06",
+                "avatar": "https://avatars.githubusercontent.com/u/60373541?s=40&v=4",
+                "username": "jagrit06"
+            },
+            {
+                "href": "https://github.com/barronalex",
+                "avatar": "https://avatars.githubusercontent.com/u/12023682?s=40&v=4",
+                "username": "barronalex"
+            },
+            {
+                "href": "https://github.com/awni",
+                "avatar": "https://avatars.githubusercontent.com/u/1542805?s=40&v=4",
+                "username": "awni"
+            }
+        ]
+    },
+    {
         "author": "microsoft",
         "name": "terminal",
         "avatar": "https://github.com/microsoft.png",
@@ -128,7 +168,7 @@
         "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
         "language": "C++",
         "languageColor": "#f34b7d",
-        "stars": 102423,
+        "stars": 102425,
         "fork": 9169,
         "currentPeriodStars": 678,
         "builtBy": [
@@ -168,7 +208,7 @@
         "description": "Mod loader, scripting platform, and VR support for all RE Engine games",
         "language": "C++",
         "languageColor": "#f34b7d",
-        "stars": 4886,
+        "stars": 4887,
         "fork": 528,
         "currentPeriodStars": 430,
         "builtBy": [
@@ -200,46 +240,6 @@
         ]
     },
     {
-        "author": "ml-explore",
-        "name": "mlx",
-        "avatar": "https://github.com/ml-explore.png",
-        "sponsor": null,
-        "url": "https://github.com/ml-explore/mlx",
-        "description": "MLX: An array framework for Apple silicon",
-        "language": "C++",
-        "languageColor": "#f34b7d",
-        "stars": 24867,
-        "fork": 1615,
-        "currentPeriodStars": 808,
-        "builtBy": [
-            {
-                "href": "https://github.com/angeloskath",
-                "avatar": "https://avatars.githubusercontent.com/u/1242043?s=40&v=4",
-                "username": "angeloskath"
-            },
-            {
-                "href": "https://github.com/zcbenz",
-                "avatar": "https://avatars.githubusercontent.com/u/639601?s=40&v=4",
-                "username": "zcbenz"
-            },
-            {
-                "href": "https://github.com/jagrit06",
-                "avatar": "https://avatars.githubusercontent.com/u/60373541?s=40&v=4",
-                "username": "jagrit06"
-            },
-            {
-                "href": "https://github.com/barronalex",
-                "avatar": "https://avatars.githubusercontent.com/u/12023682?s=40&v=4",
-                "username": "barronalex"
-            },
-            {
-                "href": "https://github.com/awni",
-                "avatar": "https://avatars.githubusercontent.com/u/1542805?s=40&v=4",
-                "username": "awni"
-            }
-        ]
-    },
-    {
         "author": "FreeCAD",
         "name": "FreeCAD",
         "avatar": "https://github.com/FreeCAD.png",
@@ -248,7 +248,7 @@
         "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
         "language": "C++",
         "languageColor": "#f34b7d",
-        "stars": 29913,
+        "stars": 29915,
         "fork": 5350,
         "currentPeriodStars": 1151,
         "builtBy": [
@@ -276,86 +276,6 @@
                 "href": "https://github.com/WandererFan",
                 "avatar": "https://avatars.githubusercontent.com/u/3587161?s=40&v=4",
                 "username": "WandererFan"
-            }
-        ]
-    },
-    {
-        "author": "NVlabs",
-        "name": "GR00T-WholeBodyControl",
-        "avatar": "https://github.com/NVlabs.png",
-        "sponsor": null,
-        "url": "https://github.com/NVlabs/GR00T-WholeBodyControl",
-        "description": "Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deploying advanced humanoid controllers. This includes: Decoupled WBC models used in NVIDIA Isaac-Gr00t, Gr00t N1.5 and N1.6 and GEAR-SONIC",
-        "language": "C++",
-        "languageColor": "#f34b7d",
-        "stars": 1296,
-        "fork": 158,
-        "currentPeriodStars": 402,
-        "builtBy": [
-            {
-                "href": "https://github.com/xdaNvidia",
-                "avatar": "https://avatars.githubusercontent.com/u/65677243?s=40&v=4",
-                "username": "xdaNvidia"
-            },
-            {
-                "href": "https://github.com/ZhengyiLuo",
-                "avatar": "https://avatars.githubusercontent.com/u/13114740?s=40&v=4",
-                "username": "ZhengyiLuo"
-            },
-            {
-                "href": "https://github.com/Dingry",
-                "avatar": "https://avatars.githubusercontent.com/u/39176662?s=40&v=4",
-                "username": "Dingry"
-            },
-            {
-                "href": "https://github.com/chenran-nvidia",
-                "avatar": "https://avatars.githubusercontent.com/u/169203750?s=40&v=4",
-                "username": "chenran-nvidia"
-            },
-            {
-                "href": "https://github.com/fcastanedaga",
-                "avatar": "https://avatars.githubusercontent.com/u/225058171?s=40&v=4",
-                "username": "fcastanedaga"
-            }
-        ]
-    },
-    {
-        "author": "amnezia-vpn",
-        "name": "amnezia-client",
-        "avatar": "https://github.com/amnezia-vpn.png",
-        "sponsor": null,
-        "url": "https://github.com/amnezia-vpn/amnezia-client",
-        "description": "Amnezia VPN Client (Desktop+Mobile)",
-        "language": "C++",
-        "languageColor": "#f34b7d",
-        "stars": 10946,
-        "fork": 777,
-        "currentPeriodStars": 713,
-        "builtBy": [
-            {
-                "href": "https://github.com/pokamest",
-                "avatar": "https://avatars.githubusercontent.com/u/23482029?s=40&v=4",
-                "username": "pokamest"
-            },
-            {
-                "href": "https://github.com/Nethius",
-                "avatar": "https://avatars.githubusercontent.com/u/15364855?s=40&v=4",
-                "username": "Nethius"
-            },
-            {
-                "href": "https://github.com/albexk",
-                "avatar": "https://avatars.githubusercontent.com/u/141177744?s=40&v=4",
-                "username": "albexk"
-            },
-            {
-                "href": "https://github.com/outspace",
-                "avatar": "https://avatars.githubusercontent.com/u/5472761?s=40&v=4",
-                "username": "outspace"
-            },
-            {
-                "href": "https://github.com/vkamn",
-                "avatar": "https://avatars.githubusercontent.com/u/226339429?s=40&v=4",
-                "username": "vkamn"
             }
         ]
     },
@@ -400,6 +320,46 @@
         ]
     },
     {
+        "author": "NVlabs",
+        "name": "GR00T-WholeBodyControl",
+        "avatar": "https://github.com/NVlabs.png",
+        "sponsor": null,
+        "url": "https://github.com/NVlabs/GR00T-WholeBodyControl",
+        "description": "Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deploying advanced humanoid controllers. This includes: Decoupled WBC models used in NVIDIA Isaac-Gr00t, Gr00t N1.5 and N1.6 and GEAR-SONIC",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "stars": 1297,
+        "fork": 158,
+        "currentPeriodStars": 402,
+        "builtBy": [
+            {
+                "href": "https://github.com/xdaNvidia",
+                "avatar": "https://avatars.githubusercontent.com/u/65677243?s=40&v=4",
+                "username": "xdaNvidia"
+            },
+            {
+                "href": "https://github.com/ZhengyiLuo",
+                "avatar": "https://avatars.githubusercontent.com/u/13114740?s=40&v=4",
+                "username": "ZhengyiLuo"
+            },
+            {
+                "href": "https://github.com/Dingry",
+                "avatar": "https://avatars.githubusercontent.com/u/39176662?s=40&v=4",
+                "username": "Dingry"
+            },
+            {
+                "href": "https://github.com/chenran-nvidia",
+                "avatar": "https://avatars.githubusercontent.com/u/169203750?s=40&v=4",
+                "username": "chenran-nvidia"
+            },
+            {
+                "href": "https://github.com/fcastanedaga",
+                "avatar": "https://avatars.githubusercontent.com/u/225058171?s=40&v=4",
+                "username": "fcastanedaga"
+            }
+        ]
+    },
+    {
         "author": "tensorflow",
         "name": "tensorflow",
         "avatar": "https://github.com/tensorflow.png",
@@ -440,46 +400,6 @@
         ]
     },
     {
-        "author": "Atmosphere-NX",
-        "name": "Atmosphere",
-        "avatar": "https://github.com/Atmosphere-NX.png",
-        "sponsor": null,
-        "url": "https://github.com/Atmosphere-NX/Atmosphere",
-        "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
-        "language": "C++",
-        "languageColor": "#f34b7d",
-        "stars": 18587,
-        "fork": 1429,
-        "currentPeriodStars": 613,
-        "builtBy": [
-            {
-                "href": "https://github.com/SciresM",
-                "avatar": "https://avatars.githubusercontent.com/u/8676005?s=40&v=4",
-                "username": "SciresM"
-            },
-            {
-                "href": "https://github.com/TuxSH",
-                "avatar": "https://avatars.githubusercontent.com/u/1922548?s=40&v=4",
-                "username": "TuxSH"
-            },
-            {
-                "href": "https://github.com/hexkyz",
-                "avatar": "https://avatars.githubusercontent.com/u/20960561?s=40&v=4",
-                "username": "hexkyz"
-            },
-            {
-                "href": "https://github.com/lioncash",
-                "avatar": "https://avatars.githubusercontent.com/u/712067?s=40&v=4",
-                "username": "lioncash"
-            },
-            {
-                "href": "https://github.com/ktemkin",
-                "avatar": "https://avatars.githubusercontent.com/u/1298105?s=40&v=4",
-                "username": "ktemkin"
-            }
-        ]
-    },
-    {
         "author": "alibaba",
         "name": "MNN",
         "avatar": "https://github.com/alibaba.png",
@@ -488,7 +408,7 @@
         "description": "MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.",
         "language": "C++",
         "languageColor": "#f34b7d",
-        "stars": 14696,
+        "stars": 14697,
         "fork": 2265,
         "currentPeriodStars": 450,
         "builtBy": [
@@ -560,42 +480,82 @@
         ]
     },
     {
-        "author": "FastFlowLM",
-        "name": "FastFlowLM",
-        "avatar": "https://github.com/FastFlowLM.png",
+        "author": "Atmosphere-NX",
+        "name": "Atmosphere",
+        "avatar": "https://github.com/Atmosphere-NX.png",
         "sponsor": null,
-        "url": "https://github.com/FastFlowLM/FastFlowLM",
-        "description": "Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.",
+        "url": "https://github.com/Atmosphere-NX/Atmosphere",
+        "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
         "language": "C++",
         "languageColor": "#f34b7d",
-        "stars": 1056,
-        "fork": 59,
-        "currentPeriodStars": 264,
+        "stars": 18589,
+        "fork": 1428,
+        "currentPeriodStars": 613,
         "builtBy": [
             {
-                "href": "https://github.com/ngdxzy",
-                "avatar": "https://avatars.githubusercontent.com/u/19647959?s=40&v=4",
-                "username": "ngdxzy"
+                "href": "https://github.com/SciresM",
+                "avatar": "https://avatars.githubusercontent.com/u/8676005?s=40&v=4",
+                "username": "SciresM"
             },
             {
-                "href": "https://github.com/twflm",
-                "avatar": "https://avatars.githubusercontent.com/u/246751425?s=40&v=4",
-                "username": "twflm"
+                "href": "https://github.com/TuxSH",
+                "avatar": "https://avatars.githubusercontent.com/u/1922548?s=40&v=4",
+                "username": "TuxSH"
             },
             {
-                "href": "https://github.com/ZaneNi",
-                "avatar": "https://avatars.githubusercontent.com/u/224607056?s=40&v=4",
-                "username": "ZaneNi"
+                "href": "https://github.com/hexkyz",
+                "avatar": "https://avatars.githubusercontent.com/u/20960561?s=40&v=4",
+                "username": "hexkyz"
             },
             {
-                "href": "https://github.com/superm1",
-                "avatar": "https://avatars.githubusercontent.com/u/494526?s=40&v=4",
-                "username": "superm1"
+                "href": "https://github.com/lioncash",
+                "avatar": "https://avatars.githubusercontent.com/u/712067?s=40&v=4",
+                "username": "lioncash"
             },
             {
-                "href": "https://github.com/dyang108",
-                "avatar": "https://avatars.githubusercontent.com/u/14955423?s=40&v=4",
-                "username": "dyang108"
+                "href": "https://github.com/ktemkin",
+                "avatar": "https://avatars.githubusercontent.com/u/1298105?s=40&v=4",
+                "username": "ktemkin"
+            }
+        ]
+    },
+    {
+        "author": "amnezia-vpn",
+        "name": "amnezia-client",
+        "avatar": "https://github.com/amnezia-vpn.png",
+        "sponsor": null,
+        "url": "https://github.com/amnezia-vpn/amnezia-client",
+        "description": "Amnezia VPN Client (Desktop+Mobile)",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "stars": 10952,
+        "fork": 779,
+        "currentPeriodStars": 713,
+        "builtBy": [
+            {
+                "href": "https://github.com/pokamest",
+                "avatar": "https://avatars.githubusercontent.com/u/23482029?s=40&v=4",
+                "username": "pokamest"
+            },
+            {
+                "href": "https://github.com/Nethius",
+                "avatar": "https://avatars.githubusercontent.com/u/15364855?s=40&v=4",
+                "username": "Nethius"
+            },
+            {
+                "href": "https://github.com/albexk",
+                "avatar": "https://avatars.githubusercontent.com/u/141177744?s=40&v=4",
+                "username": "albexk"
+            },
+            {
+                "href": "https://github.com/outspace",
+                "avatar": "https://avatars.githubusercontent.com/u/5472761?s=40&v=4",
+                "username": "outspace"
+            },
+            {
+                "href": "https://github.com/vkamn",
+                "avatar": "https://avatars.githubusercontent.com/u/226339429?s=40&v=4",
+                "username": "vkamn"
             }
         ]
     },
@@ -608,8 +568,8 @@
         "description": "Windows Subsystem for Linux",
         "language": "C++",
         "languageColor": "#f34b7d",
-        "stars": 31609,
-        "fork": 1668,
+        "stars": 31611,
+        "fork": 1669,
         "currentPeriodStars": 465,
         "builtBy": [
             {
@@ -648,7 +608,7 @@
         "description": "Tesseract Open Source OCR Engine (main repository)",
         "language": "C++",
         "languageColor": "#f34b7d",
-        "stars": 73206,
+        "stars": 73209,
         "fork": 10569,
         "currentPeriodStars": 726,
         "builtBy": [
@@ -680,86 +640,6 @@
         ]
     },
     {
-        "author": "hrydgard",
-        "name": "ppsspp",
-        "avatar": "https://github.com/hrydgard.png",
-        "sponsor": null,
-        "url": "https://github.com/hrydgard/ppsspp",
-        "description": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord athttps://discord.gg/5NJB6dDor just send pull requests / issues.",
-        "language": "C++",
-        "languageColor": "#f34b7d",
-        "stars": 13612,
-        "fork": 2456,
-        "currentPeriodStars": 226,
-        "builtBy": [
-            {
-                "href": "https://github.com/hrydgard",
-                "avatar": "https://avatars.githubusercontent.com/u/130929?s=40&v=4",
-                "username": "hrydgard"
-            },
-            {
-                "href": "https://github.com/unknownbrackets",
-                "avatar": "https://avatars.githubusercontent.com/u/191233?s=40&v=4",
-                "username": "unknownbrackets"
-            },
-            {
-                "href": "https://github.com/xsacha",
-                "avatar": "https://avatars.githubusercontent.com/u/61218?s=40&v=4",
-                "username": "xsacha"
-            },
-            {
-                "href": "https://github.com/dbz400",
-                "avatar": "https://avatars.githubusercontent.com/u/3000282?s=40&v=4",
-                "username": "dbz400"
-            },
-            {
-                "href": "https://github.com/thedax",
-                "avatar": "https://avatars.githubusercontent.com/u/4482745?s=40&v=4",
-                "username": "thedax"
-            }
-        ]
-    },
-    {
-        "author": "Detanup01",
-        "name": "gbe_fork",
-        "avatar": "https://github.com/Detanup01.png",
-        "sponsor": null,
-        "url": "https://github.com/Detanup01/gbe_fork",
-        "description": "Fork ofhttps://gitlab.com/Mr_Goldberg/goldberg_emulator",
-        "language": "C++",
-        "languageColor": "#f34b7d",
-        "stars": 1932,
-        "fork": 238,
-        "currentPeriodStars": 156,
-        "builtBy": [
-            {
-                "href": "https://github.com/otavepto",
-                "avatar": "https://avatars.githubusercontent.com/u/153766569?s=40&v=4",
-                "username": "otavepto"
-            },
-            {
-                "href": "https://github.com/Detanup01",
-                "avatar": "https://avatars.githubusercontent.com/u/91248446?s=40&v=4",
-                "username": "Detanup01"
-            },
-            {
-                "href": "https://github.com/GameDumper",
-                "avatar": "https://avatars.githubusercontent.com/u/172531536?s=40&v=4",
-                "username": "GameDumper"
-            },
-            {
-                "href": "https://github.com/NicknineTheEagle",
-                "avatar": "https://avatars.githubusercontent.com/u/6665256?s=40&v=4",
-                "username": "NicknineTheEagle"
-            },
-            {
-                "href": "https://github.com/universal963",
-                "avatar": "https://avatars.githubusercontent.com/u/36097923?s=40&v=4",
-                "username": "universal963"
-            }
-        ]
-    },
-    {
         "author": "mozilla-ai",
         "name": "llamafile",
         "avatar": "https://github.com/mozilla-ai.png",
@@ -768,7 +648,7 @@
         "description": "Distribute and run LLMs with a single file.",
         "language": "C++",
         "languageColor": "#f34b7d",
-        "stars": 23920,
+        "stars": 23923,
         "fork": 1290,
         "currentPeriodStars": 216,
         "builtBy": [
@@ -821,6 +701,86 @@
                 "href": "https://github.com/zenoengine",
                 "avatar": "https://avatars.githubusercontent.com/u/15785494?s=40&v=4",
                 "username": "zenoengine"
+            }
+        ]
+    },
+    {
+        "author": "cloudflare",
+        "name": "workerd",
+        "avatar": "https://github.com/cloudflare.png",
+        "sponsor": null,
+        "url": "https://github.com/cloudflare/workerd",
+        "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "stars": 8067,
+        "fork": 602,
+        "currentPeriodStars": 539,
+        "builtBy": [
+            {
+                "href": "https://github.com/jasnell",
+                "avatar": "https://avatars.githubusercontent.com/u/439929?s=40&v=4",
+                "username": "jasnell"
+            },
+            {
+                "href": "https://github.com/kentonv",
+                "avatar": "https://avatars.githubusercontent.com/u/4001805?s=40&v=4",
+                "username": "kentonv"
+            },
+            {
+                "href": "https://github.com/anonrig",
+                "avatar": "https://avatars.githubusercontent.com/u/1935246?s=40&v=4",
+                "username": "anonrig"
+            },
+            {
+                "href": "https://github.com/fhanau",
+                "avatar": "https://avatars.githubusercontent.com/u/12156995?s=40&v=4",
+                "username": "fhanau"
+            },
+            {
+                "href": "https://github.com/dom96",
+                "avatar": "https://avatars.githubusercontent.com/u/246651?s=40&v=4",
+                "username": "dom96"
+            }
+        ]
+    },
+    {
+        "author": "electron",
+        "name": "electron",
+        "avatar": "https://github.com/electron.png",
+        "sponsor": null,
+        "url": "https://github.com/electron/electron",
+        "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "stars": 120692,
+        "fork": 17086,
+        "currentPeriodStars": 650,
+        "builtBy": [
+            {
+                "href": "https://github.com/zcbenz",
+                "avatar": "https://avatars.githubusercontent.com/u/639601?s=40&v=4",
+                "username": "zcbenz"
+            },
+            {
+                "href": "https://github.com/kevinsawicki",
+                "avatar": "https://avatars.githubusercontent.com/u/671378?s=40&v=4",
+                "username": "kevinsawicki"
+            },
+            {
+                "href": "https://github.com/codebytere",
+                "avatar": "https://avatars.githubusercontent.com/u/2036040?s=40&v=4",
+                "username": "codebytere"
+            },
+            {
+                "href": "https://github.com/MarshallOfSound",
+                "avatar": "https://avatars.githubusercontent.com/u/6634592?s=40&v=4",
+                "username": "MarshallOfSound"
+            },
+            {
+                "href": "https://github.com/nornagon",
+                "avatar": "https://avatars.githubusercontent.com/u/172800?s=40&v=4",
+                "username": "nornagon"
             }
         ]
     }
