@@ -8,8 +8,8 @@
         "description": "Display and control your Android device",
         "language": "C",
         "languageColor": "#555555",
-        "stars": 142975,
-        "fork": 13188,
+        "stars": 142987,
+        "fork": 13190,
         "currentPeriodStars": 3845,
         "builtBy": [
             {
@@ -46,8 +46,8 @@
         "sponsor": null,
         "url": "https://github.com/cactus-compute/cactus",
         "description": "Low-latency AI engine for mobile devices & wearables",
-        "language": "C",
-        "languageColor": "#555555",
+        "language": "C++",
+        "languageColor": "#f34b7d",
         "stars": 5290,
         "fork": 420,
         "currentPeriodStars": 590,
@@ -88,7 +88,7 @@
         "description": "The official NGINX Open Source repository.",
         "language": "C",
         "languageColor": "#555555",
-        "stars": 30550,
+        "stars": 30553,
         "fork": 7949,
         "currentPeriodStars": 479,
         "builtBy": [
@@ -120,46 +120,6 @@
         ]
     },
     {
-        "author": "mit-pdos",
-        "name": "xv6-riscv",
-        "avatar": "https://github.com/mit-pdos.png",
-        "sponsor": null,
-        "url": "https://github.com/mit-pdos/xv6-riscv",
-        "description": "Xv6 for RISC-V",
-        "language": "C",
-        "languageColor": "#555555",
-        "stars": 9873,
-        "fork": 4018,
-        "currentPeriodStars": 325,
-        "builtBy": [
-            {
-                "href": "https://github.com/kaashoek",
-                "avatar": "https://avatars.githubusercontent.com/u/1111495?s=40&v=4",
-                "username": "kaashoek"
-            },
-            {
-                "href": "https://github.com/zeldovich",
-                "avatar": "https://avatars.githubusercontent.com/u/828308?s=40&v=4",
-                "username": "zeldovich"
-            },
-            {
-                "href": "https://github.com/segfauIt",
-                "avatar": "https://avatars.githubusercontent.com/u/25902862?s=40&v=4",
-                "username": "segfauIt"
-            },
-            {
-                "href": "https://github.com/4ge32",
-                "avatar": "https://avatars.githubusercontent.com/u/28621075?s=40&v=4",
-                "username": "4ge32"
-            },
-            {
-                "href": "https://github.com/anishathalye",
-                "avatar": "https://avatars.githubusercontent.com/u/3526486?s=40&v=4",
-                "username": "anishathalye"
-            }
-        ]
-    },
-    {
         "author": "php",
         "name": "php-src",
         "avatar": "https://github.com/php.png",
@@ -168,7 +128,7 @@
         "description": "The PHP Interpreter",
         "language": "C",
         "languageColor": "#555555",
-        "stars": 40124,
+        "stars": 40125,
         "fork": 8067,
         "currentPeriodStars": 161,
         "builtBy": [
@@ -200,6 +160,46 @@
         ]
     },
     {
+        "author": "mit-pdos",
+        "name": "xv6-riscv",
+        "avatar": "https://github.com/mit-pdos.png",
+        "sponsor": null,
+        "url": "https://github.com/mit-pdos/xv6-riscv",
+        "description": "Xv6 for RISC-V",
+        "language": "C",
+        "languageColor": "#555555",
+        "stars": 9873,
+        "fork": 4017,
+        "currentPeriodStars": 325,
+        "builtBy": [
+            {
+                "href": "https://github.com/kaashoek",
+                "avatar": "https://avatars.githubusercontent.com/u/1111495?s=40&v=4",
+                "username": "kaashoek"
+            },
+            {
+                "href": "https://github.com/zeldovich",
+                "avatar": "https://avatars.githubusercontent.com/u/828308?s=40&v=4",
+                "username": "zeldovich"
+            },
+            {
+                "href": "https://github.com/segfauIt",
+                "avatar": "https://avatars.githubusercontent.com/u/25902862?s=40&v=4",
+                "username": "segfauIt"
+            },
+            {
+                "href": "https://github.com/4ge32",
+                "avatar": "https://avatars.githubusercontent.com/u/28621075?s=40&v=4",
+                "username": "4ge32"
+            },
+            {
+                "href": "https://github.com/anishathalye",
+                "avatar": "https://avatars.githubusercontent.com/u/3526486?s=40&v=4",
+                "username": "anishathalye"
+            }
+        ]
+    },
+    {
         "author": "curl",
         "name": "curl",
         "avatar": "https://github.com/curl.png",
@@ -208,8 +208,8 @@
         "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
         "language": "C",
         "languageColor": "#555555",
-        "stars": 42053,
-        "fork": 7230,
+        "stars": 42056,
+        "fork": 7229,
         "currentPeriodStars": 451,
         "builtBy": [
             {
@@ -240,97 +240,17 @@
         ]
     },
     {
-        "author": "HansKristian-Work",
-        "name": "vkd3d-proton",
-        "avatar": "https://github.com/HansKristian-Work.png",
+        "author": "redis",
+        "name": "redis",
+        "avatar": "https://github.com/redis.png",
         "sponsor": null,
-        "url": "https://github.com/HansKristian-Work/vkd3d-proton",
-        "description": "Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.",
+        "url": "https://github.com/redis/redis",
+        "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
         "language": "C",
         "languageColor": "#555555",
-        "stars": 2807,
-        "fork": 289,
-        "currentPeriodStars": 129,
-        "builtBy": [
-            {
-                "href": "https://github.com/HansKristian-Work",
-                "avatar": "https://avatars.githubusercontent.com/u/17786731?s=40&v=4",
-                "username": "HansKristian-Work"
-            },
-            {
-                "href": "https://github.com/jozefkucia",
-                "avatar": "https://avatars.githubusercontent.com/u/4353443?s=40&v=4",
-                "username": "jozefkucia"
-            },
-            {
-                "href": "https://github.com/doitsujin",
-                "avatar": "https://avatars.githubusercontent.com/u/25567304?s=40&v=4",
-                "username": "doitsujin"
-            },
-            {
-                "href": "https://github.com/misyltoad",
-                "avatar": "https://avatars.githubusercontent.com/u/21316711?s=40&v=4",
-                "username": "misyltoad"
-            },
-            {
-                "href": "https://github.com/Saancreed",
-                "avatar": "https://avatars.githubusercontent.com/u/26201033?s=40&v=4",
-                "username": "Saancreed"
-            }
-        ]
-    },
-    {
-        "author": "zanfranceschi",
-        "name": "rinha-de-backend-2026",
-        "avatar": "https://github.com/zanfranceschi.png",
-        "sponsor": null,
-        "url": "https://github.com/zanfranceschi/rinha-de-backend-2026",
-        "description": "Rinha de Backend - Quarta Edição: Detecção de Fraude com Busca Vetorial",
-        "language": "C",
-        "languageColor": "#555555",
-        "stars": 744,
-        "fork": 451,
-        "currentPeriodStars": 597,
-        "builtBy": [
-            {
-                "href": "https://github.com/zanfranceschi",
-                "avatar": "https://avatars.githubusercontent.com/u/1862567?s=40&v=4",
-                "username": "zanfranceschi"
-            },
-            {
-                "href": "https://github.com/rrs6",
-                "avatar": "https://avatars.githubusercontent.com/u/37545382?s=40&v=4",
-                "username": "rrs6"
-            },
-            {
-                "href": "https://github.com/rafaelrsilva00",
-                "avatar": "https://avatars.githubusercontent.com/u/225466198?s=40&v=4",
-                "username": "rafaelrsilva00"
-            },
-            {
-                "href": "https://github.com/mpraes",
-                "avatar": "https://avatars.githubusercontent.com/u/68373784?s=40&v=4",
-                "username": "mpraes"
-            },
-            {
-                "href": "https://github.com/peregrinno",
-                "avatar": "https://avatars.githubusercontent.com/u/26610083?s=40&v=4",
-                "username": "peregrinno"
-            }
-        ]
-    },
-    {
-        "author": "valkey-io",
-        "name": "valkey",
-        "avatar": "https://github.com/valkey-io.png",
-        "sponsor": null,
-        "url": "https://github.com/valkey-io/valkey",
-        "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
-        "language": "C",
-        "languageColor": "#555555",
-        "stars": 26019,
-        "fork": 1165,
-        "currentPeriodStars": 412,
+        "stars": 74682,
+        "fork": 24651,
+        "currentPeriodStars": 707,
         "builtBy": [
             {
                 "href": "https://github.com/antirez",
@@ -343,19 +263,19 @@
                 "username": "oranagra"
             },
             {
-                "href": "https://github.com/enjoy-binbin",
-                "avatar": "https://avatars.githubusercontent.com/u/22811481?s=40&v=4",
-                "username": "enjoy-binbin"
-            },
-            {
                 "href": "https://github.com/pietern",
                 "avatar": "https://avatars.githubusercontent.com/u/9845?s=40&v=4",
                 "username": "pietern"
             },
             {
-                "href": "https://github.com/madolson",
-                "avatar": "https://avatars.githubusercontent.com/u/34459052?s=40&v=4",
-                "username": "madolson"
+                "href": "https://github.com/enjoy-binbin",
+                "avatar": "https://avatars.githubusercontent.com/u/22811481?s=40&v=4",
+                "username": "enjoy-binbin"
+            },
+            {
+                "href": "https://github.com/sundb",
+                "avatar": "https://avatars.githubusercontent.com/u/965798?s=40&v=4",
+                "username": "sundb"
             }
         ]
     },
@@ -400,6 +320,46 @@
         ]
     },
     {
+        "author": "HansKristian-Work",
+        "name": "vkd3d-proton",
+        "avatar": "https://github.com/HansKristian-Work.png",
+        "sponsor": null,
+        "url": "https://github.com/HansKristian-Work/vkd3d-proton",
+        "description": "Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.",
+        "language": "C",
+        "languageColor": "#555555",
+        "stars": 2807,
+        "fork": 289,
+        "currentPeriodStars": 129,
+        "builtBy": [
+            {
+                "href": "https://github.com/HansKristian-Work",
+                "avatar": "https://avatars.githubusercontent.com/u/17786731?s=40&v=4",
+                "username": "HansKristian-Work"
+            },
+            {
+                "href": "https://github.com/jozefkucia",
+                "avatar": "https://avatars.githubusercontent.com/u/4353443?s=40&v=4",
+                "username": "jozefkucia"
+            },
+            {
+                "href": "https://github.com/doitsujin",
+                "avatar": "https://avatars.githubusercontent.com/u/25567304?s=40&v=4",
+                "username": "doitsujin"
+            },
+            {
+                "href": "https://github.com/misyltoad",
+                "avatar": "https://avatars.githubusercontent.com/u/21316711?s=40&v=4",
+                "username": "misyltoad"
+            },
+            {
+                "href": "https://github.com/Saancreed",
+                "avatar": "https://avatars.githubusercontent.com/u/26201033?s=40&v=4",
+                "username": "Saancreed"
+            }
+        ]
+    },
+    {
         "author": "zephyrproject-rtos",
         "name": "zephyr",
         "avatar": "https://github.com/zephyrproject-rtos.png",
@@ -440,82 +400,42 @@
         ]
     },
     {
-        "author": "redis",
-        "name": "redis",
-        "avatar": "https://github.com/redis.png",
+        "author": "RsyncProject",
+        "name": "rsync",
+        "avatar": "https://github.com/RsyncProject.png",
         "sponsor": null,
-        "url": "https://github.com/redis/redis",
-        "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+        "url": "https://github.com/RsyncProject/rsync",
+        "description": "An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.",
         "language": "C",
         "languageColor": "#555555",
-        "stars": 74679,
-        "fork": 24651,
-        "currentPeriodStars": 707,
+        "stars": 4708,
+        "fork": 531,
+        "currentPeriodStars": 276,
         "builtBy": [
             {
-                "href": "https://github.com/antirez",
-                "avatar": "https://avatars.githubusercontent.com/u/65632?s=40&v=4",
-                "username": "antirez"
+                "href": "https://github.com/WayneD",
+                "avatar": "https://avatars.githubusercontent.com/u/178713?s=40&v=4",
+                "username": "WayneD"
             },
             {
-                "href": "https://github.com/oranagra",
-                "avatar": "https://avatars.githubusercontent.com/u/7045099?s=40&v=4",
-                "username": "oranagra"
+                "href": "https://github.com/tridge",
+                "avatar": "https://avatars.githubusercontent.com/u/831867?s=40&v=4",
+                "username": "tridge"
             },
             {
-                "href": "https://github.com/pietern",
-                "avatar": "https://avatars.githubusercontent.com/u/9845?s=40&v=4",
-                "username": "pietern"
+                "href": "https://github.com/claude",
+                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+                "username": "claude"
             },
             {
-                "href": "https://github.com/enjoy-binbin",
-                "avatar": "https://avatars.githubusercontent.com/u/22811481?s=40&v=4",
-                "username": "enjoy-binbin"
+                "href": "https://github.com/mattmccutchen",
+                "avatar": "https://avatars.githubusercontent.com/u/8885753?s=40&v=4",
+                "username": "mattmccutchen"
             },
             {
-                "href": "https://github.com/sundb",
-                "avatar": "https://avatars.githubusercontent.com/u/965798?s=40&v=4",
-                "username": "sundb"
-            }
-        ]
-    },
-    {
-        "author": "xiaojieonly",
-        "name": "Ehviewer_CN_SXJ",
-        "avatar": "https://github.com/xiaojieonly.png",
-        "sponsor": null,
-        "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ",
-        "description": "ehviewer，用爱发电，快乐前行",
-        "language": "C",
-        "languageColor": "#555555",
-        "stars": 24381,
-        "fork": 642,
-        "currentPeriodStars": 645,
-        "builtBy": [
-            {
-                "href": "https://github.com/xiaojieonly",
-                "avatar": "https://avatars.githubusercontent.com/u/49278135?s=40&v=4",
-                "username": "xiaojieonly"
-            },
-            {
-                "href": "https://github.com/UjuiUjuMandan",
-                "avatar": "https://avatars.githubusercontent.com/u/125150101?s=40&v=4",
-                "username": "UjuiUjuMandan"
-            },
-            {
-                "href": "https://github.com/wyapx",
-                "avatar": "https://avatars.githubusercontent.com/u/26220729?s=40&v=4",
-                "username": "wyapx"
-            },
-            {
-                "href": "https://github.com/zhao-ng327",
-                "avatar": "https://avatars.githubusercontent.com/u/61046297?s=40&v=4",
-                "username": "zhao-ng327"
-            },
-            {
-                "href": "https://github.com/eithwa",
-                "avatar": "https://avatars.githubusercontent.com/u/26001028?s=40&v=4",
-                "username": "eithwa"
+                "href": "https://github.com/dev-zero",
+                "avatar": "https://avatars.githubusercontent.com/u/11307?s=40&v=4",
+                "username": "dev-zero"
             }
         ]
     },
@@ -528,7 +448,7 @@
         "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
         "language": "C",
         "languageColor": "#555555",
-        "stars": 13474,
+        "stars": 13476,
         "fork": 2228,
         "currentPeriodStars": 599,
         "builtBy": [
@@ -556,6 +476,86 @@
                 "href": "https://github.com/Samge0",
                 "avatar": "https://avatars.githubusercontent.com/u/17336101?s=40&v=4",
                 "username": "Samge0"
+            }
+        ]
+    },
+    {
+        "author": "valkey-io",
+        "name": "valkey",
+        "avatar": "https://github.com/valkey-io.png",
+        "sponsor": null,
+        "url": "https://github.com/valkey-io/valkey",
+        "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+        "language": "C",
+        "languageColor": "#555555",
+        "stars": 26021,
+        "fork": 1165,
+        "currentPeriodStars": 412,
+        "builtBy": [
+            {
+                "href": "https://github.com/antirez",
+                "avatar": "https://avatars.githubusercontent.com/u/65632?s=40&v=4",
+                "username": "antirez"
+            },
+            {
+                "href": "https://github.com/oranagra",
+                "avatar": "https://avatars.githubusercontent.com/u/7045099?s=40&v=4",
+                "username": "oranagra"
+            },
+            {
+                "href": "https://github.com/enjoy-binbin",
+                "avatar": "https://avatars.githubusercontent.com/u/22811481?s=40&v=4",
+                "username": "enjoy-binbin"
+            },
+            {
+                "href": "https://github.com/pietern",
+                "avatar": "https://avatars.githubusercontent.com/u/9845?s=40&v=4",
+                "username": "pietern"
+            },
+            {
+                "href": "https://github.com/madolson",
+                "avatar": "https://avatars.githubusercontent.com/u/34459052?s=40&v=4",
+                "username": "madolson"
+            }
+        ]
+    },
+    {
+        "author": "xiaojieonly",
+        "name": "Ehviewer_CN_SXJ",
+        "avatar": "https://github.com/xiaojieonly.png",
+        "sponsor": null,
+        "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ",
+        "description": "ehviewer，用爱发电，快乐前行",
+        "language": "C",
+        "languageColor": "#555555",
+        "stars": 24384,
+        "fork": 642,
+        "currentPeriodStars": 645,
+        "builtBy": [
+            {
+                "href": "https://github.com/xiaojieonly",
+                "avatar": "https://avatars.githubusercontent.com/u/49278135?s=40&v=4",
+                "username": "xiaojieonly"
+            },
+            {
+                "href": "https://github.com/UjuiUjuMandan",
+                "avatar": "https://avatars.githubusercontent.com/u/125150101?s=40&v=4",
+                "username": "UjuiUjuMandan"
+            },
+            {
+                "href": "https://github.com/wyapx",
+                "avatar": "https://avatars.githubusercontent.com/u/26220729?s=40&v=4",
+                "username": "wyapx"
+            },
+            {
+                "href": "https://github.com/zhao-ng327",
+                "avatar": "https://avatars.githubusercontent.com/u/61046297?s=40&v=4",
+                "username": "zhao-ng327"
+            },
+            {
+                "href": "https://github.com/eithwa",
+                "avatar": "https://avatars.githubusercontent.com/u/26001028?s=40&v=4",
+                "username": "eithwa"
             }
         ]
     },
@@ -640,46 +640,6 @@
         ]
     },
     {
-        "author": "flipperdevices",
-        "name": "flipperzero-firmware",
-        "avatar": "https://github.com/flipperdevices.png",
-        "sponsor": null,
-        "url": "https://github.com/flipperdevices/flipperzero-firmware",
-        "description": "Flipper Zero firmware source code",
-        "language": "C",
-        "languageColor": "#555555",
-        "stars": 16102,
-        "fork": 3374,
-        "currentPeriodStars": 243,
-        "builtBy": [
-            {
-                "href": "https://github.com/skotopes",
-                "avatar": "https://avatars.githubusercontent.com/u/1633132?s=40&v=4",
-                "username": "skotopes"
-            },
-            {
-                "href": "https://github.com/hedger",
-                "avatar": "https://avatars.githubusercontent.com/u/277532?s=40&v=4",
-                "username": "hedger"
-            },
-            {
-                "href": "https://github.com/DrZlo13",
-                "avatar": "https://avatars.githubusercontent.com/u/4784169?s=40&v=4",
-                "username": "DrZlo13"
-            },
-            {
-                "href": "https://github.com/gornekich",
-                "avatar": "https://avatars.githubusercontent.com/u/44112859?s=40&v=4",
-                "username": "gornekich"
-            },
-            {
-                "href": "https://github.com/glitchcore",
-                "avatar": "https://avatars.githubusercontent.com/u/12886640?s=40&v=4",
-                "username": "glitchcore"
-            }
-        ]
-    },
-    {
         "author": "quickjs-ng",
         "name": "quickjs",
         "avatar": "https://github.com/quickjs-ng.png",
@@ -720,46 +680,6 @@
         ]
     },
     {
-        "author": "RsyncProject",
-        "name": "rsync",
-        "avatar": "https://github.com/RsyncProject.png",
-        "sponsor": null,
-        "url": "https://github.com/RsyncProject/rsync",
-        "description": "An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.",
-        "language": "C",
-        "languageColor": "#555555",
-        "stars": 4704,
-        "fork": 531,
-        "currentPeriodStars": 276,
-        "builtBy": [
-            {
-                "href": "https://github.com/WayneD",
-                "avatar": "https://avatars.githubusercontent.com/u/178713?s=40&v=4",
-                "username": "WayneD"
-            },
-            {
-                "href": "https://github.com/tridge",
-                "avatar": "https://avatars.githubusercontent.com/u/831867?s=40&v=4",
-                "username": "tridge"
-            },
-            {
-                "href": "https://github.com/claude",
-                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-                "username": "claude"
-            },
-            {
-                "href": "https://github.com/mattmccutchen",
-                "avatar": "https://avatars.githubusercontent.com/u/8885753?s=40&v=4",
-                "username": "mattmccutchen"
-            },
-            {
-                "href": "https://github.com/dev-zero",
-                "avatar": "https://avatars.githubusercontent.com/u/11307?s=40&v=4",
-                "username": "dev-zero"
-            }
-        ]
-    },
-    {
         "author": "openwall",
         "name": "john",
         "avatar": "https://github.com/openwall.png",
@@ -768,7 +688,7 @@
         "description": "John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs",
         "language": "C",
         "languageColor": "#555555",
-        "stars": 13215,
+        "stars": 13216,
         "fork": 2498,
         "currentPeriodStars": 167,
         "builtBy": [
@@ -796,6 +716,126 @@
                 "href": "https://github.com/sayan1an",
                 "avatar": "https://avatars.githubusercontent.com/u/1608941?s=40&v=4",
                 "username": "sayan1an"
+            }
+        ]
+    },
+    {
+        "author": "zanfranceschi",
+        "name": "rinha-de-backend-2026",
+        "avatar": "https://github.com/zanfranceschi.png",
+        "sponsor": null,
+        "url": "https://github.com/zanfranceschi/rinha-de-backend-2026",
+        "description": "Rinha de Backend - Quarta Edição: Detecção de Fraude com Busca Vetorial",
+        "language": "C",
+        "languageColor": "#555555",
+        "stars": 744,
+        "fork": 451,
+        "currentPeriodStars": 597,
+        "builtBy": [
+            {
+                "href": "https://github.com/zanfranceschi",
+                "avatar": "https://avatars.githubusercontent.com/u/1862567?s=40&v=4",
+                "username": "zanfranceschi"
+            },
+            {
+                "href": "https://github.com/rrs6",
+                "avatar": "https://avatars.githubusercontent.com/u/37545382?s=40&v=4",
+                "username": "rrs6"
+            },
+            {
+                "href": "https://github.com/rafaelrsilva00",
+                "avatar": "https://avatars.githubusercontent.com/u/225466198?s=40&v=4",
+                "username": "rafaelrsilva00"
+            },
+            {
+                "href": "https://github.com/mpraes",
+                "avatar": "https://avatars.githubusercontent.com/u/68373784?s=40&v=4",
+                "username": "mpraes"
+            },
+            {
+                "href": "https://github.com/peregrinno",
+                "avatar": "https://avatars.githubusercontent.com/u/26610083?s=40&v=4",
+                "username": "peregrinno"
+            }
+        ]
+    },
+    {
+        "author": "DarkFlippers",
+        "name": "unleashed-firmware",
+        "avatar": "https://github.com/DarkFlippers.png",
+        "sponsor": null,
+        "url": "https://github.com/DarkFlippers/unleashed-firmware",
+        "description": "Flipper Zero Unleashed Firmware",
+        "language": "C",
+        "languageColor": "#555555",
+        "stars": 21682,
+        "fork": 1887,
+        "currentPeriodStars": 213,
+        "builtBy": [
+            {
+                "href": "https://github.com/xMasterX",
+                "avatar": "https://avatars.githubusercontent.com/u/10697207?s=40&v=4",
+                "username": "xMasterX"
+            },
+            {
+                "href": "https://github.com/skotopes",
+                "avatar": "https://avatars.githubusercontent.com/u/1633132?s=40&v=4",
+                "username": "skotopes"
+            },
+            {
+                "href": "https://github.com/hedger",
+                "avatar": "https://avatars.githubusercontent.com/u/277532?s=40&v=4",
+                "username": "hedger"
+            },
+            {
+                "href": "https://github.com/gornekich",
+                "avatar": "https://avatars.githubusercontent.com/u/44112859?s=40&v=4",
+                "username": "gornekich"
+            },
+            {
+                "href": "https://github.com/DrZlo13",
+                "avatar": "https://avatars.githubusercontent.com/u/4784169?s=40&v=4",
+                "username": "DrZlo13"
+            }
+        ]
+    },
+    {
+        "author": "valinet",
+        "name": "ExplorerPatcher",
+        "avatar": "https://github.com/valinet.png",
+        "sponsor": null,
+        "url": "https://github.com/valinet/ExplorerPatcher",
+        "description": "This project aims to enhance the working environment on Windows",
+        "language": "C",
+        "languageColor": "#555555",
+        "stars": 32709,
+        "fork": 1324,
+        "currentPeriodStars": 424,
+        "builtBy": [
+            {
+                "href": "https://github.com/valinet",
+                "avatar": "https://avatars.githubusercontent.com/u/6503598?s=40&v=4",
+                "username": "valinet"
+            },
+            {
+                "href": "https://github.com/Amrsatrio",
+                "avatar": "https://avatars.githubusercontent.com/u/20662640?s=40&v=4",
+                "username": "Amrsatrio"
+            },
+            {
+                "href": "https://github.com/Kichura",
+                "avatar": "https://avatars.githubusercontent.com/u/68134602?s=40&v=4",
+                "username": "Kichura"
+            },
+            {
+                "href": "https://github.com/Speedy37",
+                "avatar": "https://avatars.githubusercontent.com/u/5376197?s=40&v=4",
+                "username": "Speedy37"
+            },
+            {
+                "href": "https://github.com/lordmilko",
+                "avatar": "https://avatars.githubusercontent.com/u/6138789?s=40&v=4",
+                "username": "lordmilko"
             }
         ]
     }
