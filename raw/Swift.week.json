@@ -8,8 +8,8 @@
         "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
         "language": "Swift",
         "languageColor": "#F05138",
-        "stars": 38955,
-        "fork": 1117,
+        "stars": 38977,
+        "fork": 1118,
         "currentPeriodStars": 4492,
         "builtBy": [
             {
@@ -48,7 +48,7 @@
         "description": "Run iOS apps without actually installing them!",
         "language": "Swift",
         "languageColor": "#F05138",
-        "stars": 9161,
+        "stars": 9169,
         "fork": 756,
         "currentPeriodStars": 695,
         "builtBy": [
@@ -80,46 +80,6 @@
         ]
     },
     {
-        "author": "apple",
-        "name": "containerization",
-        "avatar": "https://github.com/apple.png",
-        "sponsor": null,
-        "url": "https://github.com/apple/containerization",
-        "description": "Containerization is a Swift package for running Linux containers on macOS.",
-        "language": "Swift",
-        "languageColor": "#F05138",
-        "stars": 8701,
-        "fork": 303,
-        "currentPeriodStars": 42,
-        "builtBy": [
-            {
-                "href": "https://github.com/dcantah",
-                "avatar": "https://avatars.githubusercontent.com/u/36526702?s=40&v=4",
-                "username": "dcantah"
-            },
-            {
-                "href": "https://github.com/dkovba",
-                "avatar": "https://avatars.githubusercontent.com/u/206787606?s=40&v=4",
-                "username": "dkovba"
-            },
-            {
-                "href": "https://github.com/katiewasnothere",
-                "avatar": "https://avatars.githubusercontent.com/u/14638319?s=40&v=4",
-                "username": "katiewasnothere"
-            },
-            {
-                "href": "https://github.com/jglogan",
-                "avatar": "https://avatars.githubusercontent.com/u/1019924?s=40&v=4",
-                "username": "jglogan"
-            },
-            {
-                "href": "https://github.com/crosbymichael",
-                "avatar": "https://avatars.githubusercontent.com/u/749551?s=40&v=4",
-                "username": "crosbymichael"
-            }
-        ]
-    },
-    {
         "author": "osaurus-ai",
         "name": "osaurus",
         "avatar": "https://github.com/osaurus-ai.png",
@@ -128,7 +88,7 @@
         "description": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
         "language": "Swift",
         "languageColor": "#F05138",
-        "stars": 5957,
+        "stars": 5961,
         "fork": 337,
         "currentPeriodStars": 185,
         "builtBy": [
@@ -168,7 +128,7 @@
         "description": "Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.",
         "language": "Swift",
         "languageColor": "#F05138",
-        "stars": 2297,
+        "stars": 2299,
         "fork": 318,
         "currentPeriodStars": 120,
         "builtBy": [
@@ -200,6 +160,46 @@
         ]
     },
     {
+        "author": "apple",
+        "name": "containerization",
+        "avatar": "https://github.com/apple.png",
+        "sponsor": null,
+        "url": "https://github.com/apple/containerization",
+        "description": "Containerization is a Swift package for running Linux containers on macOS.",
+        "language": "Swift",
+        "languageColor": "#F05138",
+        "stars": 8702,
+        "fork": 303,
+        "currentPeriodStars": 42,
+        "builtBy": [
+            {
+                "href": "https://github.com/dcantah",
+                "avatar": "https://avatars.githubusercontent.com/u/36526702?s=40&v=4",
+                "username": "dcantah"
+            },
+            {
+                "href": "https://github.com/dkovba",
+                "avatar": "https://avatars.githubusercontent.com/u/206787606?s=40&v=4",
+                "username": "dkovba"
+            },
+            {
+                "href": "https://github.com/katiewasnothere",
+                "avatar": "https://avatars.githubusercontent.com/u/14638319?s=40&v=4",
+                "username": "katiewasnothere"
+            },
+            {
+                "href": "https://github.com/jglogan",
+                "avatar": "https://avatars.githubusercontent.com/u/1019924?s=40&v=4",
+                "username": "jglogan"
+            },
+            {
+                "href": "https://github.com/crosbymichael",
+                "avatar": "https://avatars.githubusercontent.com/u/749551?s=40&v=4",
+                "username": "crosbymichael"
+            }
+        ]
+    },
+    {
         "author": "openai",
         "name": "tart",
         "avatar": "https://github.com/openai.png",
@@ -208,7 +208,7 @@
         "description": "macOS and Linux VMs on Apple Silicon to use in CI and other automations",
         "language": "Swift",
         "languageColor": "#F05138",
-        "stars": 5909,
+        "stars": 5910,
         "fork": 304,
         "currentPeriodStars": 50,
         "builtBy": [
@@ -236,86 +236,6 @@
                 "href": "https://github.com/marc-48k",
                 "avatar": "https://avatars.githubusercontent.com/u/61566036?s=40&v=4",
                 "username": "marc-48k"
-            }
-        ]
-    },
-    {
-        "author": "tuist",
-        "name": "tuist",
-        "avatar": "https://github.com/tuist.png",
-        "sponsor": "https://github.com/sponsors/tuist",
-        "url": "https://github.com/tuist/tuist",
-        "description": "Your platform team, as a service",
-        "language": "Swift",
-        "languageColor": "#F05138",
-        "stars": 5702,
-        "fork": 747,
-        "currentPeriodStars": 15,
-        "builtBy": [
-            {
-                "href": "https://github.com/fortmarek",
-                "avatar": "https://avatars.githubusercontent.com/u/9371695?s=40&v=4",
-                "username": "fortmarek"
-            },
-            {
-                "href": "https://github.com/pepicrft",
-                "avatar": "https://avatars.githubusercontent.com/u/663605?s=40&v=4",
-                "username": "pepicrft"
-            },
-            {
-                "href": "https://github.com/claude",
-                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-                "username": "claude"
-            },
-            {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
-            },
-            {
-                "href": "https://github.com/apps/depfu",
-                "avatar": "https://avatars.githubusercontent.com/in/715?s=40&v=4",
-                "username": "apps/depfu"
-            }
-        ]
-    },
-    {
-        "author": "ml-explore",
-        "name": "mlx-swift-examples",
-        "avatar": "https://github.com/ml-explore.png",
-        "sponsor": null,
-        "url": "https://github.com/ml-explore/mlx-swift-examples",
-        "description": "Examples using MLX Swift",
-        "language": "Swift",
-        "languageColor": "#F05138",
-        "stars": 2608,
-        "fork": 407,
-        "currentPeriodStars": 11,
-        "builtBy": [
-            {
-                "href": "https://github.com/davidkoski",
-                "avatar": "https://avatars.githubusercontent.com/u/46639364?s=40&v=4",
-                "username": "davidkoski"
-            },
-            {
-                "href": "https://github.com/DePasqualeOrg",
-                "avatar": "https://avatars.githubusercontent.com/u/25420077?s=40&v=4",
-                "username": "DePasqualeOrg"
-            },
-            {
-                "href": "https://github.com/johnmai-dev",
-                "avatar": "https://avatars.githubusercontent.com/u/1825679?s=40&v=4",
-                "username": "johnmai-dev"
-            },
-            {
-                "href": "https://github.com/awni",
-                "avatar": "https://avatars.githubusercontent.com/u/1542805?s=40&v=4",
-                "username": "awni"
-            },
-            {
-                "href": "https://github.com/rudrankriyam",
-                "avatar": "https://avatars.githubusercontent.com/u/30552772?s=40&v=4",
-                "username": "rudrankriyam"
             }
         ]
     },
@@ -360,42 +280,42 @@
         ]
     },
     {
-        "author": "pointfreeco",
-        "name": "swift-composable-architecture",
-        "avatar": "https://github.com/pointfreeco.png",
-        "sponsor": null,
-        "url": "https://github.com/pointfreeco/swift-composable-architecture",
-        "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+        "author": "tuist",
+        "name": "tuist",
+        "avatar": "https://github.com/tuist.png",
+        "sponsor": "https://github.com/sponsors/tuist",
+        "url": "https://github.com/tuist/tuist",
+        "description": "Your platform team, as a service",
         "language": "Swift",
         "languageColor": "#F05138",
-        "stars": 14736,
-        "fork": 1668,
-        "currentPeriodStars": 32,
+        "stars": 5702,
+        "fork": 747,
+        "currentPeriodStars": 15,
         "builtBy": [
             {
-                "href": "https://github.com/stephencelis",
-                "avatar": "https://avatars.githubusercontent.com/u/658?s=40&v=4",
-                "username": "stephencelis"
+                "href": "https://github.com/fortmarek",
+                "avatar": "https://avatars.githubusercontent.com/u/9371695?s=40&v=4",
+                "username": "fortmarek"
             },
             {
-                "href": "https://github.com/mbrandonw",
-                "avatar": "https://avatars.githubusercontent.com/u/135203?s=40&v=4",
-                "username": "mbrandonw"
+                "href": "https://github.com/pepicrft",
+                "avatar": "https://avatars.githubusercontent.com/u/663605?s=40&v=4",
+                "username": "pepicrft"
             },
             {
-                "href": "https://github.com/tgrapperon",
-                "avatar": "https://avatars.githubusercontent.com/u/35562418?s=40&v=4",
-                "username": "tgrapperon"
+                "href": "https://github.com/claude",
+                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+                "username": "claude"
             },
             {
-                "href": "https://github.com/iampatbrown",
-                "avatar": "https://avatars.githubusercontent.com/u/19797367?s=40&v=4",
-                "username": "iampatbrown"
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
             },
             {
-                "href": "https://github.com/Jager-yoo",
-                "avatar": "https://avatars.githubusercontent.com/u/71127966?s=40&v=4",
-                "username": "Jager-yoo"
+                "href": "https://github.com/apps/depfu",
+                "avatar": "https://avatars.githubusercontent.com/in/715?s=40&v=4",
+                "username": "apps/depfu"
             }
         ]
     },
@@ -408,7 +328,7 @@
         "description": "Telegram-iOS",
         "language": "Swift",
         "languageColor": "#F05138",
-        "stars": 8629,
+        "stars": 8631,
         "fork": 2654,
         "currentPeriodStars": 29,
         "builtBy": [
@@ -436,46 +356,6 @@
                 "href": "https://github.com/hermet",
                 "avatar": "https://avatars.githubusercontent.com/u/3711518?s=40&v=4",
                 "username": "hermet"
-            }
-        ]
-    },
-    {
-        "author": "mozilla-mobile",
-        "name": "firefox-ios",
-        "avatar": "https://github.com/mozilla-mobile.png",
-        "sponsor": null,
-        "url": "https://github.com/mozilla-mobile/firefox-ios",
-        "description": "Firefox for iOS",
-        "language": "Swift",
-        "languageColor": "#F05138",
-        "stars": 12969,
-        "fork": 3225,
-        "currentPeriodStars": 5,
-        "builtBy": [
-            {
-                "href": "https://github.com/apps/github-actions",
-                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-                "username": "apps/github-actions"
-            },
-            {
-                "href": "https://github.com/lmarceau",
-                "avatar": "https://avatars.githubusercontent.com/u/11338480?s=40&v=4",
-                "username": "lmarceau"
-            },
-            {
-                "href": "https://github.com/rnewman",
-                "avatar": "https://avatars.githubusercontent.com/u/91722?s=40&v=4",
-                "username": "rnewman"
-            },
-            {
-                "href": "https://github.com/st3fan",
-                "avatar": "https://avatars.githubusercontent.com/u/28052?s=40&v=4",
-                "username": "st3fan"
-            },
-            {
-                "href": "https://github.com/isabelrios",
-                "avatar": "https://avatars.githubusercontent.com/u/1897507?s=40&v=4",
-                "username": "isabelrios"
             }
         ]
     },
@@ -520,6 +400,46 @@
         ]
     },
     {
+        "author": "sw33tLie",
+        "name": "macshot",
+        "avatar": "https://github.com/sw33tLie.png",
+        "sponsor": null,
+        "url": "https://github.com/sw33tLie/macshot",
+        "description": "Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.",
+        "language": "Swift",
+        "languageColor": "#F05138",
+        "stars": 2159,
+        "fork": 116,
+        "currentPeriodStars": 195,
+        "builtBy": [
+            {
+                "href": "https://github.com/claude",
+                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+                "username": "claude"
+            },
+            {
+                "href": "https://github.com/apps/github-actions",
+                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+                "username": "apps/github-actions"
+            },
+            {
+                "href": "https://github.com/sw33tLie",
+                "avatar": "https://avatars.githubusercontent.com/u/47645560?s=40&v=4",
+                "username": "sw33tLie"
+            },
+            {
+                "href": "https://github.com/bytepl",
+                "avatar": "https://avatars.githubusercontent.com/u/4518860?s=40&v=4",
+                "username": "bytepl"
+            },
+            {
+                "href": "https://github.com/fxzer",
+                "avatar": "https://avatars.githubusercontent.com/u/68853957?s=40&v=4",
+                "username": "fxzer"
+            }
+        ]
+    },
+    {
         "author": "onevcat",
         "name": "Kingfisher",
         "avatar": "https://github.com/onevcat.png",
@@ -528,7 +448,7 @@
         "description": "A lightweight, pure-Swift library for downloading and caching images from the web.",
         "language": "Swift",
         "languageColor": "#F05138",
-        "stars": 24341,
+        "stars": 24342,
         "fork": 2758,
         "currentPeriodStars": 7,
         "builtBy": [
@@ -560,67 +480,177 @@
         ]
     },
     {
-        "author": "exelban",
-        "name": "stats",
-        "avatar": "https://github.com/exelban.png",
-        "sponsor": "https://github.com/sponsors/exelban",
-        "url": "https://github.com/exelban/stats",
-        "description": "macOS system monitor in your menu bar",
+        "author": "jellyfin",
+        "name": "Swiftfin",
+        "avatar": "https://github.com/jellyfin.png",
+        "sponsor": null,
+        "url": "https://github.com/jellyfin/Swiftfin",
+        "description": "Native Jellyfin Client for iOS and tvOS",
         "language": "Swift",
         "languageColor": "#F05138",
-        "stars": 39803,
-        "fork": 1381,
-        "currentPeriodStars": 243,
+        "stars": 3953,
+        "fork": 519,
+        "currentPeriodStars": 25,
         "builtBy": [
             {
-                "href": "https://github.com/exelban",
-                "avatar": "https://avatars.githubusercontent.com/u/13332412?s=40&v=4",
-                "username": "exelban"
+                "href": "https://github.com/LePips",
+                "avatar": "https://avatars.githubusercontent.com/u/20747774?s=40&v=4",
+                "username": "LePips"
             },
             {
-                "href": "https://github.com/jrthsr700tmax",
-                "avatar": "https://avatars.githubusercontent.com/u/32911758?s=40&v=4",
-                "username": "jrthsr700tmax"
+                "href": "https://github.com/acvigue",
+                "avatar": "https://avatars.githubusercontent.com/u/34462061?s=40&v=4",
+                "username": "acvigue"
             },
             {
-                "href": "https://github.com/Jerry23011",
-                "avatar": "https://avatars.githubusercontent.com/u/89069957?s=40&v=4",
-                "username": "Jerry23011"
+                "href": "https://github.com/JPKribs",
+                "avatar": "https://avatars.githubusercontent.com/u/37599297?s=40&v=4",
+                "username": "JPKribs"
             },
             {
-                "href": "https://github.com/Fighter456",
-                "avatar": "https://avatars.githubusercontent.com/u/2065714?s=40&v=4",
-                "username": "Fighter456"
+                "href": "https://github.com/PangMo5",
+                "avatar": "https://avatars.githubusercontent.com/u/16532526?s=40&v=4",
+                "username": "PangMo5"
             },
             {
-                "href": "https://github.com/Tai-Zhou",
-                "avatar": "https://avatars.githubusercontent.com/u/21986946?s=40&v=4",
-                "username": "Tai-Zhou"
+                "href": "https://github.com/jhays",
+                "avatar": "https://avatars.githubusercontent.com/u/125045?s=40&v=4",
+                "username": "jhays"
             }
         ]
     },
     {
-        "author": "hamed-elfayome",
-        "name": "Claude-Usage-Tracker",
-        "avatar": "https://github.com/hamed-elfayome.png",
-        "sponsor": "https://github.com/sponsors/hamed-elfayome",
-        "url": "https://github.com/hamed-elfayome/Claude-Usage-Tracker",
-        "description": "Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.",
+        "author": "pointfreeco",
+        "name": "swift-composable-architecture",
+        "avatar": "https://github.com/pointfreeco.png",
+        "sponsor": null,
+        "url": "https://github.com/pointfreeco/swift-composable-architecture",
+        "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
         "language": "Swift",
         "languageColor": "#F05138",
-        "stars": 2782,
-        "fork": 150,
-        "currentPeriodStars": 72,
+        "stars": 14736,
+        "fork": 1668,
+        "currentPeriodStars": 32,
         "builtBy": [
             {
-                "href": "https://github.com/hamed-elfayome",
-                "avatar": "https://avatars.githubusercontent.com/u/72640424?s=40&v=4",
-                "username": "hamed-elfayome"
+                "href": "https://github.com/stephencelis",
+                "avatar": "https://avatars.githubusercontent.com/u/658?s=40&v=4",
+                "username": "stephencelis"
             },
             {
-                "href": "https://github.com/ggfevans",
-                "avatar": "https://avatars.githubusercontent.com/u/63365672?s=40&v=4",
-                "username": "ggfevans"
+                "href": "https://github.com/mbrandonw",
+                "avatar": "https://avatars.githubusercontent.com/u/135203?s=40&v=4",
+                "username": "mbrandonw"
+            },
+            {
+                "href": "https://github.com/tgrapperon",
+                "avatar": "https://avatars.githubusercontent.com/u/35562418?s=40&v=4",
+                "username": "tgrapperon"
+            },
+            {
+                "href": "https://github.com/iampatbrown",
+                "avatar": "https://avatars.githubusercontent.com/u/19797367?s=40&v=4",
+                "username": "iampatbrown"
+            },
+            {
+                "href": "https://github.com/Jager-yoo",
+                "avatar": "https://avatars.githubusercontent.com/u/71127966?s=40&v=4",
+                "username": "Jager-yoo"
+            }
+        ]
+    },
+    {
+        "author": "groue",
+        "name": "GRDB.swift",
+        "avatar": "https://github.com/groue.png",
+        "sponsor": "https://github.com/sponsors/groue",
+        "url": "https://github.com/groue/GRDB.swift",
+        "description": "A toolkit for SQLite databases, with a focus on application development",
+        "language": "Swift",
+        "languageColor": "#F05138",
+        "stars": 8482,
+        "fork": 958,
+        "currentPeriodStars": 21,
+        "builtBy": [
+            {
+                "href": "https://github.com/groue",
+                "avatar": "https://avatars.githubusercontent.com/u/54219?s=40&v=4",
+                "username": "groue"
+            },
+            {
+                "href": "https://github.com/pakko972",
+                "avatar": "https://avatars.githubusercontent.com/u/27460?s=40&v=4",
+                "username": "pakko972"
+            },
+            {
+                "href": "https://github.com/swiftlyfalling",
+                "avatar": "https://avatars.githubusercontent.com/u/18540905?s=40&v=4",
+                "username": "swiftlyfalling"
+            },
+            {
+                "href": "https://github.com/sobri909",
+                "avatar": "https://avatars.githubusercontent.com/u/1203835?s=40&v=4",
+                "username": "sobri909"
+            },
+            {
+                "href": "https://github.com/mallman",
+                "avatar": "https://avatars.githubusercontent.com/u/833693?s=40&v=4",
+                "username": "mallman"
+            }
+        ]
+    },
+    {
+        "author": "gouwsxander",
+        "name": "Reef",
+        "avatar": "https://github.com/gouwsxander.png",
+        "sponsor": null,
+        "url": "https://github.com/gouwsxander/Reef",
+        "description": "The macOS window manager that gives every app its own Alt-Tab.",
+        "language": "Swift",
+        "languageColor": "#F05138",
+        "stars": 403,
+        "fork": 27,
+        "currentPeriodStars": 150,
+        "builtBy": [
+            {
+                "href": "https://github.com/gouwsxander",
+                "avatar": "https://avatars.githubusercontent.com/u/23210823?s=40&v=4",
+                "username": "gouwsxander"
+            },
+            {
+                "href": "https://github.com/OmarHayat-DEV",
+                "avatar": "https://avatars.githubusercontent.com/u/50836920?s=40&v=4",
+                "username": "OmarHayat-DEV"
+            },
+            {
+                "href": "https://github.com/kianbazza",
+                "avatar": "https://avatars.githubusercontent.com/u/28697372?s=40&v=4",
+                "username": "kianbazza"
+            },
+            {
+                "href": "https://github.com/apps/greptile-apps",
+                "avatar": "https://avatars.githubusercontent.com/in/867647?s=40&v=4",
+                "username": "apps/greptile-apps"
+            }
+        ]
+    },
+    {
+        "author": "Caldis",
+        "name": "Mos",
+        "avatar": "https://github.com/Caldis.png",
+        "sponsor": "https://github.com/sponsors/Caldis",
+        "url": "https://github.com/Caldis/Mos",
+        "description": "一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 | A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS",
+        "language": "Swift",
+        "languageColor": "#F05138",
+        "stars": 20622,
+        "fork": 653,
+        "currentPeriodStars": 104,
+        "builtBy": [
+            {
+                "href": "https://github.com/Caldis",
+                "avatar": "https://avatars.githubusercontent.com/u/3529490?s=40&v=4",
+                "username": "Caldis"
             },
             {
                 "href": "https://github.com/claude",
@@ -628,54 +658,19 @@
                 "username": "claude"
             },
             {
-                "href": "https://github.com/actions-user",
-                "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-                "username": "actions-user"
+                "href": "https://github.com/mclvren",
+                "avatar": "https://avatars.githubusercontent.com/u/40006037?s=40&v=4",
+                "username": "mclvren"
             },
             {
-                "href": "https://github.com/khromov",
-                "avatar": "https://avatars.githubusercontent.com/u/1207507?s=40&v=4",
-                "username": "khromov"
-            }
-        ]
-    },
-    {
-        "author": "Alamofire",
-        "name": "Alamofire",
-        "avatar": "https://github.com/Alamofire.png",
-        "sponsor": "https://github.com/sponsors/Alamofire",
-        "url": "https://github.com/Alamofire/Alamofire",
-        "description": "Elegant HTTP Networking in Swift",
-        "language": "Swift",
-        "languageColor": "#F05138",
-        "stars": 42387,
-        "fork": 7670,
-        "currentPeriodStars": 9,
-        "builtBy": [
-            {
-                "href": "https://github.com/cnoon",
-                "avatar": "https://avatars.githubusercontent.com/u/169110?s=40&v=4",
-                "username": "cnoon"
-            },
-            {
-                "href": "https://github.com/jshier",
-                "avatar": "https://avatars.githubusercontent.com/u/51020?s=40&v=4",
-                "username": "jshier"
-            },
-            {
-                "href": "https://github.com/mattt",
-                "avatar": "https://avatars.githubusercontent.com/u/7659?s=40&v=4",
-                "username": "mattt"
+                "href": "https://github.com/codex",
+                "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
+                "username": "codex"
             },
             {
                 "href": "https://github.com/apps/dependabot",
                 "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
                 "username": "apps/dependabot"
-            },
-            {
-                "href": "https://github.com/kylef",
-                "avatar": "https://avatars.githubusercontent.com/u/44164?s=40&v=4",
-                "username": "kylef"
             }
         ]
     }
