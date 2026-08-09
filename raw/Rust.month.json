@@ -8,8 +8,8 @@
         "description": "The most RAM efficient harness",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 16538,
-        "fork": 1860,
+        "stars": 16545,
+        "fork": 1861,
         "currentPeriodStars": 8325,
         "builtBy": [
             {
@@ -48,7 +48,7 @@
         "description": "Lightweight coding agent that runs in your terminal",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 104871,
+        "stars": 104879,
         "fork": 15867,
         "currentPeriodStars": 8918,
         "builtBy": [
@@ -128,8 +128,8 @@
         "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 29082,
-        "fork": 2554,
+        "stars": 29087,
+        "fork": 2555,
         "currentPeriodStars": 3082,
         "builtBy": [
             {
@@ -168,7 +168,7 @@
         "description": "20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 70+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 13757,
+        "stars": 13759,
         "fork": 1414,
         "currentPeriodStars": 4628,
         "builtBy": [
@@ -208,7 +208,7 @@
         "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 65148,
+        "stars": 65149,
         "fork": 3097,
         "currentPeriodStars": 1791,
         "builtBy": [
@@ -236,6 +236,46 @@
                 "href": "https://github.com/stefan0xC",
                 "avatar": "https://avatars.githubusercontent.com/u/509385?s=40&v=4",
                 "username": "stefan0xC"
+            }
+        ]
+    },
+    {
+        "author": "rustfs",
+        "name": "rustfs",
+        "avatar": "https://github.com/rustfs.png",
+        "sponsor": null,
+        "url": "https://github.com/rustfs/rustfs",
+        "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "stars": 30806,
+        "fork": 1372,
+        "currentPeriodStars": 1268,
+        "builtBy": [
+            {
+                "href": "https://github.com/overtrue",
+                "avatar": "https://avatars.githubusercontent.com/u/1472352?s=40&v=4",
+                "username": "overtrue"
+            },
+            {
+                "href": "https://github.com/houseme",
+                "avatar": "https://avatars.githubusercontent.com/u/4829346?s=40&v=4",
+                "username": "houseme"
+            },
+            {
+                "href": "https://github.com/heihutu",
+                "avatar": "https://avatars.githubusercontent.com/u/30542132?s=40&v=4",
+                "username": "heihutu"
+            },
+            {
+                "href": "https://github.com/weisd",
+                "avatar": "https://avatars.githubusercontent.com/u/2057561?s=40&v=4",
+                "username": "weisd"
+            },
+            {
+                "href": "https://github.com/loverustfs",
+                "avatar": "https://avatars.githubusercontent.com/u/155562731?s=40&v=4",
+                "username": "loverustfs"
             }
         ]
     },
@@ -280,206 +320,6 @@
         ]
     },
     {
-        "author": "rustfs",
-        "name": "rustfs",
-        "avatar": "https://github.com/rustfs.png",
-        "sponsor": null,
-        "url": "https://github.com/rustfs/rustfs",
-        "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-        "language": "Rust",
-        "languageColor": "#dea584",
-        "stars": 30805,
-        "fork": 1372,
-        "currentPeriodStars": 1268,
-        "builtBy": [
-            {
-                "href": "https://github.com/overtrue",
-                "avatar": "https://avatars.githubusercontent.com/u/1472352?s=40&v=4",
-                "username": "overtrue"
-            },
-            {
-                "href": "https://github.com/houseme",
-                "avatar": "https://avatars.githubusercontent.com/u/4829346?s=40&v=4",
-                "username": "houseme"
-            },
-            {
-                "href": "https://github.com/heihutu",
-                "avatar": "https://avatars.githubusercontent.com/u/30542132?s=40&v=4",
-                "username": "heihutu"
-            },
-            {
-                "href": "https://github.com/weisd",
-                "avatar": "https://avatars.githubusercontent.com/u/2057561?s=40&v=4",
-                "username": "weisd"
-            },
-            {
-                "href": "https://github.com/loverustfs",
-                "avatar": "https://avatars.githubusercontent.com/u/155562731?s=40&v=4",
-                "username": "loverustfs"
-            }
-        ]
-    },
-    {
-        "author": "Zackriya-Solutions",
-        "name": "meetily",
-        "avatar": "https://github.com/Zackriya-Solutions.png",
-        "sponsor": "https://github.com/sponsors/Zackriya-Solutions",
-        "url": "https://github.com/Zackriya-Solutions/meetily",
-        "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
-        "language": "Rust",
-        "languageColor": "#dea584",
-        "stars": 28606,
-        "fork": 3014,
-        "currentPeriodStars": 7253,
-        "builtBy": [
-            {
-                "href": "https://github.com/sujithatzackriya",
-                "avatar": "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
-                "username": "sujithatzackriya"
-            },
-            {
-                "href": "https://github.com/safvanatzack",
-                "avatar": "https://avatars.githubusercontent.com/u/213172806?s=40&v=4",
-                "username": "safvanatzack"
-            },
-            {
-                "href": "https://github.com/mohammedsafvan",
-                "avatar": "https://avatars.githubusercontent.com/u/37416474?s=40&v=4",
-                "username": "mohammedsafvan"
-            },
-            {
-                "href": "https://github.com/athulchandroth",
-                "avatar": "https://avatars.githubusercontent.com/u/87969134?s=40&v=4",
-                "username": "athulchandroth"
-            },
-            {
-                "href": "https://github.com/p-s-vishnu",
-                "avatar": "https://avatars.githubusercontent.com/u/14847870?s=40&v=4",
-                "username": "p-s-vishnu"
-            }
-        ]
-    },
-    {
-        "author": "rustdesk",
-        "name": "rustdesk",
-        "avatar": "https://github.com/rustdesk.png",
-        "sponsor": "https://github.com/sponsors/rustdesk",
-        "url": "https://github.com/rustdesk/rustdesk",
-        "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-        "language": "Rust",
-        "languageColor": "#dea584",
-        "stars": 119935,
-        "fork": 18355,
-        "currentPeriodStars": 2361,
-        "builtBy": [
-            {
-                "href": "https://github.com/rustdesk",
-                "avatar": "https://avatars.githubusercontent.com/u/71636191?s=40&v=4",
-                "username": "rustdesk"
-            },
-            {
-                "href": "https://github.com/fufesou",
-                "avatar": "https://avatars.githubusercontent.com/u/13586388?s=40&v=4",
-                "username": "fufesou"
-            },
-            {
-                "href": "https://github.com/21pages",
-                "avatar": "https://avatars.githubusercontent.com/u/14891774?s=40&v=4",
-                "username": "21pages"
-            },
-            {
-                "href": "https://github.com/Kingtous",
-                "avatar": "https://avatars.githubusercontent.com/u/39793325?s=40&v=4",
-                "username": "Kingtous"
-            },
-            {
-                "href": "https://github.com/Heap-Hop",
-                "avatar": "https://avatars.githubusercontent.com/u/62206297?s=40&v=4",
-                "username": "Heap-Hop"
-            }
-        ]
-    },
-    {
-        "author": "astral-sh",
-        "name": "uv",
-        "avatar": "https://github.com/astral-sh.png",
-        "sponsor": null,
-        "url": "https://github.com/astral-sh/uv",
-        "description": "An extremely fast Python package and project manager, written in Rust.",
-        "language": "Rust",
-        "languageColor": "#dea584",
-        "stars": 88528,
-        "fork": 3461,
-        "currentPeriodStars": 1472,
-        "builtBy": [
-            {
-                "href": "https://github.com/charliermarsh",
-                "avatar": "https://avatars.githubusercontent.com/u/1309177?s=40&v=4",
-                "username": "charliermarsh"
-            },
-            {
-                "href": "https://github.com/zanieb",
-                "avatar": "https://avatars.githubusercontent.com/u/2586601?s=40&v=4",
-                "username": "zanieb"
-            },
-            {
-                "href": "https://github.com/konstin",
-                "avatar": "https://avatars.githubusercontent.com/u/6826232?s=40&v=4",
-                "username": "konstin"
-            },
-            {
-                "href": "https://github.com/apps/renovate",
-                "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
-                "username": "apps/renovate"
-            },
-            {
-                "href": "https://github.com/BurntSushi",
-                "avatar": "https://avatars.githubusercontent.com/u/456674?s=40&v=4",
-                "username": "BurntSushi"
-            }
-        ]
-    },
-    {
-        "author": "malisper",
-        "name": "pgrust",
-        "avatar": "https://github.com/malisper.png",
-        "sponsor": null,
-        "url": "https://github.com/malisper/pgrust",
-        "description": "Postgres rewritten in Rust, now faster than Postgres and Clickhouse",
-        "language": "Rust",
-        "languageColor": "#dea584",
-        "stars": 4249,
-        "fork": 160,
-        "currentPeriodStars": 4047,
-        "builtBy": [
-            {
-                "href": "https://github.com/malisper",
-                "avatar": "https://avatars.githubusercontent.com/u/6210567?s=40&v=4",
-                "username": "malisper"
-            },
-            {
-                "href": "https://github.com/BookSock",
-                "avatar": "https://avatars.githubusercontent.com/u/20192857?s=40&v=4",
-                "username": "BookSock"
-            },
-            {
-                "href": "https://github.com/claude",
-                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-                "username": "claude"
-            },
-            {
-                "href": "https://github.com/apps/github-actions",
-                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-                "username": "apps/github-actions"
-            },
-            {
-                "href": "https://github.com/apps/detail-app",
-                "avatar": "https://avatars.githubusercontent.com/in/987401?s=40&v=4",
-                "username": "apps/detail-app"
-            }
-        ]
-    },
-    {
         "author": "jdx",
         "name": "mise",
         "avatar": "https://github.com/jdx.png",
@@ -488,7 +328,7 @@
         "description": "dev tools, env vars, task runner",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 32181,
+        "stars": 32184,
         "fork": 1342,
         "currentPeriodStars": 1695,
         "builtBy": [
@@ -520,6 +360,46 @@
         ]
     },
     {
+        "author": "rustdesk",
+        "name": "rustdesk",
+        "avatar": "https://github.com/rustdesk.png",
+        "sponsor": "https://github.com/sponsors/rustdesk",
+        "url": "https://github.com/rustdesk/rustdesk",
+        "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "stars": 119936,
+        "fork": 18356,
+        "currentPeriodStars": 2361,
+        "builtBy": [
+            {
+                "href": "https://github.com/rustdesk",
+                "avatar": "https://avatars.githubusercontent.com/u/71636191?s=40&v=4",
+                "username": "rustdesk"
+            },
+            {
+                "href": "https://github.com/fufesou",
+                "avatar": "https://avatars.githubusercontent.com/u/13586388?s=40&v=4",
+                "username": "fufesou"
+            },
+            {
+                "href": "https://github.com/21pages",
+                "avatar": "https://avatars.githubusercontent.com/u/14891774?s=40&v=4",
+                "username": "21pages"
+            },
+            {
+                "href": "https://github.com/Kingtous",
+                "avatar": "https://avatars.githubusercontent.com/u/39793325?s=40&v=4",
+                "username": "Kingtous"
+            },
+            {
+                "href": "https://github.com/Heap-Hop",
+                "avatar": "https://avatars.githubusercontent.com/u/62206297?s=40&v=4",
+                "username": "Heap-Hop"
+            }
+        ]
+    },
+    {
         "author": "DioxusLabs",
         "name": "dioxus",
         "avatar": "https://github.com/DioxusLabs.png",
@@ -528,7 +408,7 @@
         "description": "Fullstack app framework for web, desktop, and mobile.",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 38557,
+        "stars": 38556,
         "fork": 1832,
         "currentPeriodStars": 1996,
         "builtBy": [
@@ -556,6 +436,126 @@
                 "href": "https://github.com/reinismx",
                 "avatar": "https://avatars.githubusercontent.com/u/11248241?s=40&v=4",
                 "username": "reinismx"
+            }
+        ]
+    },
+    {
+        "author": "astral-sh",
+        "name": "uv",
+        "avatar": "https://github.com/astral-sh.png",
+        "sponsor": null,
+        "url": "https://github.com/astral-sh/uv",
+        "description": "An extremely fast Python package and project manager, written in Rust.",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "stars": 88528,
+        "fork": 3462,
+        "currentPeriodStars": 1472,
+        "builtBy": [
+            {
+                "href": "https://github.com/charliermarsh",
+                "avatar": "https://avatars.githubusercontent.com/u/1309177?s=40&v=4",
+                "username": "charliermarsh"
+            },
+            {
+                "href": "https://github.com/zanieb",
+                "avatar": "https://avatars.githubusercontent.com/u/2586601?s=40&v=4",
+                "username": "zanieb"
+            },
+            {
+                "href": "https://github.com/konstin",
+                "avatar": "https://avatars.githubusercontent.com/u/6826232?s=40&v=4",
+                "username": "konstin"
+            },
+            {
+                "href": "https://github.com/apps/renovate",
+                "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
+                "username": "apps/renovate"
+            },
+            {
+                "href": "https://github.com/BurntSushi",
+                "avatar": "https://avatars.githubusercontent.com/u/456674?s=40&v=4",
+                "username": "BurntSushi"
+            }
+        ]
+    },
+    {
+        "author": "apache",
+        "name": "datafusion",
+        "avatar": "https://github.com/apache.png",
+        "sponsor": null,
+        "url": "https://github.com/apache/datafusion",
+        "description": "Apache DataFusion SQL Query Engine",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "stars": 9108,
+        "fork": 2285,
+        "currentPeriodStars": 158,
+        "builtBy": [
+            {
+                "href": "https://github.com/alamb",
+                "avatar": "https://avatars.githubusercontent.com/u/490673?s=40&v=4",
+                "username": "alamb"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/andygrove",
+                "avatar": "https://avatars.githubusercontent.com/u/934084?s=40&v=4",
+                "username": "andygrove"
+            },
+            {
+                "href": "https://github.com/kou",
+                "avatar": "https://avatars.githubusercontent.com/u/27350?s=40&v=4",
+                "username": "kou"
+            },
+            {
+                "href": "https://github.com/comphead",
+                "avatar": "https://avatars.githubusercontent.com/u/10247224?s=40&v=4",
+                "username": "comphead"
+            }
+        ]
+    },
+    {
+        "author": "modelcontextprotocol",
+        "name": "rust-sdk",
+        "avatar": "https://github.com/modelcontextprotocol.png",
+        "sponsor": null,
+        "url": "https://github.com/modelcontextprotocol/rust-sdk",
+        "description": "The official Rust SDK for the Model Context Protocol",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "stars": 3775,
+        "fork": 595,
+        "currentPeriodStars": 165,
+        "builtBy": [
+            {
+                "href": "https://github.com/DaleSeo",
+                "avatar": "https://avatars.githubusercontent.com/u/5466341?s=40&v=4",
+                "username": "DaleSeo"
+            },
+            {
+                "href": "https://github.com/jokemanfire",
+                "avatar": "https://avatars.githubusercontent.com/u/26783504?s=40&v=4",
+                "username": "jokemanfire"
+            },
+            {
+                "href": "https://github.com/apps/github-actions",
+                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+                "username": "apps/github-actions"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/alexhancock",
+                "avatar": "https://avatars.githubusercontent.com/u/427516?s=40&v=4",
+                "username": "alexhancock"
             }
         ]
     },
@@ -600,6 +600,46 @@
         ]
     },
     {
+        "author": "malisper",
+        "name": "pgrust",
+        "avatar": "https://github.com/malisper.png",
+        "sponsor": null,
+        "url": "https://github.com/malisper/pgrust",
+        "description": "Postgres rewritten in Rust, now faster than Postgres and Clickhouse",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "stars": 4251,
+        "fork": 160,
+        "currentPeriodStars": 4047,
+        "builtBy": [
+            {
+                "href": "https://github.com/malisper",
+                "avatar": "https://avatars.githubusercontent.com/u/6210567?s=40&v=4",
+                "username": "malisper"
+            },
+            {
+                "href": "https://github.com/BookSock",
+                "avatar": "https://avatars.githubusercontent.com/u/20192857?s=40&v=4",
+                "username": "BookSock"
+            },
+            {
+                "href": "https://github.com/claude",
+                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+                "username": "claude"
+            },
+            {
+                "href": "https://github.com/apps/github-actions",
+                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+                "username": "apps/github-actions"
+            },
+            {
+                "href": "https://github.com/apps/detail-app",
+                "avatar": "https://avatars.githubusercontent.com/in/987401?s=40&v=4",
+                "username": "apps/detail-app"
+            }
+        ]
+    },
+    {
         "author": "andrewrabert",
         "name": "jellium-desktop",
         "avatar": "https://github.com/andrewrabert.png",
@@ -636,46 +676,6 @@
                 "href": "https://github.com/gnattu",
                 "avatar": "https://avatars.githubusercontent.com/u/12995396?s=40&v=4",
                 "username": "gnattu"
-            }
-        ]
-    },
-    {
-        "author": "screenpipe",
-        "name": "screenpipe",
-        "avatar": "https://github.com/screenpipe.png",
-        "sponsor": null,
-        "url": "https://github.com/screenpipe/screenpipe",
-        "description": "YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps",
-        "language": "Rust",
-        "languageColor": "#dea584",
-        "stars": 20847,
-        "fork": 2082,
-        "currentPeriodStars": 1166,
-        "builtBy": [
-            {
-                "href": "https://github.com/louis030195",
-                "avatar": "https://avatars.githubusercontent.com/u/25003283?s=40&v=4",
-                "username": "louis030195"
-            },
-            {
-                "href": "https://github.com/claude",
-                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-                "username": "claude"
-            },
-            {
-                "href": "https://github.com/EzraEllette",
-                "avatar": "https://avatars.githubusercontent.com/u/50280365?s=40&v=4",
-                "username": "EzraEllette"
-            },
-            {
-                "href": "https://github.com/Anshgrover23",
-                "avatar": "https://avatars.githubusercontent.com/u/168731971?s=40&v=4",
-                "username": "Anshgrover23"
-            },
-            {
-                "href": "https://github.com/apps/github-actions",
-                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-                "username": "apps/github-actions"
             }
         ]
     },
@@ -720,82 +720,82 @@
         ]
     },
     {
-        "author": "astral-sh",
-        "name": "ruff",
-        "avatar": "https://github.com/astral-sh.png",
+        "author": "screenpipe",
+        "name": "screenpipe",
+        "avatar": "https://github.com/screenpipe.png",
         "sponsor": null,
-        "url": "https://github.com/astral-sh/ruff",
-        "description": "An extremely fast Python linter and code formatter, written in Rust.",
+        "url": "https://github.com/screenpipe/screenpipe",
+        "description": "YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 49112,
-        "fork": 2312,
-        "currentPeriodStars": 834,
+        "stars": 20849,
+        "fork": 2082,
+        "currentPeriodStars": 1166,
         "builtBy": [
             {
-                "href": "https://github.com/charliermarsh",
-                "avatar": "https://avatars.githubusercontent.com/u/1309177?s=40&v=4",
-                "username": "charliermarsh"
+                "href": "https://github.com/louis030195",
+                "avatar": "https://avatars.githubusercontent.com/u/25003283?s=40&v=4",
+                "username": "louis030195"
             },
             {
-                "href": "https://github.com/MichaReiser",
-                "avatar": "https://avatars.githubusercontent.com/u/1203881?s=40&v=4",
-                "username": "MichaReiser"
+                "href": "https://github.com/claude",
+                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+                "username": "claude"
             },
             {
-                "href": "https://github.com/AlexWaygood",
-                "avatar": "https://avatars.githubusercontent.com/u/66076021?s=40&v=4",
-                "username": "AlexWaygood"
+                "href": "https://github.com/EzraEllette",
+                "avatar": "https://avatars.githubusercontent.com/u/50280365?s=40&v=4",
+                "username": "EzraEllette"
             },
             {
-                "href": "https://github.com/apps/renovate",
-                "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
-                "username": "apps/renovate"
+                "href": "https://github.com/Anshgrover23",
+                "avatar": "https://avatars.githubusercontent.com/u/168731971?s=40&v=4",
+                "username": "Anshgrover23"
             },
             {
-                "href": "https://github.com/sharkdp",
-                "avatar": "https://avatars.githubusercontent.com/u/4209276?s=40&v=4",
-                "username": "sharkdp"
+                "href": "https://github.com/apps/github-actions",
+                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+                "username": "apps/github-actions"
             }
         ]
     },
     {
-        "author": "tauri-apps",
-        "name": "tauri",
-        "avatar": "https://github.com/tauri-apps.png",
-        "sponsor": "https://github.com/sponsors/tauri-apps",
-        "url": "https://github.com/tauri-apps/tauri",
-        "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+        "author": "Automattic",
+        "name": "harper",
+        "avatar": "https://github.com/Automattic.png",
+        "sponsor": null,
+        "url": "https://github.com/Automattic/harper",
+        "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 110037,
-        "fork": 3850,
-        "currentPeriodStars": 1374,
+        "stars": 14290,
+        "fork": 557,
+        "currentPeriodStars": 3309,
         "builtBy": [
             {
-                "href": "https://github.com/lucasfernog",
-                "avatar": "https://avatars.githubusercontent.com/u/20051258?s=40&v=4",
-                "username": "lucasfernog"
+                "href": "https://github.com/elijah-potter",
+                "avatar": "https://avatars.githubusercontent.com/u/17440968?s=40&v=4",
+                "username": "elijah-potter"
             },
             {
-                "href": "https://github.com/apps/renovate",
-                "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
-                "username": "apps/renovate"
+                "href": "https://github.com/hippietrail",
+                "avatar": "https://avatars.githubusercontent.com/u/533619?s=40&v=4",
+                "username": "hippietrail"
             },
             {
-                "href": "https://github.com/amrbashir",
-                "avatar": "https://avatars.githubusercontent.com/u/48618675?s=40&v=4",
-                "username": "amrbashir"
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
             },
             {
-                "href": "https://github.com/renovate-bot",
-                "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
-                "username": "renovate-bot"
+                "href": "https://github.com/grantlemons",
+                "avatar": "https://avatars.githubusercontent.com/u/9543284?s=40&v=4",
+                "username": "grantlemons"
             },
             {
-                "href": "https://github.com/FabianLars",
-                "avatar": "https://avatars.githubusercontent.com/u/30730186?s=40&v=4",
-                "username": "FabianLars"
+                "href": "https://github.com/mcecode",
+                "avatar": "https://avatars.githubusercontent.com/u/65783406?s=40&v=4",
+                "username": "mcecode"
             }
         ]
     }
