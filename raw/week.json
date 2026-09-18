@@ -5,11 +5,11 @@
         "avatar": "https://github.com/alibaba.png",
         "sponsor": null,
         "url": "https://github.com/alibaba/open-code-review",
-        "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 35400,
-        "fork": 2508,
+        "stars": 36091,
+        "fork": 2565,
         "currentPeriodStars": 11489,
         "builtBy": [
             {
@@ -48,8 +48,8 @@
         "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "language": "Python",
         "languageColor": "#3572A5",
-        "stars": 47591,
-        "fork": 2773,
+        "stars": 47749,
+        "fork": 2779,
         "currentPeriodStars": 10800,
         "builtBy": [
             {
@@ -88,8 +88,8 @@
         "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
-        "stars": 37247,
-        "fork": 7486,
+        "stars": 37401,
+        "fork": 7525,
         "currentPeriodStars": 14460,
         "builtBy": [
             {
@@ -128,8 +128,8 @@
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
-        "stars": 261322,
-        "fork": 39119,
+        "stars": 261497,
+        "fork": 39138,
         "currentPeriodStars": 5607,
         "builtBy": [
             {
@@ -160,46 +160,6 @@
         ]
     },
     {
-        "author": "mksglu",
-        "name": "context-mode",
-        "avatar": "https://github.com/mksglu.png",
-        "sponsor": "https://github.com/sponsors/mksglu",
-        "url": "https://github.com/mksglu/context-mode",
-        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "language": "TypeScript",
-        "languageColor": "#3178c6",
-        "stars": 23423,
-        "fork": 1685,
-        "currentPeriodStars": 1482,
-        "builtBy": [
-            {
-                "href": "https://github.com/mksglu",
-                "avatar": "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
-                "username": "mksglu"
-            },
-            {
-                "href": "https://github.com/claude",
-                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-                "username": "claude"
-            },
-            {
-                "href": "https://github.com/apps/github-actions",
-                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-                "username": "apps/github-actions"
-            },
-            {
-                "href": "https://github.com/ipedro",
-                "avatar": "https://avatars.githubusercontent.com/u/380338?s=40&v=4",
-                "username": "ipedro"
-            },
-            {
-                "href": "https://github.com/ousamabenyounes",
-                "avatar": "https://avatars.githubusercontent.com/u/2910651?s=40&v=4",
-                "username": "ousamabenyounes"
-            }
-        ]
-    },
-    {
         "author": "Tencent",
         "name": "WeKnora",
         "avatar": "https://github.com/Tencent.png",
@@ -208,8 +168,8 @@
         "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 26522,
-        "fork": 3573,
+        "stars": 26758,
+        "fork": 3605,
         "currentPeriodStars": 3982,
         "builtBy": [
             {
@@ -240,6 +200,206 @@
         ]
     },
     {
+        "author": "anthropics",
+        "name": "claude-code",
+        "avatar": "https://github.com/anthropics.png",
+        "sponsor": null,
+        "url": "https://github.com/anthropics/claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "stars": 146033,
+        "fork": 23688,
+        "currentPeriodStars": 1294,
+        "builtBy": [
+            {
+                "href": "https://github.com/actions-user",
+                "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+                "username": "actions-user"
+            },
+            {
+                "href": "https://github.com/poteat",
+                "avatar": "https://avatars.githubusercontent.com/u/7668446?s=40&v=4",
+                "username": "poteat"
+            },
+            {
+                "href": "https://github.com/bcherny",
+                "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&v=4",
+                "username": "bcherny"
+            },
+            {
+                "href": "https://github.com/claude",
+                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+                "username": "claude"
+            },
+            {
+                "href": "https://github.com/ant-kurt",
+                "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&v=4",
+                "username": "ant-kurt"
+            }
+        ]
+    },
+    {
+        "author": "mksglu",
+        "name": "context-mode",
+        "avatar": "https://github.com/mksglu.png",
+        "sponsor": "https://github.com/sponsors/mksglu",
+        "url": "https://github.com/mksglu/context-mode",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "stars": 23460,
+        "fork": 1688,
+        "currentPeriodStars": 1482,
+        "builtBy": [
+            {
+                "href": "https://github.com/mksglu",
+                "avatar": "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
+                "username": "mksglu"
+            },
+            {
+                "href": "https://github.com/claude",
+                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+                "username": "claude"
+            },
+            {
+                "href": "https://github.com/apps/github-actions",
+                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+                "username": "apps/github-actions"
+            },
+            {
+                "href": "https://github.com/ipedro",
+                "avatar": "https://avatars.githubusercontent.com/u/380338?s=40&v=4",
+                "username": "ipedro"
+            },
+            {
+                "href": "https://github.com/ousamabenyounes",
+                "avatar": "https://avatars.githubusercontent.com/u/2910651?s=40&v=4",
+                "username": "ousamabenyounes"
+            }
+        ]
+    },
+    {
+        "author": "addyosmani",
+        "name": "agent-skills",
+        "avatar": "https://github.com/addyosmani.png",
+        "sponsor": null,
+        "url": "https://github.com/addyosmani/agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 96133,
+        "fork": 10167,
+        "currentPeriodStars": 2560,
+        "builtBy": [
+            {
+                "href": "https://github.com/addyosmani",
+                "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
+                "username": "addyosmani"
+            },
+            {
+                "href": "https://github.com/nucliweb",
+                "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
+                "username": "nucliweb"
+            },
+            {
+                "href": "https://github.com/federicobartoli",
+                "avatar": "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
+                "username": "federicobartoli"
+            },
+            {
+                "href": "https://github.com/claude",
+                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+                "username": "claude"
+            },
+            {
+                "href": "https://github.com/HMAKT99",
+                "avatar": "https://avatars.githubusercontent.com/u/222980227?s=40&v=4",
+                "username": "HMAKT99"
+            }
+        ]
+    },
+    {
+        "author": "max-sixty",
+        "name": "worktrunk",
+        "avatar": "https://github.com/max-sixty.png",
+        "sponsor": null,
+        "url": "https://github.com/max-sixty/worktrunk",
+        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "stars": 7977,
+        "fork": 273,
+        "currentPeriodStars": 1060,
+        "builtBy": [
+            {
+                "href": "https://github.com/max-sixty",
+                "avatar": "https://avatars.githubusercontent.com/u/5635139?s=40&v=4",
+                "username": "max-sixty"
+            },
+            {
+                "href": "https://github.com/claude",
+                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+                "username": "claude"
+            },
+            {
+                "href": "https://github.com/worktrunk-bot",
+                "avatar": "https://avatars.githubusercontent.com/u/254187624?s=40&v=4",
+                "username": "worktrunk-bot"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/apps/github-actions",
+                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+                "username": "apps/github-actions"
+            }
+        ]
+    },
+    {
+        "author": "anthropics",
+        "name": "knowledge-work-plugins",
+        "avatar": "https://github.com/anthropics.png",
+        "sponsor": null,
+        "url": "https://github.com/anthropics/knowledge-work-plugins",
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "stars": 24703,
+        "fork": 2957,
+        "currentPeriodStars": 488,
+        "builtBy": [
+            {
+                "href": "https://github.com/apps/github-actions",
+                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+                "username": "apps/github-actions"
+            },
+            {
+                "href": "https://github.com/jordanecker-ant",
+                "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
+                "username": "jordanecker-ant"
+            },
+            {
+                "href": "https://github.com/bryan-anthropic",
+                "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
+                "username": "bryan-anthropic"
+            },
+            {
+                "href": "https://github.com/claude",
+                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+                "username": "claude"
+            },
+            {
+                "href": "https://github.com/mattpic-ant",
+                "avatar": "https://avatars.githubusercontent.com/u/227474486?s=40&v=4",
+                "username": "mattpic-ant"
+            }
+        ]
+    },
+    {
         "author": "openai",
         "name": "plugins",
         "avatar": "https://github.com/openai.png",
@@ -248,7 +408,7 @@
         "description": "OpenAI Plugins",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
-        "stars": 6927,
+        "stars": 6946,
         "fork": 901,
         "currentPeriodStars": 564,
         "builtBy": [
@@ -280,206 +440,6 @@
         ]
     },
     {
-        "author": "max-sixty",
-        "name": "worktrunk",
-        "avatar": "https://github.com/max-sixty.png",
-        "sponsor": null,
-        "url": "https://github.com/max-sixty/worktrunk",
-        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-        "language": "Rust",
-        "languageColor": "#dea584",
-        "stars": 7958,
-        "fork": 272,
-        "currentPeriodStars": 1060,
-        "builtBy": [
-            {
-                "href": "https://github.com/max-sixty",
-                "avatar": "https://avatars.githubusercontent.com/u/5635139?s=40&v=4",
-                "username": "max-sixty"
-            },
-            {
-                "href": "https://github.com/claude",
-                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-                "username": "claude"
-            },
-            {
-                "href": "https://github.com/worktrunk-bot",
-                "avatar": "https://avatars.githubusercontent.com/u/254187624?s=40&v=4",
-                "username": "worktrunk-bot"
-            },
-            {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
-            },
-            {
-                "href": "https://github.com/apps/github-actions",
-                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-                "username": "apps/github-actions"
-            }
-        ]
-    },
-    {
-        "author": "addyosmani",
-        "name": "agent-skills",
-        "avatar": "https://github.com/addyosmani.png",
-        "sponsor": null,
-        "url": "https://github.com/addyosmani/agent-skills",
-        "description": "Production-grade engineering skills for AI coding agents.",
-        "language": "JavaScript",
-        "languageColor": "#f1e05a",
-        "stars": 95982,
-        "fork": 10155,
-        "currentPeriodStars": 2560,
-        "builtBy": [
-            {
-                "href": "https://github.com/addyosmani",
-                "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
-                "username": "addyosmani"
-            },
-            {
-                "href": "https://github.com/nucliweb",
-                "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&v=4",
-                "username": "nucliweb"
-            },
-            {
-                "href": "https://github.com/federicobartoli",
-                "avatar": "https://avatars.githubusercontent.com/u/27234034?s=40&v=4",
-                "username": "federicobartoli"
-            },
-            {
-                "href": "https://github.com/claude",
-                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-                "username": "claude"
-            },
-            {
-                "href": "https://github.com/HMAKT99",
-                "avatar": "https://avatars.githubusercontent.com/u/222980227?s=40&v=4",
-                "username": "HMAKT99"
-            }
-        ]
-    },
-    {
-        "author": "anthropics",
-        "name": "claude-code",
-        "avatar": "https://github.com/anthropics.png",
-        "sponsor": null,
-        "url": "https://github.com/anthropics/claude-code",
-        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-        "language": "TypeScript",
-        "languageColor": "#3178c6",
-        "stars": 145944,
-        "fork": 23654,
-        "currentPeriodStars": 1294,
-        "builtBy": [
-            {
-                "href": "https://github.com/actions-user",
-                "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-                "username": "actions-user"
-            },
-            {
-                "href": "https://github.com/poteat",
-                "avatar": "https://avatars.githubusercontent.com/u/7668446?s=40&v=4",
-                "username": "poteat"
-            },
-            {
-                "href": "https://github.com/bcherny",
-                "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&v=4",
-                "username": "bcherny"
-            },
-            {
-                "href": "https://github.com/claude",
-                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-                "username": "claude"
-            },
-            {
-                "href": "https://github.com/ant-kurt",
-                "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&v=4",
-                "username": "ant-kurt"
-            }
-        ]
-    },
-    {
-        "author": "anthropics",
-        "name": "knowledge-work-plugins",
-        "avatar": "https://github.com/anthropics.png",
-        "sponsor": null,
-        "url": "https://github.com/anthropics/knowledge-work-plugins",
-        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "language": "Python",
-        "languageColor": "#3572A5",
-        "stars": 24630,
-        "fork": 2952,
-        "currentPeriodStars": 488,
-        "builtBy": [
-            {
-                "href": "https://github.com/apps/github-actions",
-                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-                "username": "apps/github-actions"
-            },
-            {
-                "href": "https://github.com/jordanecker-ant",
-                "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
-                "username": "jordanecker-ant"
-            },
-            {
-                "href": "https://github.com/bryan-anthropic",
-                "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
-                "username": "bryan-anthropic"
-            },
-            {
-                "href": "https://github.com/claude",
-                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-                "username": "claude"
-            },
-            {
-                "href": "https://github.com/mattpic-ant",
-                "avatar": "https://avatars.githubusercontent.com/u/227474486?s=40&v=4",
-                "username": "mattpic-ant"
-            }
-        ]
-    },
-    {
-        "author": "obra",
-        "name": "superpowers",
-        "avatar": "https://github.com/obra.png",
-        "sponsor": "https://github.com/sponsors/obra",
-        "url": "https://github.com/obra/superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "languageColor": "#89e051",
-        "stars": 288216,
-        "fork": 25782,
-        "currentPeriodStars": 3821,
-        "builtBy": [
-            {
-                "href": "https://github.com/obra",
-                "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
-                "username": "obra"
-            },
-            {
-                "href": "https://github.com/arittr",
-                "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
-                "username": "arittr"
-            },
-            {
-                "href": "https://github.com/claude",
-                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-                "username": "claude"
-            },
-            {
-                "href": "https://github.com/clkao",
-                "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&v=4",
-                "username": "clkao"
-            },
-            {
-                "href": "https://github.com/jjshanks",
-                "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&v=4",
-                "username": "jjshanks"
-            }
-        ]
-    },
-    {
         "author": "blader",
         "name": "humanizer",
         "avatar": "https://github.com/blader.png",
@@ -488,8 +448,8 @@
         "description": "Agent skill that removes signs of AI-generated writing from text",
         "language": "Python",
         "languageColor": "#3572A5",
-        "stars": 49664,
-        "fork": 4018,
+        "stars": 49767,
+        "fork": 4025,
         "currentPeriodStars": 3235,
         "builtBy": [
             {
@@ -520,6 +480,46 @@
         ]
     },
     {
+        "author": "kunchenguid",
+        "name": "firstmate",
+        "avatar": "https://github.com/kunchenguid.png",
+        "sponsor": null,
+        "url": "https://github.com/kunchenguid/firstmate",
+        "description": "Talk to one agent. Ship with a crew.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "stars": 6466,
+        "fork": 1980,
+        "currentPeriodStars": 890,
+        "builtBy": [
+            {
+                "href": "https://github.com/kunchenguid",
+                "avatar": "https://avatars.githubusercontent.com/u/3233006?s=40&v=4",
+                "username": "kunchenguid"
+            },
+            {
+                "href": "https://github.com/mremond",
+                "avatar": "https://avatars.githubusercontent.com/u/86736?s=40&v=4",
+                "username": "mremond"
+            },
+            {
+                "href": "https://github.com/karotkriss",
+                "avatar": "https://avatars.githubusercontent.com/u/101884182?s=40&v=4",
+                "username": "karotkriss"
+            },
+            {
+                "href": "https://github.com/tiago-peixoto",
+                "avatar": "https://avatars.githubusercontent.com/u/1987829?s=40&v=4",
+                "username": "tiago-peixoto"
+            },
+            {
+                "href": "https://github.com/claude",
+                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+                "username": "claude"
+            }
+        ]
+    },
+    {
         "author": "microsoft",
         "name": "markitdown",
         "avatar": "https://github.com/microsoft.png",
@@ -528,8 +528,8 @@
         "description": "Python tool for converting files and office documents to Markdown.",
         "language": "Python",
         "languageColor": "#3572A5",
-        "stars": 185199,
-        "fork": 13635,
+        "stars": 185289,
+        "fork": 13636,
         "currentPeriodStars": 2814,
         "builtBy": [
             {
@@ -568,8 +568,8 @@
         "description": "🏡 Open source home automation that puts local control and privacy first.",
         "language": "Python",
         "languageColor": "#3572A5",
-        "stars": 90682,
-        "fork": 38688,
+        "stars": 90696,
+        "fork": 38692,
         "currentPeriodStars": 285,
         "builtBy": [
             {
@@ -600,42 +600,162 @@
         ]
     },
     {
-        "author": "kunchenguid",
-        "name": "firstmate",
-        "avatar": "https://github.com/kunchenguid.png",
+        "author": "stablyai",
+        "name": "orca",
+        "avatar": "https://github.com/stablyai.png",
         "sponsor": null,
-        "url": "https://github.com/kunchenguid/firstmate",
-        "description": "Talk to one agent. Ship with a crew.",
-        "language": "Shell",
-        "languageColor": "#89e051",
-        "stars": 6442,
-        "fork": 1968,
-        "currentPeriodStars": 890,
+        "url": "https://github.com/stablyai/orca",
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "stars": 71497,
+        "fork": 4680,
+        "currentPeriodStars": 5305,
         "builtBy": [
             {
-                "href": "https://github.com/kunchenguid",
-                "avatar": "https://avatars.githubusercontent.com/u/3233006?s=40&v=4",
-                "username": "kunchenguid"
+                "href": "https://github.com/nwparker",
+                "avatar": "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
+                "username": "nwparker"
             },
             {
-                "href": "https://github.com/mremond",
-                "avatar": "https://avatars.githubusercontent.com/u/86736?s=40&v=4",
-                "username": "mremond"
+                "href": "https://github.com/AmethystLiang",
+                "avatar": "https://avatars.githubusercontent.com/u/6427696?s=40&v=4",
+                "username": "AmethystLiang"
             },
             {
-                "href": "https://github.com/karotkriss",
-                "avatar": "https://avatars.githubusercontent.com/u/101884182?s=40&v=4",
-                "username": "karotkriss"
+                "href": "https://github.com/orca-ide",
+                "avatar": "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
+                "username": "orca-ide"
             },
             {
-                "href": "https://github.com/tiago-peixoto",
-                "avatar": "https://avatars.githubusercontent.com/u/1987829?s=40&v=4",
-                "username": "tiago-peixoto"
+                "href": "https://github.com/brennanb2025",
+                "avatar": "https://avatars.githubusercontent.com/u/79079362?s=40&v=4",
+                "username": "brennanb2025"
+            },
+            {
+                "href": "https://github.com/Jinwoo-H",
+                "avatar": "https://avatars.githubusercontent.com/u/73622457?s=40&v=4",
+                "username": "Jinwoo-H"
+            }
+        ]
+    },
+    {
+        "author": "heygen-com",
+        "name": "hyperframes",
+        "avatar": "https://github.com/heygen-com.png",
+        "sponsor": null,
+        "url": "https://github.com/heygen-com/hyperframes",
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "stars": 51225,
+        "fork": 4663,
+        "currentPeriodStars": 2400,
+        "builtBy": [
+            {
+                "href": "https://github.com/miguel-heygen",
+                "avatar": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
+                "username": "miguel-heygen"
+            },
+            {
+                "href": "https://github.com/vanceingalls",
+                "avatar": "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
+                "username": "vanceingalls"
+            },
+            {
+                "href": "https://github.com/jrusso1020",
+                "avatar": "https://avatars.githubusercontent.com/u/7664106?s=40&v=4",
+                "username": "jrusso1020"
             },
             {
                 "href": "https://github.com/claude",
                 "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
                 "username": "claude"
+            },
+            {
+                "href": "https://github.com/ukimsanov",
+                "avatar": "https://avatars.githubusercontent.com/u/165517112?s=40&v=4",
+                "username": "ukimsanov"
+            }
+        ]
+    },
+    {
+        "author": "Panniantong",
+        "name": "Agent-Reach",
+        "avatar": "https://github.com/Panniantong.png",
+        "sponsor": null,
+        "url": "https://github.com/Panniantong/Agent-Reach",
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "stars": 82979,
+        "fork": 7258,
+        "currentPeriodStars": 3670,
+        "builtBy": [
+            {
+                "href": "https://github.com/Panniantong",
+                "avatar": "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
+                "username": "Panniantong"
+            },
+            {
+                "href": "https://github.com/claude",
+                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+                "username": "claude"
+            },
+            {
+                "href": "https://github.com/nyxst4ck",
+                "avatar": "https://avatars.githubusercontent.com/u/289980115?s=40&v=4",
+                "username": "nyxst4ck"
+            },
+            {
+                "href": "https://github.com/kadaliao",
+                "avatar": "https://avatars.githubusercontent.com/u/7401626?s=40&v=4",
+                "username": "kadaliao"
+            },
+            {
+                "href": "https://github.com/hymansun",
+                "avatar": "https://avatars.githubusercontent.com/u/10735997?s=40&v=4",
+                "username": "hymansun"
+            }
+        ]
+    },
+    {
+        "author": "obra",
+        "name": "superpowers",
+        "avatar": "https://github.com/obra.png",
+        "sponsor": "https://github.com/sponsors/obra",
+        "url": "https://github.com/obra/superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "stars": 288322,
+        "fork": 25784,
+        "currentPeriodStars": 3821,
+        "builtBy": [
+            {
+                "href": "https://github.com/obra",
+                "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
+                "username": "obra"
+            },
+            {
+                "href": "https://github.com/arittr",
+                "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
+                "username": "arittr"
+            },
+            {
+                "href": "https://github.com/claude",
+                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+                "username": "claude"
+            },
+            {
+                "href": "https://github.com/clkao",
+                "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&v=4",
+                "username": "clkao"
+            },
+            {
+                "href": "https://github.com/jjshanks",
+                "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&v=4",
+                "username": "jjshanks"
             }
         ]
     },
@@ -648,8 +768,8 @@
         "description": "Removes 20+ patterns of AI slop from any piece of writing.",
         "language": "Python",
         "languageColor": "#3572A5",
-        "stars": 10417,
-        "fork": 727,
+        "stars": 10468,
+        "fork": 726,
         "currentPeriodStars": 2256,
         "builtBy": [
             {
@@ -688,8 +808,8 @@
         "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
         "language": "TypeScript",
         "languageColor": "#3178c6",
-        "stars": 44257,
-        "fork": 9097,
+        "stars": 44285,
+        "fork": 9101,
         "currentPeriodStars": 1421,
         "builtBy": [
             {
@@ -716,126 +836,6 @@
                 "href": "https://github.com/wtlyu",
                 "avatar": "https://avatars.githubusercontent.com/u/8267138?s=40&v=4",
                 "username": "wtlyu"
-            }
-        ]
-    },
-    {
-        "author": "stablyai",
-        "name": "orca",
-        "avatar": "https://github.com/stablyai.png",
-        "sponsor": null,
-        "url": "https://github.com/stablyai/orca",
-        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "language": "TypeScript",
-        "languageColor": "#3178c6",
-        "stars": 71291,
-        "fork": 4668,
-        "currentPeriodStars": 5305,
-        "builtBy": [
-            {
-                "href": "https://github.com/nwparker",
-                "avatar": "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
-                "username": "nwparker"
-            },
-            {
-                "href": "https://github.com/AmethystLiang",
-                "avatar": "https://avatars.githubusercontent.com/u/6427696?s=40&v=4",
-                "username": "AmethystLiang"
-            },
-            {
-                "href": "https://github.com/orca-ide",
-                "avatar": "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
-                "username": "orca-ide"
-            },
-            {
-                "href": "https://github.com/brennanb2025",
-                "avatar": "https://avatars.githubusercontent.com/u/79079362?s=40&v=4",
-                "username": "brennanb2025"
-            },
-            {
-                "href": "https://github.com/Jinwoo-H",
-                "avatar": "https://avatars.githubusercontent.com/u/73622457?s=40&v=4",
-                "username": "Jinwoo-H"
-            }
-        ]
-    },
-    {
-        "author": "Panniantong",
-        "name": "Agent-Reach",
-        "avatar": "https://github.com/Panniantong.png",
-        "sponsor": null,
-        "url": "https://github.com/Panniantong/Agent-Reach",
-        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-        "language": "Python",
-        "languageColor": "#3572A5",
-        "stars": 82880,
-        "fork": 7248,
-        "currentPeriodStars": 3670,
-        "builtBy": [
-            {
-                "href": "https://github.com/Panniantong",
-                "avatar": "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
-                "username": "Panniantong"
-            },
-            {
-                "href": "https://github.com/claude",
-                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-                "username": "claude"
-            },
-            {
-                "href": "https://github.com/nyxst4ck",
-                "avatar": "https://avatars.githubusercontent.com/u/289980115?s=40&v=4",
-                "username": "nyxst4ck"
-            },
-            {
-                "href": "https://github.com/kadaliao",
-                "avatar": "https://avatars.githubusercontent.com/u/7401626?s=40&v=4",
-                "username": "kadaliao"
-            },
-            {
-                "href": "https://github.com/hymansun",
-                "avatar": "https://avatars.githubusercontent.com/u/10735997?s=40&v=4",
-                "username": "hymansun"
-            }
-        ]
-    },
-    {
-        "author": "decolua",
-        "name": "9router",
-        "avatar": "https://github.com/decolua.png",
-        "sponsor": null,
-        "url": "https://github.com/decolua/9router",
-        "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-        "language": "JavaScript",
-        "languageColor": "#f1e05a",
-        "stars": 29202,
-        "fork": 5383,
-        "currentPeriodStars": 871,
-        "builtBy": [
-            {
-                "href": "https://github.com/cursoragent",
-                "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-                "username": "cursoragent"
-            },
-            {
-                "href": "https://github.com/decolua",
-                "avatar": "https://avatars.githubusercontent.com/u/8282593?s=40&v=4",
-                "username": "decolua"
-            },
-            {
-                "href": "https://github.com/claude",
-                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-                "username": "claude"
-            },
-            {
-                "href": "https://github.com/anuragg-saxenaa",
-                "avatar": "https://avatars.githubusercontent.com/u/17893081?s=40&v=4",
-                "username": "anuragg-saxenaa"
-            },
-            {
-                "href": "https://github.com/Jordannst",
-                "avatar": "https://avatars.githubusercontent.com/u/180127601?s=40&v=4",
-                "username": "Jordannst"
             }
         ]
     }
