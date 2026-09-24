@@ -8,9 +8,9 @@
         "description": "Google's open agentic orchestration runtime",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 9559,
-        "fork": 470,
-        "currentPeriodStars": 1543,
+        "stars": 9854,
+        "fork": 486,
+        "currentPeriodStars": 1376,
         "builtBy": [
             {
                 "href": "https://github.com/rakyll",
@@ -48,9 +48,9 @@
         "description": "Agent Substrate: the core system",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 3647,
-        "fork": 424,
-        "currentPeriodStars": 558,
+        "stars": 3699,
+        "fork": 427,
+        "currentPeriodStars": 439,
         "builtBy": [
             {
                 "href": "https://github.com/BenTheElder",
@@ -80,27 +80,62 @@
         ]
     },
     {
-        "author": "hoaxisr",
-        "name": "awg-manager",
-        "avatar": "https://github.com/hoaxisr.png",
+        "author": "maximhq",
+        "name": "bifrost",
+        "avatar": "https://github.com/maximhq.png",
         "sponsor": null,
-        "url": "https://github.com/hoaxisr/awg-manager",
-        "description": "AmneziaWG tunnel manager with web interface for Keenetic routers",
+        "url": "https://github.com/maximhq/bifrost",
+        "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 676,
-        "fork": 43,
-        "currentPeriodStars": 10,
+        "stars": 8318,
+        "fork": 1278,
+        "currentPeriodStars": 48,
         "builtBy": [
             {
-                "href": "https://github.com/hoaxisr",
-                "avatar": "https://avatars.githubusercontent.com/u/205931037?s=40&v=4",
-                "username": "hoaxisr"
+                "href": "https://github.com/akshaydeo",
+                "avatar": "https://avatars.githubusercontent.com/u/1050029?s=40&v=4",
+                "username": "akshaydeo"
             },
             {
-                "href": "https://github.com/DevRedOWL",
-                "avatar": "https://avatars.githubusercontent.com/u/22500953?s=40&v=4",
-                "username": "DevRedOWL"
+                "href": "https://github.com/apps/github-actions",
+                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+                "username": "apps/github-actions"
+            },
+            {
+                "href": "https://github.com/Pratham-Mishra04",
+                "avatar": "https://avatars.githubusercontent.com/u/99235987?s=40&v=4",
+                "username": "Pratham-Mishra04"
+            },
+            {
+                "href": "https://github.com/impoiler",
+                "avatar": "https://avatars.githubusercontent.com/u/83772622?s=40&v=4",
+                "username": "impoiler"
+            },
+            {
+                "href": "https://github.com/TejasGhatte",
+                "avatar": "https://avatars.githubusercontent.com/u/64637256?s=40&v=4",
+                "username": "TejasGhatte"
+            }
+        ]
+    },
+    {
+        "author": "bjarneo",
+        "name": "cliamp",
+        "avatar": "https://github.com/bjarneo.png",
+        "sponsor": "https://github.com/sponsors/bjarneo",
+        "url": "https://github.com/bjarneo/cliamp",
+        "description": "cliamp - Terminal music player inspired by winamp",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 4325,
+        "fork": 291,
+        "currentPeriodStars": 23,
+        "builtBy": [
+            {
+                "href": "https://github.com/bjarneo",
+                "avatar": "https://avatars.githubusercontent.com/u/1419214?s=40&v=4",
+                "username": "bjarneo"
             },
             {
                 "href": "https://github.com/claude",
@@ -108,14 +143,19 @@
                 "username": "claude"
             },
             {
-                "href": "https://github.com/iqubik",
-                "avatar": "https://avatars.githubusercontent.com/u/22661808?s=40&v=4",
-                "username": "iqubik"
+                "href": "https://github.com/tahadx",
+                "avatar": "https://avatars.githubusercontent.com/u/152646159?s=40&v=4",
+                "username": "tahadx"
             },
             {
-                "href": "https://github.com/miuirussia",
-                "avatar": "https://avatars.githubusercontent.com/u/1270028?s=40&v=4",
-                "username": "miuirussia"
+                "href": "https://github.com/coryshaw1",
+                "avatar": "https://avatars.githubusercontent.com/u/5014172?s=40&v=4",
+                "username": "coryshaw1"
+            },
+            {
+                "href": "https://github.com/oweneldridge",
+                "avatar": "https://avatars.githubusercontent.com/u/90428464?s=40&v=4",
+                "username": "oweneldridge"
             }
         ]
     },
@@ -128,7 +168,7 @@
         "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 5044,
+        "stars": 5075,
         "fork": 138,
         "currentPeriodStars": 185,
         "builtBy": [
@@ -156,126 +196,6 @@
                 "href": "https://github.com/a-churchill",
                 "avatar": "https://avatars.githubusercontent.com/u/18105223?s=40&v=4",
                 "username": "a-churchill"
-            }
-        ]
-    },
-    {
-        "author": "mostlygeek",
-        "name": "llama-swap",
-        "avatar": "https://github.com/mostlygeek.png",
-        "sponsor": "https://github.com/sponsors/mostlygeek",
-        "url": "https://github.com/mostlygeek/llama-swap",
-        "description": "Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 5742,
-        "fork": 481,
-        "currentPeriodStars": 15,
-        "builtBy": [
-            {
-                "href": "https://github.com/mostlygeek",
-                "avatar": "https://avatars.githubusercontent.com/u/83972?s=40&v=4",
-                "username": "mostlygeek"
-            },
-            {
-                "href": "https://github.com/claude",
-                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-                "username": "claude"
-            },
-            {
-                "href": "https://github.com/ryan-steed-usa",
-                "avatar": "https://avatars.githubusercontent.com/u/240190636?s=40&v=4",
-                "username": "ryan-steed-usa"
-            },
-            {
-                "href": "https://github.com/cphlipot",
-                "avatar": "https://avatars.githubusercontent.com/u/9103367?s=40&v=4",
-                "username": "cphlipot"
-            },
-            {
-                "href": "https://github.com/marcusds",
-                "avatar": "https://avatars.githubusercontent.com/u/52287?s=40&v=4",
-                "username": "marcusds"
-            }
-        ]
-    },
-    {
-        "author": "opentofu",
-        "name": "opentofu",
-        "avatar": "https://github.com/opentofu.png",
-        "sponsor": null,
-        "url": "https://github.com/opentofu/opentofu",
-        "description": "OpenTofu lets you declaratively manage your cloud infrastructure.",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 30273,
-        "fork": 1378,
-        "currentPeriodStars": 13,
-        "builtBy": [
-            {
-                "href": "https://github.com/apparentlymart",
-                "avatar": "https://avatars.githubusercontent.com/u/20180?s=40&v=4",
-                "username": "apparentlymart"
-            },
-            {
-                "href": "https://github.com/cam72cam",
-                "avatar": "https://avatars.githubusercontent.com/u/892136?s=40&v=4",
-                "username": "cam72cam"
-            },
-            {
-                "href": "https://github.com/yottta",
-                "avatar": "https://avatars.githubusercontent.com/u/1978353?s=40&v=4",
-                "username": "yottta"
-            },
-            {
-                "href": "https://github.com/Yantrio",
-                "avatar": "https://avatars.githubusercontent.com/u/237469?s=40&v=4",
-                "username": "Yantrio"
-            },
-            {
-                "href": "https://github.com/diofeher",
-                "avatar": "https://avatars.githubusercontent.com/u/161360?s=40&v=4",
-                "username": "diofeher"
-            }
-        ]
-    },
-    {
-        "author": "zzet",
-        "name": "gortex",
-        "avatar": "https://github.com/zzet.png",
-        "sponsor": null,
-        "url": "https://github.com/zzet/gortex",
-        "description": "High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord:https://discord.gg/39MFHu3J5d",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 1745,
-        "fork": 162,
-        "currentPeriodStars": 37,
-        "builtBy": [
-            {
-                "href": "https://github.com/zzet",
-                "avatar": "https://avatars.githubusercontent.com/u/510788?s=40&v=4",
-                "username": "zzet"
-            },
-            {
-                "href": "https://github.com/pbednarcik",
-                "avatar": "https://avatars.githubusercontent.com/u/29061766?s=40&v=4",
-                "username": "pbednarcik"
-            },
-            {
-                "href": "https://github.com/tiendungdev",
-                "avatar": "https://avatars.githubusercontent.com/u/16449683?s=40&v=4",
-                "username": "tiendungdev"
-            },
-            {
-                "href": "https://github.com/claude",
-                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-                "username": "claude"
-            },
-            {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
             }
         ]
     },
@@ -320,42 +240,202 @@
         ]
     },
     {
-        "author": "chenyme",
-        "name": "grok2api",
-        "avatar": "https://github.com/chenyme.png",
+        "author": "ArvinLovegood",
+        "name": "go-stock",
+        "avatar": "https://github.com/ArvinLovegood.png",
         "sponsor": null,
-        "url": "https://github.com/chenyme/grok2api",
-        "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+        "url": "https://github.com/ArvinLovegood/go-stock",
+        "description": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 7733,
-        "fork": 2310,
-        "currentPeriodStars": 12,
+        "stars": 7689,
+        "fork": 1346,
+        "currentPeriodStars": 87,
         "builtBy": [
             {
-                "href": "https://github.com/chenyme",
-                "avatar": "https://avatars.githubusercontent.com/u/118253778?s=40&v=4",
-                "username": "chenyme"
+                "href": "https://github.com/ArvinLovegood",
+                "avatar": "https://avatars.githubusercontent.com/u/7401917?s=40&v=4",
+                "username": "ArvinLovegood"
             },
             {
-                "href": "https://github.com/lij768423-svg",
-                "avatar": "https://avatars.githubusercontent.com/u/265844445?s=40&v=4",
-                "username": "lij768423-svg"
+                "href": "https://github.com/CodeNoobLH",
+                "avatar": "https://avatars.githubusercontent.com/u/49932926?s=40&v=4",
+                "username": "CodeNoobLH"
             },
             {
-                "href": "https://github.com/piexian",
-                "avatar": "https://avatars.githubusercontent.com/u/64474352?s=40&v=4",
-                "username": "piexian"
+                "href": "https://github.com/apps/github-advanced-security",
+                "avatar": "https://avatars.githubusercontent.com/in/57789?s=40&v=4",
+                "username": "apps/github-advanced-security"
             },
             {
-                "href": "https://github.com/lijirou12",
-                "avatar": "https://avatars.githubusercontent.com/u/121499347?s=40&v=4",
-                "username": "lijirou12"
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
             },
             {
-                "href": "https://github.com/buddhism5080",
-                "avatar": "https://avatars.githubusercontent.com/u/220765740?s=40&v=4",
-                "username": "buddhism5080"
+                "href": "https://github.com/GiCo001",
+                "avatar": "https://avatars.githubusercontent.com/u/13131107?s=40&v=4",
+                "username": "GiCo001"
+            }
+        ]
+    },
+    {
+        "author": "gosom",
+        "name": "google-maps-scraper",
+        "avatar": "https://github.com/gosom.png",
+        "sponsor": "https://github.com/sponsors/gosom",
+        "url": "https://github.com/gosom/google-maps-scraper",
+        "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 6062,
+        "fork": 965,
+        "currentPeriodStars": 38,
+        "builtBy": [
+            {
+                "href": "https://github.com/gosom",
+                "avatar": "https://avatars.githubusercontent.com/u/454718?s=40&v=4",
+                "username": "gosom"
+            },
+            {
+                "href": "https://github.com/dredozubov",
+                "avatar": "https://avatars.githubusercontent.com/u/131368?s=40&v=4",
+                "username": "dredozubov"
+            },
+            {
+                "href": "https://github.com/sbOogway",
+                "avatar": "https://avatars.githubusercontent.com/u/92176188?s=40&v=4",
+                "username": "sbOogway"
+            },
+            {
+                "href": "https://github.com/fidalgo",
+                "avatar": "https://avatars.githubusercontent.com/u/22743?s=40&v=4",
+                "username": "fidalgo"
+            },
+            {
+                "href": "https://github.com/claude",
+                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+                "username": "claude"
+            }
+        ]
+    },
+    {
+        "author": "getarcaneapp",
+        "name": "arcane",
+        "avatar": "https://github.com/getarcaneapp.png",
+        "sponsor": null,
+        "url": "https://github.com/getarcaneapp/arcane",
+        "description": "Modern Docker Management, Designed for Everyone",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 7578,
+        "fork": 318,
+        "currentPeriodStars": 30,
+        "builtBy": [
+            {
+                "href": "https://github.com/kmendell",
+                "avatar": "https://avatars.githubusercontent.com/u/25576967?s=40&v=4",
+                "username": "kmendell"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/getarcaneappbot",
+                "avatar": "https://avatars.githubusercontent.com/u/242722930?s=40&v=4",
+                "username": "getarcaneappbot"
+            },
+            {
+                "href": "https://github.com/cabaucom376",
+                "avatar": "https://avatars.githubusercontent.com/u/104145051?s=40&v=4",
+                "username": "cabaucom376"
+            },
+            {
+                "href": "https://github.com/GiulioSavini",
+                "avatar": "https://avatars.githubusercontent.com/u/180265839?s=40&v=4",
+                "username": "GiulioSavini"
+            }
+        ]
+    },
+    {
+        "author": "autobrr",
+        "name": "autobrr",
+        "avatar": "https://github.com/autobrr.png",
+        "sponsor": null,
+        "url": "https://github.com/autobrr/autobrr",
+        "description": "Modern, easy to use download automation for torrents and usenet.",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 3083,
+        "fork": 219,
+        "currentPeriodStars": 33,
+        "builtBy": [
+            {
+                "href": "https://github.com/zze0s",
+                "avatar": "https://avatars.githubusercontent.com/u/43699394?s=40&v=4",
+                "username": "zze0s"
+            },
+            {
+                "href": "https://github.com/ludviglundgren",
+                "avatar": "https://avatars.githubusercontent.com/u/16375387?s=40&v=4",
+                "username": "ludviglundgren"
+            },
+            {
+                "href": "https://github.com/martylukyy",
+                "avatar": "https://avatars.githubusercontent.com/u/35452459?s=40&v=4",
+                "username": "martylukyy"
+            },
+            {
+                "href": "https://github.com/KyleSanderson",
+                "avatar": "https://avatars.githubusercontent.com/u/1184902?s=40&v=4",
+                "username": "KyleSanderson"
+            },
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            }
+        ]
+    },
+    {
+        "author": "openfga",
+        "name": "openfga",
+        "avatar": "https://github.com/openfga.png",
+        "sponsor": null,
+        "url": "https://github.com/openfga/openfga",
+        "description": "A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 5850,
+        "fork": 504,
+        "currentPeriodStars": 19,
+        "builtBy": [
+            {
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/jon-whit",
+                "avatar": "https://avatars.githubusercontent.com/u/2899204?s=40&v=4",
+                "username": "jon-whit"
+            },
+            {
+                "href": "https://github.com/adriantam",
+                "avatar": "https://avatars.githubusercontent.com/u/10730463?s=40&v=4",
+                "username": "adriantam"
+            },
+            {
+                "href": "https://github.com/justincoh",
+                "avatar": "https://avatars.githubusercontent.com/u/9086184?s=40&v=4",
+                "username": "justincoh"
+            },
+            {
+                "href": "https://github.com/senojj",
+                "avatar": "https://avatars.githubusercontent.com/u/5853354?s=40&v=4",
+                "username": "senojj"
             }
         ]
     },
@@ -368,8 +448,8 @@
         "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 53090,
-        "fork": 8014,
+        "stars": 53111,
+        "fork": 8016,
         "currentPeriodStars": 179,
         "builtBy": [
             {
@@ -400,42 +480,82 @@
         ]
     },
     {
-        "author": "bjarneo",
-        "name": "cliamp",
-        "avatar": "https://github.com/bjarneo.png",
-        "sponsor": "https://github.com/sponsors/bjarneo",
-        "url": "https://github.com/bjarneo/cliamp",
-        "description": "cliamp - Terminal music player inspired by winamp",
+        "author": "projectdiscovery",
+        "name": "nuclei",
+        "avatar": "https://github.com/projectdiscovery.png",
+        "sponsor": null,
+        "url": "https://github.com/projectdiscovery/nuclei",
+        "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 4319,
-        "fork": 290,
-        "currentPeriodStars": 23,
+        "stars": 31488,
+        "fork": 3890,
+        "currentPeriodStars": 35,
         "builtBy": [
             {
-                "href": "https://github.com/bjarneo",
-                "avatar": "https://avatars.githubusercontent.com/u/1419214?s=40&v=4",
-                "username": "bjarneo"
+                "href": "https://github.com/Mzack9999",
+                "avatar": "https://avatars.githubusercontent.com/u/13421144?s=40&v=4",
+                "username": "Mzack9999"
             },
             {
-                "href": "https://github.com/claude",
-                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-                "username": "claude"
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
             },
             {
-                "href": "https://github.com/tahadx",
-                "avatar": "https://avatars.githubusercontent.com/u/152646159?s=40&v=4",
-                "username": "tahadx"
+                "href": "https://github.com/ehsandeep",
+                "avatar": "https://avatars.githubusercontent.com/u/8293321?s=40&v=4",
+                "username": "ehsandeep"
             },
             {
-                "href": "https://github.com/coryshaw1",
-                "avatar": "https://avatars.githubusercontent.com/u/5014172?s=40&v=4",
-                "username": "coryshaw1"
+                "href": "https://github.com/Ice3man543",
+                "avatar": "https://avatars.githubusercontent.com/u/22318055?s=40&v=4",
+                "username": "Ice3man543"
             },
             {
-                "href": "https://github.com/oweneldridge",
-                "avatar": "https://avatars.githubusercontent.com/u/90428464?s=40&v=4",
-                "username": "oweneldridge"
+                "href": "https://github.com/dogancanbakir",
+                "avatar": "https://avatars.githubusercontent.com/u/65292895?s=40&v=4",
+                "username": "dogancanbakir"
+            }
+        ]
+    },
+    {
+        "author": "getprobo",
+        "name": "probo",
+        "avatar": "https://github.com/getprobo.png",
+        "sponsor": null,
+        "url": "https://github.com/getprobo/probo",
+        "description": "Open source solutions for SOC2, GDPR, and ISO27001",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 1381,
+        "fork": 216,
+        "currentPeriodStars": 2,
+        "builtBy": [
+            {
+                "href": "https://github.com/gearnode",
+                "avatar": "https://avatars.githubusercontent.com/u/4477761?s=40&v=4",
+                "username": "gearnode"
+            },
+            {
+                "href": "https://github.com/codenem",
+                "avatar": "https://avatars.githubusercontent.com/u/5413062?s=40&v=4",
+                "username": "codenem"
+            },
+            {
+                "href": "https://github.com/SachaProbo",
+                "avatar": "https://avatars.githubusercontent.com/u/213242136?s=40&v=4",
+                "username": "SachaProbo"
+            },
+            {
+                "href": "https://github.com/cursoragent",
+                "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+                "username": "cursoragent"
+            },
+            {
+                "href": "https://github.com/aureliensibiril",
+                "avatar": "https://avatars.githubusercontent.com/u/81782?s=40&v=4",
+                "username": "aureliensibiril"
             }
         ]
     },
@@ -448,7 +568,7 @@
         "description": "MCP server for Grafana",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 3489,
+        "stars": 3492,
         "fork": 454,
         "currentPeriodStars": 2,
         "builtBy": [
@@ -480,232 +600,27 @@
         ]
     },
     {
-        "author": "github",
-        "name": "gh-stack",
-        "avatar": "https://github.com/github.png",
+        "author": "skyhook-io",
+        "name": "radar",
+        "avatar": "https://github.com/skyhook-io.png",
         "sponsor": null,
-        "url": "https://github.com/github/gh-stack",
-        "description": "GitHub Stacked PRs",
+        "url": "https://github.com/skyhook-io/radar",
+        "description": "The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and cluster audits - all in one Go binary.",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 1553,
-        "fork": 75,
-        "currentPeriodStars": 6,
+        "stars": 3463,
+        "fork": 222,
+        "currentPeriodStars": 9,
         "builtBy": [
             {
-                "href": "https://github.com/skarim",
-                "avatar": "https://avatars.githubusercontent.com/u/1701557?s=40&v=4",
-                "username": "skarim"
+                "href": "https://github.com/nadaverell",
+                "avatar": "https://avatars.githubusercontent.com/u/81293832?s=40&v=4",
+                "username": "nadaverell"
             },
             {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
-            },
-            {
-                "href": "https://github.com/apps/github-copilot-cli",
-                "avatar": "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
-                "username": "apps/github-copilot-cli"
-            },
-            {
-                "href": "https://github.com/apps/copilot-pull-request-reviewer",
-                "avatar": "https://avatars.githubusercontent.com/in/946600?s=40&v=4",
-                "username": "apps/copilot-pull-request-reviewer"
-            },
-            {
-                "href": "https://github.com/apps/copilot-swe-agent",
-                "avatar": "https://avatars.githubusercontent.com/in/1143301?s=40&v=4",
-                "username": "apps/copilot-swe-agent"
-            }
-        ]
-    },
-    {
-        "author": "prometheus",
-        "name": "prometheus",
-        "avatar": "https://github.com/prometheus.png",
-        "sponsor": null,
-        "url": "https://github.com/prometheus/prometheus",
-        "description": "The Prometheus monitoring system and time series database.",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 66202,
-        "fork": 10853,
-        "currentPeriodStars": 28,
-        "builtBy": [
-            {
-                "href": "https://github.com/fabxc",
-                "avatar": "https://avatars.githubusercontent.com/u/4948210?s=40&v=4",
-                "username": "fabxc"
-            },
-            {
-                "href": "https://github.com/juliusv",
-                "avatar": "https://avatars.githubusercontent.com/u/538008?s=40&v=4",
-                "username": "juliusv"
-            },
-            {
-                "href": "https://github.com/beorn7",
-                "avatar": "https://avatars.githubusercontent.com/u/5609886?s=40&v=4",
-                "username": "beorn7"
-            },
-            {
-                "href": "https://github.com/bboreham",
-                "avatar": "https://avatars.githubusercontent.com/u/8125524?s=40&v=4",
-                "username": "bboreham"
-            },
-            {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
-            }
-        ]
-    },
-    {
-        "author": "hashicorp",
-        "name": "terraform",
-        "avatar": "https://github.com/hashicorp.png",
-        "sponsor": null,
-        "url": "https://github.com/hashicorp/terraform",
-        "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 49716,
-        "fork": 10626,
-        "currentPeriodStars": 10,
-        "builtBy": [
-            {
-                "href": "https://github.com/jbardin",
-                "avatar": "https://avatars.githubusercontent.com/u/35067?s=40&v=4",
-                "username": "jbardin"
-            },
-            {
-                "href": "https://github.com/mitchellh",
-                "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&v=4",
-                "username": "mitchellh"
-            },
-            {
-                "href": "https://github.com/apparentlymart",
-                "avatar": "https://avatars.githubusercontent.com/u/20180?s=40&v=4",
-                "username": "apparentlymart"
-            },
-            {
-                "href": "https://github.com/stack72",
-                "avatar": "https://avatars.githubusercontent.com/u/227823?s=40&v=4",
-                "username": "stack72"
-            },
-            {
-                "href": "https://github.com/catsby",
-                "avatar": "https://avatars.githubusercontent.com/u/61721?s=40&v=4",
-                "username": "catsby"
-            }
-        ]
-    },
-    {
-        "author": "kubernetes-sigs",
-        "name": "karpenter",
-        "avatar": "https://github.com/kubernetes-sigs.png",
-        "sponsor": null,
-        "url": "https://github.com/kubernetes-sigs/karpenter",
-        "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 2202,
-        "fork": 582,
-        "currentPeriodStars": 7,
-        "builtBy": [
-            {
-                "href": "https://github.com/jonathan-innis",
-                "avatar": "https://avatars.githubusercontent.com/u/26334334?s=40&v=4",
-                "username": "jonathan-innis"
-            },
-            {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
-            },
-            {
-                "href": "https://github.com/engedaam",
-                "avatar": "https://avatars.githubusercontent.com/u/74629455?s=40&v=4",
-                "username": "engedaam"
-            },
-            {
-                "href": "https://github.com/njtran",
-                "avatar": "https://avatars.githubusercontent.com/u/10810510?s=40&v=4",
-                "username": "njtran"
-            },
-            {
-                "href": "https://github.com/jmdeal",
-                "avatar": "https://avatars.githubusercontent.com/u/24946140?s=40&v=4",
-                "username": "jmdeal"
-            }
-        ]
-    },
-    {
-        "author": "projectdiscovery",
-        "name": "nuclei",
-        "avatar": "https://github.com/projectdiscovery.png",
-        "sponsor": null,
-        "url": "https://github.com/projectdiscovery/nuclei",
-        "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 31478,
-        "fork": 3889,
-        "currentPeriodStars": 33,
-        "builtBy": [
-            {
-                "href": "https://github.com/Mzack9999",
-                "avatar": "https://avatars.githubusercontent.com/u/13421144?s=40&v=4",
-                "username": "Mzack9999"
-            },
-            {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
-            },
-            {
-                "href": "https://github.com/ehsandeep",
-                "avatar": "https://avatars.githubusercontent.com/u/8293321?s=40&v=4",
-                "username": "ehsandeep"
-            },
-            {
-                "href": "https://github.com/Ice3man543",
-                "avatar": "https://avatars.githubusercontent.com/u/22318055?s=40&v=4",
-                "username": "Ice3man543"
-            },
-            {
-                "href": "https://github.com/dogancanbakir",
-                "avatar": "https://avatars.githubusercontent.com/u/65292895?s=40&v=4",
-                "username": "dogancanbakir"
-            }
-        ]
-    },
-    {
-        "author": "alibaba",
-        "name": "skill-up",
-        "avatar": "https://github.com/alibaba.png",
-        "sponsor": null,
-        "url": "https://github.com/alibaba/skill-up",
-        "description": "An evaluation and evolution tool for Agent Skills.",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 1066,
-        "fork": 86,
-        "currentPeriodStars": 16,
-        "builtBy": [
-            {
-                "href": "https://github.com/zpzjzj",
-                "avatar": "https://avatars.githubusercontent.com/u/4339349?s=40&v=4",
-                "username": "zpzjzj"
-            },
-            {
-                "href": "https://github.com/roark47",
-                "avatar": "https://avatars.githubusercontent.com/u/14896023?s=40&v=4",
-                "username": "roark47"
-            },
-            {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
+                "href": "https://github.com/hisco",
+                "avatar": "https://avatars.githubusercontent.com/u/39222286?s=40&v=4",
+                "username": "hisco"
             },
             {
                 "href": "https://github.com/claude",
@@ -713,74 +628,39 @@
                 "username": "claude"
             },
             {
-                "href": "https://github.com/JHWang-1997",
-                "avatar": "https://avatars.githubusercontent.com/u/54061647?s=40&v=4",
-                "username": "JHWang-1997"
+                "href": "https://github.com/apps/dependabot",
+                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
+                "username": "apps/dependabot"
+            },
+            {
+                "href": "https://github.com/arlenvasconcelos",
+                "avatar": "https://avatars.githubusercontent.com/u/46004678?s=40&v=4",
+                "username": "arlenvasconcelos"
             }
         ]
     },
     {
-        "author": "maximhq",
-        "name": "bifrost",
-        "avatar": "https://github.com/maximhq.png",
+        "author": "v2fly",
+        "name": "v2ray-core",
+        "avatar": "https://github.com/v2fly.png",
         "sponsor": null,
-        "url": "https://github.com/maximhq/bifrost",
-        "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
+        "url": "https://github.com/v2fly/v2ray-core",
+        "description": "A platform for building proxies to bypass network restrictions.",
         "language": "Go",
         "languageColor": "#00ADD8",
-        "stars": 8310,
-        "fork": 1276,
-        "currentPeriodStars": 48,
+        "stars": 34620,
+        "fork": 5069,
+        "currentPeriodStars": 9,
         "builtBy": [
             {
-                "href": "https://github.com/akshaydeo",
-                "avatar": "https://avatars.githubusercontent.com/u/1050029?s=40&v=4",
-                "username": "akshaydeo"
+                "href": "https://github.com/DarienRaymond",
+                "avatar": "https://avatars.githubusercontent.com/u/26574873?s=40&v=4",
+                "username": "DarienRaymond"
             },
             {
-                "href": "https://github.com/apps/github-actions",
-                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-                "username": "apps/github-actions"
-            },
-            {
-                "href": "https://github.com/Pratham-Mishra04",
-                "avatar": "https://avatars.githubusercontent.com/u/99235987?s=40&v=4",
-                "username": "Pratham-Mishra04"
-            },
-            {
-                "href": "https://github.com/impoiler",
-                "avatar": "https://avatars.githubusercontent.com/u/83772622?s=40&v=4",
-                "username": "impoiler"
-            },
-            {
-                "href": "https://github.com/TejasGhatte",
-                "avatar": "https://avatars.githubusercontent.com/u/64637256?s=40&v=4",
-                "username": "TejasGhatte"
-            }
-        ]
-    },
-    {
-        "author": "github",
-        "name": "github-mcp-server",
-        "avatar": "https://github.com/github.png",
-        "sponsor": null,
-        "url": "https://github.com/github/github-mcp-server",
-        "description": "GitHub's official MCP Server",
-        "language": "Go",
-        "languageColor": "#00ADD8",
-        "stars": 33166,
-        "fork": 5043,
-        "currentPeriodStars": 24,
-        "builtBy": [
-            {
-                "href": "https://github.com/SamMorrowDrums",
-                "avatar": "https://avatars.githubusercontent.com/u/4811358?s=40&v=4",
-                "username": "SamMorrowDrums"
-            },
-            {
-                "href": "https://github.com/apps/github-copilot-cli",
-                "avatar": "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
-                "username": "apps/github-copilot-cli"
+                "href": "https://github.com/xiaokangwang",
+                "avatar": "https://avatars.githubusercontent.com/u/1883569?s=40&v=4",
+                "username": "xiaokangwang"
             },
             {
                 "href": "https://github.com/apps/dependabot",
@@ -788,14 +668,94 @@
                 "username": "apps/dependabot"
             },
             {
-                "href": "https://github.com/JoannaaKL",
-                "avatar": "https://avatars.githubusercontent.com/u/67866556?s=40&v=4",
-                "username": "JoannaaKL"
+                "href": "https://github.com/kslr",
+                "avatar": "https://avatars.githubusercontent.com/u/5516323?s=40&v=4",
+                "username": "kslr"
             },
             {
-                "href": "https://github.com/mattdholloway",
-                "avatar": "https://avatars.githubusercontent.com/u/918573?s=40&v=4",
-                "username": "mattdholloway"
+                "href": "https://github.com/Loyalsoldier",
+                "avatar": "https://avatars.githubusercontent.com/u/10487845?s=40&v=4",
+                "username": "Loyalsoldier"
+            }
+        ]
+    },
+    {
+        "author": "go-vikunja",
+        "name": "vikunja",
+        "avatar": "https://github.com/go-vikunja.png",
+        "sponsor": null,
+        "url": "https://github.com/go-vikunja/vikunja",
+        "description": "The task manager you actually own.",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 5499,
+        "fork": 710,
+        "currentPeriodStars": 10,
+        "builtBy": [
+            {
+                "href": "https://github.com/kolaente",
+                "avatar": "https://avatars.githubusercontent.com/u/13721712?s=40&v=4",
+                "username": "kolaente"
+            },
+            {
+                "href": "https://github.com/apps/renovate",
+                "avatar": "https://avatars.githubusercontent.com/in/2740?s=40&v=4",
+                "username": "apps/renovate"
+            },
+            {
+                "href": "https://github.com/dpschen",
+                "avatar": "https://avatars.githubusercontent.com/u/6173598?s=40&v=4",
+                "username": "dpschen"
+            },
+            {
+                "href": "https://github.com/vikunja-bot",
+                "avatar": "https://avatars.githubusercontent.com/u/45438395?s=40&v=4",
+                "username": "vikunja-bot"
+            },
+            {
+                "href": "https://github.com/tink-bot",
+                "avatar": "https://avatars.githubusercontent.com/u/259739204?s=40&v=4",
+                "username": "tink-bot"
+            }
+        ]
+    },
+    {
+        "author": "etcd-io",
+        "name": "etcd",
+        "avatar": "https://github.com/etcd-io.png",
+        "sponsor": null,
+        "url": "https://github.com/etcd-io/etcd",
+        "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "stars": 52309,
+        "fork": 10514,
+        "currentPeriodStars": 9,
+        "builtBy": [
+            {
+                "href": "https://github.com/gyuho",
+                "avatar": "https://avatars.githubusercontent.com/u/6799218?s=40&v=4",
+                "username": "gyuho"
+            },
+            {
+                "href": "https://github.com/ahrtr",
+                "avatar": "https://avatars.githubusercontent.com/u/30739825?s=40&v=4",
+                "username": "ahrtr"
+            },
+            {
+                "href": "https://github.com/xiang90",
+                "avatar": "https://avatars.githubusercontent.com/u/4479947?s=40&v=4",
+                "username": "xiang90"
+            },
+            {
+                "href": "https://github.com/serathius",
+                "avatar": "https://avatars.githubusercontent.com/u/5873433?s=40&v=4",
+                "username": "serathius"
+            },
+            {
+                "href": "https://github.com/yichengq",
+                "avatar": "https://avatars.githubusercontent.com/u/2976232?s=40&v=4",
+                "username": "yichengq"
             }
         ]
     }
