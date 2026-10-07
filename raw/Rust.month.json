@@ -8,8 +8,8 @@
         "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 15182,
-        "fork": 1718,
+        "stars": 15226,
+        "fork": 1719,
         "currentPeriodStars": 6640,
         "builtBy": [
             {
@@ -48,8 +48,8 @@
         "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 28518,
-        "fork": 2027,
+        "stars": 28602,
+        "fork": 2034,
         "currentPeriodStars": 6232,
         "builtBy": [
             {
@@ -88,7 +88,7 @@
         "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 8924,
+        "stars": 8940,
         "fork": 323,
         "currentPeriodStars": 2151,
         "builtBy": [
@@ -128,7 +128,7 @@
         "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 16412,
+        "stars": 16457,
         "fork": 1009,
         "currentPeriodStars": 2305,
         "builtBy": [
@@ -168,7 +168,7 @@
         "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 34480,
+        "stars": 34499,
         "fork": 1558,
         "currentPeriodStars": 3004,
         "builtBy": [
@@ -200,46 +200,6 @@
         ]
     },
     {
-        "author": "akitaonrails",
-        "name": "ai-memory",
-        "avatar": "https://github.com/akitaonrails.png",
-        "sponsor": null,
-        "url": "https://github.com/akitaonrails/ai-memory",
-        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "language": "Rust",
-        "languageColor": "#dea584",
-        "stars": 8895,
-        "fork": 620,
-        "currentPeriodStars": 3078,
-        "builtBy": [
-            {
-                "href": "https://github.com/akitaonrails",
-                "avatar": "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
-                "username": "akitaonrails"
-            },
-            {
-                "href": "https://github.com/claude",
-                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-                "username": "claude"
-            },
-            {
-                "href": "https://github.com/djalmajr",
-                "avatar": "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
-                "username": "djalmajr"
-            },
-            {
-                "href": "https://github.com/everton-dgn",
-                "avatar": "https://avatars.githubusercontent.com/u/58889432?s=40&v=4",
-                "username": "everton-dgn"
-            },
-            {
-                "href": "https://github.com/samirhvbr",
-                "avatar": "https://avatars.githubusercontent.com/u/123646616?s=40&v=4",
-                "username": "samirhvbr"
-            }
-        ]
-    },
-    {
         "author": "cloudflare",
         "name": "quiche",
         "avatar": "https://github.com/cloudflare.png",
@@ -248,8 +208,8 @@
         "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 12747,
-        "fork": 1169,
+        "stars": 12746,
+        "fork": 1170,
         "currentPeriodStars": 969,
         "builtBy": [
             {
@@ -280,6 +240,46 @@
         ]
     },
     {
+        "author": "akitaonrails",
+        "name": "ai-memory",
+        "avatar": "https://github.com/akitaonrails.png",
+        "sponsor": null,
+        "url": "https://github.com/akitaonrails/ai-memory",
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "stars": 8909,
+        "fork": 623,
+        "currentPeriodStars": 3078,
+        "builtBy": [
+            {
+                "href": "https://github.com/akitaonrails",
+                "avatar": "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
+                "username": "akitaonrails"
+            },
+            {
+                "href": "https://github.com/claude",
+                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+                "username": "claude"
+            },
+            {
+                "href": "https://github.com/djalmajr",
+                "avatar": "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
+                "username": "djalmajr"
+            },
+            {
+                "href": "https://github.com/everton-dgn",
+                "avatar": "https://avatars.githubusercontent.com/u/58889432?s=40&v=4",
+                "username": "everton-dgn"
+            },
+            {
+                "href": "https://github.com/samirhvbr",
+                "avatar": "https://avatars.githubusercontent.com/u/123646616?s=40&v=4",
+                "username": "samirhvbr"
+            }
+        ]
+    },
+    {
         "author": "t8y2",
         "name": "dbx",
         "avatar": "https://github.com/t8y2.png",
@@ -288,8 +288,8 @@
         "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 24950,
-        "fork": 2264,
+        "stars": 25005,
+        "fork": 2266,
         "currentPeriodStars": 6911,
         "builtBy": [
             {
@@ -328,8 +328,8 @@
         "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 125300,
-        "fork": 19486,
+        "stars": 125333,
+        "fork": 19502,
         "currentPeriodStars": 2980,
         "builtBy": [
             {
@@ -368,8 +368,8 @@
         "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 149610,
-        "fork": 10736,
+        "stars": 149699,
+        "fork": 10745,
         "currentPeriodStars": 7394,
         "builtBy": [
             {
@@ -408,8 +408,8 @@
         "description": "Empowering everyone to build reliable and efficient software.",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 119663,
-        "fork": 17853,
+        "stars": 119674,
+        "fork": 17856,
         "currentPeriodStars": 2773,
         "builtBy": [
             {
@@ -448,8 +448,8 @@
         "description": "HydraDB - fast graph database on object storage",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 13040,
-        "fork": 5483,
+        "stars": 13039,
+        "fork": 5481,
         "currentPeriodStars": 10723,
         "builtBy": [
             {
@@ -488,8 +488,8 @@
         "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 2486,
-        "fork": 263,
+        "stars": 2501,
+        "fork": 266,
         "currentPeriodStars": 1413,
         "builtBy": [
             {
@@ -528,8 +528,8 @@
         "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 9263,
-        "fork": 358,
+        "stars": 9264,
+        "fork": 360,
         "currentPeriodStars": 6281,
         "builtBy": [
             {
@@ -568,8 +568,8 @@
         "description": "Anki is a smart spaced repetition flashcard program",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 31820,
-        "fork": 3311,
+        "stars": 31829,
+        "fork": 3313,
         "currentPeriodStars": 1698,
         "builtBy": [
             {
@@ -608,8 +608,8 @@
         "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
         "language": "Rust",
         "languageColor": "#dea584",
-        "stars": 31977,
-        "fork": 3451,
+        "stars": 31986,
+        "fork": 3453,
         "currentPeriodStars": 1165,
         "builtBy": [
             {
@@ -636,126 +636,6 @@
                 "href": "https://github.com/new-Beginner",
                 "avatar": "https://avatars.githubusercontent.com/u/100430809?s=40&v=4",
                 "username": "new-Beginner"
-            }
-        ]
-    },
-    {
-        "author": "bevyengine",
-        "name": "bevy",
-        "avatar": "https://github.com/bevyengine.png",
-        "sponsor": null,
-        "url": "https://github.com/bevyengine/bevy",
-        "description": "A refreshingly simple data-driven game engine built in Rust",
-        "language": "Rust",
-        "languageColor": "#dea584",
-        "stars": 48668,
-        "fork": 4886,
-        "currentPeriodStars": 720,
-        "builtBy": [
-            {
-                "href": "https://github.com/cart",
-                "avatar": "https://avatars.githubusercontent.com/u/2694663?s=40&v=4",
-                "username": "cart"
-            },
-            {
-                "href": "https://github.com/mockersf",
-                "avatar": "https://avatars.githubusercontent.com/u/8672791?s=40&v=4",
-                "username": "mockersf"
-            },
-            {
-                "href": "https://github.com/alice-i-cecile",
-                "avatar": "https://avatars.githubusercontent.com/u/3579909?s=40&v=4",
-                "username": "alice-i-cecile"
-            },
-            {
-                "href": "https://github.com/ickshonpe",
-                "avatar": "https://avatars.githubusercontent.com/u/27962798?s=40&v=4",
-                "username": "ickshonpe"
-            },
-            {
-                "href": "https://github.com/atlv24",
-                "avatar": "https://avatars.githubusercontent.com/u/11307157?s=40&v=4",
-                "username": "atlv24"
-            }
-        ]
-    },
-    {
-        "author": "mesamirh",
-        "name": "MovieBox-Tui",
-        "avatar": "https://github.com/mesamirh.png",
-        "sponsor": null,
-        "url": "https://github.com/mesamirh/MovieBox-Tui",
-        "description": "Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.",
-        "language": "Rust",
-        "languageColor": "#dea584",
-        "stars": 2443,
-        "fork": 284,
-        "currentPeriodStars": 1071,
-        "builtBy": [
-            {
-                "href": "https://github.com/mesamirh",
-                "avatar": "https://avatars.githubusercontent.com/u/73069638?s=40&v=4",
-                "username": "mesamirh"
-            },
-            {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
-            },
-            {
-                "href": "https://github.com/fredIV",
-                "avatar": "https://avatars.githubusercontent.com/u/10160991?s=40&v=4",
-                "username": "fredIV"
-            },
-            {
-                "href": "https://github.com/Jona-Walpert",
-                "avatar": "https://avatars.githubusercontent.com/u/98217482?s=40&v=4",
-                "username": "Jona-Walpert"
-            },
-            {
-                "href": "https://github.com/M-Nabeegh",
-                "avatar": "https://avatars.githubusercontent.com/u/151343422?s=40&v=4",
-                "username": "M-Nabeegh"
-            }
-        ]
-    },
-    {
-        "author": "helix-editor",
-        "name": "helix",
-        "avatar": "https://github.com/helix-editor.png",
-        "sponsor": null,
-        "url": "https://github.com/helix-editor/helix",
-        "description": "A post-modern modal text editor.",
-        "language": "Rust",
-        "languageColor": "#dea584",
-        "stars": 46491,
-        "fork": 3813,
-        "currentPeriodStars": 476,
-        "builtBy": [
-            {
-                "href": "https://github.com/archseer",
-                "avatar": "https://avatars.githubusercontent.com/u/1372918?s=40&v=4",
-                "username": "archseer"
-            },
-            {
-                "href": "https://github.com/the-mikedavis",
-                "avatar": "https://avatars.githubusercontent.com/u/21230295?s=40&v=4",
-                "username": "the-mikedavis"
-            },
-            {
-                "href": "https://github.com/apps/dependabot",
-                "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4",
-                "username": "apps/dependabot"
-            },
-            {
-                "href": "https://github.com/pascalkuthe",
-                "avatar": "https://avatars.githubusercontent.com/u/61850714?s=40&v=4",
-                "username": "pascalkuthe"
-            },
-            {
-                "href": "https://github.com/sudormrfbin",
-                "avatar": "https://avatars.githubusercontent.com/u/23398472?s=40&v=4",
-                "username": "sudormrfbin"
             }
         ]
     }
