@@ -8,8 +8,8 @@
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "language": "TypeScript",
         "languageColor": "#3178c6",
-        "stars": 277422,
-        "fork": 69922,
+        "stars": 282858,
+        "fork": 71268,
         "currentPeriodStars": 239477,
         "builtBy": [
             {
@@ -48,8 +48,8 @@
         "description": "Write HTML. Render video. Built for agents.",
         "language": "TypeScript",
         "languageColor": "#3178c6",
-        "stars": 64772,
-        "fork": 5831,
+        "stars": 64964,
+        "fork": 5851,
         "currentPeriodStars": 5318,
         "builtBy": [
             {
@@ -80,6 +80,46 @@
         ]
     },
     {
+        "author": "mksglu",
+        "name": "context-mode",
+        "avatar": "https://github.com/mksglu.png",
+        "sponsor": "https://github.com/sponsors/mksglu",
+        "url": "https://github.com/mksglu/context-mode",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "stars": 30007,
+        "fork": 2111,
+        "currentPeriodStars": 4038,
+        "builtBy": [
+            {
+                "href": "https://github.com/mksglu",
+                "avatar": "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
+                "username": "mksglu"
+            },
+            {
+                "href": "https://github.com/apps/github-actions",
+                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
+                "username": "apps/github-actions"
+            },
+            {
+                "href": "https://github.com/claude",
+                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+                "username": "claude"
+            },
+            {
+                "href": "https://github.com/ipedro",
+                "avatar": "https://avatars.githubusercontent.com/u/380338?s=40&v=4",
+                "username": "ipedro"
+            },
+            {
+                "href": "https://github.com/ousamabenyounes",
+                "avatar": "https://avatars.githubusercontent.com/u/2910651?s=40&v=4",
+                "username": "ousamabenyounes"
+            }
+        ]
+    },
+    {
         "author": "ranxianglei",
         "name": "billion-context",
         "avatar": "https://github.com/ranxianglei.png",
@@ -88,7 +128,7 @@
         "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
         "language": "TypeScript",
         "languageColor": "#3178c6",
-        "stars": 1432,
+        "stars": 1467,
         "fork": 116,
         "currentPeriodStars": 659,
         "builtBy": [
@@ -128,8 +168,8 @@
         "description": "Cursor plugin specification and official plugins",
         "language": "TypeScript",
         "languageColor": "#3178c6",
-        "stars": 11706,
-        "fork": 1141,
+        "stars": 11772,
+        "fork": 1142,
         "currentPeriodStars": 1214,
         "builtBy": [
             {
@@ -160,32 +200,22 @@
         ]
     },
     {
-        "author": "tester-army",
-        "name": "e2e",
-        "avatar": "https://github.com/tester-army.png",
-        "sponsor": null,
-        "url": "https://github.com/tester-army/e2e",
-        "description": "Next generation e2e testing framework for web and mobile apps.",
+        "author": "thedotmack",
+        "name": "claude-mem",
+        "avatar": "https://github.com/thedotmack.png",
+        "sponsor": "https://github.com/sponsors/thedotmack",
+        "url": "https://github.com/thedotmack/claude-mem",
+        "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
         "language": "TypeScript",
         "languageColor": "#3178c6",
-        "stars": 10833,
-        "fork": 531,
-        "currentPeriodStars": 2683,
+        "stars": 101161,
+        "fork": 8854,
+        "currentPeriodStars": 2903,
         "builtBy": [
             {
-                "href": "https://github.com/okwasniewski",
-                "avatar": "https://avatars.githubusercontent.com/u/52801365?s=40&v=4",
-                "username": "okwasniewski"
-            },
-            {
-                "href": "https://github.com/kacperkapusciak",
-                "avatar": "https://avatars.githubusercontent.com/u/39658211?s=40&v=4",
-                "username": "kacperkapusciak"
-            },
-            {
-                "href": "https://github.com/rudycelekli",
-                "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
-                "username": "rudycelekli"
+                "href": "https://github.com/thedotmack",
+                "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
+                "username": "thedotmack"
             },
             {
                 "href": "https://github.com/claude",
@@ -193,9 +223,19 @@
                 "username": "claude"
             },
             {
-                "href": "https://github.com/fecolinhares",
-                "avatar": "https://avatars.githubusercontent.com/u/963774?s=40&v=4",
-                "username": "fecolinhares"
+                "href": "https://github.com/rudycelekli",
+                "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
+                "username": "rudycelekli"
+            },
+            {
+                "href": "https://github.com/cursoragent",
+                "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+                "username": "cursoragent"
+            },
+            {
+                "href": "https://github.com/rodboev",
+                "avatar": "https://avatars.githubusercontent.com/u/106971?s=40&v=4",
+                "username": "rodboev"
             }
         ]
     },
@@ -208,8 +248,8 @@
         "description": "The open agent skills tool - npx skills",
         "language": "TypeScript",
         "languageColor": "#3178c6",
-        "stars": 35150,
-        "fork": 2998,
+        "stars": 35185,
+        "fork": 3003,
         "currentPeriodStars": 1686,
         "builtBy": [
             {
@@ -248,8 +288,8 @@
         "description": "一分钟搭建影视站，支持Docker等部署方式",
         "language": "TypeScript",
         "languageColor": "#3178c6",
-        "stars": 18339,
-        "fork": 28808,
+        "stars": 18638,
+        "fork": 28884,
         "currentPeriodStars": 4160,
         "builtBy": [
             {
@@ -280,46 +320,6 @@
         ]
     },
     {
-        "author": "remotion-dev",
-        "name": "remotion",
-        "avatar": "https://github.com/remotion-dev.png",
-        "sponsor": null,
-        "url": "https://github.com/remotion-dev/remotion",
-        "description": "🎥 Make videos programmatically with React",
-        "language": "TypeScript",
-        "languageColor": "#3178c6",
-        "stars": 64460,
-        "fork": 5090,
-        "currentPeriodStars": 1873,
-        "builtBy": [
-            {
-                "href": "https://github.com/JonnyBurger",
-                "avatar": "https://avatars.githubusercontent.com/u/1629785?s=40&v=4",
-                "username": "JonnyBurger"
-            },
-            {
-                "href": "https://github.com/samohovets",
-                "avatar": "https://avatars.githubusercontent.com/u/24735429?s=40&v=4",
-                "username": "samohovets"
-            },
-            {
-                "href": "https://github.com/patsalv",
-                "avatar": "https://avatars.githubusercontent.com/u/89481679?s=40&v=4",
-                "username": "patsalv"
-            },
-            {
-                "href": "https://github.com/claude",
-                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-                "username": "claude"
-            },
-            {
-                "href": "https://github.com/apps/github-copilot-cli",
-                "avatar": "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
-                "username": "apps/github-copilot-cli"
-            }
-        ]
-    },
-    {
         "author": "chthollyphile",
         "name": "folia-major",
         "avatar": "https://github.com/chthollyphile.png",
@@ -328,8 +328,8 @@
         "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器",
         "language": "TypeScript",
         "languageColor": "#3178c6",
-        "stars": 6722,
-        "fork": 668,
+        "stars": 6889,
+        "fork": 686,
         "currentPeriodStars": 2675,
         "builtBy": [
             {
@@ -360,22 +360,32 @@
         ]
     },
     {
-        "author": "thedotmack",
-        "name": "claude-mem",
-        "avatar": "https://github.com/thedotmack.png",
-        "sponsor": "https://github.com/sponsors/thedotmack",
-        "url": "https://github.com/thedotmack/claude-mem",
-        "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "author": "remotion-dev",
+        "name": "remotion",
+        "avatar": "https://github.com/remotion-dev.png",
+        "sponsor": null,
+        "url": "https://github.com/remotion-dev/remotion",
+        "description": "🎥 Make videos programmatically with React",
         "language": "TypeScript",
         "languageColor": "#3178c6",
-        "stars": 101117,
-        "fork": 8849,
-        "currentPeriodStars": 2903,
+        "stars": 64511,
+        "fork": 5097,
+        "currentPeriodStars": 1873,
         "builtBy": [
             {
-                "href": "https://github.com/thedotmack",
-                "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
-                "username": "thedotmack"
+                "href": "https://github.com/JonnyBurger",
+                "avatar": "https://avatars.githubusercontent.com/u/1629785?s=40&v=4",
+                "username": "JonnyBurger"
+            },
+            {
+                "href": "https://github.com/samohovets",
+                "avatar": "https://avatars.githubusercontent.com/u/24735429?s=40&v=4",
+                "username": "samohovets"
+            },
+            {
+                "href": "https://github.com/patsalv",
+                "avatar": "https://avatars.githubusercontent.com/u/89481679?s=40&v=4",
+                "username": "patsalv"
             },
             {
                 "href": "https://github.com/claude",
@@ -383,59 +393,9 @@
                 "username": "claude"
             },
             {
-                "href": "https://github.com/rudycelekli",
-                "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
-                "username": "rudycelekli"
-            },
-            {
-                "href": "https://github.com/cursoragent",
-                "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-                "username": "cursoragent"
-            },
-            {
-                "href": "https://github.com/rodboev",
-                "avatar": "https://avatars.githubusercontent.com/u/106971?s=40&v=4",
-                "username": "rodboev"
-            }
-        ]
-    },
-    {
-        "author": "mksglu",
-        "name": "context-mode",
-        "avatar": "https://github.com/mksglu.png",
-        "sponsor": "https://github.com/sponsors/mksglu",
-        "url": "https://github.com/mksglu/context-mode",
-        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "language": "TypeScript",
-        "languageColor": "#3178c6",
-        "stars": 29907,
-        "fork": 2092,
-        "currentPeriodStars": 4038,
-        "builtBy": [
-            {
-                "href": "https://github.com/mksglu",
-                "avatar": "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
-                "username": "mksglu"
-            },
-            {
-                "href": "https://github.com/apps/github-actions",
-                "avatar": "https://avatars.githubusercontent.com/in/15368?s=40&v=4",
-                "username": "apps/github-actions"
-            },
-            {
-                "href": "https://github.com/claude",
-                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-                "username": "claude"
-            },
-            {
-                "href": "https://github.com/ipedro",
-                "avatar": "https://avatars.githubusercontent.com/u/380338?s=40&v=4",
-                "username": "ipedro"
-            },
-            {
-                "href": "https://github.com/ousamabenyounes",
-                "avatar": "https://avatars.githubusercontent.com/u/2910651?s=40&v=4",
-                "username": "ousamabenyounes"
+                "href": "https://github.com/apps/github-copilot-cli",
+                "avatar": "https://avatars.githubusercontent.com/in/1693627?s=40&v=4",
+                "username": "apps/github-copilot-cli"
             }
         ]
     },
@@ -448,7 +408,7 @@
         "description": "🏆 Self Hosted Gen AI desktop app. Free alternative to Higgsfield, OpenArt, Freepik....",
         "language": "TypeScript",
         "languageColor": "#3178c6",
-        "stars": 3123,
+        "stars": 3129,
         "fork": 352,
         "currentPeriodStars": 763,
         "builtBy": [
@@ -488,8 +448,8 @@
         "description": "A self-organizing Obsidian vault that gives AI coding agents persistent memory.",
         "language": "TypeScript",
         "languageColor": "#3178c6",
-        "stars": 5337,
-        "fork": 608,
+        "stars": 5341,
+        "fork": 609,
         "currentPeriodStars": 384,
         "builtBy": [
             {
@@ -528,8 +488,8 @@
         "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
         "language": "TypeScript",
         "languageColor": "#3178c6",
-        "stars": 35882,
-        "fork": 4843,
+        "stars": 35999,
+        "fork": 4851,
         "currentPeriodStars": 3714,
         "builtBy": [
             {
@@ -560,6 +520,46 @@
         ]
     },
     {
+        "author": "TencentCloud",
+        "name": "TencentDB-Agent-Memory",
+        "avatar": "https://github.com/TencentCloud.png",
+        "sponsor": null,
+        "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+        "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "stars": 29290,
+        "fork": 2861,
+        "currentPeriodStars": 1465,
+        "builtBy": [
+            {
+                "href": "https://github.com/Yuntong8888",
+                "avatar": "https://avatars.githubusercontent.com/u/277734672?s=40&v=4",
+                "username": "Yuntong8888"
+            },
+            {
+                "href": "https://github.com/aleronwang",
+                "avatar": "https://avatars.githubusercontent.com/u/52184295?s=40&v=4",
+                "username": "aleronwang"
+            },
+            {
+                "href": "https://github.com/Maxwell-Code07",
+                "avatar": "https://avatars.githubusercontent.com/u/95488710?s=40&v=4",
+                "username": "Maxwell-Code07"
+            },
+            {
+                "href": "https://github.com/hot777zzz",
+                "avatar": "https://avatars.githubusercontent.com/u/120694702?s=40&v=4",
+                "username": "hot777zzz"
+            },
+            {
+                "href": "https://github.com/cursoragent",
+                "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+                "username": "cursoragent"
+            }
+        ]
+    },
+    {
         "author": "hicccc77",
         "name": "WeFlow",
         "avatar": "https://github.com/hicccc77.png",
@@ -568,8 +568,8 @@
         "description": "WeFlow - 一个本地的微信聊天记录导出和年度报告应用",
         "language": "TypeScript",
         "languageColor": "#3178c6",
-        "stars": 15170,
-        "fork": 697,
+        "stars": 15186,
+        "fork": 703,
         "currentPeriodStars": 334,
         "builtBy": [
             {
@@ -600,42 +600,162 @@
         ]
     },
     {
-        "author": "TencentCloud",
-        "name": "TencentDB-Agent-Memory",
-        "avatar": "https://github.com/TencentCloud.png",
-        "sponsor": null,
-        "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-        "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+        "author": "OpenCut-app",
+        "name": "OpenCut",
+        "avatar": "https://github.com/OpenCut-app.png",
+        "sponsor": "https://github.com/sponsors/OpenCut-app",
+        "url": "https://github.com/OpenCut-app/OpenCut",
+        "description": "The open-source CapCut alternative",
         "language": "TypeScript",
         "languageColor": "#3178c6",
-        "stars": 29267,
-        "fork": 2854,
-        "currentPeriodStars": 1465,
+        "stars": 94865,
+        "fork": 9333,
+        "currentPeriodStars": 1684,
         "builtBy": [
             {
-                "href": "https://github.com/Yuntong8888",
-                "avatar": "https://avatars.githubusercontent.com/u/277734672?s=40&v=4",
-                "username": "Yuntong8888"
+                "href": "https://github.com/mazeincoding",
+                "avatar": "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
+                "username": "mazeincoding"
             },
             {
-                "href": "https://github.com/aleronwang",
-                "avatar": "https://avatars.githubusercontent.com/u/52184295?s=40&v=4",
-                "username": "aleronwang"
+                "href": "https://github.com/izadoesdev",
+                "avatar": "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
+                "username": "izadoesdev"
             },
             {
-                "href": "https://github.com/Maxwell-Code07",
-                "avatar": "https://avatars.githubusercontent.com/u/95488710?s=40&v=4",
-                "username": "Maxwell-Code07"
+                "href": "https://github.com/anwarulislam",
+                "avatar": "https://avatars.githubusercontent.com/u/26295990?s=40&v=4",
+                "username": "anwarulislam"
             },
             {
-                "href": "https://github.com/hot777zzz",
-                "avatar": "https://avatars.githubusercontent.com/u/120694702?s=40&v=4",
-                "username": "hot777zzz"
+                "href": "https://github.com/khanguyen74",
+                "avatar": "https://avatars.githubusercontent.com/u/50540913?s=40&v=4",
+                "username": "khanguyen74"
             },
             {
-                "href": "https://github.com/cursoragent",
-                "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-                "username": "cursoragent"
+                "href": "https://github.com/DevloperAmanSingh",
+                "avatar": "https://avatars.githubusercontent.com/u/80804989?s=40&v=4",
+                "username": "DevloperAmanSingh"
+            }
+        ]
+    },
+    {
+        "author": "invoke-ai",
+        "name": "InvokeAI",
+        "avatar": "https://github.com/invoke-ai.png",
+        "sponsor": "https://github.com/sponsors/invoke-ai",
+        "url": "https://github.com/invoke-ai/InvokeAI",
+        "description": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "stars": 28678,
+        "fork": 3054,
+        "currentPeriodStars": 213,
+        "builtBy": [
+            {
+                "href": "https://github.com/psychedelicious",
+                "avatar": "https://avatars.githubusercontent.com/u/4822129?s=40&v=4",
+                "username": "psychedelicious"
+            },
+            {
+                "href": "https://github.com/lstein",
+                "avatar": "https://avatars.githubusercontent.com/u/111189?s=40&v=4",
+                "username": "lstein"
+            },
+            {
+                "href": "https://github.com/blessedcoolant",
+                "avatar": "https://avatars.githubusercontent.com/u/54517381?s=40&v=4",
+                "username": "blessedcoolant"
+            },
+            {
+                "href": "https://github.com/RyanJDick",
+                "avatar": "https://avatars.githubusercontent.com/u/14897797?s=40&v=4",
+                "username": "RyanJDick"
+            },
+            {
+                "href": "https://github.com/Pfannkuchensack",
+                "avatar": "https://avatars.githubusercontent.com/u/1481193?s=40&v=4",
+                "username": "Pfannkuchensack"
+            }
+        ]
+    },
+    {
+        "author": "anthropics",
+        "name": "claude-quickstarts",
+        "avatar": "https://github.com/anthropics.png",
+        "sponsor": null,
+        "url": "https://github.com/anthropics/claude-quickstarts",
+        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "stars": 18013,
+        "fork": 3106,
+        "currentPeriodStars": 197,
+        "builtBy": [
+            {
+                "href": "https://github.com/cj-ant",
+                "avatar": "https://avatars.githubusercontent.com/u/286490957?s=40&v=4",
+                "username": "cj-ant"
+            },
+            {
+                "href": "https://github.com/claude",
+                "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+                "username": "claude"
+            },
+            {
+                "href": "https://github.com/x5a",
+                "avatar": "https://avatars.githubusercontent.com/u/4421754?s=40&v=4",
+                "username": "x5a"
+            },
+            {
+                "href": "https://github.com/alexalbertt",
+                "avatar": "https://avatars.githubusercontent.com/u/34638987?s=40&v=4",
+                "username": "alexalbertt"
+            },
+            {
+                "href": "https://github.com/zealoushacker",
+                "avatar": "https://avatars.githubusercontent.com/u/346275?s=40&v=4",
+                "username": "zealoushacker"
+            }
+        ]
+    },
+    {
+        "author": "agalwood",
+        "name": "Motrix",
+        "avatar": "https://github.com/agalwood.png",
+        "sponsor": null,
+        "url": "https://github.com/agalwood/Motrix",
+        "description": "A full-featured download manager.",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "stars": 56899,
+        "fork": 5093,
+        "currentPeriodStars": 722,
+        "builtBy": [
+            {
+                "href": "https://github.com/agalwood",
+                "avatar": "https://avatars.githubusercontent.com/u/1032175?s=40&v=4",
+                "username": "agalwood"
+            },
+            {
+                "href": "https://github.com/shatyuka",
+                "avatar": "https://avatars.githubusercontent.com/u/31368738?s=40&v=4",
+                "username": "shatyuka"
+            },
+            {
+                "href": "https://github.com/dicarne",
+                "avatar": "https://avatars.githubusercontent.com/u/10357789?s=40&v=4",
+                "username": "dicarne"
+            },
+            {
+                "href": "https://github.com/kant",
+                "avatar": "https://avatars.githubusercontent.com/u/32717?s=40&v=4",
+                "username": "kant"
+            },
+            {
+                "href": "https://github.com/Raistlin916",
+                "avatar": "https://avatars.githubusercontent.com/u/2560402?s=40&v=4",
+                "username": "Raistlin916"
             }
         ]
     }
